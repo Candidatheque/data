@@ -1,0 +1,214 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-1965",
+  "candidatures": [
+    {
+      "personne": "PE-0001",
+      "nom_complet": "Marcel BARBU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1965-11-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0002",
+      "nom_complet": "Charles DE GAULLE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1965-11-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-7-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/657pdr.htm",
+              "commentaire": "Décision du 9 décembre 1965 fixant la liste des candidats habilités à se présenter au second tour de scrutin de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0003",
+      "nom_complet": "Jean LECANUET",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1965-11-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0004",
+      "nom_complet": "Pierre MARCILHACY",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1965-11-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0005",
+      "nom_complet": "François MITTERRAND",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1965-11-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-7-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/657pdr.htm",
+              "commentaire": "Décision du 9 décembre 1965 fixant la liste des candidats habilités à se présenter au second tour de scrutin de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0006",
+      "nom_complet": "Jean-Louis TIXIER-VIGNANCOUR",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1965-11-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-3-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
+              "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

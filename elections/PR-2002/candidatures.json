@@ -1,0 +1,554 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-2002",
+  "candidatures": [
+    {
+      "personne": "PE-0018",
+      "nom_complet": "Arlette LAGUILLER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0019",
+      "nom_complet": "Jean-Marie LE PEN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-110-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002110pdr.htm",
+              "commentaire": "Décision du 25 avril 2002 relative à la liste des candidats habilités à se présenter au second tour de l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0027",
+      "nom_complet": "Brice LALONDE",
+      "etats": [
+        {
+          "etat": "declaree",
+          "date": "2001-06-23",
+          "sources": [
+            {
+              "id": "le-parisien:lalonde-candidat-elysee-2002",
+              "url": "https://www.leparisien.fr/politique/lalonde-je-suis-candidat-a-l-elysee-en-2002-23-06-2001-2002253027.php",
+              "commentaire": "Lalonde : « Je suis candidat à l'Elysée en 2002 », Le Parisien, 23 juin 2001",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:brice-lalonde",
+              "url": "https://fr.wikipedia.org/wiki/Brice_Lalonde",
+              "commentaire": "Brice Lalonde, sur sa candidature à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0030",
+      "nom_complet": "Jacques CHIRAC",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-110-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002110pdr.htm",
+              "commentaire": "Décision du 25 avril 2002 relative à la liste des candidats habilités à se présenter au second tour de l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0038",
+      "nom_complet": "Lionel JOSPIN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0041",
+      "nom_complet": "Robert HUE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0042",
+      "nom_complet": "Bruno MÉGRET",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0043",
+      "nom_complet": "Corinne LEPAGE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0044",
+      "nom_complet": "Daniel GLUCKSTEIN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0045",
+      "nom_complet": "François BAYROU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0046",
+      "nom_complet": "Christiane TAUBIRA",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0047",
+      "nom_complet": "Jean SAINT-JOSSE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0048",
+      "nom_complet": "Noël MAMÈRE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0049",
+      "nom_complet": "Christine BOUTIN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0050",
+      "nom_complet": "Jean-Pierre CHEVÈNEMENT",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0051",
+      "nom_complet": "Alain MADELIN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0052",
+      "nom_complet": "Olivier BESANCENOT",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2002-04-04",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-102-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
+              "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

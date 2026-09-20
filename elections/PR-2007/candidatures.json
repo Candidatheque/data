@@ -1,0 +1,994 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-2007",
+  "candidatures": [
+    {
+      "personne": "PE-0018",
+      "nom_complet": "Arlette LAGUILLER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0019",
+      "nom_complet": "Jean-Marie LE PEN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0034",
+      "nom_complet": "Antoine WAECHTER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0036",
+      "nom_complet": "Philippe de VILLIERS",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0037",
+      "nom_complet": "Jacques CHEMINADE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0039",
+      "nom_complet": "Dominique VOYNET",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0042",
+      "nom_complet": "Bruno MÉGRET",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0043",
+      "nom_complet": "Corinne LEPAGE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0045",
+      "nom_complet": "François BAYROU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0046",
+      "nom_complet": "Christiane TAUBIRA",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0049",
+      "nom_complet": "Christine BOUTIN",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0050",
+      "nom_complet": "Jean-Pierre CHEVÈNEMENT",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0052",
+      "nom_complet": "Olivier BESANCENOT",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0053",
+      "nom_complet": "Marie-George BUFFET",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0054",
+      "nom_complet": "Gérard SCHIVARDI",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0055",
+      "nom_complet": "José BOVÉ",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0056",
+      "nom_complet": "Ségolène ROYAL",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-140-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007140PDR.htm",
+              "commentaire": "Décision du 26 avril 2007 relative à la liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0057",
+      "nom_complet": "Frédéric NIHOUS",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0058",
+      "nom_complet": "Nicolas SARKOZY",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2007-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-133-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007133PDR.htm",
+              "commentaire": "Décision du 19 mars 2007 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-140-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007140PDR.htm",
+              "commentaire": "Décision du 26 avril 2007 relative à la liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0064",
+      "nom_complet": "Nicolas DUPONT-AIGNAN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0076",
+      "nom_complet": "Yves-Marie ADELINE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0077",
+      "nom_complet": "Jean-Philippe ALLENBACH",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0078",
+      "nom_complet": "Yves AUBRY",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0079",
+      "nom_complet": "Yvan BACHAUD",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0080",
+      "nom_complet": "Robert BAUD",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0081",
+      "nom_complet": "Michel BAILLIF",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0082",
+      "nom_complet": "Soheib BENCHEIKH",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0083",
+      "nom_complet": "Jacques BORIE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0084",
+      "nom_complet": "Leila BOUACHERA",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0085",
+      "nom_complet": "Roland CASTRO",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0086",
+      "nom_complet": "Romdane FERDJANI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0087",
+      "nom_complet": "Édouard FILLIAS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0088",
+      "nom_complet": "France GAMERRE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0089",
+      "nom_complet": "Christian GARINO",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0090",
+      "nom_complet": "Jean-Marc GOVERNATORI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0091",
+      "nom_complet": "Pierre LARROUTUROU",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0092",
+      "nom_complet": "Cindy LEE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0093",
+      "nom_complet": "Nicolas MIGUET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0094",
+      "nom_complet": "Alain MOURGUY",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0095",
+      "nom_complet": "Rachid NEKKAZ",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0096",
+      "nom_complet": "Jean-Christophe PARISOT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0097",
+      "nom_complet": "Ange PICCOLO",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0098",
+      "nom_complet": "Éric TAFFOUREAU-MILLET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0099",
+      "nom_complet": "Nicolas HULOT",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0100",
+      "nom_complet": "Dieudonné",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2007",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2007",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    }
+  ]
+}

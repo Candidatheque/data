@@ -1,0 +1,860 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-2012",
+  "candidatures": [
+    {
+      "personne": "PE-0037",
+      "nom_complet": "Jacques CHEMINADE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0043",
+      "nom_complet": "Corinne LEPAGE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0045",
+      "nom_complet": "François BAYROU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0058",
+      "nom_complet": "Nicolas SARKOZY",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-153-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012153pdr.htm",
+              "commentaire": "Décision du 26 avril 2012 relative à la liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0059",
+      "nom_complet": "Eva JOLY",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0060",
+      "nom_complet": "Marine LE PEN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0061",
+      "nom_complet": "Jean-Luc MÉLENCHON",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0062",
+      "nom_complet": "Philippe POUTOU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0063",
+      "nom_complet": "Nathalie ARTHAUD",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0064",
+      "nom_complet": "Nicolas DUPONT-AIGNAN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0065",
+      "nom_complet": "François HOLLANDE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2012-03-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-145-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
+              "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-153-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012153pdr.htm",
+              "commentaire": "Décision du 26 avril 2012 relative à la liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0069",
+      "nom_complet": "François ASSELINEAU",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0090",
+      "nom_complet": "Jean-Marc GOVERNATORI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0092",
+      "nom_complet": "Cindy LEE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0093",
+      "nom_complet": "Nicolas MIGUET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0101",
+      "nom_complet": "François AMANRICH",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0102",
+      "nom_complet": "Gilles BOURDOULEIX",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0103",
+      "nom_complet": "Brigitte GOLDBERG",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0104",
+      "nom_complet": "Carl LANG",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0105",
+      "nom_complet": "Patrick LOZÈS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0106",
+      "nom_complet": "Maxime VERNER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0107",
+      "nom_complet": "Patrick COSSERON DE VILLENOISY",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0108",
+      "nom_complet": "Dominique DE VILLEPIN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0109",
+      "nom_complet": "Calixthe BEYALA",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0110",
+      "nom_complet": "Gérard BORGIA",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0111",
+      "nom_complet": "Alexandre CALLET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0112",
+      "nom_complet": "Renaud CAMUS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0113",
+      "nom_complet": "Kenza DRIDER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0114",
+      "nom_complet": "Gérard GAUTIER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0115",
+      "nom_complet": "Patrick GIOVANNONI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0116",
+      "nom_complet": "Stéphane GUYOT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0117",
+      "nom_complet": "Victor IZRAEL",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0118",
+      "nom_complet": "Laurent LENNE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0119",
+      "nom_complet": "Nicole PRADALIER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0120",
+      "nom_complet": "Frédéric PRADELLE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0121",
+      "nom_complet": "Francis RONGIER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0122",
+      "nom_complet": "Nicolas STOQUER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0123",
+      "nom_complet": "Claude WEBER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0124",
+      "nom_complet": "Clément WITTMANN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2012",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-1974",
+  "candidatures": [
+    {
+      "personne": "PE-0005",
+      "nom_complet": "François MITTERRAND",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-31-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7431pdr.htm",
+              "commentaire": "Décision du 9 mai 1974 arrêtant la liste des candidats habilités à se présenter au second tour de scrutin",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0010",
+      "nom_complet": "Alain KRIVINE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0014",
+      "nom_complet": "Jacques CHABAN-DELMAS",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0015",
+      "nom_complet": "René DUMONT",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0016",
+      "nom_complet": "Valéry GISCARD D'ESTAING",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-31-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7431pdr.htm",
+              "commentaire": "Décision du 9 mai 1974 arrêtant la liste des candidats habilités à se présenter au second tour de scrutin",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0017",
+      "nom_complet": "Guy HÉRAUD",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0018",
+      "nom_complet": "Arlette LAGUILLER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0019",
+      "nom_complet": "Jean-Marie LE PEN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0020",
+      "nom_complet": "Émile MULLER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0021",
+      "nom_complet": "Bertrand RENOUVIN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0022",
+      "nom_complet": "Jean ROYER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0023",
+      "nom_complet": "Jean-Claude SEBAG",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1974-04-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-24-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
+              "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0206",
+      "nom_complet": "Jean-Marc BOURQUIN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0209",
+      "nom_complet": "Robert-Élie AZOULAY",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0210",
+      "nom_complet": "Stéphane BAUMONT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0211",
+      "nom_complet": "Louis BELMONTE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0212",
+      "nom_complet": "Jean-François BESSON",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0213",
+      "nom_complet": "Marie BONNAFOUS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0214",
+      "nom_complet": "Alain BOUSQUET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0215",
+      "nom_complet": "Jean-Pierre BRISSAUD",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0216",
+      "nom_complet": "Jean-Paul CARTERON",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0217",
+      "nom_complet": "Jacques DESCHANEL",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0218",
+      "nom_complet": "Léopold ELBAZÉ",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0219",
+      "nom_complet": "Michel FAYOLAS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0220",
+      "nom_complet": "Dominique GALLET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0221",
+      "nom_complet": "Maurice GARDET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0222",
+      "nom_complet": "Gisèle GUISETTE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0223",
+      "nom_complet": "HENNINOT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0224",
+      "nom_complet": "Henri JANNÈS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0225",
+      "nom_complet": "Djellali KAMEL",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0226",
+      "nom_complet": "Robert LAFONT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "date": "1974-04-21",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-27-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7427PDR.htm",
+              "commentaire": "Décision du 21 avril 1974 portant sur une réclamation présentée par M. LAFONT contre l'établissement de la liste des candidats à la Présidence de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0227",
+      "nom_complet": "Huguette LEFORESTIER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0228",
+      "nom_complet": "Michel PRIGENT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0229",
+      "nom_complet": "Georges RICO",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0230",
+      "nom_complet": "André ROUSTAN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "date": "1974-04-21",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:74-26-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1974/7426pdr.htm",
+              "commentaire": "Décision du 21 avril 1974 portant sur une réclamation présentée par M. ROUSTAN contre l'établissement de la liste des candidats à la Présidence de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0231",
+      "nom_complet": "Chariton SALKAZANOV",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0232",
+      "nom_complet": "Jean-Louis SAVIGNET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0233",
+      "nom_complet": "Toussaint VÉDÈCHE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0234",
+      "nom_complet": "Georges WAMBERGUE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:presidentielle-1974",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+              "commentaire": "Élection présidentielle française de 1974, section « Candidatures n'ayant pas abouti »",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    }
+  ]
+}

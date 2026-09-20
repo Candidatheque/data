@@ -1,0 +1,397 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-1995",
+  "candidatures": [
+    {
+      "personne": "PE-0018",
+      "nom_complet": "Arlette LAGUILLER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1995-04-06",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0019",
+      "nom_complet": "Jean-Marie LE PEN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1995-04-06",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0027",
+      "nom_complet": "Brice LALONDE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:brice-lalonde",
+              "url": "https://fr.wikipedia.org/wiki/Brice_Lalonde",
+              "commentaire": "Brice Lalonde, sur sa candidature à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0030",
+      "nom_complet": "Jacques CHIRAC",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1995-04-06",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-80-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9580pdr.htm",
+              "commentaire": "Décision du 27 avril 1995 fixant la liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0034",
+      "nom_complet": "Antoine WAECHTER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:antoine-waechter",
+              "url": "https://fr.wikipedia.org/wiki/Antoine_Waechter",
+              "commentaire": "Antoine Waechter, sur sa candidature à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0036",
+      "nom_complet": "Philippe de VILLIERS",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1995-04-06",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0037",
+      "nom_complet": "Jacques CHEMINADE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1995-04-06",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0038",
+      "nom_complet": "Lionel JOSPIN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1995-04-06",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-80-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9580pdr.htm",
+              "commentaire": "Décision du 27 avril 1995 fixant la liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0039",
+      "nom_complet": "Dominique VOYNET",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1995-04-06",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0040",
+      "nom_complet": "Édouard BALLADUR",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1995-04-06",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0041",
+      "nom_complet": "Robert HUE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1995-04-06",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-70-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0237",
+      "nom_complet": "Jean-François HORY",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:jean-francois-hory",
+              "url": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Hory",
+              "commentaire": "Jean-François Hory, sur sa candidature à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0238",
+      "nom_complet": "Marlène MOURREAU",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:marlene-mourreau",
+              "url": "https://fr.wikipedia.org/wiki/Marl%C3%A8ne_Mourreau",
+              "commentaire": "Marlène Mourreau, sur sa candidature à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0239",
+      "nom_complet": "Max SIMEONI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:max-simeoni",
+              "url": "https://fr.wikipedia.org/wiki/Max_Simeoni",
+              "commentaire": "Max Simeoni, sur sa candidature à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    }
+  ]
+}

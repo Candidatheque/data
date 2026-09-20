@@ -1,0 +1,1339 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-2022",
+  "candidatures": [
+    {
+      "personne": "PE-0034",
+      "nom_complet": "Antoine WAECHTER",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0046",
+      "nom_complet": "Christiane TAUBIRA",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0060",
+      "nom_complet": "Marine LE PEN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-196-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022196PDR.htm",
+              "commentaire": "Liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0061",
+      "nom_complet": "Jean-Luc MÉLENCHON",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0062",
+      "nom_complet": "Philippe POUTOU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0063",
+      "nom_complet": "Nathalie ARTHAUD",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0064",
+      "nom_complet": "Nicolas DUPONT-AIGNAN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0066",
+      "nom_complet": "Emmanuel MACRON",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-196-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022196PDR.htm",
+              "commentaire": "Liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0068",
+      "nom_complet": "Jean LASSALLE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0069",
+      "nom_complet": "François ASSELINEAU",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0071",
+      "nom_complet": "Fabien ROUSSEL",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0072",
+      "nom_complet": "Éric ZEMMOUR",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0073",
+      "nom_complet": "Anne HIDALGO",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0074",
+      "nom_complet": "Yannick JADOT",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0075",
+      "nom_complet": "Valérie PÉCRESSE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2022-03-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2022-187-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0090",
+      "nom_complet": "Jean-Marc GOVERNATORI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0093",
+      "nom_complet": "Nicolas MIGUET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0124",
+      "nom_complet": "Clément WITTMANN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0140",
+      "nom_complet": "Bertrand FESSARD DE FOUCAULT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0160",
+      "nom_complet": "Rafik SMATI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0162",
+      "nom_complet": "Serge TINLAND",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0163",
+      "nom_complet": "Anasse KAZIB",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0164",
+      "nom_complet": "Gaspard KOENIG",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0165",
+      "nom_complet": "Hélène THOUY",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0166",
+      "nom_complet": "Clara EGGER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0167",
+      "nom_complet": "Georges KUZMANOVIC",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0168",
+      "nom_complet": "Antoine MARTINEZ",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0169",
+      "nom_complet": "Arnaud CHICHE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0170",
+      "nom_complet": "Jean-Marc FORTANÉ",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0171",
+      "nom_complet": "Marie CAU",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0172",
+      "nom_complet": "Alexandre JUVING-BRUNET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0173",
+      "nom_complet": "Stéphanie RIVOAL",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0174",
+      "nom_complet": "Corinne BÉKAERT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0175",
+      "nom_complet": "Thierry CAHEZ",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0176",
+      "nom_complet": "Vincent DELABY",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0177",
+      "nom_complet": "Éric-Régis FIORILE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0178",
+      "nom_complet": "Yaya LAM",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0179",
+      "nom_complet": "Christian LAURUT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0180",
+      "nom_complet": "Philippe MAZUEL",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0181",
+      "nom_complet": "Paul MONTSERRAT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0182",
+      "nom_complet": "Martin ROCCA",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0183",
+      "nom_complet": "Antoine ROCQUEMONT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0184",
+      "nom_complet": "Gildas VIEIRA",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0185",
+      "nom_complet": "Stéphane WENDLINGER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0186",
+      "nom_complet": "Nagib AZERGUI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0187",
+      "nom_complet": "Yvan BENEDETTI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0188",
+      "nom_complet": "Benjamin Victor BOUCHER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0189",
+      "nom_complet": "Anne DAN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0190",
+      "nom_complet": "Éric DROUET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0191",
+      "nom_complet": "Philippe FURLAN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0192",
+      "nom_complet": "Fabrice GRIMAL",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0193",
+      "nom_complet": "Fadi KASSEM",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0194",
+      "nom_complet": "Luc LAFORETS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0195",
+      "nom_complet": "Gilles LAZZARINI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0196",
+      "nom_complet": "Anne-Marie PERRON",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0197",
+      "nom_complet": "Gérard PIGNOL",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0198",
+      "nom_complet": "Stéphane TAUTHUI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0199",
+      "nom_complet": "Alexandre LANGLOIS",
+      "etats": [
+        {
+          "etat": "retiree",
+          "date": "2022-02-17",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0200",
+      "nom_complet": "Arnaud MONTEBOURG",
+      "etats": [
+        {
+          "etat": "retiree",
+          "date": "2022-01-19",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0201",
+      "nom_complet": "Jacline MOURAUD",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0202",
+      "nom_complet": "Florian PHILIPPOT",
+      "etats": [
+        {
+          "etat": "retiree",
+          "date": "2022-02-18",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0203",
+      "nom_complet": "Jean-Frédéric POISSON",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0204",
+      "nom_complet": "Régis OLLIVIER",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0205",
+      "nom_complet": "Eva SON-FORGET",
+      "etats": [
+        {
+          "etat": "retiree",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-1969",
+  "candidatures": [
+    {
+      "personne": "PE-0007",
+      "nom_complet": "Gaston DEFFERRE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1969-05-15",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0008",
+      "nom_complet": "Louis DUCATEL",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1969-05-15",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0009",
+      "nom_complet": "Jacques DUCLOS",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1969-05-15",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0010",
+      "nom_complet": "Alain KRIVINE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1969-05-15",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0011",
+      "nom_complet": "Alain POHER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1969-05-15",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-21-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6921pdr.htm",
+              "commentaire": "Décision du 5 juin 1969 arrêtant la liste des candidats habilités à se présenter au second tour de scrutin",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0012",
+      "nom_complet": "Georges POMPIDOU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1969-05-15",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-21-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6921pdr.htm",
+              "commentaire": "Décision du 5 juin 1969 arrêtant la liste des candidats habilités à se présenter au second tour de scrutin",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0013",
+      "nom_complet": "Michel ROCARD",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1969-05-15",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-13-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6913pdr.htm",
+              "commentaire": "Décision du 15 mai 1969 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0017",
+      "nom_complet": "Guy HÉRAUD",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "date": "1969-05-21",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-19-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6919pdr.htm",
+              "commentaire": "Décision du 21 mai 1969 portant sur une réclamation présentée par M. HÉRAUD contre l'établissement de la liste des candidats à la Présidence de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0206",
+      "nom_complet": "Jean-Marc BOURQUIN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "date": "1969-05-17",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-15-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6915pdr.htm",
+              "commentaire": "Décision du 17 mai 1969 portant sur une réclamation présentée par M. BOURQUIN contre l'établissement de la liste des candidats à la Présidence de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0207",
+      "nom_complet": "Pierre SIDOS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "date": "1969-05-17",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-16-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6916PDR.htm",
+              "commentaire": "Décision du 17 mai 1969 portant sur une réclamation présentée par M. SIDOS contre l'établissement de la liste des candidats à la Présidence de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0208",
+      "nom_complet": "Michel-Georges MICBERTH",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "date": "1969-05-17",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-17-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6917PDR.htm",
+              "commentaire": "Décision du 17 mai 1969 portant sur une réclamation présentée par le \"Centre d'études et de recherches expérimentales\" contre l'établissement de la liste des candidats à la Présidence de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    }
+  ]
+}

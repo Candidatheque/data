@@ -1,0 +1,307 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-1988",
+  "candidatures": [
+    {
+      "personne": "PE-0005",
+      "nom_complet": "François MITTERRAND",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1988-04-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-57-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8857pdr.htm",
+              "commentaire": "Liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0018",
+      "nom_complet": "Arlette LAGUILLER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1988-04-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0019",
+      "nom_complet": "Jean-Marie LE PEN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1988-04-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0030",
+      "nom_complet": "Jacques CHIRAC",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1988-04-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-57-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8857pdr.htm",
+              "commentaire": "Liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0031",
+      "nom_complet": "Raymond BARRE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1988-04-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0032",
+      "nom_complet": "Pierre JUQUIN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1988-04-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0033",
+      "nom_complet": "Pierre BOUSSEL",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1988-04-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0034",
+      "nom_complet": "Antoine WAECHTER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1988-04-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0035",
+      "nom_complet": "André LAJOINIE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1988-04-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-54-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8854pdr.htm",
+              "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

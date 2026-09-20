@@ -1,0 +1,395 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-1981",
+  "candidatures": [
+    {
+      "personne": "PE-0005",
+      "nom_complet": "François MITTERRAND",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-46-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8146pdr.htm",
+              "commentaire": "Décision du 29 avril 1981 arrêtant la liste des candidats habilités à se présenter au second tour de scrutin",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0016",
+      "nom_complet": "Valéry GISCARD D'ESTAING",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-46-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8146pdr.htm",
+              "commentaire": "Décision du 29 avril 1981 arrêtant la liste des candidats habilités à se présenter au second tour de scrutin",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0018",
+      "nom_complet": "Arlette LAGUILLER",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0019",
+      "nom_complet": "Jean-Marie LE PEN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "date": "1981-04-11",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-43-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8143pdr.htm",
+              "commentaire": "Décision du 11 avril 1981 sur une réclamation présentée par Monsieur  LE PEN contre la décision arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0024",
+      "nom_complet": "Marie-France GARAUD",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0025",
+      "nom_complet": "Michel CRÉPEAU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0026",
+      "nom_complet": "Huguette BOUCHARDEAU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0027",
+      "nom_complet": "Brice LALONDE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0028",
+      "nom_complet": "Georges MARCHAIS",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0029",
+      "nom_complet": "Michel DEBRÉ",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0030",
+      "nom_complet": "Jacques CHIRAC",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "1981-04-09",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-40-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8140pdr.htm",
+              "commentaire": "Décision arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0235",
+      "nom_complet": "FOUQUET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "date": "1981-04-11",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-42-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8142pdr.htm",
+              "commentaire": "Décision du 11 avril 1981 sur une réclamation présentée par Monsieur FOUQUET contre la décision arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0236",
+      "nom_complet": "SCHERNE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "date": "1981-04-11",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-44-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8144pdr.htm",
+              "commentaire": "Décision du 11 avril 1981 sur une réclamation présentée par Monsieur SCHERNE contre la décision arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    }
+  ]
+}

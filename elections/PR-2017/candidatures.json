@@ -1,0 +1,1197 @@
+{
+  "$schema": "../../schemas/candidatures.schema.json",
+  "election": "PR-2017",
+  "candidatures": [
+    {
+      "personne": "PE-0034",
+      "nom_complet": "Antoine WAECHTER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0037",
+      "nom_complet": "Jacques CHEMINADE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0060",
+      "nom_complet": "Marine LE PEN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-170-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017170PDR.htm",
+              "commentaire": "Liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0061",
+      "nom_complet": "Jean-Luc MÉLENCHON",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0062",
+      "nom_complet": "Philippe POUTOU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0063",
+      "nom_complet": "Nathalie ARTHAUD",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0064",
+      "nom_complet": "Nicolas DUPONT-AIGNAN",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0066",
+      "nom_complet": "Emmanuel MACRON",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-170-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017170PDR.htm",
+              "commentaire": "Liste des candidats habilités à se présenter au second tour de l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0067",
+      "nom_complet": "Benoît HAMON",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0068",
+      "nom_complet": "Jean LASSALLE",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0069",
+      "nom_complet": "François ASSELINEAU",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0070",
+      "nom_complet": "François FILLON",
+      "etats": [
+        {
+          "etat": "validee",
+          "date": "2017-03-18",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": [
+        {
+          "numero": 1,
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-165-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
+              "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "personne": "PE-0083",
+      "nom_complet": "Jacques BORIE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0091",
+      "nom_complet": "Pierre LARROUTUROU",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0093",
+      "nom_complet": "Nicolas MIGUET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0094",
+      "nom_complet": "Alain MOURGUY",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0104",
+      "nom_complet": "Carl LANG",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0112",
+      "nom_complet": "Renaud CAMUS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0116",
+      "nom_complet": "Stéphane GUYOT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0125",
+      "nom_complet": "Rama YADE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0126",
+      "nom_complet": "Alexandre JARDIN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0127",
+      "nom_complet": "Charlotte MARCHANDISE-FRANQUET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0128",
+      "nom_complet": "Oscar TEMARU",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0129",
+      "nom_complet": "Didier TAUZIN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0130",
+      "nom_complet": "Michèle ALLIOT-MARIE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0131",
+      "nom_complet": "Jean-Pierre GORGES",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0132",
+      "nom_complet": "Henri GUAINO",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0133",
+      "nom_complet": "Emmanuel TONIUTTI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0134",
+      "nom_complet": "Jacques NIKONOFF",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0135",
+      "nom_complet": "Jean-Claude MARTINEZ",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0136",
+      "nom_complet": "Kamel MESSAOUDI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0137",
+      "nom_complet": "Jérôme BLANAL",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0138",
+      "nom_complet": "Philippe BOURIACHI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0139",
+      "nom_complet": "Olivier DELAFON",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0140",
+      "nom_complet": "Bertrand FESSARD DE FOUCAULT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0141",
+      "nom_complet": "Jean-Paul GUILBERT",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0142",
+      "nom_complet": "Jean-Michel LEVACHER",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0143",
+      "nom_complet": "Régis PASSERIEUX",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0144",
+      "nom_complet": "Robert DE PRÉVOISIN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0145",
+      "nom_complet": "Daniel ADAM",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0146",
+      "nom_complet": "François BERVAS",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0147",
+      "nom_complet": "Jean-Luc BERRUET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0148",
+      "nom_complet": "Yves BONTAZ",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0149",
+      "nom_complet": "Thibaut-Marc CAPLAIN",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0150",
+      "nom_complet": "Sylvain DURIF",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0151",
+      "nom_complet": "Jérôme FOUCŒUR",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0152",
+      "nom_complet": "Yves GERNIGON",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0153",
+      "nom_complet": "Alessandro DI GIUSEPPE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0154",
+      "nom_complet": "Nolan LAPIE",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0155",
+      "nom_complet": "Lucius Liber",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0156",
+      "nom_complet": "Jean Claude MATRY",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0157",
+      "nom_complet": "Jean-Pierre MÉLIA",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0158",
+      "nom_complet": "William ROUANET",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0159",
+      "nom_complet": "David SAFORCADA",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0160",
+      "nom_complet": "Rafik SMATI",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0161",
+      "nom_complet": "Super Châtaigne",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    },
+    {
+      "personne": "PE-0162",
+      "nom_complet": "Serge TINLAND",
+      "etats": [
+        {
+          "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2017",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "tours": []
+    }
+  ]
+}
