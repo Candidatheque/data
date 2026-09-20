@@ -19,6 +19,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0006",
+          "nom_complet": "Parti socialiste",
+          "sigle": "PS",
+          "sources": [
+            {
+              "id": "wikidata:Q2038",
+              "url": "https://www.wikidata.org/wiki/Q2038",
+              "commentaire": "François MITTERRAND sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -61,6 +76,20 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0007",
+          "nom_complet": "Ligue communiste révolutionnaire",
+          "sources": [
+            {
+              "id": "wikidata:Q12938",
+              "url": "https://www.wikidata.org/wiki/Q12938",
+              "commentaire": "Alain KRIVINE sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -92,6 +121,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -123,6 +153,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -154,6 +185,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -196,6 +228,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -227,6 +260,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -253,6 +287,21 @@
               "id": "conseil-constitutionnel:74-24-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/1974/7424pdr.htm",
               "commentaire": "Décision du 18 avril 1974 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0008",
+          "nom_complet": "Front national",
+          "sigle": "FN",
+          "sources": [
+            {
+              "id": "wikidata:Q7177",
+              "url": "https://www.wikidata.org/wiki/Q7177",
+              "commentaire": "Jean-Marie LE PEN sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -289,6 +338,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -320,6 +370,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -351,6 +402,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -382,6 +434,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -412,6 +465,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -430,6 +484,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -448,6 +503,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -466,6 +522,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -484,6 +541,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -502,6 +560,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -520,6 +579,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -538,6 +598,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -556,6 +617,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -574,6 +636,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -592,6 +655,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -610,6 +674,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -628,6 +693,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -646,6 +712,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -664,6 +731,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -682,6 +750,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -700,6 +769,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -718,6 +788,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -737,6 +808,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -755,6 +827,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -773,6 +846,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -791,6 +865,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -810,6 +885,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -828,6 +904,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -846,6 +923,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -864,6 +942,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -882,6 +961,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     }
   ]

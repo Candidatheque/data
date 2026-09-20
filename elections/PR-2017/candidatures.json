@@ -18,6 +18,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -37,6 +38,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -63,6 +65,21 @@
               "id": "conseil-constitutionnel:2017-165-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0019",
+          "nom_complet": "Rassemblement national",
+          "sigle": "RN",
+          "sources": [
+            {
+              "id": "wikidata:Q12927",
+              "url": "https://www.wikidata.org/wiki/Q12927",
+              "commentaire": "Marine LE PEN sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -110,6 +127,34 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0027",
+          "nom_complet": "La France insoumise",
+          "sigle": "LFI",
+          "sources": [
+            {
+              "id": "wikidata:Q5829",
+              "url": "https://www.wikidata.org/wiki/Q5829",
+              "commentaire": "Jean-Luc MÉLENCHON sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "id": "PA-0020",
+          "nom_complet": "Parti de gauche",
+          "sigle": "PG",
+          "sources": [
+            {
+              "id": "wikidata:Q5829",
+              "url": "https://www.wikidata.org/wiki/Q5829",
+              "commentaire": "Jean-Luc MÉLENCHON sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -141,6 +186,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -167,6 +213,21 @@
               "id": "conseil-constitutionnel:2017-165-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0021",
+          "nom_complet": "Lutte ouvrière",
+          "sigle": "LO",
+          "sources": [
+            {
+              "id": "wikidata:Q439490",
+              "url": "https://www.wikidata.org/wiki/Q439490",
+              "commentaire": "Nathalie ARTHAUD sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -203,6 +264,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -229,6 +291,21 @@
               "id": "conseil-constitutionnel:2017-165-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0028",
+          "nom_complet": "Renaissance",
+          "sigle": "RE",
+          "sources": [
+            {
+              "id": "wikidata:Q3052772",
+              "url": "https://www.wikidata.org/wiki/Q3052772",
+              "commentaire": "Emmanuel MACRON sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -276,6 +353,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0006",
+          "nom_complet": "Parti socialiste",
+          "sigle": "PS",
+          "sources": [
+            {
+              "id": "wikidata:Q818118",
+              "url": "https://www.wikidata.org/wiki/Q818118",
+              "commentaire": "Benoît HAMON sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -302,6 +394,20 @@
               "id": "conseil-constitutionnel:2017-165-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0029",
+          "nom_complet": "Résistons !",
+          "sources": [
+            {
+              "id": "wikidata:Q3173022",
+              "url": "https://www.wikidata.org/wiki/Q3173022",
+              "commentaire": "Jean LASSALLE sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -338,6 +444,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0022",
+          "nom_complet": "Union populaire républicaine",
+          "sigle": "UPR",
+          "sources": [
+            {
+              "id": "wikidata:Q12972",
+              "url": "https://www.wikidata.org/wiki/Q12972",
+              "commentaire": "François ASSELINEAU sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -364,6 +485,21 @@
               "id": "conseil-constitutionnel:2017-165-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017165PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0030",
+          "nom_complet": "Les Républicains",
+          "sigle": "LR",
+          "sources": [
+            {
+              "id": "wikidata:Q101410",
+              "url": "https://www.wikidata.org/wiki/Q101410",
+              "commentaire": "François FILLON sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -399,6 +535,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -412,6 +549,21 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2017",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
               "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0031",
+          "nom_complet": "Nouvelle Donne",
+          "sigle": "ND",
+          "sources": [
+            {
+              "id": "wikidata:Q3385791",
+              "url": "https://www.wikidata.org/wiki/Q3385791",
+              "commentaire": "Pierre LARROUTUROU sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -435,6 +587,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -453,6 +606,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -466,6 +620,21 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2017",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
               "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0024",
+          "nom_complet": "Parti de la France",
+          "sigle": "PdF",
+          "sources": [
+            {
+              "id": "wikidata:Q927873",
+              "url": "https://www.wikidata.org/wiki/Q927873",
+              "commentaire": "Carl LANG sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -489,6 +658,34 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0026",
+          "nom_complet": "Parti de l'in-nocence",
+          "sigle": "PI",
+          "sources": [
+            {
+              "id": "wikidata:Q2566436",
+              "url": "https://www.wikidata.org/wiki/Q2566436",
+              "commentaire": "Renaud CAMUS sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "id": "PA-0032",
+          "nom_complet": "Souveraineté, identité et libertés",
+          "sigle": "SIEL",
+          "sources": [
+            {
+              "id": "wikidata:Q2566436",
+              "url": "https://www.wikidata.org/wiki/Q2566436",
+              "commentaire": "Renaud CAMUS sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -507,6 +704,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -525,6 +723,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -543,6 +742,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -561,6 +761,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -579,6 +780,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -597,6 +799,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -615,6 +818,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -633,6 +837,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -651,6 +856,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -669,6 +875,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -687,6 +894,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -705,6 +913,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -723,6 +932,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -741,6 +951,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -759,6 +970,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -777,6 +989,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -795,6 +1008,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -813,6 +1027,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -831,6 +1046,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -849,6 +1065,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -867,6 +1084,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -885,6 +1103,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -903,6 +1122,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -921,6 +1141,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -939,6 +1160,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -957,6 +1179,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -975,6 +1198,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -993,6 +1217,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1011,6 +1236,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1029,6 +1255,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1047,6 +1274,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1065,6 +1293,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1083,6 +1312,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1101,6 +1331,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1119,6 +1350,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1137,6 +1369,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1150,6 +1383,21 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2017",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
               "commentaire": "Candidatures à l'élection présidentielle française de 2017",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0033",
+          "nom_complet": "Objectif France",
+          "sigle": "OF",
+          "sources": [
+            {
+              "id": "wikidata:Q18765344",
+              "url": "https://www.wikidata.org/wiki/Q18765344",
+              "commentaire": "Rafik SMATI sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -1173,6 +1421,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1191,6 +1440,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     }
   ]

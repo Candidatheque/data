@@ -19,6 +19,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -50,6 +51,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -92,6 +94,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -123,6 +126,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -149,6 +153,32 @@
               "id": "conseil-constitutionnel:65-3-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/1965/653pdr.htm",
               "commentaire": "Décision du 18 novembre 1965 arrêtant la liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0001",
+          "nom_complet": "Fédération de la gauche démocrate et socialiste",
+          "sources": [
+            {
+              "id": "wikidata:Q2038",
+              "url": "https://www.wikidata.org/wiki/Q2038",
+              "commentaire": "François MITTERRAND sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "id": "PA-0002",
+          "nom_complet": "Convention des institutions républicaines",
+          "sources": [
+            {
+              "id": "wikidata:Q2038",
+              "url": "https://www.wikidata.org/wiki/Q2038",
+              "commentaire": "François MITTERRAND sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -196,6 +226,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,

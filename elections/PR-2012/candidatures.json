@@ -19,6 +19,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -49,6 +50,20 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0014",
+          "nom_complet": "Cap21",
+          "sources": [
+            {
+              "id": "wikidata:Q291341",
+              "url": "https://www.wikidata.org/wiki/Q291341",
+              "commentaire": "Corinne LEPAGE sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -63,6 +78,21 @@
               "id": "conseil-constitutionnel:2012-145-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
               "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0016",
+          "nom_complet": "Mouvement démocrate",
+          "sigle": "MoDem",
+          "sources": [
+            {
+              "id": "wikidata:Q12963",
+              "url": "https://www.wikidata.org/wiki/Q12963",
+              "commentaire": "François BAYROU sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -94,6 +124,21 @@
               "id": "conseil-constitutionnel:2012-145-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
               "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0012",
+          "nom_complet": "Union pour un mouvement populaire",
+          "sigle": "UMP",
+          "sources": [
+            {
+              "id": "wikidata:Q329",
+              "url": "https://www.wikidata.org/wiki/Q329",
+              "commentaire": "Nicolas SARKOZY sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -141,6 +186,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -167,6 +213,21 @@
               "id": "conseil-constitutionnel:2012-145-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
               "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0019",
+          "nom_complet": "Rassemblement national",
+          "sigle": "RN",
+          "sources": [
+            {
+              "id": "wikidata:Q12927",
+              "url": "https://www.wikidata.org/wiki/Q12927",
+              "commentaire": "Marine LE PEN sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -203,6 +264,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0020",
+          "nom_complet": "Parti de gauche",
+          "sigle": "PG",
+          "sources": [
+            {
+              "id": "wikidata:Q5829",
+              "url": "https://www.wikidata.org/wiki/Q5829",
+              "commentaire": "Jean-Luc MÉLENCHON sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -234,6 +310,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -260,6 +337,21 @@
               "id": "conseil-constitutionnel:2012-145-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
               "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0021",
+          "nom_complet": "Lutte ouvrière",
+          "sigle": "LO",
+          "sources": [
+            {
+              "id": "wikidata:Q439490",
+              "url": "https://www.wikidata.org/wiki/Q439490",
+              "commentaire": "Nathalie ARTHAUD sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -296,6 +388,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -322,6 +415,21 @@
               "id": "conseil-constitutionnel:2012-145-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012145pdr.htm",
               "commentaire": "Décision du 19 mars 2012 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0006",
+          "nom_complet": "Parti socialiste",
+          "sigle": "PS",
+          "sources": [
+            {
+              "id": "wikidata:Q157",
+              "url": "https://www.wikidata.org/wiki/Q157",
+              "commentaire": "François HOLLANDE sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -368,6 +476,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0022",
+          "nom_complet": "Union populaire républicaine",
+          "sigle": "UPR",
+          "sources": [
+            {
+              "id": "wikidata:Q12972",
+              "url": "https://www.wikidata.org/wiki/Q12972",
+              "commentaire": "François ASSELINEAU sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -381,6 +504,20 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2012",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
               "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0023",
+          "nom_complet": "Écologie au centre",
+          "sources": [
+            {
+              "id": "wikidata:Q3167392",
+              "url": "https://www.wikidata.org/wiki/Q3167392",
+              "commentaire": "Jean-Marc GOVERNATORI sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -404,6 +541,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -422,6 +560,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -440,6 +579,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -458,6 +598,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -476,6 +617,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -489,6 +631,21 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2012",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
               "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0024",
+          "nom_complet": "Parti de la France",
+          "sigle": "PdF",
+          "sources": [
+            {
+              "id": "wikidata:Q927873",
+              "url": "https://www.wikidata.org/wiki/Q927873",
+              "commentaire": "Carl LANG sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -512,6 +669,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0025",
+          "nom_complet": "Union pour la démocratie française",
+          "sigle": "UDF",
+          "sources": [
+            {
+              "id": "wikidata:Q3369641",
+              "url": "https://www.wikidata.org/wiki/Q3369641",
+              "commentaire": "Patrick LOZÈS sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -530,6 +702,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -548,6 +721,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -566,6 +740,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -584,6 +759,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -602,6 +778,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -620,6 +797,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -633,6 +811,21 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2012",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
               "commentaire": "Candidatures à l'élection présidentielle française de 2012",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0026",
+          "nom_complet": "Parti de l'in-nocence",
+          "sigle": "PI",
+          "sources": [
+            {
+              "id": "wikidata:Q2566436",
+              "url": "https://www.wikidata.org/wiki/Q2566436",
+              "commentaire": "Renaud CAMUS sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -656,6 +849,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -674,6 +868,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -692,6 +887,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -710,6 +906,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -728,6 +925,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -746,6 +944,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -764,6 +963,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -782,6 +982,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -800,6 +1001,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -818,6 +1020,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -836,6 +1039,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -854,6 +1058,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     }
   ]

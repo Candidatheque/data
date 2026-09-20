@@ -19,6 +19,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -45,6 +46,21 @@
               "id": "conseil-constitutionnel:95-70-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
               "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0008",
+          "nom_complet": "Front national",
+          "sigle": "FN",
+          "sources": [
+            {
+              "id": "wikidata:Q7177",
+              "url": "https://www.wikidata.org/wiki/Q7177",
+              "commentaire": "Jean-Marie LE PEN sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -80,6 +96,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -94,6 +111,21 @@
               "id": "conseil-constitutionnel:95-70-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
               "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0009",
+          "nom_complet": "Rassemblement pour la République",
+          "sigle": "RPR",
+          "sources": [
+            {
+              "id": "wikidata:Q2105",
+              "url": "https://www.wikidata.org/wiki/Q2105",
+              "commentaire": "Jacques CHIRAC sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -140,6 +172,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -154,6 +187,21 @@
               "id": "conseil-constitutionnel:95-70-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
               "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0010",
+          "nom_complet": "Mouvement pour la France",
+          "sigle": "MPF",
+          "sources": [
+            {
+              "id": "wikidata:Q704846",
+              "url": "https://www.wikidata.org/wiki/Q704846",
+              "commentaire": "Philippe de VILLIERS sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -190,6 +238,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -221,6 +270,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -263,6 +313,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -289,6 +340,21 @@
               "id": "conseil-constitutionnel:95-70-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/1995/9570pdr.htm",
               "commentaire": "Liste des candidats à l'élection du Président de la République",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0009",
+          "nom_complet": "Rassemblement pour la République",
+          "sigle": "RPR",
+          "sources": [
+            {
+              "id": "wikidata:Q12959",
+              "url": "https://www.wikidata.org/wiki/Q12959",
+              "commentaire": "Édouard BALLADUR sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -325,6 +391,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0011",
+          "nom_complet": "Parti communiste français",
+          "sigle": "PCF",
+          "sources": [
+            {
+              "id": "wikidata:Q937091",
+              "url": "https://www.wikidata.org/wiki/Q937091",
+              "commentaire": "Robert HUE sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -355,6 +436,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -373,6 +455,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -391,6 +474,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     }
   ]

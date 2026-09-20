@@ -18,6 +18,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -36,6 +37,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -50,6 +52,21 @@
               "id": "conseil-constitutionnel:2022-187-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0019",
+          "nom_complet": "Rassemblement national",
+          "sigle": "RN",
+          "sources": [
+            {
+              "id": "wikidata:Q12927",
+              "url": "https://www.wikidata.org/wiki/Q12927",
+              "commentaire": "Marine LE PEN sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -97,6 +114,34 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0027",
+          "nom_complet": "La France insoumise",
+          "sigle": "LFI",
+          "sources": [
+            {
+              "id": "wikidata:Q5829",
+              "url": "https://www.wikidata.org/wiki/Q5829",
+              "commentaire": "Jean-Luc MÉLENCHON sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "id": "PA-0020",
+          "nom_complet": "Parti de gauche",
+          "sigle": "PG",
+          "sources": [
+            {
+              "id": "wikidata:Q5829",
+              "url": "https://www.wikidata.org/wiki/Q5829",
+              "commentaire": "Jean-Luc MÉLENCHON sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -128,6 +173,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -154,6 +200,21 @@
               "id": "conseil-constitutionnel:2022-187-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0021",
+          "nom_complet": "Lutte ouvrière",
+          "sigle": "LO",
+          "sources": [
+            {
+              "id": "wikidata:Q439490",
+              "url": "https://www.wikidata.org/wiki/Q439490",
+              "commentaire": "Nathalie ARTHAUD sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -190,6 +251,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -216,6 +278,21 @@
               "id": "conseil-constitutionnel:2022-187-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0028",
+          "nom_complet": "Renaissance",
+          "sigle": "RE",
+          "sources": [
+            {
+              "id": "wikidata:Q3052772",
+              "url": "https://www.wikidata.org/wiki/Q3052772",
+              "commentaire": "Emmanuel MACRON sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -263,6 +340,20 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0029",
+          "nom_complet": "Résistons !",
+          "sources": [
+            {
+              "id": "wikidata:Q3173022",
+              "url": "https://www.wikidata.org/wiki/Q3173022",
+              "commentaire": "Jean LASSALLE sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -293,6 +384,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0022",
+          "nom_complet": "Union populaire républicaine",
+          "sigle": "UPR",
+          "sources": [
+            {
+              "id": "wikidata:Q12972",
+              "url": "https://www.wikidata.org/wiki/Q12972",
+              "commentaire": "François ASSELINEAU sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -307,6 +413,21 @@
               "id": "conseil-constitutionnel:2022-187-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0011",
+          "nom_complet": "Parti communiste français",
+          "sigle": "PCF",
+          "sources": [
+            {
+              "id": "wikidata:Q30388733",
+              "url": "https://www.wikidata.org/wiki/Q30388733",
+              "commentaire": "Fabien ROUSSEL sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -343,6 +464,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -374,6 +496,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -405,6 +528,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -431,6 +555,33 @@
               "id": "conseil-constitutionnel:2022-187-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022187PDR.htm",
               "commentaire": "Liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0030",
+          "nom_complet": "Les Républicains",
+          "sigle": "LR",
+          "sources": [
+            {
+              "id": "wikidata:Q455023",
+              "url": "https://www.wikidata.org/wiki/Q455023",
+              "commentaire": "Valérie PÉCRESSE sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "id": "PA-0034",
+          "nom_complet": "Libres",
+          "sources": [
+            {
+              "id": "wikidata:Q455023",
+              "url": "https://www.wikidata.org/wiki/Q455023",
+              "commentaire": "Valérie PÉCRESSE sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -466,6 +617,20 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0035",
+          "nom_complet": "Cap Écologie",
+          "sources": [
+            {
+              "id": "wikidata:Q3167392",
+              "url": "https://www.wikidata.org/wiki/Q3167392",
+              "commentaire": "Jean-Marc GOVERNATORI sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -484,6 +649,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -502,6 +668,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -520,6 +687,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -533,6 +701,21 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
               "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0033",
+          "nom_complet": "Objectif France",
+          "sigle": "OF",
+          "sources": [
+            {
+              "id": "wikidata:Q18765344",
+              "url": "https://www.wikidata.org/wiki/Q18765344",
+              "commentaire": "Rafik SMATI sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -556,6 +739,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -574,6 +758,20 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0036",
+          "nom_complet": "Révolution permanente",
+          "sources": [
+            {
+              "id": "wikidata:Q106405647",
+              "url": "https://www.wikidata.org/wiki/Q106405647",
+              "commentaire": "Anasse KAZIB sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -582,6 +780,20 @@
       "etats": [
         {
           "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0044",
+          "nom_complet": "Simple",
           "sources": [
             {
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
@@ -610,6 +822,20 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0037",
+          "nom_complet": "Parti animaliste",
+          "sources": [
+            {
+              "id": "wikidata:Q63646237",
+              "url": "https://www.wikidata.org/wiki/Q63646237",
+              "commentaire": "Hélène THOUY sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -618,6 +844,20 @@
       "etats": [
         {
           "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0046",
+          "nom_complet": "Espoir RIC 2022",
           "sources": [
             {
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
@@ -646,6 +886,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0038",
+          "nom_complet": "République souveraine",
+          "sigle": "RS",
+          "sources": [
+            {
+              "id": "wikidata:Q29451966",
+              "url": "https://www.wikidata.org/wiki/Q29451966",
+              "commentaire": "Georges KUZMANOVIC sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -664,6 +919,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0039",
+          "nom_complet": "Volontaires pour la France",
+          "sigle": "VPF",
+          "sources": [
+            {
+              "id": "wikidata:Q54958867",
+              "url": "https://www.wikidata.org/wiki/Q54958867",
+              "commentaire": "Antoine MARTINEZ sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -672,6 +942,20 @@
       "etats": [
         {
           "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0045",
+          "nom_complet": "Santé en danger",
           "sources": [
             {
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
@@ -700,6 +984,20 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0047",
+          "nom_complet": "Fédération citoyenne",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -718,6 +1016,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -726,6 +1025,20 @@
       "etats": [
         {
           "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0051",
+          "nom_complet": "Le Peuple de France",
           "sources": [
             {
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
@@ -754,6 +1067,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -762,6 +1076,20 @@
       "etats": [
         {
           "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0048",
+          "nom_complet": "Osons la différence",
           "sources": [
             {
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
@@ -790,6 +1118,20 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0049",
+          "nom_complet": "L'Avenir c'est la Terre",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -808,6 +1150,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -816,6 +1159,20 @@
       "etats": [
         {
           "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0050",
+          "nom_complet": "Conseil national de transition",
           "sources": [
             {
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
@@ -844,6 +1201,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -862,6 +1220,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -870,6 +1229,20 @@
       "etats": [
         {
           "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0052",
+          "nom_complet": "Parti des citoyens européens",
           "sources": [
             {
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
@@ -898,6 +1271,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -916,6 +1290,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -934,6 +1309,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -942,6 +1318,20 @@
       "etats": [
         {
           "etat": "ecartee",
+          "sources": [
+            {
+              "id": "wikipedia-fr:candidatures-presidentielle-2022",
+              "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+              "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0053",
+          "nom_complet": "La France autrement",
           "sources": [
             {
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
@@ -970,6 +1360,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -988,6 +1379,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1001,6 +1393,20 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
               "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0040",
+          "nom_complet": "Les Nationalistes",
+          "sources": [
+            {
+              "id": "wikidata:Q29225872",
+              "url": "https://www.wikidata.org/wiki/Q29225872",
+              "commentaire": "Yvan BENEDETTI sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -1024,6 +1430,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1042,6 +1449,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1060,6 +1468,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1078,6 +1487,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1096,6 +1506,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1114,6 +1525,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1132,6 +1544,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1150,6 +1563,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1168,6 +1582,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1186,6 +1601,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1204,6 +1620,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1223,6 +1640,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1242,6 +1660,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1255,6 +1674,32 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
               "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0041",
+          "nom_complet": "Les Émergents",
+          "sources": [
+            {
+              "id": "wikidata:Q59535447",
+              "url": "https://www.wikidata.org/wiki/Q59535447",
+              "commentaire": "Jacline MOURAUD sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "id": "PA-0042",
+          "nom_complet": "Reconquête",
+          "sources": [
+            {
+              "id": "wikidata:Q59535447",
+              "url": "https://www.wikidata.org/wiki/Q59535447",
+              "commentaire": "Jacline MOURAUD sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -1279,6 +1724,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0043",
+          "nom_complet": "Les Patriotes",
+          "sigle": "LP",
+          "sources": [
+            {
+              "id": "wikidata:Q3074223",
+              "url": "https://www.wikidata.org/wiki/Q3074223",
+              "commentaire": "Florian PHILIPPOT sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": []
     },
     {
@@ -1292,6 +1752,20 @@
               "id": "wikipedia-fr:candidatures-presidentielle-2022",
               "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
               "commentaire": "Candidatures à l'élection présidentielle française de 2022",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0042",
+          "nom_complet": "Reconquête",
+          "sources": [
+            {
+              "id": "wikidata:Q3165988",
+              "url": "https://www.wikidata.org/wiki/Q3165988",
+              "commentaire": "Jean-Frédéric POISSON sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -1315,6 +1789,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -1333,6 +1808,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     }
   ]

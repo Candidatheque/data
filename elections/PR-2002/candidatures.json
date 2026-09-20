@@ -19,6 +19,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -45,6 +46,21 @@
               "id": "conseil-constitutionnel:2002-102-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
               "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0008",
+          "nom_complet": "Front national",
+          "sigle": "FN",
+          "sources": [
+            {
+              "id": "wikidata:Q7177",
+              "url": "https://www.wikidata.org/wiki/Q7177",
+              "commentaire": "Jean-Marie LE PEN sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -103,6 +119,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": []
     },
     {
@@ -117,6 +134,21 @@
               "id": "conseil-constitutionnel:2002-102-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
               "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0012",
+          "nom_complet": "Union pour un mouvement populaire",
+          "sigle": "UMP",
+          "sources": [
+            {
+              "id": "wikidata:Q2105",
+              "url": "https://www.wikidata.org/wiki/Q2105",
+              "commentaire": "Jacques CHIRAC sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -164,6 +196,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -190,6 +223,21 @@
               "id": "conseil-constitutionnel:2002-102-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
               "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0011",
+          "nom_complet": "Parti communiste français",
+          "sigle": "PCF",
+          "sources": [
+            {
+              "id": "wikidata:Q937091",
+              "url": "https://www.wikidata.org/wiki/Q937091",
+              "commentaire": "Robert HUE sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -226,6 +274,21 @@
           ]
         }
       ],
+      "partis": [
+        {
+          "id": "PA-0013",
+          "nom_complet": "Mouvement national républicain",
+          "sigle": "MNR",
+          "sources": [
+            {
+              "id": "wikidata:Q993611",
+              "url": "https://www.wikidata.org/wiki/Q993611",
+              "commentaire": "Bruno MÉGRET sur Wikidata, appartenance partisane (P102)",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
       "tours": [
         {
           "numero": 1,
@@ -252,6 +315,20 @@
               "id": "conseil-constitutionnel:2002-102-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
               "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0014",
+          "nom_complet": "Cap21",
+          "sources": [
+            {
+              "id": "wikidata:Q291341",
+              "url": "https://www.wikidata.org/wiki/Q291341",
+              "commentaire": "Corinne LEPAGE sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -288,6 +365,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -319,6 +397,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -350,6 +429,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -381,6 +461,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -407,6 +488,20 @@
               "id": "conseil-constitutionnel:2002-102-PDR",
               "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002102PDR.htm",
               "commentaire": "Décision du 4 avril 2002 arrêtant la liste des candidats à l'élection présidentielle",
+              "consultee_le": "2026-09-20"
+            }
+          ]
+        }
+      ],
+      "partis": [
+        {
+          "id": "PA-0015",
+          "nom_complet": "Les Verts",
+          "sources": [
+            {
+              "id": "wikidata:Q965109",
+              "url": "https://www.wikidata.org/wiki/Q965109",
+              "commentaire": "Noël MAMÈRE sur Wikidata, appartenance partisane (P102)",
               "consultee_le": "2026-09-20"
             }
           ]
@@ -443,6 +538,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -474,6 +570,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -505,6 +602,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
@@ -536,6 +634,7 @@
           ]
         }
       ],
+      "partis": [],
       "tours": [
         {
           "numero": 1,
