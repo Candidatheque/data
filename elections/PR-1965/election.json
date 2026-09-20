@@ -2,5 +2,17 @@
   "$schema": "../../schemas/election.schema.json",
   "id": "PR-1965",
   "annee": 1965,
-  "wikidata": "Q1450635"
+  "wikidata": "Q1450635",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "1965-12-05",
+      "wikidata": "Q112074051"
+    },
+    {
+      "numero": 2,
+      "date": "1965-12-19",
+      "wikidata": "Q112074059"
+    }
+  ]
 }

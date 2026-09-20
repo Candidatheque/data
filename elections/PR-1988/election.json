@@ -2,5 +2,15 @@
   "$schema": "../../schemas/election.schema.json",
   "id": "PR-1988",
   "annee": 1988,
-  "wikidata": "Q1450661"
+  "wikidata": "Q1450661",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "1988-04-24"
+    },
+    {
+      "numero": 2,
+      "date": "1988-05-08"
+    }
+  ]
 }

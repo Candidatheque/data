@@ -2,5 +2,17 @@
   "$schema": "../../schemas/election.schema.json",
   "id": "PR-2022",
   "annee": 2022,
-  "wikidata": "Q30638578"
+  "wikidata": "Q30638578",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "2022-04-10",
+      "wikidata": "Q111537764"
+    },
+    {
+      "numero": 2,
+      "date": "2022-04-24",
+      "wikidata": "Q111546063"
+    }
+  ]
 }

@@ -2,5 +2,17 @@
   "$schema": "../../schemas/election.schema.json",
   "id": "PR-2007",
   "annee": 2007,
-  "wikidata": "Q245238"
+  "wikidata": "Q245238",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "2007-04-22",
+      "wikidata": "Q112072937"
+    },
+    {
+      "numero": 2,
+      "date": "2007-05-06",
+      "wikidata": "Q112072941"
+    }
+  ]
 }
