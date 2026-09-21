@@ -197,6 +197,4734 @@
               "motif": "Considérant, toutefois, en l'état des informations dont dispose le Conseil constitutionnel, qu'il est établi que les conditions dans lesquelles ont fonctionné les 2 ° et 5 ° bureaux de vote de l'Île de Maré ainsi que le 4 ° bureau de vote de Yaté n'ont pas permis une expression régulière des suffrages ; que, dans ces circonstances, il y a lieu pour le Conseil constitutionnel d'annuler les suffrages exprimés dans ces différents bureaux ;"
             }
           ]
+        },
+        {
+          "etape": "rectification",
+          "date": "1988-05-12",
+          "sources": [
+            {
+              "id": "legifrance:JORF_19880512_111",
+              "url": "https://www.legifrance.gouv.fr/jorf/jo/1988/05/12/0111",
+              "commentaire": "Journal officiel n° 111 du 12 mai 1988, développement des résultats annexé à la proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 38179118,
+          "votants": 31059300,
+          "suffrages_exprimes": 30436744,
+          "voix": [
+            {
+              "personne": "PE-0031",
+              "nom_complet": "Raymond BARRE",
+              "voix": 5035144
+            },
+            {
+              "personne": "PE-0032",
+              "nom_complet": "Pierre JUQUIN",
+              "voix": 639133
+            },
+            {
+              "personne": "PE-0019",
+              "nom_complet": "Jean-Marie LE PEN",
+              "voix": 4376742
+            },
+            {
+              "personne": "PE-0030",
+              "nom_complet": "Jacques CHIRAC",
+              "voix": 6075160
+            },
+            {
+              "personne": "PE-0005",
+              "nom_complet": "François MITTERRAND",
+              "voix": 10381332
+            },
+            {
+              "personne": "PE-0033",
+              "nom_complet": "Pierre BOUSSEL",
+              "voix": 116874
+            },
+            {
+              "personne": "PE-0034",
+              "nom_complet": "Antoine WAECHTER",
+              "voix": 1149897
+            },
+            {
+              "personne": "PE-0018",
+              "nom_complet": "Arlette LAGUILLER",
+              "voix": 606201
+            },
+            {
+              "personne": "PE-0035",
+              "nom_complet": "André LAJOINIE",
+              "voix": 2056261
+            }
+          ],
+          "departements": [
+            {
+              "departement": "01",
+              "inscrits": 284999,
+              "votants": 230959,
+              "suffrages_exprimes": 226668,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 48082
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4120
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 36464
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 43343
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 71195
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 836
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 9176
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3416
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 10036
+                }
+              ]
+            },
+            {
+              "departement": "02",
+              "inscrits": 365387,
+              "votants": 306266,
+              "suffrages_exprimes": 299997,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 39969
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4181
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 40220
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 51498
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 118641
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1400
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 9802
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 7368
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 26918
+                }
+              ]
+            },
+            {
+              "departement": "03",
+              "inscrits": 266200,
+              "votants": 220197,
+              "suffrages_exprimes": 214919,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 32230
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4583
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 21801
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 41821
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 65073
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 864
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6443
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3161
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 38943
+                }
+              ]
+            },
+            {
+              "departement": "04",
+              "inscrits": 97417,
+              "votants": 80299,
+              "suffrages_exprimes": 78689,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 12345
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2417
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 13156
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 14436
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 23895
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 316
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 3555
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 1345
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 7224
+                }
+              ]
+            },
+            {
+              "departement": "05",
+              "inscrits": 81702,
+              "votants": 66614,
+              "suffrages_exprimes": 65265,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 12930
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 1865
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 8941
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 13457
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 18971
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 255
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 3475
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 1156
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 4215
+                }
+              ]
+            },
+            {
+              "departement": "06",
+              "inscrits": 648614,
+              "votants": 519431,
+              "suffrages_exprimes": 512759,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 76759
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 7643
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 124281
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 124581
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 125028
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1191
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 15533
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 6006
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 31737
+                }
+              ]
+            },
+            {
+              "departement": "07",
+              "inscrits": 203525,
+              "votants": 168243,
+              "suffrages_exprimes": 164977,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 31409
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4761
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 21272
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 32987
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 50554
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 668
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6825
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3253
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 13248
+                }
+              ]
+            },
+            {
+              "departement": "08",
+              "inscrits": 193851,
+              "votants": 158136,
+              "suffrages_exprimes": 155389,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 22111
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2584
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 23415
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 26928
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 57793
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 654
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 5539
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3617
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 12748
+                }
+              ]
+            },
+            {
+              "departement": "09",
+              "inscrits": 108146,
+              "votants": 88467,
+              "suffrages_exprimes": 86818,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 9046
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2751
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 8936
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 15781
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 35946
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 300
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 3055
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 1857
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 9146
+                }
+              ]
+            },
+            {
+              "departement": "10",
+              "inscrits": 192647,
+              "votants": 156220,
+              "suffrages_exprimes": 151483,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 26929
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2012
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 21838
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 31040
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 51069
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 598
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 5302
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2869
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 9826
+                }
+              ]
+            },
+            {
+              "departement": "11",
+              "inscrits": 216722,
+              "votants": 183673,
+              "suffrages_exprimes": 179923,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 18588
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4644
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 24685
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 31753
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 72185
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 565
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 5676
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3294
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 18533
+                }
+              ]
+            },
+            {
+              "departement": "12",
+              "inscrits": 212409,
+              "votants": 179497,
+              "suffrages_exprimes": 175305,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 32429
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4062
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 15542
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 45171
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 58860
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 682
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6903
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3804
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 7852
+                }
+              ]
+            },
+            {
+              "departement": "13",
+              "inscrits": 1085250,
+              "votants": 867931,
+              "suffrages_exprimes": 854539,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 118745
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 19374
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 225595
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 126249
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 230388
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2399
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 25118
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 11049
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 95622
+                }
+              ]
+            },
+            {
+              "departement": "14",
+              "inscrits": 414386,
+              "votants": 339319,
+              "suffrages_exprimes": 333018,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 60613
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 6811
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 36822
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 66242
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 124590
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1392
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 13639
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 7733
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 15176
+                }
+              ]
+            },
+            {
+              "departement": "15",
+              "inscrits": 125241,
+              "votants": 103563,
+              "suffrages_exprimes": 101737,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 11723
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 1850
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 7225
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 38097
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 32340
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 273
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 2487
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 1966
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 5776
+                }
+              ]
+            },
+            {
+              "departement": "16",
+              "inscrits": 252073,
+              "votants": 208149,
+              "suffrages_exprimes": 203288,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 31089
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4112
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 18081
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 39768
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 84146
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 787
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6547
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4476
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 14282
+                }
+              ]
+            },
+            {
+              "departement": "17",
+              "inscrits": 380931,
+              "votants": 306646,
+              "suffrages_exprimes": 299939,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 54219
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 5858
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 33497
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 60534
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 109272
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1315
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 11003
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 6315
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 17926
+                }
+              ]
+            },
+            {
+              "departement": "18",
+              "inscrits": 225337,
+              "votants": 185246,
+              "suffrages_exprimes": 181212,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 30034
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3810
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 20963
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 33926
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 60319
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 744
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 5873
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4180
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 21363
+                }
+              ]
+            },
+            {
+              "departement": "19",
+              "inscrits": 185099,
+              "votants": 161992,
+              "suffrages_exprimes": 158903,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 7703
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 5039
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 9418
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 62257
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 45965
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 412
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 3834
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2557
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 21718
+                }
+              ]
+            },
+            {
+              "departement": "2A",
+              "inscrits": 92030,
+              "votants": 62985,
+              "suffrages_exprimes": 61927,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 8790
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 1106
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 9174
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 19650
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 15996
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 90
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 1472
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 388
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 5261
+                }
+              ]
+            },
+            {
+              "departement": "2B",
+              "inscrits": 114551,
+              "votants": 76494,
+              "suffrages_exprimes": 75255,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 9065
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2323
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 9040
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 22868
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 23461
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 107
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 1980
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 497
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 5914
+                }
+              ]
+            },
+            {
+              "departement": "21",
+              "inscrits": 312752,
+              "votants": 254901,
+              "suffrages_exprimes": 250238,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 40075
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4605
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 34833
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 55175
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 89469
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1238
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 10244
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4733
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 9866
+                }
+              ]
+            },
+            {
+              "departement": "22",
+              "inscrits": 412856,
+              "votants": 353138,
+              "suffrages_exprimes": 347495,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 59859
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 9703
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 28627
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 65718
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 132970
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1191
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 14307
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 8672
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 26448
+                }
+              ]
+            },
+            {
+              "departement": "23",
+              "inscrits": 111152,
+              "votants": 89163,
+              "suffrages_exprimes": 86933,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 8658
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2437
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 6770
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 24522
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 30269
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 361
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 2196
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 1995
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 9725
+                }
+              ]
+            },
+            {
+              "departement": "24",
+              "inscrits": 302007,
+              "votants": 257774,
+              "suffrages_exprimes": 251557,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 30419
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 6979
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 24682
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 59791
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 87646
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 843
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 8087
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4581
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 28529
+                }
+              ]
+            },
+            {
+              "departement": "25",
+              "inscrits": 306829,
+              "votants": 255616,
+              "suffrages_exprimes": 250444,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 39135
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 5414
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 36109
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 53886
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 87532
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1055
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 12243
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 6439
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 8631
+                }
+              ]
+            },
+            {
+              "departement": "26",
+              "inscrits": 274836,
+              "votants": 225752,
+              "suffrages_exprimes": 221196,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 37840
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 6547
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 36938
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 40569
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 69913
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 847
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 10130
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4292
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 14120
+                }
+              ]
+            },
+            {
+              "departement": "27",
+              "inscrits": 336345,
+              "votants": 279159,
+              "suffrages_exprimes": 272676,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 44589
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4458
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 38288
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 53637
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 99559
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1191
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 9384
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 5959
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 15611
+                }
+              ]
+            },
+            {
+              "departement": "28",
+              "inscrits": 256470,
+              "votants": 213811,
+              "suffrages_exprimes": 209405,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 36879
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3307
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 32245
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 40427
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 74834
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 940
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 7078
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4189
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 9506
+                }
+              ]
+            },
+            {
+              "departement": "29",
+              "inscrits": 615226,
+              "votants": 512056,
+              "suffrages_exprimes": 505656,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 98919
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 14007
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 50149
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 105807
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 180541
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1660
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 21604
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 11051
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 21918
+                }
+              ]
+            },
+            {
+              "departement": "30",
+              "inscrits": 394396,
+              "votants": 325909,
+              "suffrages_exprimes": 319464,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 46525
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 9420
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 65778
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 49060
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 92800
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1190
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 10514
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 5611
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 38566
+                }
+              ]
+            },
+            {
+              "departement": "31",
+              "inscrits": 587575,
+              "votants": 478936,
+              "suffrages_exprimes": 470504,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 69344
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 14254
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 61877
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 78996
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 189847
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1538
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 17430
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 9442
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 27776
+                }
+              ]
+            },
+            {
+              "departement": "32",
+              "inscrits": 137959,
+              "votants": 113734,
+              "suffrages_exprimes": 111209,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 16073
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2684
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 11882
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 22571
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 44651
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 364
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 4195
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2175
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 6614
+                }
+              ]
+            },
+            {
+              "departement": "33",
+              "inscrits": 775467,
+              "votants": 638770,
+              "suffrages_exprimes": 627507,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 97846
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 13702
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 77180
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 121460
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 243844
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2318
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 18951
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 12674
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 39532
+                }
+              ]
+            },
+            {
+              "departement": "34",
+              "inscrits": 516320,
+              "votants": 422193,
+              "suffrages_exprimes": 415050,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 56629
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 14681
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 82655
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 71894
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 129162
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1526
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 13867
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 7120
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 37516
+                }
+              ]
+            },
+            {
+              "departement": "35",
+              "inscrits": 531440,
+              "votants": 440908,
+              "suffrages_exprimes": 432401,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 88213
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 9260
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 37341
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 90568
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 162633
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1801
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 19071
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 11236
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 12278
+                }
+              ]
+            },
+            {
+              "departement": "36",
+              "inscrits": 181927,
+              "votants": 152369,
+              "suffrages_exprimes": 147931,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 21672
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3137
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 16778
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 29401
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 55690
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 635
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 4291
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3844
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 12483
+                }
+              ]
+            },
+            {
+              "departement": "37",
+              "inscrits": 351108,
+              "votants": 285825,
+              "suffrages_exprimes": 279280,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 52366
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 5697
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 34155
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 51106
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 104833
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1375
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 9655
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 6229
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 13864
+                }
+              ]
+            },
+            {
+              "departement": "38",
+              "inscrits": 612755,
+              "votants": 501994,
+              "suffrages_exprimes": 492919,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 83421
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 13991
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 79338
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 81850
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 167115
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1980
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 22665
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 8830
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 33729
+                }
+              ]
+            },
+            {
+              "departement": "39",
+              "inscrits": 173510,
+              "votants": 143275,
+              "suffrages_exprimes": 140076,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 24415
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2790
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 20347
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 26292
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 46825
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 651
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 7497
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3445
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 7814
+                }
+              ]
+            },
+            {
+              "departement": "40",
+              "inscrits": 233725,
+              "votants": 199548,
+              "suffrages_exprimes": 195604,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 29273
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3845
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 17529
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 41076
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 82290
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 578
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 4549
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2881
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 13583
+                }
+              ]
+            },
+            {
+              "departement": "41",
+              "inscrits": 216846,
+              "votants": 183361,
+              "suffrages_exprimes": 178605,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 32550
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3449
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 22841
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 34562
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 63492
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 721
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 5579
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3973
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 11438
+                }
+              ]
+            },
+            {
+              "departement": "42",
+              "inscrits": 477662,
+              "votants": 380851,
+              "suffrages_exprimes": 373215,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 69075
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 8429
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 64808
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 66909
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 113515
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1710
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 15141
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 7574
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 26054
+                }
+              ]
+            },
+            {
+              "departement": "43",
+              "inscrits": 156620,
+              "votants": 129093,
+              "suffrages_exprimes": 126073,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 27016
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2912
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 17751
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 26470
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 37791
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 600
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 5034
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2891
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 5608
+                }
+              ]
+            },
+            {
+              "departement": "44",
+              "inscrits": 704725,
+              "votants": 573653,
+              "suffrages_exprimes": 562105,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 111809
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 13345
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 56420
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 111074
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 206809
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2862
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 23978
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 13449
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 22359
+                }
+              ]
+            },
+            {
+              "departement": "45",
+              "inscrits": 364925,
+              "votants": 305570,
+              "suffrages_exprimes": 298538,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 54581
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 5318
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 44554
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 62761
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 95010
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1253
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 11161
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 6057
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 17843
+                }
+              ]
+            },
+            {
+              "departement": "46",
+              "inscrits": 121744,
+              "votants": 103753,
+              "suffrages_exprimes": 101401,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 12285
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3038
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 8452
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 24160
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 39313
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 377
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 4466
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2138
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 7172
+                }
+              ]
+            },
+            {
+              "departement": "47",
+              "inscrits": 224088,
+              "votants": 189102,
+              "suffrages_exprimes": 184797,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 29635
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4313
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 28485
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 34239
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 62147
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 600
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6431
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3242
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 15705
+                }
+              ]
+            },
+            {
+              "departement": "48",
+              "inscrits": 57132,
+              "votants": 47044,
+              "suffrages_exprimes": 46225,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 9982
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 1195
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 5377
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 12449
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 12406
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 180
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 1583
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 800
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 2253
+                }
+              ]
+            },
+            {
+              "departement": "49",
+              "inscrits": 460597,
+              "votants": 387432,
+              "suffrages_exprimes": 376863,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 91498
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 6022
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 35901
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 83133
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 122978
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1683
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 15622
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 9673
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 10353
+                }
+              ]
+            },
+            {
+              "departement": "50",
+              "inscrits": 340966,
+              "votants": 281665,
+              "suffrages_exprimes": 276060,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 57655
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4210
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 29753
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 64212
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 93265
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1205
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 11917
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 6041
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 7802
+                }
+              ]
+            },
+            {
+              "departement": "51",
+              "inscrits": 352702,
+              "votants": 284626,
+              "suffrages_exprimes": 279538,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 48122
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3960
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 39217
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 57278
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 96748
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1081
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 11047
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 5734
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 16351
+                }
+              ]
+            },
+            {
+              "departement": "52",
+              "inscrits": 147196,
+              "votants": 119162,
+              "suffrages_exprimes": 116285,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 18166
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 1652
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 18176
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 22767
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 41028
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 548
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 4891
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2800
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 6257
+                }
+              ]
+            },
+            {
+              "departement": "53",
+              "inscrits": 196728,
+              "votants": 167779,
+              "suffrages_exprimes": 162608,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 38063
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2551
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 13346
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 39235
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 54702
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 841
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6604
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3711
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 3555
+                }
+              ]
+            },
+            {
+              "departement": "54",
+              "inscrits": 469562,
+              "votants": 375727,
+              "suffrages_exprimes": 368383,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 66230
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 8676
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 54695
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 57583
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 129259
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1684
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 15484
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 9697
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 25075
+                }
+              ]
+            },
+            {
+              "departement": "55",
+              "inscrits": 140246,
+              "votants": 116850,
+              "suffrages_exprimes": 114166,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 21029
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 1540
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 17130
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 20617
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 40108
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 475
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 5111
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2975
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 5181
+                }
+              ]
+            },
+            {
+              "departement": "56",
+              "inscrits": 443526,
+              "votants": 372208,
+              "suffrages_exprimes": 366068,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 72011
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 6403
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 47525
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 72918
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 128057
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1254
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 14280
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 7666
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 15954
+                }
+              ]
+            },
+            {
+              "departement": "57",
+              "inscrits": 666371,
+              "votants": 547641,
+              "suffrages_exprimes": 535978,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 89343
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 7521
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 106713
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 87136
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 178707
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2481
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 25855
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 16341
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 21881
+                }
+              ]
+            },
+            {
+              "departement": "58",
+              "inscrits": 177164,
+              "votants": 146093,
+              "suffrages_exprimes": 143197,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 17831
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2533
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 13925
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 24376
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 63765
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 520
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 4013
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2501
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 13733
+                }
+              ]
+            },
+            {
+              "departement": "59",
+              "inscrits": 1634459,
+              "votants": 1360078,
+              "suffrages_exprimes": 1329195,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 207212
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 20434
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 201473
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 199741
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 488371
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 5056
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 38846
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 30575
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 137487
+                }
+              ]
+            },
+            {
+              "departement": "60",
+              "inscrits": 443577,
+              "votants": 374594,
+              "suffrages_exprimes": 367477,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 51639
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 5781
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 61478
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 65199
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 134132
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1423
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 12253
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 8678
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 26894
+                }
+              ]
+            },
+            {
+              "departement": "61",
+              "inscrits": 210113,
+              "votants": 175930,
+              "suffrages_exprimes": 172246,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 33282
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2862
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 20313
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 40298
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 58774
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 645
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6907
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4029
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 5136
+                }
+              ]
+            },
+            {
+              "departement": "62",
+              "inscrits": 985579,
+              "votants": 840316,
+              "suffrages_exprimes": 817315,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 114054
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 11751
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 93152
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 118599
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 336863
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 3335
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 22507
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 22412
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 94642
+                }
+              ]
+            },
+            {
+              "departement": "63",
+              "inscrits": 401454,
+              "votants": 330982,
+              "suffrages_exprimes": 322984,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 56408
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 10279
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 37400
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 63316
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 110494
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1604
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 13021
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 7491
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 22971
+                }
+              ]
+            },
+            {
+              "departement": "64",
+              "inscrits": 413587,
+              "votants": 341711,
+              "suffrages_exprimes": 335141,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 60678
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 7787
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 35817
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 81986
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 113375
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1072
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 11428
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 6413
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 16585
+                }
+              ]
+            },
+            {
+              "departement": "65",
+              "inscrits": 171749,
+              "votants": 138837,
+              "suffrages_exprimes": 135854,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 21219
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4232
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 13497
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 24917
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 51421
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 485
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 4336
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2489
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 13258
+                }
+              ]
+            },
+            {
+              "departement": "66",
+              "inscrits": 251898,
+              "votants": 202274,
+              "suffrages_exprimes": 198501,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 26584
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4816
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 40738
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 35354
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 62341
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 591
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6329
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3111
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 18637
+                }
+              ]
+            },
+            {
+              "departement": "67",
+              "inscrits": 617322,
+              "votants": 503573,
+              "suffrages_exprimes": 493935,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 91884
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4321
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 108350
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 86906
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 139247
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1480
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 46300
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 8982
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 6465
+                }
+              ]
+            },
+            {
+              "departement": "68",
+              "inscrits": 436205,
+              "votants": 358361,
+              "suffrages_exprimes": 350803,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 63421
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2637
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 76158
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 59880
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 103851
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 887
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 32610
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 6032
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 5327
+                }
+              ]
+            },
+            {
+              "departement": "69",
+              "inscrits": 880708,
+              "votants": 706705,
+              "suffrages_exprimes": 695528,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 152918
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 15121
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 125406
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 120767
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 203960
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2415
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 26478
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 10517
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 37946
+                }
+              ]
+            },
+            {
+              "departement": "70",
+              "inscrits": 165622,
+              "votants": 139138,
+              "suffrages_exprimes": 135349,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 20964
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2228
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 18748
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 27237
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 50658
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 547
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 5564
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3142
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 6261
+                }
+              ]
+            },
+            {
+              "departement": "71",
+              "inscrits": 396538,
+              "votants": 316845,
+              "suffrages_exprimes": 309299,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 53137
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 5031
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 34374
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 63609
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 116184
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1167
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 10089
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 5748
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 19960
+                }
+              ]
+            },
+            {
+              "departement": "72",
+              "inscrits": 362926,
+              "votants": 298055,
+              "suffrages_exprimes": 289781,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 52584
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 6256
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 27077
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 55993
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 110379
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1370
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 10551
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 7708
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 17863
+                }
+              ]
+            },
+            {
+              "departement": "73",
+              "inscrits": 230132,
+              "votants": 183935,
+              "suffrages_exprimes": 180616,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 32596
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4019
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 27465
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 37843
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 54852
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 762
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 9034
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3391
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 10654
+                }
+              ]
+            },
+            {
+              "departement": "74",
+              "inscrits": 336725,
+              "votants": 270188,
+              "suffrages_exprimes": 265382,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 60556
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4305
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 41067
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 59765
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 72066
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 899
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 14294
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3910
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 8520
+                }
+              ]
+            },
+            {
+              "departement": "75",
+              "inscrits": 1238623,
+              "votants": 952184,
+              "suffrages_exprimes": 942325,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 128128
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 25964
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 126123
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 297514
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 277768
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 3215
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 34316
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 14820
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 34477
+                }
+              ]
+            },
+            {
+              "departement": "76",
+              "inscrits": 808059,
+              "votants": 664600,
+              "suffrages_exprimes": 650890,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 104552
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 13460
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 73097
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 109137
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 254044
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2842
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 21820
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 15701
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 56237
+                }
+              ]
+            },
+            {
+              "departement": "77",
+              "inscrits": 609181,
+              "votants": 496612,
+              "suffrages_exprimes": 488006,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 73770
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 9248
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 86638
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 96909
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 161061
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2054
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 18612
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 8993
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 30721
+                }
+              ]
+            },
+            {
+              "departement": "78",
+              "inscrits": 772804,
+              "votants": 634280,
+              "suffrages_exprimes": 625151,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 115565
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 12634
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 94100
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 153090
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 183684
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2209
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 24713
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 9874
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 29282
+                }
+              ]
+            },
+            {
+              "departement": "79",
+              "inscrits": 250098,
+              "votants": 210519,
+              "suffrages_exprimes": 204237,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 43181
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3667
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 15299
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 43303
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 76530
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1199
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 9121
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 5430
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 6507
+                }
+              ]
+            },
+            {
+              "departement": "80",
+              "inscrits": 381128,
+              "votants": 326634,
+              "suffrages_exprimes": 319563,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 47458
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 5808
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 44095
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 53997
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 117217
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1246
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 9171
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 8390
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 32181
+                }
+              ]
+            },
+            {
+              "departement": "81",
+              "inscrits": 253432,
+              "votants": 216101,
+              "suffrages_exprimes": 210540,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 31038
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4862
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 31110
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 40319
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 76917
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 780
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 8158
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4358
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 12998
+                }
+              ]
+            },
+            {
+              "departement": "82",
+              "inscrits": 145512,
+              "votants": 122069,
+              "suffrages_exprimes": 119313,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 16350
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 2522
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 18123
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 24351
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 43389
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 428
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 4692
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 2368
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 7090
+                }
+              ]
+            },
+            {
+              "departement": "83",
+              "inscrits": 542667,
+              "votants": 440097,
+              "suffrages_exprimes": 433521,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 70101
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 8350
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 108752
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 86320
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 110356
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1134
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 12335
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 5302
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 30871
+                }
+              ]
+            },
+            {
+              "departement": "84",
+              "inscrits": 304161,
+              "votants": 255089,
+              "suffrages_exprimes": 249682,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 37911
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 5086
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 57724
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 41769
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 73445
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1002
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 9240
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3954
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 19551
+                }
+              ]
+            },
+            {
+              "departement": "85",
+              "inscrits": 364447,
+              "votants": 313778,
+              "suffrages_exprimes": 305641,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 73397
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4186
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 26589
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 74923
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 98386
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1150
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 11956
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 6748
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 8306
+                }
+              ]
+            },
+            {
+              "departement": "86",
+              "inscrits": 270895,
+              "votants": 224460,
+              "suffrages_exprimes": 218446,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 35797
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4930
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 20325
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 47558
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 82706
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1035
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 8382
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4952
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 12761
+                }
+              ]
+            },
+            {
+              "departement": "87",
+              "inscrits": 262298,
+              "votants": 221440,
+              "suffrages_exprimes": 215029,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 23614
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 8710
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 16852
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 47599
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 81401
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 845
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6637
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 4941
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 24430
+                }
+              ]
+            },
+            {
+              "departement": "88",
+              "inscrits": 275186,
+              "votants": 227661,
+              "suffrages_exprimes": 220582,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 38298
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3190
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 32837
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 42324
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 78034
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 1009
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 10612
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 5612
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 8666
+                }
+              ]
+            },
+            {
+              "departement": "89",
+              "inscrits": 221190,
+              "votants": 181773,
+              "suffrages_exprimes": 177801,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 30639
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 3010
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 27966
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 35494
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 58944
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 875
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 6451
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 3211
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 11211
+                }
+              ]
+            },
+            {
+              "departement": "90",
+              "inscrits": 84928,
+              "votants": 69547,
+              "suffrages_exprimes": 67921,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 9437
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 1410
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 11390
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 11749
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 24983
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 350
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 3589
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 1966
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 3047
+                }
+              ]
+            },
+            {
+              "departement": "91",
+              "inscrits": 636023,
+              "votants": 520135,
+              "suffrages_exprimes": 511638,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 81061
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 17509
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 76656
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 98927
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 168543
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2094
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 22179
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 9569
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 35100
+                }
+              ]
+            },
+            {
+              "departement": "92",
+              "inscrits": 816777,
+              "votants": 660647,
+              "suffrages_exprimes": 652129,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 107684
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 15775
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 96321
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 161206
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 189811
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2343
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 23964
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 10267
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 44758
+                }
+              ]
+            },
+            {
+              "departement": "93",
+              "inscrits": 710366,
+              "votants": 552355,
+              "suffrages_exprimes": 543551,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 60309
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 13880
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 107692
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 79419
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 178928
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2284
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 17768
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 9846
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 73425
+                }
+              ]
+            },
+            {
+              "departement": "94",
+              "inscrits": 700106,
+              "votants": 560287,
+              "suffrages_exprimes": 549303,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 77060
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 14763
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 85940
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 106428
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 172814
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2317
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 20882
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 8976
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 60123
+                }
+              ]
+            },
+            {
+              "departement": "95",
+              "inscrits": 572242,
+              "votants": 463008,
+              "suffrages_exprimes": 455676,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 66223
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 10198
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 82387
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 82039
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 151269
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 2002
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 17356
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 8224
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 35978
+                }
+              ]
+            },
+            {
+              "departement": "971",
+              "inscrits": 196670,
+              "votants": 82346,
+              "suffrages_exprimes": 76853,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 8118
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 317
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 1292
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 19452
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 42283
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 140
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 452
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 602
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 4197
+                }
+              ]
+            },
+            {
+              "departement": "973",
+              "inscrits": 30216,
+              "votants": 16921,
+              "suffrages_exprimes": 16356,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 1498
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 105
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 771
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 4998
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 8495
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 38
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 191
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 148
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 112
+                }
+              ]
+            },
+            {
+              "departement": "972",
+              "inscrits": 216422,
+              "votants": 124719,
+              "suffrages_exprimes": 116938,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 19125
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 350
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 1365
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 23228
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 68846
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 193
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 686
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 826
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 2319
+                }
+              ]
+            },
+            {
+              "departement": "974",
+              "inscrits": 292622,
+              "votants": 215473,
+              "suffrages_exprimes": 211111,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 51733
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 1299
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 3740
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 36850
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 107976
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 673
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 1651
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 1826
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 5363
+                }
+              ]
+            },
+            {
+              "departement": "975",
+              "inscrits": 4426,
+              "votants": 2480,
+              "suffrages_exprimes": 2150,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 304
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 20
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 106
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 752
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 693
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 14
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 181
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 60
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 20
+                }
+              ]
+            },
+            {
+              "departement": "976",
+              "inscrits": 22254,
+              "votants": 15365,
+              "suffrages_exprimes": 15222,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 8352
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 89
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 196
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 5615
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 610
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 54
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 37
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 79
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 190
+                }
+              ]
+            },
+            {
+              "departement": "988",
+              "inscrits": 88223,
+              "votants": 51309,
+              "suffrages_exprimes": 50805,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 3123
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 92
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 6297
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 37915
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 2532
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 79
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 306
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 293
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 168
+                }
+              ]
+            },
+            {
+              "departement": "987",
+              "inscrits": 107984,
+              "votants": 60585,
+              "suffrages_exprimes": 59381,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 5992
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 304
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 1728
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 23700
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 26051
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 145
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 555
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 394
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 512
+                }
+              ]
+            },
+            {
+              "departement": "986",
+              "inscrits": 8316,
+              "votants": 6020,
+              "suffrages_exprimes": 6013,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 2364
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 4
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 37
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 3143
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 434
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 7
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 12
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 10
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 2
+                }
+              ]
+            },
+            {
+              "hors_departement": "francais-etablis-hors-de-france",
+              "inscrits": 163296,
+              "votants": 102516,
+              "suffrages_exprimes": 101904,
+              "voix": [
+                {
+                  "personne": "PE-0031",
+                  "voix": 19987
+                },
+                {
+                  "personne": "PE-0032",
+                  "voix": 1640
+                },
+                {
+                  "personne": "PE-0019",
+                  "voix": 9745
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 35650
+                },
+                {
+                  "personne": "PE-0005",
+                  "voix": 29004
+                },
+                {
+                  "personne": "PE-0033",
+                  "voix": 175
+                },
+                {
+                  "personne": "PE-0034",
+                  "voix": 3933
+                },
+                {
+                  "personne": "PE-0018",
+                  "voix": 865
+                },
+                {
+                  "personne": "PE-0035",
+                  "voix": 905
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -297,6 +5025,1731 @@
                 {
                   "code": "8.2.5.4.2",
                   "intitule": "Discordance entre émargements et bulletins"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "etape": "rectification",
+          "date": "1988-05-12",
+          "sources": [
+            {
+              "id": "legifrance:JORF_19880512_111",
+              "url": "https://www.legifrance.gouv.fr/jorf/jo/1988/05/12/0111",
+              "commentaire": "Journal officiel n° 111 du 12 mai 1988, développement des résultats annexé à la proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 38168869,
+          "votants": 32085071,
+          "suffrages_exprimes": 30923249,
+          "voix": [
+            {
+              "personne": "PE-0005",
+              "nom_complet": "François MITTERRAND",
+              "voix": 16704279
+            },
+            {
+              "personne": "PE-0030",
+              "nom_complet": "Jacques CHIRAC",
+              "voix": 14218970
+            }
+          ],
+          "departements": [
+            {
+              "departement": "01",
+              "inscrits": 285010,
+              "votants": 240362,
+              "suffrages_exprimes": 231916,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 114295
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 117621
+                }
+              ]
+            },
+            {
+              "departement": "02",
+              "inscrits": 365303,
+              "votants": 315620,
+              "suffrages_exprimes": 304563,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 187700
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 116863
+                }
+              ]
+            },
+            {
+              "departement": "03",
+              "inscrits": 266177,
+              "votants": 226054,
+              "suffrages_exprimes": 217058,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 125709
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 91349
+                }
+              ]
+            },
+            {
+              "departement": "04",
+              "inscrits": 97378,
+              "votants": 83803,
+              "suffrages_exprimes": 80347,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 42645
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 37702
+                }
+              ]
+            },
+            {
+              "departement": "05",
+              "inscrits": 81739,
+              "votants": 70647,
+              "suffrages_exprimes": 68137,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 33847
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 34290
+                }
+              ]
+            },
+            {
+              "departement": "06",
+              "inscrits": 648574,
+              "votants": 535810,
+              "suffrages_exprimes": 519001,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 212528
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 306473
+                }
+              ]
+            },
+            {
+              "departement": "07",
+              "inscrits": 203485,
+              "votants": 175279,
+              "suffrages_exprimes": 169289,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 88528
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 80761
+                }
+              ]
+            },
+            {
+              "departement": "08",
+              "inscrits": 193795,
+              "votants": 164533,
+              "suffrages_exprimes": 158978,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 94642
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 64336
+                }
+              ]
+            },
+            {
+              "departement": "09",
+              "inscrits": 108104,
+              "votants": 93814,
+              "suffrages_exprimes": 90832,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 58073
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 32759
+                }
+              ]
+            },
+            {
+              "departement": "10",
+              "inscrits": 192309,
+              "votants": 161569,
+              "suffrages_exprimes": 155265,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 81118
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 74147
+                }
+              ]
+            },
+            {
+              "departement": "11",
+              "inscrits": 216655,
+              "votants": 190189,
+              "suffrages_exprimes": 182454,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 111709
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 70745
+                }
+              ]
+            },
+            {
+              "departement": "12",
+              "inscrits": 212348,
+              "votants": 187707,
+              "suffrages_exprimes": 182029,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 91943
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 90086
+                }
+              ]
+            },
+            {
+              "departement": "13",
+              "inscrits": 1085148,
+              "votants": 888460,
+              "suffrages_exprimes": 850205,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 429190
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 421015
+                }
+              ]
+            },
+            {
+              "departement": "14",
+              "inscrits": 414263,
+              "votants": 350122,
+              "suffrages_exprimes": 339420,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 189458
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 149962
+                }
+              ]
+            },
+            {
+              "departement": "15",
+              "inscrits": 125187,
+              "votants": 109122,
+              "suffrages_exprimes": 106661,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 48754
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 57907
+                }
+              ]
+            },
+            {
+              "departement": "16",
+              "inscrits": 252056,
+              "votants": 216405,
+              "suffrages_exprimes": 209466,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 125330
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 84136
+                }
+              ]
+            },
+            {
+              "departement": "17",
+              "inscrits": 380808,
+              "votants": 319576,
+              "suffrages_exprimes": 309163,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 168163
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 141000
+                }
+              ]
+            },
+            {
+              "departement": "18",
+              "inscrits": 225184,
+              "votants": 191170,
+              "suffrages_exprimes": 183656,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 104805
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 78851
+                }
+              ]
+            },
+            {
+              "departement": "19",
+              "inscrits": 184963,
+              "votants": 167185,
+              "suffrages_exprimes": 162095,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 82497
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 79598
+                }
+              ]
+            },
+            {
+              "departement": "2A",
+              "inscrits": 91995,
+              "votants": 70789,
+              "suffrages_exprimes": 69206,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 29466
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 39740
+                }
+              ]
+            },
+            {
+              "departement": "2B",
+              "inscrits": 114465,
+              "votants": 87116,
+              "suffrages_exprimes": 85361,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 41261
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 44100
+                }
+              ]
+            },
+            {
+              "departement": "21",
+              "inscrits": 312695,
+              "votants": 266360,
+              "suffrages_exprimes": 257573,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 135472
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 122101
+                }
+              ]
+            },
+            {
+              "departement": "22",
+              "inscrits": 412712,
+              "votants": 365513,
+              "suffrages_exprimes": 349753,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 207677
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 142076
+                }
+              ]
+            },
+            {
+              "departement": "23",
+              "inscrits": 111097,
+              "votants": 93845,
+              "suffrages_exprimes": 90884,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 50811
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 40073
+                }
+              ]
+            },
+            {
+              "departement": "24",
+              "inscrits": 301880,
+              "votants": 267404,
+              "suffrages_exprimes": 258138,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 146156
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 111982
+                }
+              ]
+            },
+            {
+              "departement": "25",
+              "inscrits": 306721,
+              "votants": 266099,
+              "suffrages_exprimes": 256532,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 137136
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 119396
+                }
+              ]
+            },
+            {
+              "departement": "26",
+              "inscrits": 274955,
+              "votants": 234183,
+              "suffrages_exprimes": 225302,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 118236
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 107066
+                }
+              ]
+            },
+            {
+              "departement": "27",
+              "inscrits": 336157,
+              "votants": 287050,
+              "suffrages_exprimes": 277056,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 153981
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 123075
+                }
+              ]
+            },
+            {
+              "departement": "28",
+              "inscrits": 256469,
+              "votants": 220051,
+              "suffrages_exprimes": 211943,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 113994
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 97949
+                }
+              ]
+            },
+            {
+              "departement": "29",
+              "inscrits": 615115,
+              "votants": 529648,
+              "suffrages_exprimes": 515425,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 280287
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 235138
+                }
+              ]
+            },
+            {
+              "departement": "30",
+              "inscrits": 394448,
+              "votants": 335686,
+              "suffrages_exprimes": 320306,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 174078
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 146228
+                }
+              ]
+            },
+            {
+              "departement": "31",
+              "inscrits": 587518,
+              "votants": 498141,
+              "suffrages_exprimes": 481134,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 287139
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 193995
+                }
+              ]
+            },
+            {
+              "departement": "32",
+              "inscrits": 137964,
+              "votants": 119494,
+              "suffrages_exprimes": 115525,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 66456
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 49069
+                }
+              ]
+            },
+            {
+              "departement": "33",
+              "inscrits": 775215,
+              "votants": 658282,
+              "suffrages_exprimes": 637254,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 362978
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 274276
+                }
+              ]
+            },
+            {
+              "departement": "34",
+              "inscrits": 516220,
+              "votants": 439565,
+              "suffrages_exprimes": 423039,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 225556
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 197483
+                }
+              ]
+            },
+            {
+              "departement": "35",
+              "inscrits": 531313,
+              "votants": 457481,
+              "suffrages_exprimes": 444457,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 240984
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 203473
+                }
+              ]
+            },
+            {
+              "departement": "36",
+              "inscrits": 181887,
+              "votants": 157964,
+              "suffrages_exprimes": 151465,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 88650
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 62815
+                }
+              ]
+            },
+            {
+              "departement": "37",
+              "inscrits": 351029,
+              "votants": 295005,
+              "suffrages_exprimes": 284254,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 159212
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 125042
+                }
+              ]
+            },
+            {
+              "departement": "38",
+              "inscrits": 612725,
+              "votants": 520312,
+              "suffrages_exprimes": 501490,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 278841
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 222649
+                }
+              ]
+            },
+            {
+              "departement": "39",
+              "inscrits": 173384,
+              "votants": 150265,
+              "suffrages_exprimes": 144058,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 78297
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 65761
+                }
+              ]
+            },
+            {
+              "departement": "40",
+              "inscrits": 233660,
+              "votants": 205659,
+              "suffrages_exprimes": 199496,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 115012
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 84484
+                }
+              ]
+            },
+            {
+              "departement": "41",
+              "inscrits": 216783,
+              "votants": 188659,
+              "suffrages_exprimes": 181360,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 99674
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 81686
+                }
+              ]
+            },
+            {
+              "departement": "42",
+              "inscrits": 477541,
+              "votants": 394733,
+              "suffrages_exprimes": 379159,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 196872
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 182287
+                }
+              ]
+            },
+            {
+              "departement": "43",
+              "inscrits": 156669,
+              "votants": 135309,
+              "suffrages_exprimes": 130310,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 63534
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 66776
+                }
+              ]
+            },
+            {
+              "departement": "44",
+              "inscrits": 704534,
+              "votants": 591307,
+              "suffrages_exprimes": 571944,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 313263
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 258681
+                }
+              ]
+            },
+            {
+              "departement": "45",
+              "inscrits": 364738,
+              "votants": 314665,
+              "suffrages_exprimes": 302035,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 154224
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 147811
+                }
+              ]
+            },
+            {
+              "departement": "46",
+              "inscrits": 121744,
+              "votants": 108613,
+              "suffrages_exprimes": 105158,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 60953
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 44205
+                }
+              ]
+            },
+            {
+              "departement": "47",
+              "inscrits": 224014,
+              "votants": 195068,
+              "suffrages_exprimes": 187265,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 101157
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 86108
+                }
+              ]
+            },
+            {
+              "departement": "48",
+              "inscrits": 57111,
+              "votants": 49947,
+              "suffrages_exprimes": 48556,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 20908
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 27648
+                }
+              ]
+            },
+            {
+              "departement": "49",
+              "inscrits": 460544,
+              "votants": 395553,
+              "suffrages_exprimes": 381116,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 186672
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 194444
+                }
+              ]
+            },
+            {
+              "departement": "50",
+              "inscrits": 340887,
+              "votants": 290829,
+              "suffrages_exprimes": 282166,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 139093
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 143073
+                }
+              ]
+            },
+            {
+              "departement": "51",
+              "inscrits": 352619,
+              "votants": 294961,
+              "suffrages_exprimes": 284641,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 153323
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 131318
+                }
+              ]
+            },
+            {
+              "departement": "52",
+              "inscrits": 147146,
+              "votants": 123854,
+              "suffrages_exprimes": 119082,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 65120
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 53962
+                }
+              ]
+            },
+            {
+              "departement": "53",
+              "inscrits": 196587,
+              "votants": 171513,
+              "suffrages_exprimes": 165551,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 79839
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 85712
+                }
+              ]
+            },
+            {
+              "departement": "54",
+              "inscrits": 469317,
+              "votants": 387798,
+              "suffrages_exprimes": 372939,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 217371
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 155568
+                }
+              ]
+            },
+            {
+              "departement": "55",
+              "inscrits": 140223,
+              "votants": 120795,
+              "suffrages_exprimes": 116234,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 62443
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 53791
+                }
+              ]
+            },
+            {
+              "departement": "56",
+              "inscrits": 443338,
+              "votants": 381308,
+              "suffrages_exprimes": 370009,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 195948
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 174061
+                }
+              ]
+            },
+            {
+              "departement": "57",
+              "inscrits": 666352,
+              "votants": 558710,
+              "suffrages_exprimes": 534025,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 297217
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 236808
+                }
+              ]
+            },
+            {
+              "departement": "58",
+              "inscrits": 177107,
+              "votants": 151975,
+              "suffrages_exprimes": 146914,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 93967
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 52947
+                }
+              ]
+            },
+            {
+              "departement": "59",
+              "inscrits": 1634341,
+              "votants": 1385909,
+              "suffrages_exprimes": 1330483,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 805236
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 525247
+                }
+              ]
+            },
+            {
+              "departement": "60",
+              "inscrits": 443430,
+              "votants": 383088,
+              "suffrages_exprimes": 368622,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 214255
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 154367
+                }
+              ]
+            },
+            {
+              "departement": "61",
+              "inscrits": 210079,
+              "votants": 181767,
+              "suffrages_exprimes": 175973,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 89282
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 86691
+                }
+              ]
+            },
+            {
+              "departement": "62",
+              "inscrits": 985481,
+              "votants": 853067,
+              "suffrages_exprimes": 818309,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 529208
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 289101
+                }
+              ]
+            },
+            {
+              "departement": "63",
+              "inscrits": 401047,
+              "votants": 345084,
+              "suffrages_exprimes": 332023,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 182213
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 149810
+                }
+              ]
+            },
+            {
+              "departement": "64",
+              "inscrits": 413388,
+              "votants": 354551,
+              "suffrages_exprimes": 343560,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 172167
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 171393
+                }
+              ]
+            },
+            {
+              "departement": "65",
+              "inscrits": 171714,
+              "votants": 145276,
+              "suffrages_exprimes": 140269,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 83196
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 57073
+                }
+              ]
+            },
+            {
+              "departement": "66",
+              "inscrits": 251842,
+              "votants": 211892,
+              "suffrages_exprimes": 204034,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 107359
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 96675
+                }
+              ]
+            },
+            {
+              "departement": "67",
+              "inscrits": 617036,
+              "votants": 511763,
+              "suffrages_exprimes": 488628,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 236450
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 252178
+                }
+              ]
+            },
+            {
+              "departement": "68",
+              "inscrits": 436093,
+              "votants": 363050,
+              "suffrages_exprimes": 345895,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 173479
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 172416
+                }
+              ]
+            },
+            {
+              "departement": "69",
+              "inscrits": 880679,
+              "votants": 726012,
+              "suffrages_exprimes": 697686,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 338075
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 359611
+                }
+              ]
+            },
+            {
+              "departement": "70",
+              "inscrits": 165563,
+              "votants": 146024,
+              "suffrages_exprimes": 139964,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 77165
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 62799
+                }
+              ]
+            },
+            {
+              "departement": "71",
+              "inscrits": 396427,
+              "votants": 330409,
+              "suffrages_exprimes": 318512,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 176335
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 142177
+                }
+              ]
+            },
+            {
+              "departement": "72",
+              "inscrits": 362781,
+              "votants": 307321,
+              "suffrages_exprimes": 296104,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 171521
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 124583
+                }
+              ]
+            },
+            {
+              "departement": "73",
+              "inscrits": 230101,
+              "votants": 192507,
+              "suffrages_exprimes": 186122,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 93402
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 92720
+                }
+              ]
+            },
+            {
+              "departement": "74",
+              "inscrits": 336653,
+              "votants": 281806,
+              "suffrages_exprimes": 272195,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 118823
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 153372
+                }
+              ]
+            },
+            {
+              "departement": "75",
+              "inscrits": 1238762,
+              "votants": 993698,
+              "suffrages_exprimes": 968663,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 439007
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 529656
+                }
+              ]
+            },
+            {
+              "departement": "76",
+              "inscrits": 807671,
+              "votants": 680781,
+              "suffrages_exprimes": 657122,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 398619
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 258503
+                }
+              ]
+            },
+            {
+              "departement": "77",
+              "inscrits": 609053,
+              "votants": 510694,
+              "suffrages_exprimes": 490358,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 260125
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 230233
+                }
+              ]
+            },
+            {
+              "departement": "78",
+              "inscrits": 772371,
+              "votants": 651153,
+              "suffrages_exprimes": 628633,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 294723
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 333910
+                }
+              ]
+            },
+            {
+              "departement": "79",
+              "inscrits": 250082,
+              "votants": 216436,
+              "suffrages_exprimes": 208701,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 112010
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 96691
+                }
+              ]
+            },
+            {
+              "departement": "80",
+              "inscrits": 380852,
+              "votants": 335551,
+              "suffrages_exprimes": 323547,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 194270
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 129277
+                }
+              ]
+            },
+            {
+              "departement": "81",
+              "inscrits": 253361,
+              "votants": 224416,
+              "suffrages_exprimes": 215556,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 119359
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 96197
+                }
+              ]
+            },
+            {
+              "departement": "82",
+              "inscrits": 145346,
+              "votants": 127530,
+              "suffrages_exprimes": 122882,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 67550
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 55332
+                }
+              ]
+            },
+            {
+              "departement": "83",
+              "inscrits": 542587,
+              "votants": 455253,
+              "suffrages_exprimes": 438652,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 191555
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 247097
+                }
+              ]
+            },
+            {
+              "departement": "84",
+              "inscrits": 304082,
+              "votants": 261450,
+              "suffrages_exprimes": 249327,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 125511
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 123816
+                }
+              ]
+            },
+            {
+              "departement": "85",
+              "inscrits": 364404,
+              "votants": 319426,
+              "suffrages_exprimes": 309091,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 142380
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 166711
+                }
+              ]
+            },
+            {
+              "departement": "86",
+              "inscrits": 270800,
+              "votants": 232683,
+              "suffrages_exprimes": 224553,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 126209
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 98344
+                }
+              ]
+            },
+            {
+              "departement": "87",
+              "inscrits": 262264,
+              "votants": 228710,
+              "suffrages_exprimes": 219234,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 135927
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 83307
+                }
+              ]
+            },
+            {
+              "departement": "88",
+              "inscrits": 275142,
+              "votants": 235925,
+              "suffrages_exprimes": 224994,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 123281
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 101713
+                }
+              ]
+            },
+            {
+              "departement": "89",
+              "inscrits": 221019,
+              "votants": 188995,
+              "suffrages_exprimes": 181808,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 94803
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 87005
+                }
+              ]
+            },
+            {
+              "departement": "90",
+              "inscrits": 84899,
+              "votants": 72856,
+              "suffrages_exprimes": 69443,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 39956
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 29487
+                }
+              ]
+            },
+            {
+              "departement": "91",
+              "inscrits": 635963,
+              "votants": 534461,
+              "suffrages_exprimes": 513752,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 282319
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 231433
+                }
+              ]
+            },
+            {
+              "departement": "92",
+              "inscrits": 816648,
+              "votants": 682184,
+              "suffrages_exprimes": 659606,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 320304
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 339302
+                }
+              ]
+            },
+            {
+              "departement": "93",
+              "inscrits": 710131,
+              "votants": 562448,
+              "suffrages_exprimes": 536830,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 327005
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 209825
+                }
+              ]
+            },
+            {
+              "departement": "94",
+              "inscrits": 699619,
+              "votants": 572097,
+              "suffrages_exprimes": 549418,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 304475
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 244943
+                }
+              ]
+            },
+            {
+              "departement": "95",
+              "inscrits": 572121,
+              "votants": 474028,
+              "suffrages_exprimes": 455185,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 252766
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 202419
+                }
+              ]
+            },
+            {
+              "departement": "971",
+              "inscrits": 197740,
+              "votants": 103011,
+              "suffrages_exprimes": 98852,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 68610
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 30242
+                }
+              ]
+            },
+            {
+              "departement": "973",
+              "inscrits": 30207,
+              "votants": 19182,
+              "suffrages_exprimes": 18697,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 11291
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 7406
+                }
+              ]
+            },
+            {
+              "departement": "972",
+              "inscrits": 215218,
+              "votants": 134675,
+              "suffrages_exprimes": 129114,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 91531
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 37583
+                }
+              ]
+            },
+            {
+              "departement": "974",
+              "inscrits": 292827,
+              "votants": 232963,
+              "suffrages_exprimes": 229096,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 137993
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 91103
+                }
+              ]
+            },
+            {
+              "departement": "975",
+              "inscrits": 4422,
+              "votants": 3171,
+              "suffrages_exprimes": 2962,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 1297
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 1665
+                }
+              ]
+            },
+            {
+              "departement": "976",
+              "inscrits": 22263,
+              "votants": 12535,
+              "suffrages_exprimes": 12416,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 6288
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 6128
+                }
+              ]
+            },
+            {
+              "departement": "988",
+              "inscrits": 88223,
+              "votants": 54290,
+              "suffrages_exprimes": 54223,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 5196
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 49027
+                }
+              ]
+            },
+            {
+              "departement": "987",
+              "inscrits": 107962,
+              "votants": 64114,
+              "suffrages_exprimes": 63131,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 34386
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 28745
+                }
+              ]
+            },
+            {
+              "departement": "986",
+              "inscrits": 8315,
+              "votants": 6412,
+              "suffrages_exprimes": 6387,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 1694
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 4693
+                }
+              ]
+            },
+            {
+              "hors_departement": "francais-etablis-hors-de-france",
+              "inscrits": 162496,
+              "votants": 105481,
+              "suffrages_exprimes": 103987,
+              "voix": [
+                {
+                  "personne": "PE-0005",
+                  "voix": 41481
+                },
+                {
+                  "personne": "PE-0030",
+                  "voix": 62506
                 }
               ]
             }
