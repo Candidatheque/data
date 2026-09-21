@@ -105,6 +105,21 @@
           ]
         },
         {
+          "fonction": "senateur",
+          "ressort": "Nièvre",
+          "debut": "1959-04-26",
+          "fin": "1962-12-13",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:mitterrand_francois000379",
+              "url": "https://www.senat.fr/senateur/mitterrand_francois000379.html",
+              "commentaire": "MITTERRAND François, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Nièvre",
           "debut": "1962-11-25",
@@ -671,6 +686,36 @@
         }
       ],
       "parcours": [
+        {
+          "fonction": "senateur",
+          "ressort": "Indre-et-Loire",
+          "debut": "1948-11-07",
+          "fin": "1955-06-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:4eme-republique.debre_michel0147r4",
+              "url": "https://www.senat.fr/senateur-4eme-republique/debre_michel0147r4.html",
+              "commentaire": "DEBRÉ Michel, fiche d'ancien sénateur de la IVe République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Indre-et-Loire",
+          "debut": "1955-06-19",
+          "fin": "1958-06-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:4eme-republique.debre_michel0147r4",
+              "url": "https://www.senat.fr/senateur-4eme-republique/debre_michel0147r4.html",
+              "commentaire": "DEBRÉ Michel, fiche d'ancien sénateur de la IVe République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
         {
           "fonction": "depute",
           "ressort": "La Réunion",

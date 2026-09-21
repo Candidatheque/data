@@ -479,7 +479,53 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "senateur",
+          "ressort": "Essonne",
+          "debut": "1986-09-28",
+          "fin": "1995-09-24",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:melenchon_jean_luc86039k",
+              "url": "https://www.senat.fr/senateur/melenchon_jean_luc86039k.html",
+              "commentaire": "MÉLENCHON Jean-Luc, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Essonne",
+          "debut": "1995-09-24",
+          "fin": "2000-04-27",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:melenchon_jean_luc86039k",
+              "url": "https://www.senat.fr/senateur/melenchon_jean_luc86039k.html",
+              "commentaire": "MÉLENCHON Jean-Luc, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Essonne",
+          "debut": "2004-09-26",
+          "fin": "2010-01-07",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:melenchon_jean_luc86039k",
+              "url": "https://www.senat.fr/senateur/melenchon_jean_luc86039k.html",
+              "commentaire": "MÉLENCHON Jean-Luc, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0062",

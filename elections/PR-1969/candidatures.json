@@ -110,6 +110,36 @@
           ]
         },
         {
+          "fonction": "senateur",
+          "ressort": "Bouches-du-Rhône",
+          "debut": "1959-04-26",
+          "fin": "1962-09-23",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:defferre_gaston000250",
+              "url": "https://www.senat.fr/senateur/defferre_gaston000250.html",
+              "commentaire": "DEFFERRE Gaston, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Bouches-du-Rhône",
+          "debut": "1962-09-23",
+          "fin": "1962-12-13",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:defferre_gaston000250",
+              "url": "https://www.senat.fr/senateur/defferre_gaston000250.html",
+              "commentaire": "DEFFERRE Gaston, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Bouches-du-Rhône",
           "debut": "1962-12-06",
@@ -339,6 +369,35 @@
               "consultee_le": "2026-09-21"
             }
           ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Seine",
+          "debut": "1959-04-26",
+          "fin": "1968-09-22",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:duclos_jacques000681",
+              "url": "https://www.senat.fr/senateur/duclos_jacques000681.html",
+              "commentaire": "DUCLOS Jacques, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Seine-Saint-Denis",
+          "debut": "1968-09-22",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "senat:duclos_jacques000681",
+              "url": "https://www.senat.fr/senateur/duclos_jacques000681.html",
+              "commentaire": "DUCLOS Jacques, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
         }
       ]
     },
@@ -444,7 +503,82 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "senateur",
+          "ressort": "Seine-et-Oise",
+          "debut": "1946-12-08",
+          "fin": "1948-11-07",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:4eme-republique.poher_alain000211",
+              "url": "https://www.senat.fr/senateur-4eme-republique/poher_alain000211.html",
+              "commentaire": "POHER Alain, fiche d'ancien sénateur de la IVe République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Seine-et-Oise",
+          "debut": "1952-05-18",
+          "fin": "1958-06-08",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:4eme-republique.poher_alain000211",
+              "url": "https://www.senat.fr/senateur-4eme-republique/poher_alain000211.html",
+              "commentaire": "POHER Alain, fiche d'ancien sénateur de la IVe République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Seine-et-Oise",
+          "debut": "1958-06-08",
+          "fin": "1959-04-26",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:4eme-republique.poher_alain000211",
+              "url": "https://www.senat.fr/senateur-4eme-republique/poher_alain000211.html",
+              "commentaire": "POHER Alain, fiche d'ancien sénateur de la IVe République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Seine-et-Oise",
+          "debut": "1959-04-26",
+          "fin": "1968-09-22",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:poher_alain000211",
+              "url": "https://www.senat.fr/senateur/poher_alain000211.html",
+              "commentaire": "POHER Alain, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Val-de-Marne",
+          "debut": "1968-09-22",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "senat:poher_alain000211",
+              "url": "https://www.senat.fr/senateur/poher_alain000211.html",
+              "commentaire": "POHER Alain, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0012",

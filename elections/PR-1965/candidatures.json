@@ -141,6 +141,20 @@
               "consultee_le": "2026-09-21"
             }
           ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Seine-Maritime",
+          "debut": "1959-04-26",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "senat:lecanuet_jean000442",
+              "url": "https://www.senat.fr/senateur/lecanuet_jean000442.html",
+              "commentaire": "LECANUET Jean, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
         }
       ]
     },
@@ -175,7 +189,67 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "senateur",
+          "ressort": "Charente",
+          "debut": "1948-11-07",
+          "fin": "1955-06-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:4eme-republique.marcilhacy_pierre000236",
+              "url": "https://www.senat.fr/senateur-4eme-republique/marcilhacy_pierre000236.html",
+              "commentaire": "MARCILHACY Pierre, fiche d'ancien sénateur de la IVe République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Charente",
+          "debut": "1955-06-19",
+          "fin": "1959-04-26",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:4eme-republique.marcilhacy_pierre000236",
+              "url": "https://www.senat.fr/senateur-4eme-republique/marcilhacy_pierre000236.html",
+              "commentaire": "MARCILHACY Pierre, fiche d'ancien sénateur de la IVe République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Charente",
+          "debut": "1959-04-26",
+          "fin": "1962-09-23",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:marcilhacy_pierre000236",
+              "url": "https://www.senat.fr/senateur/marcilhacy_pierre000236.html",
+              "commentaire": "MARCILHACY Pierre, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Charente",
+          "debut": "1962-09-23",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "senat:marcilhacy_pierre000236",
+              "url": "https://www.senat.fr/senateur/marcilhacy_pierre000236.html",
+              "commentaire": "MARCILHACY Pierre, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0005",
@@ -286,6 +360,21 @@
               "id": "assemblee-nationale:5312",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312",
               "commentaire": "François Mitterrand, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Nièvre",
+          "debut": "1959-04-26",
+          "fin": "1962-12-13",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:mitterrand_francois000379",
+              "url": "https://www.senat.fr/senateur/mitterrand_francois000379.html",
+              "commentaire": "MITTERRAND François, fiche d'ancien sénateur de la Ve République",
               "consultee_le": "2026-09-21"
             }
           ]

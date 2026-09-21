@@ -171,7 +171,53 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "senateur",
+          "ressort": "Essonne",
+          "debut": "1986-09-28",
+          "fin": "1995-09-24",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:melenchon_jean_luc86039k",
+              "url": "https://www.senat.fr/senateur/melenchon_jean_luc86039k.html",
+              "commentaire": "MÉLENCHON Jean-Luc, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Essonne",
+          "debut": "1995-09-24",
+          "fin": "2000-04-27",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:melenchon_jean_luc86039k",
+              "url": "https://www.senat.fr/senateur/melenchon_jean_luc86039k.html",
+              "commentaire": "MÉLENCHON Jean-Luc, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Essonne",
+          "debut": "2004-09-26",
+          "fin": "2010-01-07",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:melenchon_jean_luc86039k",
+              "url": "https://www.senat.fr/senateur/melenchon_jean_luc86039k.html",
+              "commentaire": "MÉLENCHON Jean-Luc, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0062",
@@ -751,6 +797,36 @@
               "id": "assemblee-nationale:3009",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3009",
               "commentaire": "François Fillon, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Sarthe",
+          "debut": "2004-09-26",
+          "fin": "2004-11-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:fillon_francois02009s",
+              "url": "https://www.senat.fr/senateur/fillon_francois02009s.html",
+              "commentaire": "FILLON François, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "senateur",
+          "ressort": "Sarthe",
+          "debut": "2005-09-18",
+          "fin": "2007-06-17",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "senat:fillon_francois02009s",
+              "url": "https://www.senat.fr/senateur/fillon_francois02009s.html",
+              "commentaire": "FILLON François, fiche d'ancien sénateur de la Ve République",
               "consultee_le": "2026-09-21"
             }
           ]
