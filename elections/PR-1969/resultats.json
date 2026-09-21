@@ -1,0 +1,101 @@
+{
+  "$schema": "../../schemas/resultats.schema.json",
+  "election": "PR-1969",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "1969-06-01",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1969-06-03",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-20-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6920PDR.htm",
+              "commentaire": "Déclaration du 3 juin 1969 relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 29513361,
+          "votants": 22898960,
+          "suffrages_exprimes": 22603924,
+          "majorite_absolue": 11301963,
+          "voix": [
+            {
+              "personne": "PE-0007",
+              "nom_complet": "Gaston DEFFERRE",
+              "voix": 1133222
+            },
+            {
+              "personne": "PE-0008",
+              "nom_complet": "Louis DUCATEL",
+              "voix": 286447
+            },
+            {
+              "personne": "PE-0009",
+              "nom_complet": "Jacques DUCLOS",
+              "voix": 4808285
+            },
+            {
+              "personne": "PE-0010",
+              "nom_complet": "Alain KRIVINE",
+              "voix": 239104
+            },
+            {
+              "personne": "PE-0011",
+              "nom_complet": "Alain POHER",
+              "voix": 5268613
+            },
+            {
+              "personne": "PE-0012",
+              "nom_complet": "Georges POMPIDOU",
+              "voix": 10051783
+            },
+            {
+              "personne": "PE-0013",
+              "nom_complet": "Michel ROCARD",
+              "voix": 816470
+            }
+          ],
+          "annulations": []
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "1969-06-15",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1969-06-19",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:69-22-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1969/6922pdr.htm",
+              "commentaire": "Proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 29500334,
+          "votants": 20311287,
+          "suffrages_exprimes": 19007489,
+          "majorite_absolue": 9503745,
+          "voix": [
+            {
+              "personne": "PE-0012",
+              "nom_complet": "Georges POMPIDOU",
+              "voix": 11064371
+            },
+            {
+              "personne": "PE-0011",
+              "nom_complet": "Alain POHER",
+              "voix": 7943118
+            }
+          ],
+          "annulations": []
+        }
+      ]
+    }
+  ]
+}

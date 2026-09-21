@@ -1,0 +1,95 @@
+{
+  "$schema": "../../schemas/resultats.schema.json",
+  "election": "PR-1965",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "1965-12-05",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1965-12-07",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-6-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/656pdr.htm",
+              "commentaire": "Déclaration du 7 décembre 1965 relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 28910581,
+          "votants": 24502916,
+          "suffrages_exprimes": 24254556,
+          "majorite_absolue": 12127279,
+          "voix": [
+            {
+              "personne": "PE-0001",
+              "nom_complet": "Marcel BARBU",
+              "voix": 279685
+            },
+            {
+              "personne": "PE-0002",
+              "nom_complet": "Charles DE GAULLE",
+              "voix": 10828521
+            },
+            {
+              "personne": "PE-0003",
+              "nom_complet": "Jean LECANUET",
+              "voix": 3777120
+            },
+            {
+              "personne": "PE-0004",
+              "nom_complet": "Pierre MARCILHACY",
+              "voix": 415017
+            },
+            {
+              "personne": "PE-0005",
+              "nom_complet": "François MITTERRAND",
+              "voix": 7694005
+            },
+            {
+              "personne": "PE-0006",
+              "nom_complet": "Jean-Louis TIXIER-VIGNANCOUR",
+              "voix": 1260208
+            }
+          ],
+          "annulations": []
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "1965-12-19",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1965-12-28",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:65-10-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1965/6510pdr.htm",
+              "commentaire": "Proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 28902704,
+          "votants": 24371647,
+          "suffrages_exprimes": 23703434,
+          "voix": [
+            {
+              "personne": "PE-0002",
+              "nom_complet": "Charles DE GAULLE",
+              "voix": 13083699
+            },
+            {
+              "personne": "PE-0005",
+              "nom_complet": "François MITTERRAND",
+              "voix": 10619735
+            }
+          ],
+          "annulations": []
+        }
+      ]
+    }
+  ]
+}

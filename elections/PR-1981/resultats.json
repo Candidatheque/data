@@ -1,0 +1,220 @@
+{
+  "$schema": "../../schemas/resultats.schema.json",
+  "election": "PR-1981",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "1981-04-26",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1981-04-29",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-45-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8145pdr.htm",
+              "commentaire": "Déclaration du 29 avril 1981 relative aux résultats du premier tour de scrutin",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 36398859,
+          "votants": 29516082,
+          "suffrages_exprimes": 29038117,
+          "majorite_absolue": 14519059,
+          "voix": [
+            {
+              "personne": "PE-0018",
+              "nom_complet": "Arlette LAGUILLER",
+              "voix": 668057
+            },
+            {
+              "personne": "PE-0024",
+              "nom_complet": "Marie-France GARAUD",
+              "voix": 386623
+            },
+            {
+              "personne": "PE-0025",
+              "nom_complet": "Michel CRÉPEAU",
+              "voix": 642847
+            },
+            {
+              "personne": "PE-0026",
+              "nom_complet": "Huguette BOUCHARDEAU",
+              "voix": 321353
+            },
+            {
+              "personne": "PE-0027",
+              "nom_complet": "Brice LALONDE",
+              "voix": 1126254
+            },
+            {
+              "personne": "PE-0005",
+              "nom_complet": "François MITTERRAND",
+              "voix": 7505960
+            },
+            {
+              "personne": "PE-0016",
+              "nom_complet": "Valéry GISCARD D'ESTAING",
+              "voix": 8222432
+            },
+            {
+              "personne": "PE-0028",
+              "nom_complet": "Georges MARCHAIS",
+              "voix": 4456922
+            },
+            {
+              "personne": "PE-0029",
+              "nom_complet": "Michel DEBRÉ",
+              "voix": 481821
+            },
+            {
+              "personne": "PE-0030",
+              "nom_complet": "Jacques CHIRAC",
+              "voix": 5225848
+            }
+          ],
+          "annulations": []
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "1981-05-10",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1981-05-15",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:81-47-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1981/8147pdr.htm",
+              "commentaire": "Proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 36398762,
+          "votants": 31249552,
+          "suffrages_exprimes": 30350568,
+          "majorite_absolue": 15175285,
+          "voix": [
+            {
+              "personne": "PE-0005",
+              "nom_complet": "François MITTERRAND",
+              "voix": 15708262
+            },
+            {
+              "personne": "PE-0016",
+              "nom_complet": "Valéry GISCARD D'ESTAING",
+              "voix": 14642306
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Aulnay-sous-Bois",
+              "departement": "93",
+              "bureaux": [
+                23
+              ],
+              "motif": "Considérant que dans le 23e bureau de la commune d'Aulnay-sous-Bois (Seine-Saint-Denis), dans le 23e bureau de la commune du Blanc-Mesnil (Seine-Saint-Denis), dans le 13e bureau de la ville d'Arles (Bouches-du-Rhône) et dans le 50e bureau de la ville de Rouen (Seine-Maritime), il n'a pas été procédé au contrôle d'identité des électeurs, en méconnaissance des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est, poursuivie après les observations faites à ce sujet par le magistrat délégué du Conseil constitutionnel ou par le magistrat de la commission de contrôle des opérations de vote ; que, devant cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages. Exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.5.2.1",
+                  "intitule": "Principe de sincérité du scrutin appliqué à l'élection présidentielle (exemples)"
+                },
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Le Blanc-Mesnil",
+              "departement": "93",
+              "bureaux": [
+                23
+              ],
+              "motif": "Considérant que dans le 23e bureau de la commune d'Aulnay-sous-Bois (Seine-Saint-Denis), dans le 23e bureau de la commune du Blanc-Mesnil (Seine-Saint-Denis), dans le 13e bureau de la ville d'Arles (Bouches-du-Rhône) et dans le 50e bureau de la ville de Rouen (Seine-Maritime), il n'a pas été procédé au contrôle d'identité des électeurs, en méconnaissance des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est, poursuivie après les observations faites à ce sujet par le magistrat délégué du Conseil constitutionnel ou par le magistrat de la commission de contrôle des opérations de vote ; que, devant cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages. Exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.5.2.1",
+                  "intitule": "Principe de sincérité du scrutin appliqué à l'élection présidentielle (exemples)"
+                },
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Arles",
+              "departement": "13",
+              "bureaux": [
+                13
+              ],
+              "motif": "Considérant que dans le 23e bureau de la commune d'Aulnay-sous-Bois (Seine-Saint-Denis), dans le 23e bureau de la commune du Blanc-Mesnil (Seine-Saint-Denis), dans le 13e bureau de la ville d'Arles (Bouches-du-Rhône) et dans le 50e bureau de la ville de Rouen (Seine-Maritime), il n'a pas été procédé au contrôle d'identité des électeurs, en méconnaissance des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est, poursuivie après les observations faites à ce sujet par le magistrat délégué du Conseil constitutionnel ou par le magistrat de la commission de contrôle des opérations de vote ; que, devant cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages. Exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.5.2.1",
+                  "intitule": "Principe de sincérité du scrutin appliqué à l'élection présidentielle (exemples)"
+                },
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Rouen",
+              "departement": "76",
+              "bureaux": [
+                50
+              ],
+              "motif": "Considérant que dans le 23e bureau de la commune d'Aulnay-sous-Bois (Seine-Saint-Denis), dans le 23e bureau de la commune du Blanc-Mesnil (Seine-Saint-Denis), dans le 13e bureau de la ville d'Arles (Bouches-du-Rhône) et dans le 50e bureau de la ville de Rouen (Seine-Maritime), il n'a pas été procédé au contrôle d'identité des électeurs, en méconnaissance des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est, poursuivie après les observations faites à ce sujet par le magistrat délégué du Conseil constitutionnel ou par le magistrat de la commission de contrôle des opérations de vote ; que, devant cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages. Exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.5.2.1",
+                  "intitule": "Principe de sincérité du scrutin appliqué à l'élection présidentielle (exemples)"
+                },
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Bastia",
+              "departement": "2B",
+              "bureaux": [
+                5
+              ],
+              "motif": "Considérant que la commission de contrôle des opérations de vote de la ville de Bastia (Haute-Corse) a relevé dans son rapport que soixante électeurs du 5 e bureau de cette ville ont été admis à voter alors que leur vote avait déjà été constaté par un paraphe porté sur la liste d'émargement ; qu'en raison du fait que les mentions figurant au procès-verbal de ce bureau, en ce qui concerne le nombre des électeurs ayant pris part au vote et celui des suffrages exprimés, comportent des ratures sur lesquelles aucune explication n'est donnée, le Conseil n'est pas en mesure d'exercer son contrôle sur la régularité des votes mis en cause ; que, dés lors, il y a lieu d'annuler l'ensemble des suffrages exprimés dans ce bureau ;"
+            },
+            {
+              "considerant": 3,
+              "portee": "commune",
+              "commune": "Borgo",
+              "departement": "2B",
+              "motif": "Considérant que le procès-verbal de la commune de Borgo (Haute-Corse) comporte des indications contradictoires en ce qui concerné le nombre des électeurs portés sur la liste d'émargement comme ayant pris part au vote ; qu'aucun de ces nombres ne correspond avec celui des bulletins et enveloppes trouvés dans l'urne ; qu'une vérification complémentaire, effectuée sur la liste d'émargement, à la demande du Conseil constitutionnel, a fait apparaître un nombre de votants différent de tous ceux indiqués dans le procès-verbal ; que, dès lors, le Conseil constitutionnel n'étant pas en mesure d'exercer son contrôle sur la régularité des votes de la commune de Borgo, il y a lieu d'annuler l'ensemble des suffrages exprimés dans cette commune ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.5",
+                  "intitule": "Irrégularités relatives aux procès-verbaux et aux pièces annexes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

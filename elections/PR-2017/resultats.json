@@ -1,0 +1,611 @@
+{
+  "$schema": "../../schemas/resultats.schema.json",
+  "election": "PR-2017",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "2017-04-23",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "2017-04-26",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-169-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017169PDR.htm",
+              "commentaire": "Déclaration du 26 avril 2017 relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 47582183,
+          "votants": 37003728,
+          "bulletins_blancs": 659997,
+          "suffrages_exprimes": 36054394,
+          "majorite_absolue": 18027198,
+          "voix": [
+            {
+              "personne": "PE-0064",
+              "nom_complet": "Nicolas DUPONT-AIGNAN",
+              "voix": 1695000
+            },
+            {
+              "personne": "PE-0060",
+              "nom_complet": "Marine LE PEN",
+              "voix": 7678491
+            },
+            {
+              "personne": "PE-0066",
+              "nom_complet": "Emmanuel MACRON",
+              "voix": 8656346
+            },
+            {
+              "personne": "PE-0067",
+              "nom_complet": "Benoît HAMON",
+              "voix": 2291288
+            },
+            {
+              "personne": "PE-0063",
+              "nom_complet": "Nathalie ARTHAUD",
+              "voix": 232384
+            },
+            {
+              "personne": "PE-0062",
+              "nom_complet": "Philippe POUTOU",
+              "voix": 394505
+            },
+            {
+              "personne": "PE-0037",
+              "nom_complet": "Jacques CHEMINADE",
+              "voix": 65586
+            },
+            {
+              "personne": "PE-0068",
+              "nom_complet": "Jean LASSALLE",
+              "voix": 435301
+            },
+            {
+              "personne": "PE-0061",
+              "nom_complet": "Jean-Luc MÉLENCHON",
+              "voix": 7059951
+            },
+            {
+              "personne": "PE-0069",
+              "nom_complet": "François ASSELINEAU",
+              "voix": 332547
+            },
+            {
+              "personne": "PE-0070",
+              "nom_complet": "François FILLON",
+              "voix": 7212995
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "L'Ajoupa-Bouillon",
+              "departement": "972",
+              "bureaux": [
+                2
+              ],
+              "suffrages_exprimes": 218,
+              "motif": "Dans le bureau de vote n° 2 de la commune de L'Ajoupa-Bouillon (Martinique), dans lequel 218 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté, lors de son passage, que seul le président du bureau de vote était présent. Alors même que les deux assesseurs n'ont été absents qu'une partie de la journée, une telle irrégularité est de nature à entraîner des erreurs et peut favoriser la fraude. Par suite, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau."
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Les Abymes",
+              "departement": "971",
+              "bureaux": [
+                50
+              ],
+              "suffrages_exprimes": 251,
+              "motif": "Dans le bureau de vote n° 50 de la commune Les Abymes (Guadeloupe), dans lequel 251 suffrages ont été exprimés, la composition du bureau de vote, en l'absence d'assesseur, ne respectait pas les conditions prévues par l'article R. 42 du code électoral. Cette irrégularité s'étant poursuivie en dépit des observations faites par le magistrat délégué du Conseil constitutionnel, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.1.2",
+                  "intitule": "Composition du bureau de vote et présence de ses membres"
+                }
+              ]
+            },
+            {
+              "considerant": 3,
+              "portee": "commune",
+              "commune": "Celles-lès-Condé",
+              "departement": "02",
+              "suffrages_exprimes": 59,
+              "motif": "Dans la commune de Celles-lès-Condé (Aisne), dans laquelle 59 suffrages ont été exprimés, ni les mentions du procès-verbal, qui ne font état d'aucune différence entre le nombre des émargements, le nombre de bulletins trouvés dans l'urne et le nombre de suffrages exprimés, ni les feuilles de pointage jointes, que les scrutateurs n'ont d'ailleurs pas signées ni même remplies, ne prennent en compte ni n'expliquent la jonction au même procès-verbal d'un nombre important, au regard du nombre des votants et du nombre des suffrages exprimés, de bulletins nuls et de bulletins blancs. Le Conseil constitutionnel n'étant pas en mesure d'exercer son contrôle sur la régularité des votes dans cette commune, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune."
+            },
+            {
+              "considerant": 4,
+              "portee": "commune",
+              "commune": "Louan-Villegruis-Fontaine",
+              "departement": "77",
+              "suffrages_exprimes": 302,
+              "motif": "Les procès-verbaux des opérations électorales de la commune de Louan-Villegruis-Fontaine (Seine-et-Marne), de la commune de Leychert (Ariège) et du bureau de vote n° 25 de la commune d'Acoua (Mayotte), dans lesquels ont été respectivement exprimés 302, 83 et 150 suffrages, n'ont pas été transmis à la préfecture après le dépouillement du scrutin en méconnaissance de l'article L. 68 du code électoral. Ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces communes et ce bureau de vote."
+            },
+            {
+              "considerant": 4,
+              "portee": "bureau-de-vote",
+              "commune": "Leychert",
+              "departement": "09",
+              "bureaux": [
+                25
+              ],
+              "suffrages_exprimes": 83,
+              "motif": "Les procès-verbaux des opérations électorales de la commune de Louan-Villegruis-Fontaine (Seine-et-Marne), de la commune de Leychert (Ariège) et du bureau de vote n° 25 de la commune d'Acoua (Mayotte), dans lesquels ont été respectivement exprimés 302, 83 et 150 suffrages, n'ont pas été transmis à la préfecture après le dépouillement du scrutin en méconnaissance de l'article L. 68 du code électoral. Ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces communes et ce bureau de vote."
+            },
+            {
+              "considerant": 4,
+              "portee": "bureau-de-vote",
+              "commune": "Acoua",
+              "departement": "976",
+              "bureaux": [
+                25
+              ],
+              "suffrages_exprimes": 150,
+              "motif": "Les procès-verbaux des opérations électorales de la commune de Louan-Villegruis-Fontaine (Seine-et-Marne), de la commune de Leychert (Ariège) et du bureau de vote n° 25 de la commune d'Acoua (Mayotte), dans lesquels ont été respectivement exprimés 302, 83 et 150 suffrages, n'ont pas été transmis à la préfecture après le dépouillement du scrutin en méconnaissance de l'article L. 68 du code électoral. Ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces communes et ce bureau de vote."
+            },
+            {
+              "considerant": 5,
+              "portee": "commune",
+              "commune": "Nantillé",
+              "departement": "17",
+              "suffrages_exprimes": 201,
+              "motif": "La commune de Nantillé (Charente-Maritime), dans laquelle 201 suffrages ont été exprimés, n'a transmis à l'issue immédiate du dépouillement qu'un procès-verbal incomplet en méconnaissance de l'article L. 68 du code électoral. Ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans cette commune."
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Ecouen",
+              "departement": "95",
+              "bureaux": [
+                3
+              ],
+              "suffrages_exprimes": 1021,
+              "motif": "Dans le bureau de vote n° 3 de la commune d'Ecouen (Val d'Oise), dans lequel 1 021 suffrages ont été exprimés, les électeurs étaient invités à signer la liste d'émargement avant de déposer leur bulletin dans l'urne, en méconnaissance des dispositions du dernier alinéa de l'article L. 62-1 du code électoral. Cette irrégularité a été constatée peu avant la clôture des opérations de vote par le magistrat délégué du Conseil constitutionnel. Dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau de vote.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.5",
+                  "intitule": "Liste d'émargement"
+                }
+              ]
+            },
+            {
+              "considerant": 7,
+              "portee": "bureau-de-vote",
+              "commune": "Saint-Sauveur-Lendelin",
+              "departement": "50",
+              "bureaux": [
+                2
+              ],
+              "suffrages_exprimes": 532,
+              "motif": "Dans le bureau de vote n° 2 de la commune de Saint-Sauveur-Lendelin (Manche) et dans la commune de Lamastre (Ardèche), dans lesquels ont été respectivement exprimés 532 et 1 566 suffrages, la présentation d'un titre d'identité n'a pas été exigée des électeurs comme le prescrit l'article R. 60 du code électoral pour les communes de plus de 1 000 habitants. Cette irrégularité s'est poursuivie en dépit des observations des magistrats délégués du Conseil constitutionnel. Cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin doit entraîner l'annulation de l'ensemble des suffrages émis dans ce bureau et cette commune.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.2.1",
+                  "intitule": "Observations non suivies d'effet"
+                },
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 7,
+              "portee": "commune",
+              "commune": "Lamastre",
+              "departement": "07",
+              "suffrages_exprimes": 1566,
+              "motif": "Dans le bureau de vote n° 2 de la commune de Saint-Sauveur-Lendelin (Manche) et dans la commune de Lamastre (Ardèche), dans lesquels ont été respectivement exprimés 532 et 1 566 suffrages, la présentation d'un titre d'identité n'a pas été exigée des électeurs comme le prescrit l'article R. 60 du code électoral pour les communes de plus de 1 000 habitants. Cette irrégularité s'est poursuivie en dépit des observations des magistrats délégués du Conseil constitutionnel. Cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin doit entraîner l'annulation de l'ensemble des suffrages émis dans ce bureau et cette commune.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.2.1",
+                  "intitule": "Observations non suivies d'effet"
+                },
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 8,
+              "portee": "bureau-de-vote",
+              "commune": "M'Tsamboro",
+              "departement": "976",
+              "bureaux": [
+                155
+              ],
+              "suffrages_exprimes": 183,
+              "motif": "Le procès-verbal des opérations électorales du bureau de vote n° 155 de la commune de M'Tsamboro (Mayotte), dans lequel 183 suffrages ont été exprimés, ne comporte pas la mention des résultats obtenus par les candidats à l'issue du dépouillement. Ces résultats ne figurent pas non plus sur le procès-verbal du bureau centralisateur de la commune. Ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans ce bureau de vote."
+            },
+            {
+              "considerant": 9,
+              "portee": "commune",
+              "commune": "Uza",
+              "departement": "40",
+              "suffrages_exprimes": 125,
+              "motif": "Le procès-verbal des opérations électorales dans la commune d'Uza (Landes), dans laquelle 125 suffrages ont été exprimés, a été établi après suppression des rubriques prévues pour recevoir, le cas échéant, les observations et réclamations des membres du bureau, candidats, remplaçants et délégués des candidats, électeurs du bureau et personnes chargées du contrôle des opérations, en méconnaissance de l'article R. 52 du code électoral et de l'article 30 du décret du 8 mars 2001. Ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans cette commune.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.5",
+                  "intitule": "Irrégularités relatives aux procès-verbaux et aux pièces annexes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "2017-05-07",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "2017-05-10",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2017-171-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017171PDR.htm",
+              "commentaire": "Proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 47568693,
+          "votants": 35467327,
+          "bulletins_blancs": 3021499,
+          "suffrages_exprimes": 31381603,
+          "majorite_absolue": 15690802,
+          "voix": [
+            {
+              "personne": "PE-0066",
+              "nom_complet": "Emmanuel MACRON",
+              "voix": 20743128
+            },
+            {
+              "personne": "PE-0060",
+              "nom_complet": "Marine LE PEN",
+              "voix": 10638475
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Nice",
+              "departement": "06",
+              "bureaux": [
+                208
+              ],
+              "suffrages_exprimes": 474,
+              "motif": "Dans la commune de Nice (Alpes-Maritimes), la composition du bureau de vote n° 208, dans lequel 474 suffrages ont été exprimés, ne respectait pas, en l'absence d'assesseur, les conditions prévues par l'article R. 42 du code électoral. Cette irrégularité s'étant poursuivie en dépit des observations faites par le magistrat délégué du Conseil constitutionnel, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau."
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Toulouse",
+              "departement": "31",
+              "bureaux": [
+                105
+              ],
+              "suffrages_exprimes": 350,
+              "motif": "Dans le bureau de vote n° 105 de la commune de Toulouse (Haute-Garonne), dans lequel 350 suffrages ont été exprimés, dans le bureau de vote n° 1 de la commune de Besné (Loire-Atlantique), dans lequel 789 suffrages ont été exprimés, dans les bureaux de vote nos 3, 4 et 6 de la commune de Pontchâteau (Loire-Atlantique), dans lesquels ont été respectivement exprimés 609, 822 et 623 suffrages, et dans les bureaux de vote nos 8 et 9 de la commune des Pavillons-sous-Bois (Seine-Saint-Denis), dans lesquels ont été respectivement exprimés 473 et 558 suffrages, les magistrats délégués du Conseil constitutionnel ont constaté, lors de leur passage, qu'un seul des membres du bureau de vote était présent, contrairement aux dispositions de l'article R. 42 du code électoral. Une telle irrégularité étant de nature à entraîner des erreurs et à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux."
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Besné",
+              "departement": "44",
+              "bureaux": [
+                1
+              ],
+              "suffrages_exprimes": 789,
+              "motif": "Dans le bureau de vote n° 105 de la commune de Toulouse (Haute-Garonne), dans lequel 350 suffrages ont été exprimés, dans le bureau de vote n° 1 de la commune de Besné (Loire-Atlantique), dans lequel 789 suffrages ont été exprimés, dans les bureaux de vote nos 3, 4 et 6 de la commune de Pontchâteau (Loire-Atlantique), dans lesquels ont été respectivement exprimés 609, 822 et 623 suffrages, et dans les bureaux de vote nos 8 et 9 de la commune des Pavillons-sous-Bois (Seine-Saint-Denis), dans lesquels ont été respectivement exprimés 473 et 558 suffrages, les magistrats délégués du Conseil constitutionnel ont constaté, lors de leur passage, qu'un seul des membres du bureau de vote était présent, contrairement aux dispositions de l'article R. 42 du code électoral. Une telle irrégularité étant de nature à entraîner des erreurs et à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux."
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Pontchâteau",
+              "departement": "44",
+              "bureaux": [
+                3
+              ],
+              "suffrages_exprimes": 609,
+              "motif": "Dans le bureau de vote n° 105 de la commune de Toulouse (Haute-Garonne), dans lequel 350 suffrages ont été exprimés, dans le bureau de vote n° 1 de la commune de Besné (Loire-Atlantique), dans lequel 789 suffrages ont été exprimés, dans les bureaux de vote nos 3, 4 et 6 de la commune de Pontchâteau (Loire-Atlantique), dans lesquels ont été respectivement exprimés 609, 822 et 623 suffrages, et dans les bureaux de vote nos 8 et 9 de la commune des Pavillons-sous-Bois (Seine-Saint-Denis), dans lesquels ont été respectivement exprimés 473 et 558 suffrages, les magistrats délégués du Conseil constitutionnel ont constaté, lors de leur passage, qu'un seul des membres du bureau de vote était présent, contrairement aux dispositions de l'article R. 42 du code électoral. Une telle irrégularité étant de nature à entraîner des erreurs et à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux."
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Pontchâteau",
+              "departement": "44",
+              "bureaux": [
+                4
+              ],
+              "suffrages_exprimes": 822,
+              "motif": "Dans le bureau de vote n° 105 de la commune de Toulouse (Haute-Garonne), dans lequel 350 suffrages ont été exprimés, dans le bureau de vote n° 1 de la commune de Besné (Loire-Atlantique), dans lequel 789 suffrages ont été exprimés, dans les bureaux de vote nos 3, 4 et 6 de la commune de Pontchâteau (Loire-Atlantique), dans lesquels ont été respectivement exprimés 609, 822 et 623 suffrages, et dans les bureaux de vote nos 8 et 9 de la commune des Pavillons-sous-Bois (Seine-Saint-Denis), dans lesquels ont été respectivement exprimés 473 et 558 suffrages, les magistrats délégués du Conseil constitutionnel ont constaté, lors de leur passage, qu'un seul des membres du bureau de vote était présent, contrairement aux dispositions de l'article R. 42 du code électoral. Une telle irrégularité étant de nature à entraîner des erreurs et à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux."
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Pontchâteau",
+              "departement": "44",
+              "bureaux": [
+                6
+              ],
+              "suffrages_exprimes": 623,
+              "motif": "Dans le bureau de vote n° 105 de la commune de Toulouse (Haute-Garonne), dans lequel 350 suffrages ont été exprimés, dans le bureau de vote n° 1 de la commune de Besné (Loire-Atlantique), dans lequel 789 suffrages ont été exprimés, dans les bureaux de vote nos 3, 4 et 6 de la commune de Pontchâteau (Loire-Atlantique), dans lesquels ont été respectivement exprimés 609, 822 et 623 suffrages, et dans les bureaux de vote nos 8 et 9 de la commune des Pavillons-sous-Bois (Seine-Saint-Denis), dans lesquels ont été respectivement exprimés 473 et 558 suffrages, les magistrats délégués du Conseil constitutionnel ont constaté, lors de leur passage, qu'un seul des membres du bureau de vote était présent, contrairement aux dispositions de l'article R. 42 du code électoral. Une telle irrégularité étant de nature à entraîner des erreurs et à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux."
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Les Pavillons-sous-Bois",
+              "departement": "93",
+              "bureaux": [
+                8
+              ],
+              "suffrages_exprimes": 473,
+              "motif": "Dans le bureau de vote n° 105 de la commune de Toulouse (Haute-Garonne), dans lequel 350 suffrages ont été exprimés, dans le bureau de vote n° 1 de la commune de Besné (Loire-Atlantique), dans lequel 789 suffrages ont été exprimés, dans les bureaux de vote nos 3, 4 et 6 de la commune de Pontchâteau (Loire-Atlantique), dans lesquels ont été respectivement exprimés 609, 822 et 623 suffrages, et dans les bureaux de vote nos 8 et 9 de la commune des Pavillons-sous-Bois (Seine-Saint-Denis), dans lesquels ont été respectivement exprimés 473 et 558 suffrages, les magistrats délégués du Conseil constitutionnel ont constaté, lors de leur passage, qu'un seul des membres du bureau de vote était présent, contrairement aux dispositions de l'article R. 42 du code électoral. Une telle irrégularité étant de nature à entraîner des erreurs et à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux."
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Les Pavillons-sous-Bois",
+              "departement": "93",
+              "bureaux": [
+                9
+              ],
+              "suffrages_exprimes": 558,
+              "motif": "Dans le bureau de vote n° 105 de la commune de Toulouse (Haute-Garonne), dans lequel 350 suffrages ont été exprimés, dans le bureau de vote n° 1 de la commune de Besné (Loire-Atlantique), dans lequel 789 suffrages ont été exprimés, dans les bureaux de vote nos 3, 4 et 6 de la commune de Pontchâteau (Loire-Atlantique), dans lesquels ont été respectivement exprimés 609, 822 et 623 suffrages, et dans les bureaux de vote nos 8 et 9 de la commune des Pavillons-sous-Bois (Seine-Saint-Denis), dans lesquels ont été respectivement exprimés 473 et 558 suffrages, les magistrats délégués du Conseil constitutionnel ont constaté, lors de leur passage, qu'un seul des membres du bureau de vote était présent, contrairement aux dispositions de l'article R. 42 du code électoral. Une telle irrégularité étant de nature à entraîner des erreurs et à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux."
+            },
+            {
+              "considerant": 3,
+              "portee": "commune",
+              "commune": "Wallon-Cappel",
+              "departement": "59",
+              "suffrages_exprimes": 518,
+              "motif": "Dans la commune de Wallon-Cappel (Nord), dans laquelle 518 suffrages ont été exprimés, le magistrat délégué du Conseil constitutionnel a constaté, lors de son passage, qu'aucun des membres constituant le bureau de vote n'était présent. Une telle irrégularité étant de nature à entraîner des erreurs et à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune."
+            },
+            {
+              "considerant": 4,
+              "portee": "commune",
+              "commune": "Savenay",
+              "departement": "44",
+              "suffrages_exprimes": 4197,
+              "motif": "Dans les sept bureaux de vote de la commune de Savenay (Loire-Atlantique), dans lesquels 4 197 suffrages ont été exprimés, le magistrat délégué du Conseil constitutionnel a constaté, lors de son passage, qu'aucun membre du bureau de vote n'était présent. Ces bureaux étaient tenus par des personnes non désignées à cet effet. Une telle irrégularité étant de nature à entraîner des erreurs et à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.1.2",
+                  "intitule": "Composition du bureau de vote et présence de ses membres"
+                }
+              ]
+            },
+            {
+              "considerant": 5,
+              "portee": "commune",
+              "commune": "Canteleux",
+              "departement": "62",
+              "suffrages_exprimes": 8,
+              "motif": "Dans les communes de Canteleux et de Guinecourt (Pas-de-Calais), dans lesquelles respectivement 8 et 12 suffrages ont été exprimés, le magistrat délégué du Conseil constitutionnel a constaté, à 15 heures pour la première commune et à 17 heures pour la seconde, que l'unique bureau de vote était fermé. Le président de chaque bureau de vote a ainsi contrevenu aux dispositions du paragraphe II bis de l'article 3 de la loi du 6 novembre 1962 mentionnée ci-dessus, en vertu desquelles le scrutin ne peut être clos avant 19 heures. Une telle irrégularité ayant été, en l'espèce, de nature à empêcher des électeurs d'exercer leur droit de suffrage, il y a lieu d'annuler l'ensemble des suffrages émis dans ces communes."
+            },
+            {
+              "considerant": 5,
+              "portee": "commune",
+              "commune": "Guinecourt",
+              "departement": "62",
+              "suffrages_exprimes": 12,
+              "motif": "Dans les communes de Canteleux et de Guinecourt (Pas-de-Calais), dans lesquelles respectivement 8 et 12 suffrages ont été exprimés, le magistrat délégué du Conseil constitutionnel a constaté, à 15 heures pour la première commune et à 17 heures pour la seconde, que l'unique bureau de vote était fermé. Le président de chaque bureau de vote a ainsi contrevenu aux dispositions du paragraphe II bis de l'article 3 de la loi du 6 novembre 1962 mentionnée ci-dessus, en vertu desquelles le scrutin ne peut être clos avant 19 heures. Une telle irrégularité ayant été, en l'espèce, de nature à empêcher des électeurs d'exercer leur droit de suffrage, il y a lieu d'annuler l'ensemble des suffrages émis dans ces communes."
+            },
+            {
+              "considerant": 6,
+              "portee": "commune",
+              "commune": "Millas",
+              "departement": "66",
+              "suffrages_exprimes": 1966,
+              "motif": "Dans les quatre bureaux de vote de la commune de Millas (Pyrénées-Orientales), dans lesquels 1 966 suffrages ont été exprimés, dans les communes de Montbel (Ariège), de Vaudreville (Manche), de La Chapelle-sur-Usson (Puy-de-Dôme) et de Maconcourt (Vosges), dans lesquelles ont été respectivement exprimés 47, 46, 41 et 51 suffrages, des bulletins blancs étaient déposés sur la table à l'entrée de la salle de scrutin à côté des bulletins de vote des deux candidats, en méconnaissance des dispositions de l'article L. 58 du code électoral. La présence de documents autres que les bulletins de vote des candidats constitue une irrégularité de nature à influencer les électeurs et à porter atteinte à la sincérité du scrutin. Dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans ces communes."
+            },
+            {
+              "considerant": 6,
+              "portee": "commune",
+              "commune": "Montbel",
+              "departement": "09",
+              "suffrages_exprimes": 47,
+              "motif": "Dans les quatre bureaux de vote de la commune de Millas (Pyrénées-Orientales), dans lesquels 1 966 suffrages ont été exprimés, dans les communes de Montbel (Ariège), de Vaudreville (Manche), de La Chapelle-sur-Usson (Puy-de-Dôme) et de Maconcourt (Vosges), dans lesquelles ont été respectivement exprimés 47, 46, 41 et 51 suffrages, des bulletins blancs étaient déposés sur la table à l'entrée de la salle de scrutin à côté des bulletins de vote des deux candidats, en méconnaissance des dispositions de l'article L. 58 du code électoral. La présence de documents autres que les bulletins de vote des candidats constitue une irrégularité de nature à influencer les électeurs et à porter atteinte à la sincérité du scrutin. Dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans ces communes."
+            },
+            {
+              "considerant": 6,
+              "portee": "commune",
+              "commune": "Vaudreville",
+              "departement": "50",
+              "suffrages_exprimes": 46,
+              "motif": "Dans les quatre bureaux de vote de la commune de Millas (Pyrénées-Orientales), dans lesquels 1 966 suffrages ont été exprimés, dans les communes de Montbel (Ariège), de Vaudreville (Manche), de La Chapelle-sur-Usson (Puy-de-Dôme) et de Maconcourt (Vosges), dans lesquelles ont été respectivement exprimés 47, 46, 41 et 51 suffrages, des bulletins blancs étaient déposés sur la table à l'entrée de la salle de scrutin à côté des bulletins de vote des deux candidats, en méconnaissance des dispositions de l'article L. 58 du code électoral. La présence de documents autres que les bulletins de vote des candidats constitue une irrégularité de nature à influencer les électeurs et à porter atteinte à la sincérité du scrutin. Dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans ces communes."
+            },
+            {
+              "considerant": 6,
+              "portee": "commune",
+              "commune": "La Chapelle-sur-Usson",
+              "departement": "63",
+              "suffrages_exprimes": 41,
+              "motif": "Dans les quatre bureaux de vote de la commune de Millas (Pyrénées-Orientales), dans lesquels 1 966 suffrages ont été exprimés, dans les communes de Montbel (Ariège), de Vaudreville (Manche), de La Chapelle-sur-Usson (Puy-de-Dôme) et de Maconcourt (Vosges), dans lesquelles ont été respectivement exprimés 47, 46, 41 et 51 suffrages, des bulletins blancs étaient déposés sur la table à l'entrée de la salle de scrutin à côté des bulletins de vote des deux candidats, en méconnaissance des dispositions de l'article L. 58 du code électoral. La présence de documents autres que les bulletins de vote des candidats constitue une irrégularité de nature à influencer les électeurs et à porter atteinte à la sincérité du scrutin. Dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans ces communes."
+            },
+            {
+              "considerant": 6,
+              "portee": "commune",
+              "commune": "Maconcourt",
+              "departement": "88",
+              "suffrages_exprimes": 51,
+              "motif": "Dans les quatre bureaux de vote de la commune de Millas (Pyrénées-Orientales), dans lesquels 1 966 suffrages ont été exprimés, dans les communes de Montbel (Ariège), de Vaudreville (Manche), de La Chapelle-sur-Usson (Puy-de-Dôme) et de Maconcourt (Vosges), dans lesquelles ont été respectivement exprimés 47, 46, 41 et 51 suffrages, des bulletins blancs étaient déposés sur la table à l'entrée de la salle de scrutin à côté des bulletins de vote des deux candidats, en méconnaissance des dispositions de l'article L. 58 du code électoral. La présence de documents autres que les bulletins de vote des candidats constitue une irrégularité de nature à influencer les électeurs et à porter atteinte à la sincérité du scrutin. Dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans ces communes."
+            },
+            {
+              "considerant": 7,
+              "portee": "bureau-de-vote",
+              "commune": "Mamoudzou",
+              "departement": "976",
+              "bureaux": [
+                5
+              ],
+              "suffrages_exprimes": 195,
+              "motif": "Dans le bureau de vote n° 5 de la commune de Mamoudzou (Mayotte), dans lequel 195 suffrages ont été exprimés, plusieurs enveloppes contenant déjà un bulletin au nom de l'un des candidats ont été mises à disposition des électeurs. Alerté sur cette situation par un électeur et par le magistrat délégué du Conseil constitutionnel, le président du bureau de vote, qui a la responsabilité de veiller à la régularité du scrutin, n'a pas mentionné cette irrégularité au procès-verbal des opérations de vote. Dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.2",
+                  "intitule": "Mise à la disposition des électeurs des bulletins"
+                }
+              ]
+            },
+            {
+              "considerant": 8,
+              "portee": "bureau-de-vote",
+              "commune": "Bastia",
+              "departement": "2B",
+              "bureaux": [
+                11
+              ],
+              "suffrages_exprimes": 363,
+              "motif": "Dans le bureau de vote n° 11 de la commune de Bastia (Haute-Corse) dans lequel 363 suffrages ont été exprimés, le président du bureau était en possession des deux clefs de l'urne et a en outre tenté de dissimuler cette irrégularité au magistrat délégué du Conseil constitutionnel. Dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.2.2",
+                  "intitule": "Entrave aux fonctions"
+                }
+              ]
+            },
+            {
+              "considerant": 9,
+              "portee": "bureau-de-vote",
+              "commune": "Bastia",
+              "departement": "2B",
+              "bureaux": [
+                17
+              ],
+              "suffrages_exprimes": 454,
+              "motif": "Dans le bureau de vote n° 17 de la commune de Bastia (Haute-Corse), dans lequel 454 suffrages ont été exprimés, le magistrat délégué du Conseil constitutionnel a constaté, lors de son passage en fin d'après-midi, que l'urne était ouverte de sorte qu'il était possible d'y introduire des bulletins par une autre ouverture que celle prévue à cette fin. Une telle irrégularité étant de nature à favoriser la fraude, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.7",
+                  "intitule": "Irrégularités diverses"
+                }
+              ]
+            },
+            {
+              "considerant": 10,
+              "portee": "commune",
+              "commune": "Évrecy",
+              "departement": "14",
+              "suffrages_exprimes": 441,
+              "motif": "Dans la commune d'Évrecy (Calvados), dans laquelle 441 suffrages ont été exprimés, les électeurs étaient invités à signer la liste d'émargement avant d'introduire leur bulletin dans l'urne, en méconnaissance des dispositions du dernier alinéa de l'article L. 62-1 du code électoral. Cette irrégularité, qui s'est déroulée jusqu'à peu avant la clôture des opérations de vote, a été constatée par le magistrat délégué du Conseil constitutionnel. Dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune."
+            },
+            {
+              "considerant": 11,
+              "portee": "commune",
+              "commune": "Vendœuvres",
+              "departement": "36",
+              "suffrages_exprimes": 637,
+              "motif": "Dans la commune de Vendœuvres (Indre), dans lequel 637 suffrages ont été exprimés, les électeurs étaient invités à signer la liste d'émargement avant d'introduire leur bulletin dans l'urne, en méconnaissance des dispositions du dernier alinéa de l'article L. 62-1 du code électoral. Cette irrégularité s'est poursuivie en dépit des observations faites par le magistrat délégué du Conseil constitutionnel auxquelles le président du bureau de vote a refusé de donner suite. Dès lors, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.2.1",
+                  "intitule": "Observations non suivies d'effet"
+                }
+              ]
+            },
+            {
+              "considerant": 12,
+              "portee": "bureau-de-vote",
+              "commune": "Givors",
+              "departement": "69",
+              "bureaux": [
+                4
+              ],
+              "suffrages_exprimes": 449,
+              "motif": "Dans le bureau de vote n° 4 de la commune de Givors (Rhône), dans lequel ont été exprimés 449 suffrages, il a été procédé aux opérations de dépouillement hors la présence des électeurs, qui se sont vu refuser l'accès au bureau à compter de la clôture du scrutin, en méconnaissance des articles L. 65 et R. 63 du code électoral. Les électeurs ont ainsi été privés, sans justification, de la possibilité d'exercer leur droit à surveiller le dépouillement des votes. En raison de cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau."
+            },
+            {
+              "considerant": 13,
+              "portee": "bureau-de-vote",
+              "commune": "Sainte-Foy",
+              "departement": "85",
+              "bureaux": [
+                1
+              ],
+              "suffrages_exprimes": 633,
+              "motif": "Dans les bureaux de vote nos 1 et 2 de la commune de Sainte-Foy (Vendée), dans lesquels ont été respectivement exprimés 633 et 545 suffrages, il a été procédé aux opérations de dépouillement en méconnaissance des dispositions de l'article L. 65 du code électoral, sans double contrôle ni lecture à haute voix des bulletins dépouillés, ni comptage des bulletins au fur et à mesure du dépouillement. Ces manquements rendent impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces bureaux.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 13,
+              "portee": "bureau-de-vote",
+              "commune": "Sainte-Foy",
+              "departement": "85",
+              "bureaux": [
+                2
+              ],
+              "suffrages_exprimes": 545,
+              "motif": "Dans les bureaux de vote nos 1 et 2 de la commune de Sainte-Foy (Vendée), dans lesquels ont été respectivement exprimés 633 et 545 suffrages, il a été procédé aux opérations de dépouillement en méconnaissance des dispositions de l'article L. 65 du code électoral, sans double contrôle ni lecture à haute voix des bulletins dépouillés, ni comptage des bulletins au fur et à mesure du dépouillement. Ces manquements rendent impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces bureaux.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 14,
+              "portee": "commune",
+              "commune": "Fontaines",
+              "departement": "89",
+              "suffrages_exprimes": 253,
+              "motif": "Les listes d'émargement des bureaux de vote des communes de Fontaines et d'Asquins (Yonne), dans lesquelles ont été respectivement exprimés 253 et 186 suffrages, n'ont pas été transmises à la préfecture après le dépouillement du scrutin, en méconnaissance de l'article L. 68 du code électoral. Ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces communes."
+            },
+            {
+              "considerant": 14,
+              "portee": "commune",
+              "commune": "Asquins",
+              "departement": "89",
+              "suffrages_exprimes": 186,
+              "motif": "Les listes d'émargement des bureaux de vote des communes de Fontaines et d'Asquins (Yonne), dans lesquelles ont été respectivement exprimés 253 et 186 suffrages, n'ont pas été transmises à la préfecture après le dépouillement du scrutin, en méconnaissance de l'article L. 68 du code électoral. Ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces communes."
+            },
+            {
+              "considerant": 15,
+              "portee": "bureau-de-vote",
+              "commune": "Appoigny",
+              "departement": "89",
+              "bureaux": [
+                2
+              ],
+              "suffrages_exprimes": 638,
+              "motif": "Dans le bureau de vote n° 2 de la commune d'Appoigny (Yonne), dans lequel 638 suffrages ont été exprimés, la liste d'émargement du bureau de vote fait apparaître des signatures similaires pour l'ensemble des votants. Cette irrégularité est de nature à affecter la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans ce bureau.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.5",
+                  "intitule": "Liste d'émargement"
+                }
+              ]
+            },
+            {
+              "considerant": 16,
+              "portee": "commune",
+              "commune": "Lagamas",
+              "departement": "34",
+              "suffrages_exprimes": 89,
+              "motif": "La commune de Lagamas (Hérault), dans laquelle 89 suffrages ont été exprimés, a transmis à la préfecture après le dépouillement du scrutin un procès-verbal des opérations de vote incomplet, sans dénombrement des enveloppes et bulletins dépourvus d'enveloppe trouvés dans l'urne, des bulletins blancs et des suffrages exprimés, et n'a pas non plus joint les feuilles de pointage, en méconnaissance des articles L. 68, R. 67 et R. 68 du code électoral. Ces manquements rendent impossible le contrôle de la régularité et de la sincérité du scrutin. Il y a donc lieu d'annuler l'ensemble des suffrages émis dans cette commune.",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.5",
+                  "intitule": "Irrégularités relatives aux procès-verbaux et aux pièces annexes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

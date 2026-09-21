@@ -1,0 +1,326 @@
+{
+  "$schema": "../../schemas/resultats.schema.json",
+  "election": "PR-1995",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "1995-04-23",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1995-04-26",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-79-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9579pdr.htm",
+              "commentaire": "Déclaration du 26 avril 1995 relative aux résultats du premier tour de scrutin",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 39992912,
+          "votants": 31345794,
+          "suffrages_exprimes": 30462633,
+          "majorite_absolue": 15231317,
+          "voix": [
+            {
+              "personne": "PE-0036",
+              "nom_complet": "Philippe de VILLIERS",
+              "voix": 1443186
+            },
+            {
+              "personne": "PE-0019",
+              "nom_complet": "Jean-Marie LE PEN",
+              "voix": 4570838
+            },
+            {
+              "personne": "PE-0030",
+              "nom_complet": "Jacques CHIRAC",
+              "voix": 6348375
+            },
+            {
+              "personne": "PE-0018",
+              "nom_complet": "Arlette LAGUILLER",
+              "voix": 1615552
+            },
+            {
+              "personne": "PE-0037",
+              "nom_complet": "Jacques CHEMINADE",
+              "voix": 84959
+            },
+            {
+              "personne": "PE-0038",
+              "nom_complet": "Lionel JOSPIN",
+              "voix": 7097786
+            },
+            {
+              "personne": "PE-0039",
+              "nom_complet": "Dominique VOYNET",
+              "voix": 1010681
+            },
+            {
+              "personne": "PE-0040",
+              "nom_complet": "Édouard BALLADUR",
+              "voix": 5658796
+            },
+            {
+              "personne": "PE-0041",
+              "nom_complet": "Robert HUE",
+              "voix": 2632460
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "commune",
+              "commune": "Villers-Bocage",
+              "departement": "14",
+              "suffrages_exprimes": 1517,
+              "motif": "Considérant que dans le bureau de vote de la commune de Villers-Bocage (Calvados) dans lequel 1 517 suffrages ont été exprimés, il a été fait usage d'une urne en bois en violation des dispositions de l'article L. 63 du code électoral en vertu desquelles l'urne électorale est transparente ; que par suite les résultats du scrutin doivent être annulés dans le bureau considéré"
+            },
+            {
+              "considerant": 2,
+              "portee": "commune",
+              "commune": "Arnay-le-Duc",
+              "departement": "21",
+              "suffrages_exprimes": 895,
+              "motif": "Considérant qu'il résulte des articles L. 62 et L. 63 du code électoral qu'il ne peut être mis à la disposition des électeurs qu'une seule urne par bureau de vote ; que par suite c'est en violation de ces prescriptions que deux urnes ont été mises à la disposition des électeurs dans l'unique bureau de vote de la commune d'Arnay-le-Duc (Côte-d'Or) dans lequel 895 suffrages ont été exprimés ; que, de surcroît, l'intervention du magistrat délégué du Conseil constitutionnel est restée sans effet ; qu'il y a donc lieu d'annuler les résultats du bureau en cause ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.7",
+                  "intitule": "Irrégularités diverses"
+                }
+              ]
+            },
+            {
+              "considerant": 4,
+              "portee": "bureau-de-vote",
+              "commune": "Issoudun",
+              "departement": "36",
+              "bureaux": [
+                1,
+                2,
+                4,
+                6,
+                7,
+                8
+              ],
+              "suffrages_exprimes": 5296,
+              "motif": "Considérant que dans les bureaux de vote no 1, no 2, no 4, no 6, no 7 et no 8 de la commune d'Issoudun (Indre) dans lesquels 5 296 suffrages ont été exprimés, il n'a pas été procédé au contrôle de l'identité des électeurs pendant toute la durée des opérations électorales, en violation des dispositions des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites par le magistrat délégué du Conseil constitutionnel ; que, compte tenu de la persistance des bureaux de vote à ne pas appliquer les dispositions susvisées après l'intervention de ce magistrat, le Conseil constitutionnel n'est pas en mesure de s'assurer de la sincérité du scrutin ; que par suite il y a lieu d'annuler l'ensemble des suffrages émis dans les bureaux en cause ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 5,
+              "portee": "commune",
+              "commune": "Feurs",
+              "departement": "42",
+              "suffrages_exprimes": 3782,
+              "motif": "Considérant que dans les quatre bureaux de la commune de Feurs (Loire), dans lesquels 3 782 suffrages ont été exprimés, il n'a pas été procédé régulièrement pendant toute la journée au contrôle de l'identité des électeurs, en méconnaissance des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites par le magistrat délégué du Conseil constitutionnel ; que le maire de la commune a fait obstruction à l'accomplissement par ce magistrat de la mission de vérification qui lui incombait ; qu'eu égard à cette méconnaissance délibérée de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans les bureaux en cause ;"
+            },
+            {
+              "considerant": 6,
+              "portee": "commune",
+              "commune": "Avranches",
+              "departement": "50",
+              "suffrages_exprimes": 4543,
+              "motif": "Considérant que dans l'ensemble des bureaux de la commune d'Avranches (Manche), dans lesquels 4 543 suffrages ont été exprimés, il n'a pas été procédé au contrôle de l'identité des électeurs, en méconnaissance des articles L. 62 et R. 60 du code électoral ; que cette irrégularité a été momentanément corrigée à la demande du magistrat délégué du Conseil constitutionnel mais qu'elle s'est reproduite après le départ de celui-ci ; qu'à la suite d'une nouvelle visite du délégué, le maire de la commune a fait obstruction à l'accomplissement par ce magistrat de la mission de vérification qui lui incombait ; qu'eu égard à cette méconnaissance délibérée de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans les bureaux en cause ;"
+            },
+            {
+              "considerant": 7,
+              "portee": "commune",
+              "commune": "Brêmes-lès-Ardres",
+              "departement": "62",
+              "motif": "Considérant que dans la commune de Brêmes-lès-Ardres (Pas-de-Calais), où sont inscrits 880 électeurs, le bureau de vote a mis à la disposition de 89 d'entre eux qui se sont présentés pendant la seule période comprise entre 12 h 40 et 14 heures, des enveloppes électorales de modèles non réglementaires quant à leur couleur, leur format ou les mentions qu'elles comportaient ; que le bureau de vote a ainsi méconnu les dispositions de l'article L. 60 du code électoral ; que cette méconnaissance, sanctionnée par l'article L. 66 du même code, ne permet pas au Conseil constitutionnel de s'assurer de la sincérité du scrutin ; qu'il y a donc lieu d'annuler les résultats du scrutin dans la commune de Brêmes-lès-Ardres ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.5.2.1",
+                  "intitule": "Principe de sincérité du scrutin appliqué à l'élection présidentielle (exemples)"
+                }
+              ]
+            },
+            {
+              "considerant": 9,
+              "portee": "bureau-de-vote",
+              "commune": "Ivry-sur-Seine",
+              "departement": "94",
+              "bureaux": [
+                7,
+                8
+              ],
+              "suffrages_exprimes": 1163,
+              "motif": "Considérant que, dans les bureaux de vote no 7 et no 8 de la commune d'Ivry-sur-Seine (Val-de-Marne), dans lesquels 1 163 suffrages ont été exprimés, il n'a pas été procédé au contrôle de l'identité des électeurs jusqu'aux environs de midi, en violation des dispositions des articles L. 62 et R. 60 du code électoral ; qu'il a fallu, après un premier rappel à l'ordre effectué vainement par le délégué de la commission de contrôle, l'intervention du président de cette commission pour qu'il soit mis fin à l'anomalie constatée ; que, compte tenu de la persistance du bureau de vote à ne pas appliquer les dispositions susvisées après la première intervention effectuée, le Conseil constitutionnel n'est pas en mesure de s'assurer de la sincérité du scrutin ; que, par suite, les résultats de celui-ci doivent être annulés dans les deux bureaux considérés ;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "1995-05-07",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1995-05-12",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:95-81-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1995/9581PDR.htm",
+              "commentaire": "Proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 39976944,
+          "votants": 31845819,
+          "suffrages_exprimes": 29943671,
+          "majorite_absolue": 14971836,
+          "voix": [
+            {
+              "personne": "PE-0030",
+              "nom_complet": "Jacques CHIRAC",
+              "voix": 15763027
+            },
+            {
+              "personne": "PE-0038",
+              "nom_complet": "Lionel JOSPIN",
+              "voix": 14180644
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "commune",
+              "commune": "Chevregny",
+              "departement": "02",
+              "suffrages_exprimes": 138,
+              "motif": "Considérant que dans la commune de Chevregny (Aisne) où 138 suffrages ont été exprimés, il ressort de l'examen de la liste d'émargement que, de manière générale, le vote de chaque électeur n'a pas été constaté par apposition de sa propre signature en face de son nom sur ladite liste en méconnaissance des dispositions du troisième alinéa de l'article L. 62-1 du code électoral ; qu'il y a donc lieu d'annuler les résultats du scrutin dans la commune en cause ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.7",
+                  "intitule": "Irrégularités diverses"
+                }
+              ]
+            },
+            {
+              "considerant": 2,
+              "portee": "commune",
+              "commune": "Saint-Martin-de-Brômes",
+              "departement": "04",
+              "suffrages_exprimes": 244,
+              "motif": "Considérant que le bureau de vote unique de la commune de Saint-Martin-de-Brômes (Alpes-de-Haute-Provence), dans lequel 244 suffrages ont été exprimés, a été fermé de 12 h 30 à 13 h 50 et que l'urne a été laissée sans surveillance pendant une heure vingt ; que cette interruption des opérations électorales et cette fermeture du bureau de vote intervenues en violation de l'article R. 41 du code électoral constituent des irrégularités ; que par suite, compte tenu des circonstances de l'espèce, il y a lieu d'annuler les résultats du scrutin dans le bureau de vote en cause ;"
+            },
+            {
+              "considerant": 3,
+              "portee": "bureau-de-vote",
+              "commune": "Lavelanet",
+              "departement": "09",
+              "bureaux": [
+                5
+              ],
+              "suffrages_exprimes": 807,
+              "motif": "Considérant que dans le 5 e bureau de vote de la commune de Lavelanet (Ariège), dans lequel 807 suffrages ont été exprimés, il n'a pas été procédé au contrôle de l'identité des électeurs au moyen d'un titre d'identité, en violation des dispositions des articles L. 62 et R. 60 du code électoral ; que le rappel des obligations qui s'imposent en la matière, effectué par le délégué du Conseil constitutionnel en fin de matinée, est resté sans effet comme il l'a lui-même consigné sur le procès-verbal des opérations de vote à 17 heures ; que le Conseil constitutionnel n'est pas en mesure de s'assurer de la sincérité des résultats du scrutin dans le bureau de vote considéré ; qu'il y a lieu par suite d'en annuler les résultats ;"
+            },
+            {
+              "considerant": 4,
+              "portee": "commune",
+              "commune": "Les Riceys",
+              "departement": "10",
+              "suffrages_exprimes": 846,
+              "motif": "Considérant qu'il résulte des articles L. 62 et L. 63 du code électoral qu'il ne peut être mis à la disposition des électeurs qu'une seule urne par bureau de vote ; que, par suite, c'est en violation de ces prescriptions que deux urnes ont été mises à la disposition des électeurs dans l'unique bureau de vote d'une part de la commune des Riceys (Aube) dans lequel 846 suffrages ont été exprimés et d'autre part de la commune de Sévignac (Côtes-d'Armor) dans lequel 735 suffrages ont été exprimés ; qu'il y a donc lieu d'annuler les résultats du scrutin dans les communes en cause ;"
+            },
+            {
+              "considerant": 4,
+              "portee": "commune",
+              "commune": "Sévignac",
+              "departement": "22",
+              "suffrages_exprimes": 735,
+              "motif": "Considérant qu'il résulte des articles L. 62 et L. 63 du code électoral qu'il ne peut être mis à la disposition des électeurs qu'une seule urne par bureau de vote ; que, par suite, c'est en violation de ces prescriptions que deux urnes ont été mises à la disposition des électeurs dans l'unique bureau de vote d'une part de la commune des Riceys (Aube) dans lequel 846 suffrages ont été exprimés et d'autre part de la commune de Sévignac (Côtes-d'Armor) dans lequel 735 suffrages ont été exprimés ; qu'il y a donc lieu d'annuler les résultats du scrutin dans les communes en cause ;"
+            },
+            {
+              "considerant": 5,
+              "portee": "commune",
+              "commune": "Monestier-d'Ambel",
+              "departement": "38",
+              "suffrages_exprimes": 43,
+              "motif": "Considérant que dans le bureau de vote de Monestier-d'Ambel (Isère) où 43 suffrages ont été exprimés, le délégué du Conseil constitutionnel a relevé diverses irrégularités, notamment la présence du seul président du bureau à la table de vote, le nombre insuffisant des membres du bureau inscrits, l'absence de table de décharge pour le dépôt des enveloppes et des bulletins et enfin l'absence de panneaux d'affichage à l'extérieur du bureau, en méconnaissance des articles R. 42, L. 51 et L. 58 du code électoral ; qu'en outre le délégué a constaté que certains électeurs qui exigeaient le respect des règles relatives à l'organisation du scrutin se sont heurtés à un refus du président du bureau de vote sans que, au surplus, celui-ci avance une quelconque justification à l'appui de ses décisions ; que, par suite, il y a lieu d'annuler les résultats du scrutin dans le bureau de vote en cause ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.1.2",
+                  "intitule": "Composition du bureau de vote et présence de ses membres"
+                }
+              ]
+            },
+            {
+              "considerant": 7,
+              "portee": "commune",
+              "commune": "Lannes",
+              "departement": "52",
+              "suffrages_exprimes": 158,
+              "motif": "Considérant que dans le bureau de vote de la commune de Lannes (Haute-Marne), où 158 suffrages ont été exprimés, il a été fait usage d'une urne métallique en violation des dispositions de l'article L. 63 du code électoral en vertu desquelles l'urne électorale est transparente ; que, par suite, les résultats du scrutin doivent être annulés dans le bureau considéré ;"
+            },
+            {
+              "considerant": 8,
+              "portee": "bureau-de-vote",
+              "commune": "La Charité-sur-Loire",
+              "departement": "58",
+              "bureaux": [
+                3
+              ],
+              "suffrages_exprimes": 697,
+              "motif": "Considérant que dans le bureau de vote no 3 de la commune de La Charité-sur-Loire (Nièvre), où 697 suffrages ont été exprimés, il n'a pas été procédé au contrôle de l'identité des électeurs en méconnaissance des articles L. 62 et R. 60 du code électoral ; qu'en outre, un électeur ayant déclaré être en possession d'un titre d'identité a refusé de le produire et qu'invité par le président du bureau à s'expliquer avec le délégué du conseil, il a violemment apostrophé ce délégué sans provoquer l'intervention des membres du bureau de vote ; que cet électeur a ensuite été admis à voter par le président du bureau sans présenter de titre d'identité ; que la volonté de ne pas se conformer aux prescriptions des articles L. 62 et R. 60 du code électoral est manifeste ; qu'en conséquence, il y a lieu d'annuler le résultat du scrutin dans ce bureau ;"
+            },
+            {
+              "considerant": 9,
+              "portee": "commune",
+              "commune": "Sains-du-Nord",
+              "departement": "59",
+              "suffrages_exprimes": 1741,
+              "motif": "Considérant qu'il résulte des articles L. 62 et L. 63 du code électoral qu'il ne peut être mis à la disposition des électeurs qu'une seule urne par bureau de vote ; que par suite c'est en violation de ces prescriptions que deux urnes ont été mises à la disposition des électeurs, d'une part, dans la commune de Sains-du-Nord (Nord), dans laquelle 1 741 suffrages ont été exprimés et, d'autre part, dans celle de Poix-du-Nord (Nord), dans laquelle 1 171 suffrages ont été exprimés ; que, si le dispositif adopté par les maires des communes susvisées peut s'expliquer par le nombre d'électeurs inscrits, il ne s'ensuit pas que cette circonstance de fait puisse avoir pour effet de régulariser les violations ci-dessus exposées ; qu'il y a donc lieu d'annuler les résultats du scrutin dans les communes en cause ;"
+            },
+            {
+              "considerant": 9,
+              "portee": "commune",
+              "commune": "Poix-du-Nord",
+              "departement": "59",
+              "suffrages_exprimes": 1171,
+              "motif": "Considérant qu'il résulte des articles L. 62 et L. 63 du code électoral qu'il ne peut être mis à la disposition des électeurs qu'une seule urne par bureau de vote ; que par suite c'est en violation de ces prescriptions que deux urnes ont été mises à la disposition des électeurs, d'une part, dans la commune de Sains-du-Nord (Nord), dans laquelle 1 741 suffrages ont été exprimés et, d'autre part, dans celle de Poix-du-Nord (Nord), dans laquelle 1 171 suffrages ont été exprimés ; que, si le dispositif adopté par les maires des communes susvisées peut s'expliquer par le nombre d'électeurs inscrits, il ne s'ensuit pas que cette circonstance de fait puisse avoir pour effet de régulariser les violations ci-dessus exposées ; qu'il y a donc lieu d'annuler les résultats du scrutin dans les communes en cause ;"
+            },
+            {
+              "considerant": 10,
+              "portee": "bureau-de-vote",
+              "commune": "Waziers",
+              "departement": "59",
+              "bureaux": [
+                1
+              ],
+              "suffrages_exprimes": 1269,
+              "motif": "Considérant qu'il résulte des constatations effectuées par le délégué du Conseil constitutionnel dans le premier bureau de la commune de Waziers (Nord), dans lequel 1 269 suffrages ont été exprimés, qu'il n'a pas été procédé, au moyen de titres d'identité, au contrôle de l'identité des électeurs en violation des dispositions des articles L. 62 et R. 60 du code électoral ; qu'invité par le délégué du conseil à se conformer aux textes en vigueur, le président de ce bureau de vote est délibérément passé outre ; que cette circonstance met le Conseil constitutionnel dans l'impossibilité de s'assurer de la sincérité du scrutin ; que par suite il y a lieu d'annuler l'ensemble des suffrages dans le bureau considéré ;"
+            },
+            {
+              "considerant": 12,
+              "portee": "commune",
+              "commune": "Saint-Junien",
+              "departement": "87",
+              "suffrages_exprimes": 2562,
+              "motif": "Considérant que dans les bureaux de vote de la salle des fêtes et de la mairie de Saint-Junien (Haute-Vienne) dans lesquels 2 562 suffrages ont été exprimés, les électeurs n'ont pas été invités à passer par l'isoloir et leur identité n'a pas été contrôlée pendant toute la durée des opérations électorales, en violation des dispositions des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites par le magistrat délégué du Conseil constitutionnel ; que, compte tenu de la persistance des bureaux de vote à ne pas appliquer les dispositions susvisées après l'intervention de ce magistrat, le Conseil constitutionnel n'est pas en mesure de s'assurer de la sincérité du scrutin ; que par suite il y a lieu d'annuler l'ensemble des suffrages émis dans les bureaux en cause ;"
+            },
+            {
+              "considerant": 16,
+              "portee": "bureau-de-vote",
+              "commune": "Païta",
+              "departement": "988",
+              "bureaux": [
+                4
+              ],
+              "suffrages_exprimes": 648,
+              "motif": "Considérant que, dans le bureau no 4 de la commune de Païta (Nouvelle-Calédonie), dans lequel 648 suffrages ont été exprimés, il n'a pas été procédé au contrôle de l'identité des électeurs en méconnaissance des dispositions des articles L. 62 et R. 60 du code électoral ; que, compte tenu de la persistance du bureau de vote à ne pas exiger la présentation des titres prévus par la réglementation, en dépit des observations faites par le délégué du Conseil constitutionnel, le Conseil constitutionnel n'est pas en mesure de s'assurer de la sincérité du scrutin ; que, par suite, les résultats de celui-ci doivent être annulés dans le bureau considéré ;"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

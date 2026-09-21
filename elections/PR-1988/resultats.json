@@ -1,0 +1,308 @@
+{
+  "$schema": "../../schemas/resultats.schema.json",
+  "election": "PR-1988",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "1988-04-24",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1988-04-27",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-56-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8856pdr.htm",
+              "commentaire": "Déclaration du 27 avril 1988, résultats du premier tour de scrutin",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 38128507,
+          "votants": 31027972,
+          "suffrages_exprimes": 30406038,
+          "majorite_absolue": 15203020,
+          "voix": [
+            {
+              "personne": "PE-0031",
+              "nom_complet": "Raymond BARRE",
+              "voix": 5031849
+            },
+            {
+              "personne": "PE-0032",
+              "nom_complet": "Pierre JUQUIN",
+              "voix": 639084
+            },
+            {
+              "personne": "PE-0019",
+              "nom_complet": "Jean-Marie LE PEN",
+              "voix": 4375894
+            },
+            {
+              "personne": "PE-0030",
+              "nom_complet": "Jacques CHIRAC",
+              "voix": 6063514
+            },
+            {
+              "personne": "PE-0005",
+              "nom_complet": "François MITTERRAND",
+              "voix": 10367220
+            },
+            {
+              "personne": "PE-0033",
+              "nom_complet": "Pierre BOUSSEL",
+              "voix": 116823
+            },
+            {
+              "personne": "PE-0034",
+              "nom_complet": "Antoine WAECHTER",
+              "voix": 1149642
+            },
+            {
+              "personne": "PE-0018",
+              "nom_complet": "Arlette LAGUILLER",
+              "voix": 606017
+            },
+            {
+              "personne": "PE-0035",
+              "nom_complet": "André LAJOINIE",
+              "voix": 2055995
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Bar-sur-Aube",
+              "departement": "10",
+              "bureaux": [
+                1
+              ],
+              "motif": "Considérant que, dans le l bureau de la commune de Bar-sur-Aube et dans le 2\" bureau de la commune de Troyes (Aube), la commission départementale de recensement a relevé des discordances importantes et inexpliquées entre les chiffres inscrits dans les procès-verbaux retraçant les résultats et ceux figurant dans les feuilles de dépouillement ; que ces dernières comportent des ratures et des surcharges ; que le Conseil constitutionnel n'étant pas en mesure d'exercer son contrôle sur la régularité des votes, il y a lieu d'annuler l'ensemble des suffrages exprimés dans les bureaux susmentionnés ;"
+            },
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Troyes",
+              "departement": "10",
+              "bureaux": [
+                2
+              ],
+              "motif": "Considérant que, dans le l bureau de la commune de Bar-sur-Aube et dans le 2\" bureau de la commune de Troyes (Aube), la commission départementale de recensement a relevé des discordances importantes et inexpliquées entre les chiffres inscrits dans les procès-verbaux retraçant les résultats et ceux figurant dans les feuilles de dépouillement ; que ces dernières comportent des ratures et des surcharges ; que le Conseil constitutionnel n'étant pas en mesure d'exercer son contrôle sur la régularité des votes, il y a lieu d'annuler l'ensemble des suffrages exprimés dans les bureaux susmentionnés ;"
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Calais",
+              "departement": "62",
+              "bureaux": [
+                26,
+                27
+              ],
+              "motif": "Considérant que dans les 26 ° et 27 ° bureaux de la commune de Calais (Pas-de-Calais), il n'a pas été procédé au contrôle d'identité des électeurs, en méconnaissance des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites à ce sujet par le magistrat délégué du Conseil constitutionnel ; que, devant cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages exprimés dansées bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.5.2.1",
+                  "intitule": "Principe de sincérité du scrutin appliqué à l'élection présidentielle (exemples)"
+                },
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 3,
+              "portee": "bureau-de-vote",
+              "commune": "Fontenay-sous-Bois",
+              "departement": "94",
+              "bureaux": [
+                23
+              ],
+              "motif": "Considérant que, dans le département du Val-de-Marne, dans le 23 ° bureau de la commune de Fontenay-sous-Bois, dans le 11 ° bureau de la commune de Gentilly, dans les 10 ° et 37 ° bureaux de la commune de Vitry-sur-Seine, le rapport entre le nombre des bulletins et enveloppes trouvés dans l'urne et le nombre des électeurs portés sur la liste d'émargement comme ayant pris part au vote fait apparaître des discordances très importantes ; qu'en l'état, le Conseil constitutionnel ne se trouve pas en mesure d'exercer son contrôle sur la régularité des votes dans les bureaux précités ; que, dès lors, il y a lieu d'annuler l'ensemble des suffrages exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.2",
+                  "intitule": "Discordance entre émargements et bulletins"
+                }
+              ]
+            },
+            {
+              "considerant": 3,
+              "portee": "bureau-de-vote",
+              "commune": "Gentilly",
+              "departement": "94",
+              "bureaux": [
+                11
+              ],
+              "motif": "Considérant que, dans le département du Val-de-Marne, dans le 23 ° bureau de la commune de Fontenay-sous-Bois, dans le 11 ° bureau de la commune de Gentilly, dans les 10 ° et 37 ° bureaux de la commune de Vitry-sur-Seine, le rapport entre le nombre des bulletins et enveloppes trouvés dans l'urne et le nombre des électeurs portés sur la liste d'émargement comme ayant pris part au vote fait apparaître des discordances très importantes ; qu'en l'état, le Conseil constitutionnel ne se trouve pas en mesure d'exercer son contrôle sur la régularité des votes dans les bureaux précités ; que, dès lors, il y a lieu d'annuler l'ensemble des suffrages exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.2",
+                  "intitule": "Discordance entre émargements et bulletins"
+                }
+              ]
+            },
+            {
+              "considerant": 3,
+              "portee": "bureau-de-vote",
+              "commune": "Vitry-sur-Seine",
+              "departement": "94",
+              "bureaux": [
+                10,
+                37
+              ],
+              "motif": "Considérant que, dans le département du Val-de-Marne, dans le 23 ° bureau de la commune de Fontenay-sous-Bois, dans le 11 ° bureau de la commune de Gentilly, dans les 10 ° et 37 ° bureaux de la commune de Vitry-sur-Seine, le rapport entre le nombre des bulletins et enveloppes trouvés dans l'urne et le nombre des électeurs portés sur la liste d'émargement comme ayant pris part au vote fait apparaître des discordances très importantes ; qu'en l'état, le Conseil constitutionnel ne se trouve pas en mesure d'exercer son contrôle sur la régularité des votes dans les bureaux précités ; que, dès lors, il y a lieu d'annuler l'ensemble des suffrages exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.2",
+                  "intitule": "Discordance entre émargements et bulletins"
+                }
+              ]
+            },
+            {
+              "considerant": 4,
+              "portee": "bureau-de-vote",
+              "commune": "Lamentin",
+              "departement": "971",
+              "bureaux": [
+                3
+              ],
+              "motif": "Considérant que, dans la commune de Lamentin (Guadeloupe), le bureau centralisateur a, en méconnaissance des dispositions de l'article R. 69 du code électoral, modifié les résultats du 3 ° bureau de vote ; qu'au surplus, il n'a donné aucune justification ni explication ; qu'en dépit de la demande faite par le délégué du Conseil constitutionnel les feuilles d'émargement du y bureau n'ont pas été jointes au dossier ; que, faute pour le Conseil d'être à même d'exercer son contrôle sui la régularité des opérations de vote, il y a lieu d'annuler l'ensemble des suffrages exprimés dans le 3 ° bureau,",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.5",
+                  "intitule": "Irrégularités relatives aux procès-verbaux et aux pièces annexes"
+                }
+              ]
+            },
+            {
+              "considerant": 7,
+              "portee": "bureau-de-vote",
+              "commune": "Maré",
+              "departement": "988",
+              "bureaux": [
+                2,
+                5
+              ],
+              "motif": "Considérant, toutefois, en l'état des informations dont dispose le Conseil constitutionnel, qu'il est établi que les conditions dans lesquelles ont fonctionné les 2 ° et 5 ° bureaux de vote de l'Île de Maré ainsi que le 4 ° bureau de vote de Yaté n'ont pas permis une expression régulière des suffrages ; que, dans ces circonstances, il y a lieu pour le Conseil constitutionnel d'annuler les suffrages exprimés dans ces différents bureaux ;"
+            },
+            {
+              "considerant": 7,
+              "portee": "bureau-de-vote",
+              "commune": "Yaté",
+              "departement": "988",
+              "bureaux": [
+                4
+              ],
+              "motif": "Considérant, toutefois, en l'état des informations dont dispose le Conseil constitutionnel, qu'il est établi que les conditions dans lesquelles ont fonctionné les 2 ° et 5 ° bureaux de vote de l'Île de Maré ainsi que le 4 ° bureau de vote de Yaté n'ont pas permis une expression régulière des suffrages ; que, dans ces circonstances, il y a lieu pour le Conseil constitutionnel d'annuler les suffrages exprimés dans ces différents bureaux ;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "1988-05-08",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "1988-05-11",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:88-60-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/1988/8860PDR.htm",
+              "commentaire": "Proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 38168869,
+          "votants": 32085071,
+          "suffrages_exprimes": 30923249,
+          "majorite_absolue": 15461625,
+          "voix": [
+            {
+              "personne": "PE-0005",
+              "nom_complet": "François MITTERRAND",
+              "voix": 16704279
+            },
+            {
+              "personne": "PE-0030",
+              "nom_complet": "Jacques CHIRAC",
+              "voix": 14218970
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Quimperlé",
+              "departement": "29",
+              "bureaux": [
+                1
+              ],
+              "motif": "Considérant que, dans le l bureau de vote de la commune de Quimperlé (Finistère), dans le 1 er bureau de la commune de Tarare (Rhône), dans les 1 er , 2 e , 3 e , 4 e et 5 e bureaux de la commune de Loudéac (Côtes-du-Nord), il n'a pas été procédé au contrôle d'identité des électeurs, en méconnaissance des articles L.62 et R. 60 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites à ce sujet, soit par le magistrat délégué du Conseil constitutionnel, soit par la commission de contrôle des opérations de vote ; que, devant cette méconnaissance délibérée et persistante de dispositions légales destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Tarare",
+              "departement": "69",
+              "bureaux": [
+                1
+              ],
+              "motif": "Considérant que, dans le l bureau de vote de la commune de Quimperlé (Finistère), dans le 1 er bureau de la commune de Tarare (Rhône), dans les 1 er , 2 e , 3 e , 4 e et 5 e bureaux de la commune de Loudéac (Côtes-du-Nord), il n'a pas été procédé au contrôle d'identité des électeurs, en méconnaissance des articles L.62 et R. 60 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites à ce sujet, soit par le magistrat délégué du Conseil constitutionnel, soit par la commission de contrôle des opérations de vote ; que, devant cette méconnaissance délibérée et persistante de dispositions légales destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Loudéac",
+              "departement": "22",
+              "bureaux": [
+                1,
+                2,
+                3,
+                4,
+                5
+              ],
+              "motif": "Considérant que, dans le l bureau de vote de la commune de Quimperlé (Finistère), dans le 1 er bureau de la commune de Tarare (Rhône), dans les 1 er , 2 e , 3 e , 4 e et 5 e bureaux de la commune de Loudéac (Côtes-du-Nord), il n'a pas été procédé au contrôle d'identité des électeurs, en méconnaissance des articles L.62 et R. 60 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites à ce sujet, soit par le magistrat délégué du Conseil constitutionnel, soit par la commission de contrôle des opérations de vote ; que, devant cette méconnaissance délibérée et persistante de dispositions légales destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages exprimés dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 3,
+              "portee": "bureau-de-vote",
+              "commune": "Villejuif",
+              "departement": "94",
+              "bureaux": [
+                27
+              ],
+              "motif": "Considérant que, dans le 27e bureau de la commune de Villejuif (Val-de- Marne), le rapport entre le nombre des bulletins et enveloppes trouvés dans l'urne et le nombre des électeurs portés sur la liste d'émargement comme ayant pris part au vote fait apparaître des discordances très importantes ; qu'en l'état, le Conseil constitutionnel ne se trouve pas en mesure d'exercer son contrôle sur la régularité des votes dans ce bureau ; que, dès lors, il y a lieu d'annuler l'ensemble des suffrages exprimés dans ledit bureau ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.2",
+                  "intitule": "Discordance entre émargements et bulletins"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

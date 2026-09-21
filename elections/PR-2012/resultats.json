@@ -1,0 +1,467 @@
+{
+  "$schema": "../../schemas/resultats.schema.json",
+  "election": "PR-2012",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "2012-04-22",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "2012-04-25",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-152-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012152PDR.htm",
+              "commentaire": "Déclaration du 25 avril 2012 relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 46028542,
+          "votants": 36584399,
+          "suffrages_exprimes": 35883209,
+          "majorite_absolue": 17941605,
+          "voix": [
+            {
+              "personne": "PE-0059",
+              "nom_complet": "Eva JOLY",
+              "voix": 828345
+            },
+            {
+              "personne": "PE-0060",
+              "nom_complet": "Marine LE PEN",
+              "voix": 6421426
+            },
+            {
+              "personne": "PE-0058",
+              "nom_complet": "Nicolas SARKOZY",
+              "voix": 9753629
+            },
+            {
+              "personne": "PE-0061",
+              "nom_complet": "Jean-Luc MÉLENCHON",
+              "voix": 3984822
+            },
+            {
+              "personne": "PE-0062",
+              "nom_complet": "Philippe POUTOU",
+              "voix": 411160
+            },
+            {
+              "personne": "PE-0063",
+              "nom_complet": "Nathalie ARTHAUD",
+              "voix": 202548
+            },
+            {
+              "personne": "PE-0037",
+              "nom_complet": "Jacques CHEMINADE",
+              "voix": 89545
+            },
+            {
+              "personne": "PE-0045",
+              "nom_complet": "François BAYROU",
+              "voix": 3275122
+            },
+            {
+              "personne": "PE-0064",
+              "nom_complet": "Nicolas DUPONT-AIGNAN",
+              "voix": 643907
+            },
+            {
+              "personne": "PE-0065",
+              "nom_complet": "François HOLLANDE",
+              "voix": 10272705
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 2,
+              "portee": "commune",
+              "commune": "Pont-sur-Seine",
+              "departement": "10",
+              "suffrages_exprimes": 535,
+              "motif": "Considérant que, dans la commune de Pont-sur-Seine (Aube), dans laquelle 535 suffrages ont été exprimés, le président du bureau de vote s'est opposé à ce que le magistrat délégué du Conseil constitutionnel chargé de suivre sur place les opérations électorales accomplisse la mission qui lui était impartie ; que ce magistrat n'a pu accéder au bureau de vote et au procès-verbal des opérations de vote qu'en fin de journée, accompagné de la force publique ; qu'ainsi, le Conseil constitutionnel n'a pas été en mesure de contrôler que, dans cette commune, le scrutin s'est déroulé conformément aux prescriptions du code électoral ; que, par suite, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.2.2",
+                  "intitule": "Entrave aux fonctions"
+                }
+              ]
+            },
+            {
+              "considerant": 3,
+              "portee": "commune",
+              "commune": "Bourg-d'Oueil",
+              "departement": "31",
+              "suffrages_exprimes": 19,
+              "motif": "Considérant que, dans la commune de Bourg-d'Oueil (Haute-Garonne), dans laquelle 19 suffrages ont été exprimés, aucun isoloir n'a été mis à la disposition des électeurs en violation de l'article L. 62 du code électoral ; que, dès lors, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.3",
+                  "intitule": "Isoloirs"
+                }
+              ]
+            },
+            {
+              "considerant": 4,
+              "portee": "commune",
+              "commune": "Lissac",
+              "departement": "43",
+              "suffrages_exprimes": 204,
+              "motif": "Considérant que la liste d'émargement des électeurs de la commune de Lissac (Haute-Loire), dans laquelle 204 suffrages ont été exprimés, n'a pas été transmise à la préfecture après le dépouillement du scrutin, en méconnaissance de l'article L. 68 du code électoral ; que ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin ; qu'il y a donc lieu d'annuler l'ensemble des suffrages émis dans la commune ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.5",
+                  "intitule": "Irrégularités relatives aux procès-verbaux et aux pièces annexes"
+                }
+              ]
+            },
+            {
+              "considerant": 5,
+              "portee": "bureau-de-vote",
+              "commune": "Anglet",
+              "departement": "64",
+              "bureaux": [
+                18
+              ],
+              "suffrages_exprimes": 833,
+              "motif": "Considérant que, dans le bureau de vote n° 18 de la commune d'Anglet (Pyrénées-Atlantiques), dans lequel 833 suffrages ont été exprimés, il a été procédé à huis clos au dépouillement des votes en méconnaissance de l'article L. 65 du code électoral ; qu'en raison de cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Limoges",
+              "departement": "87",
+              "bureaux": [
+                67
+              ],
+              "suffrages_exprimes": 920,
+              "motif": "Considérant que, dans le bureau de vote n° 67 de la commune de Limoges (Haute-Vienne), dans lequel 920 suffrages ont été exprimés, les bulletins de vote au nom de l'un des candidats n'ont été mis à la disposition des électeurs, de façon visible, que tardivement ; que cette absence prolongée ayant porté atteinte à la libre expression du suffrage, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.2",
+                  "intitule": "Mise à la disposition des électeurs des bulletins"
+                }
+              ]
+            },
+            {
+              "considerant": 7,
+              "portee": "bureau-de-vote",
+              "commune": "Bouéni",
+              "departement": "976",
+              "bureaux": [
+                56
+              ],
+              "suffrages_exprimes": 30,
+              "motif": "Considérant que, dans le bureau de vote n° 56 dans la commune de Bouéni (Mayotte), qui comporte 230 électeurs inscrits, seuls 50 votants ont été enregistrés alors que 115 cartes électorales ont été distribuées au bureau de vote le jour du scrutin ; que, si le nombre de votants s'élève à 50, seuls 30 suffrages ont été exprimés ; que les 20 bulletins déclarés blancs ou nuls n'ont pas été communiqués à la commission de recensement et n'ont pu être vérifiés ; qu'au regard de l'incohérence entre ces chiffres et de l'impossibilité de contrôler les bulletins déclarés blancs ou nuls, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.3",
+                  "intitule": "Autres discordances"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "2012-05-06",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "2012-05-10",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2012-154-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012154PDR.htm",
+              "commentaire": "Décision du 10 mai 2012 portant proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 46066307,
+          "votants": 37016309,
+          "suffrages_exprimes": 34861353,
+          "majorite_absolue": 17430677,
+          "voix": [
+            {
+              "personne": "PE-0065",
+              "nom_complet": "François HOLLANDE",
+              "voix": 18000668
+            },
+            {
+              "personne": "PE-0058",
+              "nom_complet": "Nicolas SARKOZY",
+              "voix": 16860685
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 3,
+              "portee": "commune",
+              "commune": "Jozerand",
+              "departement": "63",
+              "motif": "Considérant que, dans la commune de Jozerand (Puy-de-Dôme), qui comporte 346 électeurs inscrits, des discordances importantes et inexpliquées ont été constatées entre le nombre de bulletins trouvés dans l'urne, le nombre de suffrages exprimés et le nombre de votants ; que le Conseil constitutionnel n'étant pas en mesure d'exercer son contrôle sur la régularité des votes, il y a lieu d'annuler l'ensemble des suffrages émis dans la commune ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.2",
+                  "intitule": "Discordance entre émargements et bulletins"
+                }
+              ]
+            },
+            {
+              "considerant": 4,
+              "portee": "commune",
+              "commune": "Artigue",
+              "departement": "31",
+              "suffrages_exprimes": 33,
+              "motif": "Considérant que, dans la commune d'Artigue (Haute-Garonne), dans laquelle 33 suffrages ont été exprimés, le délégué du Conseil constitutionnel a relevé que seul le président du bureau de vote était présent une grande partie de la journée, qu'il émargeait à la place de certains électeurs et disposait seul des clefs de l'urne, en méconnaissance des dispositions des articles R. 42, L. 62-1 et L. 63 du code électoral ; que, par suite, il y a lieu d'annuler l'ensemble des suffrages émis dans la commune ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.1.1",
+                  "intitule": "Présidence du bureau de vote"
+                }
+              ]
+            },
+            {
+              "considerant": 5,
+              "portee": "commune",
+              "commune": "Saint-Rémy-sur-Creuse",
+              "departement": "86",
+              "suffrages_exprimes": 282,
+              "motif": "Considérant que la liste d'émargement des électeurs de la commune de Saint-Rémy-sur-Creuse (Vienne), dans laquelle 282 suffrages ont été exprimés, ainsi que celles des communes de Villar-d'Arêne et Barret-sur-Méouge (Hautes-Alpes), dans lesquelles respectivement 203 et 139 suffrages ont été exprimés, n'ont pas été transmises à la préfecture après le dépouillement du scrutin en méconnaissance de l'article L. 68 du code électoral ; que ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin ; qu'il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces communes ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.5",
+                  "intitule": "Irrégularités relatives aux procès-verbaux et aux pièces annexes"
+                }
+              ]
+            },
+            {
+              "considerant": 5,
+              "portee": "commune",
+              "commune": "Villar-d'Arêne",
+              "departement": "05",
+              "suffrages_exprimes": 203,
+              "motif": "Considérant que la liste d'émargement des électeurs de la commune de Saint-Rémy-sur-Creuse (Vienne), dans laquelle 282 suffrages ont été exprimés, ainsi que celles des communes de Villar-d'Arêne et Barret-sur-Méouge (Hautes-Alpes), dans lesquelles respectivement 203 et 139 suffrages ont été exprimés, n'ont pas été transmises à la préfecture après le dépouillement du scrutin en méconnaissance de l'article L. 68 du code électoral ; que ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin ; qu'il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces communes ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.5",
+                  "intitule": "Irrégularités relatives aux procès-verbaux et aux pièces annexes"
+                }
+              ]
+            },
+            {
+              "considerant": 5,
+              "portee": "commune",
+              "commune": "Barret-sur-Méouge",
+              "departement": "05",
+              "suffrages_exprimes": 139,
+              "motif": "Considérant que la liste d'émargement des électeurs de la commune de Saint-Rémy-sur-Creuse (Vienne), dans laquelle 282 suffrages ont été exprimés, ainsi que celles des communes de Villar-d'Arêne et Barret-sur-Méouge (Hautes-Alpes), dans lesquelles respectivement 203 et 139 suffrages ont été exprimés, n'ont pas été transmises à la préfecture après le dépouillement du scrutin en méconnaissance de l'article L. 68 du code électoral ; que ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin ; qu'il y a donc lieu d'annuler l'ensemble des suffrages émis dans ces communes ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.5",
+                  "intitule": "Irrégularités relatives aux procès-verbaux et aux pièces annexes"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                1
+              ],
+              "suffrages_exprimes": 755,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                2
+              ],
+              "suffrages_exprimes": 708,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                3
+              ],
+              "suffrages_exprimes": 587,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                4
+              ],
+              "suffrages_exprimes": 867,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                5
+              ],
+              "suffrages_exprimes": 631,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                6
+              ],
+              "suffrages_exprimes": 768,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                7
+              ],
+              "suffrages_exprimes": 771,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                8
+              ],
+              "suffrages_exprimes": 576,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                9
+              ],
+              "suffrages_exprimes": 496,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                10
+              ],
+              "suffrages_exprimes": 736,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 6,
+              "portee": "bureau-de-vote",
+              "commune": "Papeete",
+              "departement": "987",
+              "bureaux": [
+                11
+              ],
+              "suffrages_exprimes": 724,
+              "motif": "Considérant que dans les bureaux de vote n° 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 et 11 de Papeete (Polynésie Française), dans lesquels, respectivement, 755, 708, 587, 867, 631, 768, 771, 576, 496, 736 et 724 suffrages ont été exprimés, le délégué du Conseil constitutionnel a constaté qu'il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "$schema": "../../schemas/resultats.schema.json",
+  "election": "PR-2002",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "2002-04-21",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "2002-04-24",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-109-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002109PDR.htm",
+              "commentaire": "Déclaration du 24 avril 2002 relative aux résultats du premier tour de scrutin",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 41194689,
+          "votants": 29495733,
+          "suffrages_exprimes": 28498471,
+          "majorite_absolue": 14249236,
+          "voix": [
+            {
+              "personne": "PE-0042",
+              "nom_complet": "Bruno MÉGRET",
+              "voix": 667026
+            },
+            {
+              "personne": "PE-0043",
+              "nom_complet": "Corinne LEPAGE",
+              "voix": 535837
+            },
+            {
+              "personne": "PE-0044",
+              "nom_complet": "Daniel GLUCKSTEIN",
+              "voix": 132686
+            },
+            {
+              "personne": "PE-0045",
+              "nom_complet": "François BAYROU",
+              "voix": 1949170
+            },
+            {
+              "personne": "PE-0030",
+              "nom_complet": "Jacques CHIRAC",
+              "voix": 5665855
+            },
+            {
+              "personne": "PE-0019",
+              "nom_complet": "Jean-Marie LE PEN",
+              "voix": 4804713
+            },
+            {
+              "personne": "PE-0046",
+              "nom_complet": "Christiane TAUBIRA",
+              "voix": 660447
+            },
+            {
+              "personne": "PE-0047",
+              "nom_complet": "Jean SAINT-JOSSE",
+              "voix": 1204689
+            },
+            {
+              "personne": "PE-0048",
+              "nom_complet": "Noël MAMÈRE",
+              "voix": 1495724
+            },
+            {
+              "personne": "PE-0038",
+              "nom_complet": "Lionel JOSPIN",
+              "voix": 4610113
+            },
+            {
+              "personne": "PE-0049",
+              "nom_complet": "Christine BOUTIN",
+              "voix": 339112
+            },
+            {
+              "personne": "PE-0041",
+              "nom_complet": "Robert HUE",
+              "voix": 960480
+            },
+            {
+              "personne": "PE-0050",
+              "nom_complet": "Jean-Pierre CHEVÈNEMENT",
+              "voix": 1518528
+            },
+            {
+              "personne": "PE-0051",
+              "nom_complet": "Alain MADELIN",
+              "voix": 1113484
+            },
+            {
+              "personne": "PE-0018",
+              "nom_complet": "Arlette LAGUILLER",
+              "voix": 1630045
+            },
+            {
+              "personne": "PE-0052",
+              "nom_complet": "Olivier BESANCENOT",
+              "voix": 1210562
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Bouc-Bel-Air",
+              "departement": "13",
+              "bureaux": [
+                1
+              ],
+              "suffrages_exprimes": 889,
+              "motif": "Considérant que, dans le bureau de vote n° 1 de la commune de Bouc-Bel-Air (Bouches-du-Rhône), dans lequel 889 suffrages ont été exprimés, il n'a pas été procédé au contrôle d'identité des électeurs, en violation des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites à ce sujet par le délégué d'un candidat ; que, devant cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Saint-Herblain",
+              "departement": "44",
+              "bureaux": [
+                11
+              ],
+              "suffrages_exprimes": 633,
+              "motif": "Considérant que, dans le bureau de vote n° 11 de la commune de Saint-Herblain (Loire-Atlantique), dans lequel 633 suffrages ont été exprimés, la commission départementale de recensement a relevé des discordances importantes et inexpliquées entre les chiffres inscrits dans le procès-verbal retraçant les résultats et ceux figurant dans les feuilles de dépouillement, notamment entre le décompte des voix et le total des suffrages obtenus ; que, le Conseil constitutionnel n'étant pas en mesure d'exercer son contrôle sur la régularité des opérations de vote, il y a lieu d'annuler l'ensemble des suffrages émis dans le bureau susmentionné ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.3",
+                  "intitule": "Autres discordances"
+                }
+              ]
+            },
+            {
+              "considerant": 3,
+              "portee": "bureau-de-vote",
+              "commune": "Paris 13e arrondissement",
+              "departement": "75",
+              "bureaux": [
+                27
+              ],
+              "suffrages_exprimes": 883,
+              "motif": "Considérant que le président et les assesseurs du bureau de vote n° 27 du treizième arrondissement de Paris, dans lequel 883 suffrages ont été exprimés, se sont opposés à ce que le magistrat délégué du Conseil constitutionnel, chargé de suivre sur place les opérations électorales, accomplisse la mission qui lui était impartie ; que des pressions et menaces ont été exercées à l'encontre de ce délégué ; que ces faits constituent une entrave à l'exercice du contrôle du Conseil constitutionnel ; qu'en outre, le procès-verbal transmis à la commission départementale de recensement ne comportait pas les observations inscrites par ce délégué ; que, dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau de vote ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.2.2",
+                  "intitule": "Entrave aux fonctions"
+                },
+                {
+                  "code": "8.2.5.5",
+                  "intitule": "Irrégularités relatives aux procès-verbaux et aux pièces annexes"
+                }
+              ]
+            },
+            {
+              "considerant": 4,
+              "portee": "bureau-de-vote",
+              "commune": "Le Cannet-des-Maures",
+              "departement": "83",
+              "bureaux": [
+                1
+              ],
+              "suffrages_exprimes": 948,
+              "motif": "Considérant que, dans le bureau de vote no 1 de la commune du Cannet-des-Maures (Var), dans lequel 948 suffrages ont été exprimés, il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; que cette irrégularité, qui était, en l'espèce, de nature à favoriser des fraudes, s'est poursuivie en dépit des observations faites à ce sujet par le magistrat délégué du Conseil constitutionnel ; que, devant cette méconnaissance délibérée et persistante de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.2.1",
+                  "intitule": "Observations non suivies d'effet"
+                },
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "2002-05-05",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "2002-05-08",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2002-111-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002111PDR.htm",
+              "commentaire": "Décision du 8 mai 2002 portant proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 41191169,
+          "votants": 32832295,
+          "suffrages_exprimes": 31062988,
+          "majorite_absolue": 15531495,
+          "voix": [
+            {
+              "personne": "PE-0030",
+              "nom_complet": "Jacques CHIRAC",
+              "voix": 25537956
+            },
+            {
+              "personne": "PE-0019",
+              "nom_complet": "Jean-Marie LE PEN",
+              "voix": 5525032
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "commune",
+              "commune": "Villemagne",
+              "departement": "11",
+              "suffrages_exprimes": 157,
+              "motif": "Considérant que, au voisinage immédiat du bureau de vote de la commune de Villemagne (Aude), dans lequel 157 suffrages ont été exprimés, le maire de la commune a, d'une part, mis à la disposition des électeurs un dispositif symbolique de « décontamination », d'autre part, organisé un simulacre de vote invitant les électeurs à désigner un candidat ne figurant pas au second tour ; que ces agissements annoncés et conduits par l'autorité même chargée des opérations électorales dans la commune, sont incompatibles avec la dignité du scrutin et ont été de nature à porter atteinte au secret du vote ainsi qu'à la liberté des électeurs ; que, dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.1.5",
+                  "intitule": "Principe de secret du suffrage"
+                },
+                {
+                  "code": "8.1.5.6",
+                  "intitule": "Principe de dignité du scrutin"
+                },
+                {
+                  "code": "8.3.6.4.13",
+                  "intitule": "Incidents divers"
+                }
+              ]
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Furiani",
+              "departement": "2B",
+              "bureaux": [
+                1
+              ],
+              "suffrages_exprimes": 957,
+              "motif": "Considérant que, dans les bureaux n° 1 de la commune de Furiani et n° 15 de la commune de Bastia (Haute Corse), dans lesquels 957 et 279 suffrages ont été respectivement exprimés, la commission départementale de recensement des votes a relevé des discordances importantes et non justifiées entre, d'une part, le nombre des bulletins déclarés blancs et nuls dans les procès-verbaux retraçant les résultats et, d'autre part, les bulletins blancs et nuls joints à ces mêmes procès-verbaux ; qu'en outre, les causes d'annulation de vingt-deux bulletins, dans le bureau n° 1 de la commune de Furiani, et de dix-neuf bulletins, dans le bureau n° 15 de la commune de Bastia demeurent inexpliquées ; qu'il résulte enfin de l'instruction que les conditions dans lesquelles ces bulletins blancs et nuls ont été annexés aux procès-verbaux ont méconnu les dispositions de l'article L. 66 du code électoral ; que, dans ces conditions, le Conseil constitutionnel n'est pas en mesure d'exercer son contrôle sur la régularité des opérations de vote ; qu'il y a lieu d'annuler l'ensemble des suffrages émis dans les bureaux susmentionnés ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.3",
+                  "intitule": "Autres discordances"
+                }
+              ]
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Bastia",
+              "departement": "2B",
+              "bureaux": [
+                15
+              ],
+              "suffrages_exprimes": 279,
+              "motif": "Considérant que, dans les bureaux n° 1 de la commune de Furiani et n° 15 de la commune de Bastia (Haute Corse), dans lesquels 957 et 279 suffrages ont été respectivement exprimés, la commission départementale de recensement des votes a relevé des discordances importantes et non justifiées entre, d'une part, le nombre des bulletins déclarés blancs et nuls dans les procès-verbaux retraçant les résultats et, d'autre part, les bulletins blancs et nuls joints à ces mêmes procès-verbaux ; qu'en outre, les causes d'annulation de vingt-deux bulletins, dans le bureau n° 1 de la commune de Furiani, et de dix-neuf bulletins, dans le bureau n° 15 de la commune de Bastia demeurent inexpliquées ; qu'il résulte enfin de l'instruction que les conditions dans lesquelles ces bulletins blancs et nuls ont été annexés aux procès-verbaux ont méconnu les dispositions de l'article L. 66 du code électoral ; que, dans ces conditions, le Conseil constitutionnel n'est pas en mesure d'exercer son contrôle sur la régularité des opérations de vote ; qu'il y a lieu d'annuler l'ensemble des suffrages émis dans les bureaux susmentionnés ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.3",
+                  "intitule": "Autres discordances"
+                }
+              ]
+            },
+            {
+              "considerant": 3,
+              "portee": "commune",
+              "commune": "Mettray",
+              "departement": "37",
+              "suffrages_exprimes": 1230,
+              "motif": "Considérant que, dans le bureau de vote de la commune de Mettray (Indre-et-Loire), dans lequel 1 230 suffrages ont été exprimés, il n'a pas été procédé au dépouillement des votes dans les formes prévues par l'article L. 65 du code électoral ; qu'en l'espèce, cette irrégularité était de nature à entraîner des erreurs et pouvait favoriser des fraudes ; que, devant cette méconnaissance délibérée de dispositions destinées à assurer la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.4.1",
+                  "intitule": "Procédure de dépouillement"
+                }
+              ]
+            },
+            {
+              "considerant": 4,
+              "portee": "bureau-de-vote",
+              "commune": "Mazingarbe",
+              "departement": "62",
+              "bureaux": [
+                3,
+                4
+              ],
+              "suffrages_exprimes": 817,
+              "motif": "Considérant que, dans les bureaux de vote n° 3 et 4 de la commune de Mazingarbe (Pas-de-Calais), dans lesquels 817 suffrages ont été exprimés, il n'a pas été procédé au contrôle d'identité des électeurs, en violation des articles L. 62 et R. 60 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites à ce sujet par le magistrat délégué du Conseil constitutionnel ; que, devant cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux ;"
+            },
+            {
+              "considerant": 5,
+              "portee": "commune",
+              "commune": "Erstein",
+              "departement": "67",
+              "suffrages_exprimes": 1457,
+              "motif": "Considérant que, dans le bureau de vote de la commune d'Erstein (Bas-Rhin), dans lequel 1 457 suffrages ont été exprimés, de nombreux électeurs ont été autorisés à voter sans être passés par l'isoloir en violation de l'article L. 60 du code électoral ; qu'en outre, il n'a pas été procédé au contrôle d'identité de tous les électeurs, contrairement à ce qu'exige, pour les communes de plus de 5 000 habitants, l'article R. 60 du même code et ce, malgré les observations du délégué du Conseil constitutionnel ; que, devant cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin, il y a lieu d'annuler l'ensemble des suffrages émis dans cette commune ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                },
+                {
+                  "code": "8.2.5.3.7",
+                  "intitule": "Irrégularités diverses"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

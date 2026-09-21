@@ -1,0 +1,304 @@
+{
+  "$schema": "../../schemas/resultats.schema.json",
+  "election": "PR-2007",
+  "tours": [
+    {
+      "numero": 1,
+      "date": "2007-04-22",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "2007-04-25",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-139-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007139PDR.htm",
+              "commentaire": "Déclaration du 25 avril 2007 relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 44472834,
+          "votants": 37254242,
+          "suffrages_exprimes": 36719396,
+          "majorite_absolue": 18359699,
+          "voix": [
+            {
+              "personne": "PE-0052",
+              "nom_complet": "Olivier BESANCENOT",
+              "voix": 1498581
+            },
+            {
+              "personne": "PE-0053",
+              "nom_complet": "Marie-George BUFFET",
+              "voix": 707268
+            },
+            {
+              "personne": "PE-0054",
+              "nom_complet": "Gérard SCHIVARDI",
+              "voix": 123540
+            },
+            {
+              "personne": "PE-0045",
+              "nom_complet": "François BAYROU",
+              "voix": 6820119
+            },
+            {
+              "personne": "PE-0055",
+              "nom_complet": "José BOVÉ",
+              "voix": 483008
+            },
+            {
+              "personne": "PE-0039",
+              "nom_complet": "Dominique VOYNET",
+              "voix": 576666
+            },
+            {
+              "personne": "PE-0036",
+              "nom_complet": "Philippe de VILLIERS",
+              "voix": 818407
+            },
+            {
+              "personne": "PE-0056",
+              "nom_complet": "Ségolène ROYAL",
+              "voix": 9500112
+            },
+            {
+              "personne": "PE-0057",
+              "nom_complet": "Frédéric NIHOUS",
+              "voix": 420645
+            },
+            {
+              "personne": "PE-0019",
+              "nom_complet": "Jean-Marie LE PEN",
+              "voix": 3834530
+            },
+            {
+              "personne": "PE-0018",
+              "nom_complet": "Arlette LAGUILLER",
+              "voix": 487857
+            },
+            {
+              "personne": "PE-0058",
+              "nom_complet": "Nicolas SARKOZY",
+              "voix": 11448663
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "commune",
+              "commune": "Besneville",
+              "departement": "50",
+              "suffrages_exprimes": 402,
+              "motif": "Considérant que, dans les trois communes de Besneville, Catteville et Le Valdécie (Manche), ne comptant chacune qu'un bureau de vote, et dans lesquelles 402, 79 et 87 suffrages ont été respectivement exprimés, aucun isoloir n'a été mis à la disposition des électeurs, en violation de l'article L. 62 du code électoral ; que, dès lors, il y a lieu d'annuler les résultats constatés dans ces trois bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.3",
+                  "intitule": "Isoloirs"
+                }
+              ]
+            },
+            {
+              "considerant": 1,
+              "portee": "commune",
+              "commune": "Catteville",
+              "departement": "50",
+              "suffrages_exprimes": 79,
+              "motif": "Considérant que, dans les trois communes de Besneville, Catteville et Le Valdécie (Manche), ne comptant chacune qu'un bureau de vote, et dans lesquelles 402, 79 et 87 suffrages ont été respectivement exprimés, aucun isoloir n'a été mis à la disposition des électeurs, en violation de l'article L. 62 du code électoral ; que, dès lors, il y a lieu d'annuler les résultats constatés dans ces trois bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.3",
+                  "intitule": "Isoloirs"
+                }
+              ]
+            },
+            {
+              "considerant": 1,
+              "portee": "commune",
+              "commune": "Le Valdécie",
+              "departement": "50",
+              "suffrages_exprimes": 87,
+              "motif": "Considérant que, dans les trois communes de Besneville, Catteville et Le Valdécie (Manche), ne comptant chacune qu'un bureau de vote, et dans lesquelles 402, 79 et 87 suffrages ont été respectivement exprimés, aucun isoloir n'a été mis à la disposition des électeurs, en violation de l'article L. 62 du code électoral ; que, dès lors, il y a lieu d'annuler les résultats constatés dans ces trois bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.3",
+                  "intitule": "Isoloirs"
+                }
+              ]
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "La Chapelle-Saint-Laurent",
+              "departement": "79",
+              "bureaux": [
+                1
+              ],
+              "suffrages_exprimes": 666,
+              "motif": "Considérant que, dans les bureaux n° 1 et 2 de la commune de La Chapelle-Saint-Laurent (Deux-Sèvres), dans lesquels 666 et 573 suffrages ont été respectivement exprimés, les bulletins de vote au nom de l'un des candidats n'ont été mis à la disposition des électeurs que tardivement ; que cette absence prolongée ayant porté atteinte à la libre expression du suffrage, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.3.3",
+                  "intitule": "Participation à l'expression du suffrage"
+                },
+                {
+                  "code": "8.2.5.3.2",
+                  "intitule": "Mise à la disposition des électeurs des bulletins"
+                }
+              ]
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "La Chapelle-Saint-Laurent",
+              "departement": "79",
+              "bureaux": [
+                2
+              ],
+              "suffrages_exprimes": 573,
+              "motif": "Considérant que, dans les bureaux n° 1 et 2 de la commune de La Chapelle-Saint-Laurent (Deux-Sèvres), dans lesquels 666 et 573 suffrages ont été respectivement exprimés, les bulletins de vote au nom de l'un des candidats n'ont été mis à la disposition des électeurs que tardivement ; que cette absence prolongée ayant porté atteinte à la libre expression du suffrage, il y a lieu d'annuler l'ensemble des suffrages émis dans ces bureaux ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.3.3",
+                  "intitule": "Participation à l'expression du suffrage"
+                },
+                {
+                  "code": "8.2.5.3.2",
+                  "intitule": "Mise à la disposition des électeurs des bulletins"
+                }
+              ]
+            },
+            {
+              "considerant": 3,
+              "portee": "commune",
+              "commune": "Montrond",
+              "departement": "39",
+              "suffrages_exprimes": 294,
+              "motif": "Considérant que, dans l'unique bureau de vote de la commune de Montrond (Jura), dans lequel 294 suffrages ont été exprimés, le procès-verbal des opérations de vote n'était pas tenu à la disposition des électeurs et des autres personnes mentionnées à l'article R. 52 du code électoral, afin qu'ils puissent, le cas échéant, y porter leurs observations ou réclamations ; que cette irrégularité s'étant poursuivie en dépit des observations faites par le délégué du Conseil constitutionnel, il y a lieu d'annuler l'ensemble des suffrages émis dans ce bureau ;",
+              "nomenclature": [
+                {
+                  "code": "8.3.6.4.5",
+                  "intitule": "Procès-verbal"
+                }
+              ]
+            },
+            {
+              "considerant": 4,
+              "portee": "commune",
+              "commune": "Vassy",
+              "departement": "14",
+              "suffrages_exprimes": 1117,
+              "motif": "Considérant que, dans l'unique bureau de vote de la commune de Vassy (Calvados), où 1 117 suffrages ont été exprimés, les électeurs étaient invités à signer la liste d'émargement avant d'avoir déposé leur bulletin dans l'urne, en méconnaissance des dispositions du dernier alinéa de l'article L. 62-1 du code électoral ; que cette irrégularité s'est poursuivie en dépit des observations faites par le délégué du Conseil constitutionnel, auxquelles le maire a refusé de donner suite ; que, dans ces conditions, il y a lieu d'annuler l'ensemble des suffrages émis dans le bureau de vote considéré ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.2.1",
+                  "intitule": "Observations non suivies d'effet"
+                },
+                {
+                  "code": "8.2.5.3.5",
+                  "intitule": "Liste d'émargement"
+                },
+                {
+                  "code": "8.2.5.3.7",
+                  "intitule": "Irrégularités diverses"
+                }
+              ]
+            },
+            {
+              "considerant": 7,
+              "portee": "bureau-de-vote",
+              "commune": "Oyonnax",
+              "bureaux": [
+                7
+              ],
+              "suffrages_exprimes": 1371,
+              "motif": "Considérant que, dans le 7ème bureau de la commune d'Oyonnax, dans lequel 1 371 suffrages ont été exprimés, la commission départementale de recensement a relevé des discordances importantes et inexpliquées entre les chiffres inscrits dans les procès-verbaux retraçant les résultats et ceux figurant dans les feuilles de dépouillement ; que le Conseil constitutionnel n'étant pas en mesure d'exercer son contrôle sur la régularité des votes, il y a lieu d'annuler l'ensemble des suffrages exprimés dans le bureau susmentionné ;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "date": "2007-05-06",
+      "versions": [
+        {
+          "etape": "proclamation",
+          "date": "2007-05-10",
+          "sources": [
+            {
+              "id": "conseil-constitutionnel:2007-141-PDR",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007141pdr.htm",
+              "commentaire": "Décision du 10 mai 2007 portant proclamation des résultats de l'élection du Président de la République",
+              "consultee_le": "2026-09-21"
+            }
+          ],
+          "inscrits": 44472733,
+          "votants": 37342004,
+          "suffrages_exprimes": 35773578,
+          "majorite_absolue": 17886790,
+          "voix": [
+            {
+              "personne": "PE-0058",
+              "nom_complet": "Nicolas SARKOZY",
+              "voix": 18983138
+            },
+            {
+              "personne": "PE-0056",
+              "nom_complet": "Ségolène ROYAL",
+              "voix": 16790440
+            }
+          ],
+          "annulations": [
+            {
+              "considerant": 1,
+              "portee": "bureau-de-vote",
+              "commune": "Sainte-Rose",
+              "departement": "974",
+              "bureaux": [
+                1
+              ],
+              "suffrages_exprimes": 674,
+              "motif": "Considérant que, dans le bureau de vote n° 1 de la commune de Sainte-Rose (La Réunion), dans lequel 674 suffrages ont été exprimés, la présentation d'un titre d'identité n'a pas été exigée des électeurs comme le prescrit l'article R. 60 du code électoral dans les communes de plus de 5 000 habitants ; que cette irrégularité s'est poursuivie en dépit des observations faites par le magistrat délégué du Conseil constitutionnel ; que cette méconnaissance délibérée et persistante de dispositions destinées à assurer la régularité et la sincérité du scrutin doit entraîner l'annulation de l'ensemble des suffrages émis dans ce bureau ;",
+              "nomenclature": [
+                {
+                  "code": "8.1.5.2.1",
+                  "intitule": "Principe de sincérité du scrutin appliqué à l'élection présidentielle (exemples)"
+                },
+                {
+                  "code": "8.2.5.2.1",
+                  "intitule": "Observations non suivies d'effet"
+                },
+                {
+                  "code": "8.2.5.3.1",
+                  "intitule": "Contrôle de l'identité des électeurs"
+                }
+              ]
+            },
+            {
+              "considerant": 2,
+              "portee": "bureau-de-vote",
+              "commune": "Poum",
+              "departement": "988",
+              "bureaux": [
+                2
+              ],
+              "suffrages_exprimes": 152,
+              "motif": "Considérant que, dans le bureau de vote n° 2 de la commune de Poum (Nouvelle-Calédonie), dans lequel 152 suffrages ont été exprimés, la plupart des électeurs n'ont pas signé la liste d'émargement comme le prescrit l'article L. 62-1 du code électoral ; que ce manquement rend impossible le contrôle de la régularité et de la sincérité du scrutin dans ce bureau ; qu'il y a donc lieu d'annuler l'ensemble des suffrages qui y ont été émis ;",
+              "nomenclature": [
+                {
+                  "code": "8.2.5.3.5",
+                  "intitule": "Liste d'émargement"
+                },
+                {
+                  "code": "8.2.5.3.7",
+                  "intitule": "Irrégularités diverses"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
