@@ -306,6 +306,19 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1984-07-24",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:1023",
+              "url": "https://data.europarl.europa.eu/person/1023",
+              "commentaire": "Jean-Marie LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Paris",
           "debut": "1986-04-02",
@@ -449,6 +462,20 @@
               "id": "assemblee-nationale:1798",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1798",
               "commentaire": "Jacques Chirac, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1979-07-17",
+          "fin": "1980-04-28",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:916",
+              "url": "https://data.europarl.europa.eu/person/916",
+              "commentaire": "Jacques CHIRAC, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]

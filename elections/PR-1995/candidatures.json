@@ -112,6 +112,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1984-07-24",
+          "fin": "1989-07-24",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1023",
+              "url": "https://data.europarl.europa.eu/person/1023",
+              "commentaire": "Jean-Marie LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Paris",
           "debut": "1986-04-02",
@@ -122,6 +136,33 @@
               "id": "assemblee-nationale:7607",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7607",
               "commentaire": "Jean-Marie Le Pen, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1989-07-25",
+          "fin": "1994-07-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1023",
+              "url": "https://data.europarl.europa.eu/person/1023",
+              "commentaire": "Jean-Marie LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:1023",
+              "url": "https://data.europarl.europa.eu/person/1023",
+              "commentaire": "Jean-Marie LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -281,6 +322,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1979-07-17",
+          "fin": "1980-04-28",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:916",
+              "url": "https://data.europarl.europa.eu/person/916",
+              "commentaire": "Jacques CHIRAC, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Corrèze",
           "debut": "1981-07-02",
@@ -359,7 +414,22 @@
       ],
       "partis": [],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "1989-07-25",
+          "fin": "1991-12-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1152",
+              "url": "https://data.europarl.europa.eu/person/1152",
+              "commentaire": "Antoine WAECHTER, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0036",
@@ -448,6 +518,19 @@
               "id": "assemblee-nationale:7404",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7404",
               "commentaire": "Philippe de Villiers, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:2212",
+              "url": "https://data.europarl.europa.eu/person/2212",
+              "commentaire": "Philippe DE VILLIERS, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -546,6 +629,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1984-07-24",
+          "fin": "1988-05-12",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1715",
+              "url": "https://data.europarl.europa.eu/person/1715",
+              "commentaire": "Lionel JOSPIN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Paris",
           "debut": "1986-04-02",
@@ -623,7 +720,22 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "1991-11-13",
+          "fin": "1991-12-10",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1839",
+              "url": "https://data.europarl.europa.eu/person/1839",
+              "commentaire": "Dominique VOYNET, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0040",
@@ -798,6 +910,33 @@
               "consultee_le": "2026-09-21"
             }
           ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1989-07-25",
+          "fin": "1994-07-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1213",
+              "url": "https://data.europarl.europa.eu/person/1213",
+              "commentaire": "Jean-François HORY, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:1213",
+              "url": "https://data.europarl.europa.eu/person/1213",
+              "commentaire": "Jean-François HORY, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
         }
       ]
     },
@@ -839,7 +978,22 @@
       ],
       "partis": [],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "1989-07-25",
+          "fin": "1994-07-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1159",
+              "url": "https://data.europarl.europa.eu/person/1159",
+              "commentaire": "Max SIMEONI, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

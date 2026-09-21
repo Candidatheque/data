@@ -66,7 +66,21 @@
         }
       ],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "2009-07-14",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:97076",
+              "url": "https://data.europarl.europa.eu/person/97076",
+              "commentaire": "Corinne LEPAGE, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0045",
@@ -170,6 +184,20 @@
               "id": "assemblee-nationale:516",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
               "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "2002-06-16",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:4324",
+              "url": "https://data.europarl.europa.eu/person/4324",
+              "commentaire": "François BAYROU, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -323,6 +351,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "1999-09-14",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:4339",
+              "url": "https://data.europarl.europa.eu/person/4339",
+              "commentaire": "Nicolas SARKOZY, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Hauts-de-Seine",
           "debut": "2002-06-19",
@@ -385,7 +427,21 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "2009-07-14",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:96883",
+              "url": "https://data.europarl.europa.eu/person/96883",
+              "commentaire": "Eva JOLY, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0060",
@@ -432,7 +488,35 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "2004-07-20",
+          "fin": "2009-07-13",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:28210",
+              "url": "https://data.europarl.europa.eu/person/28210",
+              "commentaire": "Marine LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2009-07-14",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:28210",
+              "url": "https://data.europarl.europa.eu/person/28210",
+              "commentaire": "Marine LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0061",
@@ -521,6 +605,19 @@
               "id": "senat:melenchon_jean_luc86039k",
               "url": "https://www.senat.fr/senateur/melenchon_jean_luc86039k.html",
               "commentaire": "MÉLENCHON Jean-Luc, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2009-07-14",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:96742",
+              "url": "https://data.europarl.europa.eu/person/96742",
+              "commentaire": "Jean-Luc MÉLENCHON, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -773,6 +870,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "1999-12-17",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:4285",
+              "url": "https://data.europarl.europa.eu/person/4285",
+              "commentaire": "François HOLLANDE, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Corrèze",
           "debut": "2002-06-19",
@@ -1002,7 +1113,50 @@
         }
       ],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "fin": "1999-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:2057",
+              "url": "https://data.europarl.europa.eu/person/2057",
+              "commentaire": "Carl LANG, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "2004-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:2057",
+              "url": "https://data.europarl.europa.eu/person/2057",
+              "commentaire": "Carl LANG, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2004-07-20",
+          "fin": "2009-07-13",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:2057",
+              "url": "https://data.europarl.europa.eu/person/2057",
+              "commentaire": "Carl LANG, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0105",

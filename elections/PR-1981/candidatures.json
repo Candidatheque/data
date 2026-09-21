@@ -651,6 +651,19 @@
               "consultee_le": "2026-09-21"
             }
           ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1979-07-17",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:1588",
+              "url": "https://data.europarl.europa.eu/person/1588",
+              "commentaire": "Georges MARCHAIS, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
         }
       ]
     },
@@ -789,6 +802,20 @@
               "consultee_le": "2026-09-21"
             }
           ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1979-07-17",
+          "fin": "1980-09-30",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:888",
+              "url": "https://data.europarl.europa.eu/person/888",
+              "commentaire": "Michel J.-P. DEBRÉ, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
         }
       ]
     },
@@ -908,6 +935,20 @@
               "id": "assemblee-nationale:1798",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1798",
               "commentaire": "Jacques Chirac, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1979-07-17",
+          "fin": "1980-04-28",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:916",
+              "url": "https://data.europarl.europa.eu/person/916",
+              "commentaire": "Jacques CHIRAC, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]

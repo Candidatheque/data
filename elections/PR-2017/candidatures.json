@@ -20,7 +20,22 @@
       ],
       "partis": [],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "1989-07-25",
+          "fin": "1991-12-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1152",
+              "url": "https://data.europarl.europa.eu/person/1152",
+              "commentaire": "Antoine WAECHTER, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0037",
@@ -111,7 +126,49 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "2004-07-20",
+          "fin": "2009-07-13",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:28210",
+              "url": "https://data.europarl.europa.eu/person/28210",
+              "commentaire": "Marine LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2009-07-14",
+          "fin": "2014-06-30",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:28210",
+              "url": "https://data.europarl.europa.eu/person/28210",
+              "commentaire": "Marine LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2014-07-01",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:28210",
+              "url": "https://data.europarl.europa.eu/person/28210",
+              "commentaire": "Marine LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0061",
@@ -213,6 +270,33 @@
               "id": "senat:melenchon_jean_luc86039k",
               "url": "https://www.senat.fr/senateur/melenchon_jean_luc86039k.html",
               "commentaire": "MÉLENCHON Jean-Luc, fiche d'ancien sénateur de la Ve République",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2009-07-14",
+          "fin": "2014-06-30",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:96742",
+              "url": "https://data.europarl.europa.eu/person/96742",
+              "commentaire": "Jean-Luc MÉLENCHON, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2014-07-01",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:96742",
+              "url": "https://data.europarl.europa.eu/person/96742",
+              "commentaire": "Jean-Luc MÉLENCHON, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -496,6 +580,20 @@
         }
       ],
       "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "2004-07-20",
+          "fin": "2009-07-13",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:28159",
+              "url": "https://data.europarl.europa.eu/person/28159",
+              "commentaire": "Benoît HAMON, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
         {
           "fonction": "depute",
           "ressort": "Yvelines",
@@ -988,7 +1086,50 @@
         }
       ],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "fin": "1999-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:2057",
+              "url": "https://data.europarl.europa.eu/person/2057",
+              "commentaire": "Carl LANG, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "2004-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:2057",
+              "url": "https://data.europarl.europa.eu/person/2057",
+              "commentaire": "Carl LANG, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2004-07-20",
+          "fin": "2009-07-13",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:2057",
+              "url": "https://data.europarl.europa.eu/person/2057",
+              "commentaire": "Carl LANG, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0112",
@@ -1207,6 +1348,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1989-07-25",
+          "fin": "1993-03-30",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1179",
+              "url": "https://data.europarl.europa.eu/person/1179",
+              "commentaire": "Michèle ALLIOT-MARIE, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Pyrénées-Atlantiques",
           "debut": "1993-04-02",
@@ -1292,6 +1447,19 @@
               "id": "assemblee-nationale:96",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/96",
               "commentaire": "Michèle Alliot-Marie, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2014-07-01",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:1179",
+              "url": "https://data.europarl.europa.eu/person/1179",
+              "commentaire": "Michèle ALLIOT-MARIE, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -1483,6 +1651,62 @@
               "id": "assemblee-nationale:5054",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5054",
               "commentaire": "Jean-Claude Martinez, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1989-09-05",
+          "fin": "1994-07-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:966",
+              "url": "https://data.europarl.europa.eu/person/966",
+              "commentaire": "Jean-Claude MARTINEZ, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "fin": "1999-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:966",
+              "url": "https://data.europarl.europa.eu/person/966",
+              "commentaire": "Jean-Claude MARTINEZ, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "2004-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:966",
+              "url": "https://data.europarl.europa.eu/person/966",
+              "commentaire": "Jean-Claude MARTINEZ, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2004-07-20",
+          "fin": "2009-07-13",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:966",
+              "url": "https://data.europarl.europa.eu/person/966",
+              "commentaire": "Jean-Claude MARTINEZ, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]

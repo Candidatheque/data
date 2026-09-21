@@ -33,7 +33,22 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "2004-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:4402",
+              "url": "https://data.europarl.europa.eu/person/4402",
+              "commentaire": "Arlette LAGUILLER, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0019",
@@ -112,6 +127,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1984-07-24",
+          "fin": "1989-07-24",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1023",
+              "url": "https://data.europarl.europa.eu/person/1023",
+              "commentaire": "Jean-Marie LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Paris",
           "debut": "1986-04-02",
@@ -122,6 +151,61 @@
               "id": "assemblee-nationale:7607",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7607",
               "commentaire": "Jean-Marie Le Pen, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1989-07-25",
+          "fin": "1994-07-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1023",
+              "url": "https://data.europarl.europa.eu/person/1023",
+              "commentaire": "Jean-Marie LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "fin": "1999-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1023",
+              "url": "https://data.europarl.europa.eu/person/1023",
+              "commentaire": "Jean-Marie LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "2003-04-10",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1023",
+              "url": "https://data.europarl.europa.eu/person/1023",
+              "commentaire": "Jean-Marie LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2004-07-20",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:1023",
+              "url": "https://data.europarl.europa.eu/person/1023",
+              "commentaire": "Jean-Marie LE PEN, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -146,7 +230,22 @@
       ],
       "partis": [],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "1989-07-25",
+          "fin": "1991-12-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1152",
+              "url": "https://data.europarl.europa.eu/person/1152",
+              "commentaire": "Antoine WAECHTER, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0036",
@@ -240,6 +339,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "fin": "1997-06-15",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:2212",
+              "url": "https://data.europarl.europa.eu/person/2212",
+              "commentaire": "Philippe DE VILLIERS, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Vendée",
           "debut": "1997-06-01",
@@ -255,6 +368,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "1999-12-16",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:2212",
+              "url": "https://data.europarl.europa.eu/person/2212",
+              "commentaire": "Philippe DE VILLIERS, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Vendée",
           "debut": "2002-06-19",
@@ -265,6 +392,19 @@
               "id": "assemblee-nationale:7404",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7404",
               "commentaire": "Philippe de Villiers, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "2004-07-20",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "parlement-europeen:2212",
+              "url": "https://data.europarl.europa.eu/person/2212",
+              "commentaire": "Philippe DE VILLIERS, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -323,6 +463,20 @@
         }
       ],
       "parcours": [
+        {
+          "fonction": "depute-europeen",
+          "debut": "1991-11-13",
+          "fin": "1991-12-10",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1839",
+              "url": "https://data.europarl.europa.eu/person/1839",
+              "commentaire": "Dominique VOYNET, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
         {
           "fonction": "depute",
           "ressort": "Jura",
@@ -398,6 +552,34 @@
               "id": "assemblee-nationale:5160",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5160",
               "commentaire": "Bruno Megret, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1989-07-25",
+          "fin": "1994-07-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1166",
+              "url": "https://data.europarl.europa.eu/person/1166",
+              "commentaire": "Bruno A.A. MÉGRET, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "fin": "1999-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:1166",
+              "url": "https://data.europarl.europa.eu/person/1166",
+              "commentaire": "Bruno A.A. MÉGRET, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -544,6 +726,20 @@
           ]
         },
         {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "2002-06-16",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:4324",
+              "url": "https://data.europarl.europa.eu/person/4324",
+              "commentaire": "François BAYROU, notice de député européen dans les données ouvertes du Parlement européen",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
           "fonction": "depute",
           "ressort": "Pyrénées-Atlantiques",
           "debut": "2002-06-19",
@@ -589,6 +785,20 @@
               "id": "assemblee-nationale:6964",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6964",
               "commentaire": "Christiane Taubira-Delannon, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1994-07-19",
+          "fin": "1999-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:2137",
+              "url": "https://data.europarl.europa.eu/person/2137",
+              "commentaire": "Christiane TAUBIRA-DELANNON, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
@@ -1300,6 +1510,20 @@
               "id": "assemblee-nationale:6289",
               "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
               "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute-europeen",
+          "debut": "1999-07-20",
+          "fin": "1999-09-14",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "parlement-europeen:4339",
+              "url": "https://data.europarl.europa.eu/person/4339",
+              "commentaire": "Nicolas SARKOZY, notice de député européen dans les données ouvertes du Parlement européen",
               "consultee_le": "2026-09-21"
             }
           ]
