@@ -105,12 +105,11 @@
   ],
   "beneficiaires": [
     {
-      "nom_source": "ARNAL Christian-Jacques",
+      "nom_complet": "Christian-Jacques ARNAL",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "CHAILLET",
-          "prenom": "Alain",
+          "nom_complet": "Alain CHAILLET",
           "mandat": "maire",
           "territoire": "La Chapelle-Thècle",
           "departement": "71",
@@ -119,12 +118,11 @@
       ]
     },
     {
-      "nom_source": "BARNIER Michel",
+      "nom_complet": "Michel BARNIER",
       "parrainages": [
         {
           "civilite": "Mme",
-          "nom": "BENOIT",
-          "prenom": "Françoise",
+          "nom_complet": "Françoise BENOIT",
           "mandat": "maire",
           "territoire": "Saint-Étienne-de-Lugdarès",
           "departement": "07",
@@ -132,8 +130,7 @@
         },
         {
           "civilite": "M.",
-          "nom": "FORTIN",
-          "prenom": "Alain",
+          "nom_complet": "Alain FORTIN",
           "mandat": "maire",
           "territoire": "La Francheville",
           "departement": "08",
@@ -142,12 +139,11 @@
       ]
     },
     {
-      "nom_source": "BLANCHET Christophe",
+      "nom_complet": "Christophe BLANCHET",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "CARRUELLE",
-          "prenom": "Gérard",
+          "nom_complet": "Gérard CARRUELLE",
           "mandat": "maire",
           "territoire": "Saint-Christophe",
           "departement": "28",
@@ -156,12 +152,11 @@
       ]
     },
     {
-      "nom_source": "BORLOO Jean-Louis",
+      "nom_complet": "Jean-Louis BORLOO",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "MAYRAND",
-          "prenom": "Benoît",
+          "nom_complet": "Benoît MAYRAND",
           "mandat": "conseiller-afe",
           "territoire": "Europe centrale et orientale (y compris Russie)",
           "publie_le": "2022-02-24"
@@ -169,12 +164,11 @@
       ]
     },
     {
-      "nom_source": "CAZENEUVE  Bernard",
+      "nom_complet": "Bernard CAZENEUVE",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "HAMEL",
-          "prenom": "Bruno",
+          "nom_complet": "Bruno HAMEL",
           "mandat": "maire",
           "territoire": "Saint-Martin-d'Aubigny",
           "departement": "50",
@@ -183,12 +177,11 @@
       ]
     },
     {
-      "nom_source": "CHAUDOT Michel",
+      "nom_complet": "Michel CHAUDOT",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "MASOYÉ",
-          "prenom": "Eric",
+          "nom_complet": "Eric MASOYÉ",
           "mandat": "maire",
           "territoire": "Vy-lès-Rupt",
           "departement": "70",
@@ -197,12 +190,11 @@
       ]
     },
     {
-      "nom_source": "COJAN Patrick",
+      "nom_complet": "Patrick COJAN",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "PATIER",
-          "prenom": "François",
+          "nom_complet": "François PATIER",
           "mandat": "maire",
           "territoire": "Nespouls",
           "departement": "19",
@@ -211,12 +203,11 @@
       ]
     },
     {
-      "nom_source": "DELGA Carole",
+      "nom_complet": "Carole DELGA",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "ESQUIROL",
-          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc ESQUIROL",
           "mandat": "maire",
           "territoire": "Lacaugne",
           "departement": "31",
@@ -225,12 +216,11 @@
       ]
     },
     {
-      "nom_source": "GIFFON Jean Baptiste",
+      "nom_complet": "Jean Baptiste GIFFON",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "LAYAT",
-          "prenom": "Didier",
+          "nom_complet": "Didier LAYAT",
           "mandat": "maire",
           "territoire": "Brizon",
           "departement": "74",
@@ -239,12 +229,11 @@
       ]
     },
     {
-      "nom_source": "GLUCKSMANN Raphaël",
+      "nom_complet": "Raphaël GLUCKSMANN",
       "parrainages": [
         {
           "civilite": "Mme",
-          "nom": "DURY",
-          "prenom": "Anne-Cécile",
+          "nom_complet": "Anne-Cécile DURY",
           "mandat": "maire",
           "territoire": "Vals-des-Tilles",
           "departement": "52",
@@ -253,12 +242,11 @@
       ]
     },
     {
-      "nom_source": "HERROU Cédric",
+      "nom_complet": "Cédric HERROU",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "NADOT",
-          "prenom": "Sébastien",
+          "nom_complet": "Sébastien NADOT",
           "mandat": "depute",
           "circonscription": 10,
           "departement": "31",
@@ -267,14 +255,12 @@
       ]
     },
     {
-      "nom_source": "HOLLANDE François",
-      "personne": "PE-0065",
       "nom_complet": "François HOLLANDE",
+      "personne": "PE-0065",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "FRANQUEVILLE",
-          "prenom": "Christian",
+          "nom_complet": "Christian FRANQUEVILLE",
           "mandat": "maire",
           "territoire": "Bulgnéville",
           "departement": "88",
@@ -283,12 +269,11 @@
       ]
     },
     {
-      "nom_source": "LACROIX  Nicolas",
+      "nom_complet": "Nicolas LACROIX",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "HASSELBERGER",
-          "prenom": "Laurent",
+          "nom_complet": "Laurent HASSELBERGER",
           "mandat": "maire",
           "territoire": "Roches-Bettaincourt",
           "departement": "52",
@@ -296,8 +281,7 @@
         },
         {
           "civilite": "M.",
-          "nom": "PETIT",
-          "prenom": "Didier",
+          "nom_complet": "Didier PETIT",
           "mandat": "maire",
           "territoire": "Consigny",
           "departement": "52",
@@ -306,12 +290,11 @@
       ]
     },
     {
-      "nom_source": "MARECHAL Philippe Célestin",
+      "nom_complet": "Philippe Célestin MARECHAL",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "MARECHAL",
-          "prenom": "Philippe",
+          "nom_complet": "Philippe MARECHAL",
           "mandat": "maire",
           "territoire": "Balagny-sur-Thérain",
           "departement": "60",
@@ -320,12 +303,11 @@
       ]
     },
     {
-      "nom_source": "MEURICE Guillaume",
+      "nom_complet": "Guillaume MEURICE",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "CERVANTÈS",
-          "prenom": "Simon",
+          "nom_complet": "Simon CERVANTÈS",
           "mandat": "maire-delegue",
           "territoire": "La Hague",
           "departement": "50",
@@ -333,8 +315,7 @@
         },
         {
           "civilite": "Mme",
-          "nom": "BRUN",
-          "prenom": "Ophélie",
+          "nom_complet": "Ophélie BRUN",
           "mandat": "maire",
           "territoire": "Villard-Notre-Dame",
           "departement": "38",
@@ -342,16 +323,14 @@
         },
         {
           "civilite": "M.",
-          "nom": "TONOLLI",
-          "prenom": "Angelo",
+          "nom_complet": "Angelo TONOLLI",
           "mandat": "conseiller-departemental",
           "departement": "80",
           "publie_le": "2022-03-01"
         },
         {
           "civilite": "M.",
-          "nom": "ISSANCHOU",
-          "prenom": "Stéphane",
+          "nom_complet": "Stéphane ISSANCHOU",
           "mandat": "maire",
           "territoire": "Publy",
           "departement": "39",
@@ -359,8 +338,7 @@
         },
         {
           "civilite": "Mme",
-          "nom": "NYS",
-          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia NYS",
           "mandat": "maire-delegue",
           "territoire": "Vallons-de-l'Erdre",
           "departement": "44",
@@ -368,8 +346,7 @@
         },
         {
           "civilite": "M.",
-          "nom": "HERRMANN",
-          "prenom": "Marc",
+          "nom_complet": "Marc HERRMANN",
           "mandat": "maire",
           "territoire": "Furdenheim",
           "departement": "67",
@@ -378,12 +355,11 @@
       ]
     },
     {
-      "nom_source": "MÉNARD Emmanuelle",
+      "nom_complet": "Emmanuelle MÉNARD",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "RAVILLION",
-          "prenom": "Hervé",
+          "nom_complet": "Hervé RAVILLION",
           "mandat": "maire",
           "territoire": "Saint-Mard-lès-Rouffy",
           "departement": "51",
@@ -392,12 +368,11 @@
       ]
     },
     {
-      "nom_source": "PESQUET Thomas",
+      "nom_complet": "Thomas PESQUET",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "BACH",
-          "prenom": "Matthieu",
+          "nom_complet": "Matthieu BACH",
           "mandat": "maire",
           "territoire": "La Chapelle-Rambaud",
           "departement": "74",
@@ -406,12 +381,11 @@
       ]
     },
     {
-      "nom_source": "PHILIPPE Edouard",
+      "nom_complet": "Edouard PHILIPPE",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "CAMON-GOLYA",
-          "prenom": "Philippe",
+          "nom_complet": "Philippe CAMON-GOLYA",
           "mandat": "maire",
           "territoire": "Auros",
           "departement": "33",
@@ -420,12 +394,11 @@
       ]
     },
     {
-      "nom_source": "RUFFIN François",
+      "nom_complet": "François RUFFIN",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "DEQUENNE",
-          "prenom": "Laurent",
+          "nom_complet": "Laurent DEQUENNE",
           "mandat": "maire",
           "territoire": "Le Claon",
           "departement": "55",
@@ -434,12 +407,11 @@
       ]
     },
     {
-      "nom_source": "SAINT-PAUL Laetitia",
+      "nom_complet": "Laetitia SAINT-PAUL",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "MAILLET",
-          "prenom": "Fabrice",
+          "nom_complet": "Fabrice MAILLET",
           "mandat": "maire-delegue",
           "territoire": "Lys-Haut-Layon",
           "departement": "49",
@@ -448,12 +420,11 @@
       ]
     },
     {
-      "nom_source": "SCHOVANEC Josef",
+      "nom_complet": "Josef SCHOVANEC",
       "parrainages": [
         {
           "civilite": "M.",
-          "nom": "LOISEAU",
-          "prenom": "Georgio",
+          "nom_complet": "Georgio LOISEAU",
           "mandat": "maire",
           "territoire": "Poses",
           "departement": "27",

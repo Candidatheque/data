@@ -108,8 +108,7 @@
   "parrainages": [
     {
       "civilite": "M.",
-      "nom": "DUMONT",
-      "prenom": "Jean-Marc",
+      "nom_complet": "Jean-Marc DUMONT",
       "mandat": "maire",
       "territoire": "Tronget",
       "departement": "03",
@@ -117,8 +116,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LÉPINE",
-      "prenom": "Serge",
+      "nom_complet": "Serge LÉPINE",
       "mandat": "maire",
       "territoire": "Camplong-d'Aude",
       "departement": "11",
@@ -126,8 +124,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BARRIER",
-      "prenom": "Jean-François",
+      "nom_complet": "Jean-François BARRIER",
       "mandat": "maire",
       "territoire": "Velzic",
       "departement": "15",
@@ -135,8 +132,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOISSET",
-      "prenom": "François",
+      "nom_complet": "François BOISSET",
       "mandat": "maire",
       "territoire": "Riom-ès-Montagnes",
       "departement": "15",
@@ -144,24 +140,21 @@
     },
     {
       "civilite": "Mme",
-      "nom": "VINET",
-      "prenom": "Maryline",
+      "nom_complet": "Maryline VINET",
       "mandat": "conseiller-departemental",
       "departement": "16",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "M.",
-      "nom": "LAHELLEC",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard LAHELLEC",
       "mandat": "senateur",
       "departement": "22",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "M.",
-      "nom": "PEREA",
-      "prenom": "Laurent",
+      "nom_complet": "Laurent PEREA",
       "mandat": "maire",
       "territoire": "Saint-Capraise-de-Lalinde",
       "departement": "24",
@@ -169,8 +162,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUPONT",
-      "prenom": "Marc",
+      "nom_complet": "Marc DUPONT",
       "mandat": "maire",
       "territoire": "Berthelange",
       "departement": "25",
@@ -178,16 +170,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUPONT",
-      "prenom": "Ismaël",
+      "nom_complet": "Ismaël DUPONT",
       "mandat": "conseiller-departemental",
       "departement": "29",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "M.",
-      "nom": "RANNOU",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques RANNOU",
       "mandat": "maire-delegue",
       "territoire": "Rosporden",
       "departement": "29",
@@ -195,8 +185,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CADORÉ",
-      "prenom": "Eric",
+      "nom_complet": "Eric CADORÉ",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "32",
@@ -204,16 +193,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CUKIERMAN",
-      "prenom": "Cécile",
+      "nom_complet": "Cécile CUKIERMAN",
       "mandat": "senateur",
       "departement": "42",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "M.",
-      "nom": "FAVERJON",
-      "prenom": "Christophe",
+      "nom_complet": "Christophe FAVERJON",
       "mandat": "maire",
       "territoire": "Unieux",
       "departement": "42",
@@ -221,8 +208,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "MAHÉ",
-      "prenom": "Véronique",
+      "nom_complet": "Véronique MAHÉ",
       "mandat": "conseiller-regional",
       "territoire": "Pays De La Loire",
       "departement": "44",
@@ -230,8 +216,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BERNARDI",
-      "prenom": "Eric",
+      "nom_complet": "Eric BERNARDI",
       "mandat": "maire",
       "territoire": "Bouligny",
       "departement": "55",
@@ -239,8 +224,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BASQUIN",
-      "prenom": "Alexandre",
+      "nom_complet": "Alexandre BASQUIN",
       "mandat": "maire",
       "territoire": "Avesnes-les-Aubert",
       "departement": "59",
@@ -248,16 +232,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "DULIEU",
-      "prenom": "Jean-Claude",
+      "nom_complet": "Jean-Claude DULIEU",
       "mandat": "conseiller-departemental",
       "departement": "59",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "M.",
-      "nom": "VÉNIAT",
-      "prenom": "Michel",
+      "nom_complet": "Michel VÉNIAT",
       "mandat": "maire",
       "territoire": "Douchy-les-Mines",
       "departement": "59",
@@ -265,16 +247,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "APOURCEAU-POLY",
-      "prenom": "Cathy",
+      "nom_complet": "Cathy APOURCEAU-POLY",
       "mandat": "senateur",
       "departement": "62",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "M.",
-      "nom": "PEDOWSKI",
-      "prenom": "Christian",
+      "nom_complet": "Christian PEDOWSKI",
       "mandat": "maire",
       "territoire": "Sallaumines",
       "departement": "62",
@@ -282,8 +262,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUBOURGNOUX",
-      "prenom": "Eric",
+      "nom_complet": "Eric DUBOURGNOUX",
       "mandat": "maire",
       "territoire": "Saint-Gervais-sous-Meymont",
       "departement": "63",
@@ -291,8 +270,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GUINLE",
-      "prenom": "Yolande",
+      "nom_complet": "Yolande GUINLE",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "65",
@@ -300,16 +278,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "DEBÛ",
-      "prenom": "Raphaël",
+      "nom_complet": "Raphaël DEBÛ",
       "mandat": "conseiller-metropolitain-lyon",
       "departement": "69",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "M.",
-      "nom": "LAZAR",
-      "prenom": "Gilles",
+      "nom_complet": "Gilles LAZAR",
       "mandat": "conseiller-regional",
       "territoire": "Bourgogne-Franche-Comté",
       "departement": "70",
@@ -317,24 +293,21 @@
     },
     {
       "civilite": "M.",
-      "nom": "BAUDRIER",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques BAUDRIER",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "Mme",
-      "nom": "PATRICE",
-      "prenom": "Laurence",
+      "nom_complet": "Laurence PATRICE",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "Mme",
-      "nom": "TALLET",
-      "prenom": "Maud",
+      "nom_complet": "Maud TALLET",
       "mandat": "maire",
       "territoire": "Champs-sur-Marne",
       "departement": "77",
@@ -342,8 +315,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "JACOB",
-      "prenom": "Claude",
+      "nom_complet": "Claude JACOB",
       "mandat": "maire",
       "territoire": "Érondelle",
       "departement": "80",
@@ -351,16 +323,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LECROQ",
-      "prenom": "Emilie",
+      "nom_complet": "Emilie LECROQ",
       "mandat": "conseiller-departemental",
       "departement": "93",
       "publie_le": "2022-02-01"
     },
     {
       "civilite": "M.",
-      "nom": "BELL-LLOCH",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre BELL-LLOCH",
       "mandat": "maire",
       "territoire": "Vitry-sur-Seine",
       "departement": "94",
@@ -368,8 +338,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUVAL",
-      "prenom": "Michel",
+      "nom_complet": "Michel DUVAL",
       "mandat": "maire",
       "territoire": "Bourg-et-Comin",
       "departement": "02",
@@ -377,8 +346,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "RAHON",
-      "prenom": "François",
+      "nom_complet": "François RAHON",
       "mandat": "maire",
       "territoire": "Goudelancourt-lès-Berrieux",
       "departement": "02",
@@ -386,8 +354,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHÉRION",
-      "prenom": "Jean Guy",
+      "nom_complet": "Jean Guy CHÉRION",
       "mandat": "maire",
       "territoire": "Saint-Menoux",
       "departement": "03",
@@ -395,8 +362,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUFREGNE",
-      "prenom": "Jean-Paul",
+      "nom_complet": "Jean-Paul DUFREGNE",
       "mandat": "depute",
       "circonscription": 1,
       "departement": "03",
@@ -404,8 +370,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "PICANDET",
-      "prenom": "Nicole",
+      "nom_complet": "Nicole PICANDET",
       "mandat": "maire",
       "territoire": "Vieure",
       "departement": "03",
@@ -413,8 +378,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "THEVENOUX",
-      "prenom": "Didier",
+      "nom_complet": "Didier THEVENOUX",
       "mandat": "maire",
       "territoire": "Saint-Plaisir",
       "departement": "03",
@@ -422,8 +386,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "THOMAS",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre THOMAS",
       "mandat": "maire",
       "territoire": "Ygrande",
       "departement": "03",
@@ -431,8 +394,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TUJAGUE",
-      "prenom": "Francis Gilbert René",
+      "nom_complet": "Francis Gilbert René TUJAGUE",
       "mandat": "maire",
       "territoire": "Contes",
       "departement": "06",
@@ -440,8 +402,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "HOURS",
-      "prenom": "Eric",
+      "nom_complet": "Eric HOURS",
       "mandat": "conseiller-regional",
       "territoire": "Auvergne-Rhône-Alpes",
       "departement": "07",
@@ -449,8 +410,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BONNÉRY",
-      "prenom": "Alain",
+      "nom_complet": "Alain BONNÉRY",
       "mandat": "maire",
       "territoire": "Nébias",
       "departement": "11",
@@ -458,8 +418,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MAZET",
-      "prenom": "Pascal",
+      "nom_complet": "Pascal MAZET",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "12",
@@ -467,16 +426,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "BACCHI",
-      "prenom": "Jérémy",
+      "nom_complet": "Jérémy BACCHI",
       "mandat": "senateur",
       "departement": "13",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "Mme",
-      "nom": "CAPDEVILLE",
-      "prenom": "Christine",
+      "nom_complet": "Christine CAPDEVILLE",
       "mandat": "maire",
       "territoire": "La Penne-sur-Huveaune",
       "departement": "13",
@@ -484,8 +441,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MESNARD",
-      "prenom": "Yves",
+      "nom_complet": "Yves MESNARD",
       "mandat": "maire",
       "territoire": "Roquevaire",
       "departement": "13",
@@ -493,8 +449,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LENEVEU",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard LENEVEU",
       "mandat": "maire",
       "territoire": "Giberville",
       "departement": "14",
@@ -502,8 +457,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ENSERGUEIX",
-      "prenom": "Jean-François",
+      "nom_complet": "Jean-François ENSERGUEIX",
       "mandat": "maire",
       "territoire": "Grandsaigne",
       "departement": "19",
@@ -511,8 +465,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GAUTIER",
-      "prenom": "Stéphanie",
+      "nom_complet": "Stéphanie GAUTIER",
       "mandat": "maire",
       "territoire": "Palisse",
       "departement": "19",
@@ -520,8 +473,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAURENT",
-      "prenom": "André",
+      "nom_complet": "André LAURENT",
       "mandat": "maire",
       "territoire": "Pradines",
       "departement": "19",
@@ -529,8 +481,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LECHAT",
-      "prenom": "Jean Pierre",
+      "nom_complet": "Jean Pierre LECHAT",
       "mandat": "maire",
       "territoire": "Saint-Martial-Entraygues",
       "departement": "19",
@@ -538,8 +489,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ROCHE",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel ROCHE",
       "mandat": "maire",
       "territoire": "Nonards",
       "departement": "19",
@@ -547,8 +497,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MEDORI",
-      "prenom": "Séverin",
+      "nom_complet": "Séverin MEDORI",
       "mandat": "maire",
       "territoire": "Linguizzetta",
       "departement": "2B",
@@ -556,8 +505,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PALLENTI",
-      "prenom": "Jean-Marie",
+      "nom_complet": "Jean-Marie PALLENTI",
       "mandat": "maire",
       "territoire": "Velone-Orneto",
       "departement": "2B",
@@ -565,8 +513,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "COLLIN",
-      "prenom": "Éric",
+      "nom_complet": "Éric COLLIN",
       "mandat": "maire",
       "territoire": "Charigny",
       "departement": "21",
@@ -574,8 +521,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MOUVEROUX",
-      "prenom": "Olivier",
+      "nom_complet": "Olivier MOUVEROUX",
       "mandat": "maire",
       "territoire": "Fursac",
       "departement": "23",
@@ -583,8 +529,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PLANCHE",
-      "prenom": "Jean-Pierre",
+      "nom_complet": "Jean-Pierre PLANCHE",
       "mandat": "maire",
       "territoire": "Simeyrols",
       "departement": "24",
@@ -592,8 +537,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GEOLLOT",
-      "prenom": "Lionel",
+      "nom_complet": "Lionel GEOLLOT",
       "mandat": "conseiller-regional",
       "territoire": "Centre-Val De Loire",
       "departement": "28",
@@ -601,8 +545,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GRELAUD",
-      "prenom": "Gladys",
+      "nom_complet": "Gladys GRELAUD",
       "mandat": "conseiller-regional",
       "territoire": "Bretagne",
       "departement": "29",
@@ -610,24 +553,21 @@
     },
     {
       "civilite": "Mme",
-      "nom": "HÉRÉ",
-      "prenom": "Jacqueline",
+      "nom_complet": "Jacqueline HÉRÉ",
       "mandat": "conseiller-departemental",
       "departement": "29",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "Mme",
-      "nom": "MAUGEAIS",
-      "prenom": "Isabelle",
+      "nom_complet": "Isabelle MAUGEAIS",
       "mandat": "conseiller-departemental",
       "departement": "29",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "ANDRE",
-      "prenom": "Sylvain",
+      "nom_complet": "Sylvain ANDRE",
       "mandat": "maire",
       "territoire": "Cendras",
       "departement": "30",
@@ -635,16 +575,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "BASTID",
-      "prenom": "Christian",
+      "nom_complet": "Christian BASTID",
       "mandat": "conseiller-departemental",
       "departement": "30",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "CERPEDES",
-      "prenom": "Claude",
+      "nom_complet": "Claude CERPEDES",
       "mandat": "maire",
       "territoire": "Saint-Martin-de-Valgalgues",
       "departement": "30",
@@ -652,16 +590,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CHAULET",
-      "prenom": "Cathy",
+      "nom_complet": "Cathy CHAULET",
       "mandat": "conseiller-departemental",
       "departement": "30",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "CHAULET",
-      "prenom": "Edouard",
+      "nom_complet": "Edouard CHAULET",
       "mandat": "maire",
       "territoire": "Barjac",
       "departement": "30",
@@ -669,8 +605,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CLEMENT",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard CLEMENT",
       "mandat": "maire",
       "territoire": "Domessargues",
       "departement": "30",
@@ -678,8 +613,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GIBELIN",
-      "prenom": "Jean-Luc",
+      "nom_complet": "Jean-Luc GIBELIN",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "30",
@@ -687,8 +621,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MALAVIELLE",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick MALAVIELLE",
       "mandat": "maire",
       "territoire": "La Grand-Combe",
       "departement": "30",
@@ -696,16 +629,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "LABORDE",
-      "prenom": "Sébastien",
+      "nom_complet": "Sébastien LABORDE",
       "mandat": "conseiller-departemental",
       "departement": "33",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "RODRIGUEZ",
-      "prenom": "Raymond",
+      "nom_complet": "Raymond RODRIGUEZ",
       "mandat": "maire",
       "territoire": "Gauriac",
       "departement": "33",
@@ -713,8 +644,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "COHARD",
-      "prenom": "Roger",
+      "nom_complet": "Roger COHARD",
       "mandat": "maire",
       "territoire": "Le Cheylas",
       "departement": "38",
@@ -722,8 +652,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GAUTHIER",
-      "prenom": "Jean-Marc",
+      "nom_complet": "Jean-Marc GAUTHIER",
       "mandat": "maire",
       "territoire": "Vaulnaveys-le-Bas",
       "departement": "38",
@@ -731,8 +660,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LACROIX",
-      "prenom": "Fanny",
+      "nom_complet": "Fanny LACROIX",
       "mandat": "maire",
       "territoire": "Châtel-en-Trièves",
       "departement": "38",
@@ -740,8 +668,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BARRIER",
-      "prenom": "Jean-Alain",
+      "nom_complet": "Jean-Alain BARRIER",
       "mandat": "maire",
       "territoire": "Farnay",
       "departement": "42",
@@ -749,8 +676,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BONY",
-      "prenom": "Vincent",
+      "nom_complet": "Vincent BONY",
       "mandat": "maire",
       "territoire": "Rive-de-Gier",
       "departement": "42",
@@ -758,8 +684,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BRYNHOLE",
-      "prenom": "Marc",
+      "nom_complet": "Marc BRYNHOLE",
       "mandat": "maire",
       "territoire": "Darvoy",
       "departement": "45",
@@ -767,8 +692,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DUBOIS",
-      "prenom": "Sylvie",
+      "nom_complet": "Sylvie DUBOIS",
       "mandat": "conseiller-regional",
       "territoire": "Centre-Val De Loire",
       "departement": "45",
@@ -776,16 +700,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "GALLOIS",
-      "prenom": "Mathieu",
+      "nom_complet": "Mathieu GALLOIS",
       "mandat": "conseiller-departemental",
       "departement": "45",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "Mme",
-      "nom": "HAUTIN",
-      "prenom": "Maryvonne",
+      "nom_complet": "Maryvonne HAUTIN",
       "mandat": "maire",
       "territoire": "Saran",
       "departement": "45",
@@ -793,8 +715,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "THOUVENIN",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel THOUVENIN",
       "mandat": "maire",
       "territoire": "Villorceau",
       "departement": "45",
@@ -802,16 +723,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "TRIPET",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique TRIPET",
       "mandat": "conseiller-departemental",
       "departement": "45",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "Mme",
-      "nom": "PIQUE",
-      "prenom": "Marie",
+      "nom_complet": "Marie PIQUE",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "46",
@@ -819,8 +738,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "POINSOT",
-      "prenom": "Martin",
+      "nom_complet": "Martin POINSOT",
       "mandat": "maire",
       "territoire": "Esclauzels",
       "departement": "46",
@@ -828,8 +746,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MAILLET",
-      "prenom": "Frédéric",
+      "nom_complet": "Frédéric MAILLET",
       "mandat": "maire",
       "territoire": "Vouzy",
       "departement": "51",
@@ -837,8 +754,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "RIGHI",
-      "prenom": "Laurent",
+      "nom_complet": "Laurent RIGHI",
       "mandat": "maire",
       "territoire": "Hussigny-Godbrange",
       "departement": "54",
@@ -846,8 +762,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SPIZAK",
-      "prenom": "Pierrick",
+      "nom_complet": "Pierrick SPIZAK",
       "mandat": "maire",
       "territoire": "Villerupt",
       "departement": "54",
@@ -855,8 +770,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BAVAY",
-      "prenom": "Arnaud",
+      "nom_complet": "Arnaud BAVAY",
       "mandat": "maire",
       "territoire": "Hordain",
       "departement": "59",
@@ -864,8 +778,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOCQUET",
-      "prenom": "Alain",
+      "nom_complet": "Alain BOCQUET",
       "mandat": "maire",
       "territoire": "Saint-Amand-les-Eaux",
       "departement": "59",
@@ -873,8 +786,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BRUNEEL",
-      "prenom": "Alain",
+      "nom_complet": "Alain BRUNEEL",
       "mandat": "depute",
       "circonscription": 16,
       "departement": "59",
@@ -882,8 +794,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DENHEZ",
-      "prenom": "Jean-Michel",
+      "nom_complet": "Jean-Michel DENHEZ",
       "mandat": "maire",
       "territoire": "Lieu-Saint-Amand",
       "departement": "59",
@@ -891,8 +802,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DHALLUIN",
-      "prenom": "Héloïse",
+      "nom_complet": "Héloïse DHALLUIN",
       "mandat": "conseiller-regional",
       "territoire": "Hauts-De-France",
       "departement": "59",
@@ -900,16 +810,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GRÉAUME",
-      "prenom": "Michelle",
+      "nom_complet": "Michelle GRÉAUME",
       "mandat": "senateur",
       "departement": "59",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "JEAN",
-      "prenom": "Pascal",
+      "nom_complet": "Pascal JEAN",
       "mandat": "maire",
       "territoire": "Neuville-sur-Escaut",
       "departement": "59",
@@ -917,8 +825,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LECERF",
-      "prenom": "Jean-Marie",
+      "nom_complet": "Jean-Marie LECERF",
       "mandat": "maire",
       "territoire": "Thiant",
       "departement": "59",
@@ -926,16 +833,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "LEFEBVRE",
-      "prenom": "Michel",
+      "nom_complet": "Michel LEFEBVRE",
       "mandat": "conseiller-departemental",
       "departement": "59",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "LEMOINE",
-      "prenom": "Charles",
+      "nom_complet": "Charles LEMOINE",
       "mandat": "maire",
       "territoire": "Rœulx",
       "departement": "59",
@@ -943,8 +848,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "QUENNESSON",
-      "prenom": "Julien",
+      "nom_complet": "Julien QUENNESSON",
       "mandat": "maire",
       "territoire": "Somain",
       "departement": "59",
@@ -952,8 +856,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ROUSSEL",
-      "prenom": "Fabien",
+      "nom_complet": "Fabien ROUSSEL",
       "mandat": "depute",
       "circonscription": 20,
       "departement": "59",
@@ -961,8 +864,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SALIGOT",
-      "prenom": "Bruno",
+      "nom_complet": "Bruno SALIGOT",
       "mandat": "maire",
       "territoire": "Escaudain",
       "departement": "59",
@@ -970,8 +872,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SAVARY",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique SAVARY",
       "mandat": "maire",
       "territoire": "Trith-Saint-Léger",
       "departement": "59",
@@ -979,8 +880,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "VERLYCK",
-      "prenom": "Jean-Luc",
+      "nom_complet": "Jean-Luc VERLYCK",
       "mandat": "maire",
       "territoire": "Tressin",
       "departement": "59",
@@ -988,16 +888,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BALITOUT",
-      "prenom": "Hélène",
+      "nom_complet": "Hélène BALITOUT",
       "mandat": "conseiller-departemental",
       "departement": "60",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "BOUCHER",
-      "prenom": "Alain",
+      "nom_complet": "Alain BOUCHER",
       "mandat": "maire",
       "territoire": "Monchy-Saint-Éloi",
       "departement": "60",
@@ -1005,8 +903,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CARVALHO",
-      "prenom": "Patrice",
+      "nom_complet": "Patrice CARVALHO",
       "mandat": "maire",
       "territoire": "Thourotte",
       "departement": "60",
@@ -1014,8 +911,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LEBRUN",
-      "prenom": "Alain",
+      "nom_complet": "Alain LEBRUN",
       "mandat": "maire",
       "territoire": "Saint-Martin-aux-Bois",
       "departement": "60",
@@ -1023,8 +919,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MACUDZINSKI",
-      "prenom": "Serge",
+      "nom_complet": "Serge MACUDZINSKI",
       "mandat": "maire",
       "territoire": "Saint-Maximin",
       "departement": "60",
@@ -1032,8 +927,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SEBERT",
-      "prenom": "Maxence",
+      "nom_complet": "Maxence SEBERT",
       "mandat": "maire",
       "territoire": "Larré",
       "departement": "61",
@@ -1041,8 +935,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CUVILLIER",
-      "prenom": "Valérie",
+      "nom_complet": "Valérie CUVILLIER",
       "mandat": "maire",
       "territoire": "Rouvroy",
       "departement": "62",
@@ -1050,8 +943,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CZERWINSKI",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard CZERWINSKI",
       "mandat": "maire",
       "territoire": "Drocourt",
       "departement": "62",
@@ -1059,8 +951,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUBREUCQ",
-      "prenom": "Alain",
+      "nom_complet": "Alain DUBREUCQ",
       "mandat": "maire",
       "territoire": "Sains-en-Gohelle",
       "departement": "62",
@@ -1068,8 +959,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LEGRAND",
-      "prenom": "Jean Michel",
+      "nom_complet": "Jean Michel LEGRAND",
       "mandat": "maire",
       "territoire": "Auchy-les-Mines",
       "departement": "62",
@@ -1077,16 +967,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LOUCHAERT",
-      "prenom": "Laurence",
+      "nom_complet": "Laurence LOUCHAERT",
       "mandat": "conseiller-departemental",
       "departement": "62",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "Mme",
-      "nom": "PASSEBOSC",
-      "prenom": "Brigitte",
+      "nom_complet": "Brigitte PASSEBOSC",
       "mandat": "maire",
       "territoire": "Saint-Étienne-au-Mont",
       "departement": "62",
@@ -1094,8 +982,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "POUSSIERE",
-      "prenom": "Thierry",
+      "nom_complet": "Thierry POUSSIERE",
       "mandat": "maire",
       "territoire": "Brêmes",
       "departement": "62",
@@ -1103,8 +990,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TELLIER",
-      "prenom": "Jean-Marc",
+      "nom_complet": "Jean-Marc TELLIER",
       "mandat": "maire",
       "territoire": "Avion",
       "departement": "62",
@@ -1112,8 +998,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TERLAT",
-      "prenom": "Yves",
+      "nom_complet": "Yves TERLAT",
       "mandat": "maire",
       "territoire": "Annay",
       "departement": "62",
@@ -1121,8 +1006,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BERT",
-      "prenom": "Richard",
+      "nom_complet": "Richard BERT",
       "mandat": "maire",
       "territoire": "Blanzat",
       "departement": "63",
@@ -1130,8 +1014,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHARLAT",
-      "prenom": "Jean-Michel",
+      "nom_complet": "Jean-Michel CHARLAT",
       "mandat": "maire",
       "territoire": "Billom",
       "departement": "63",
@@ -1139,8 +1022,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUBIEN",
-      "prenom": "Roger",
+      "nom_complet": "Roger DUBIEN",
       "mandat": "maire",
       "territoire": "Le Brugeron",
       "departement": "63",
@@ -1148,8 +1030,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "HUGUET",
-      "prenom": "Josiane",
+      "nom_complet": "Josiane HUGUET",
       "mandat": "maire",
       "territoire": "Bort-l'Étang",
       "departement": "63",
@@ -1157,8 +1038,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TINET",
-      "prenom": "Georges",
+      "nom_complet": "Georges TINET",
       "mandat": "maire",
       "territoire": "Auzat-la-Combelle",
       "departement": "63",
@@ -1166,8 +1046,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LABADOT",
-      "prenom": "Louis",
+      "nom_complet": "Louis LABADOT",
       "mandat": "maire",
       "territoire": "Mauléon-Licharre",
       "departement": "64",
@@ -1175,8 +1054,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PRAT",
-      "prenom": "Jean-Bernard",
+      "nom_complet": "Jean-Bernard PRAT",
       "mandat": "maire",
       "territoire": "Boumourt",
       "departement": "64",
@@ -1184,8 +1062,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "TARIOL",
-      "prenom": "Béatrice",
+      "nom_complet": "Béatrice TARIOL",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "64",
@@ -1193,8 +1070,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BONNARGENT",
-      "prenom": "Alexis",
+      "nom_complet": "Alexis BONNARGENT",
       "mandat": "maire",
       "territoire": "Vidouze",
       "departement": "65",
@@ -1202,8 +1078,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAPEYRE",
-      "prenom": "Jean-François",
+      "nom_complet": "Jean-François LAPEYRE",
       "mandat": "maire",
       "territoire": "Aurensan",
       "departement": "65",
@@ -1211,8 +1086,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ASPE",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel ASPE",
       "mandat": "maire",
       "territoire": "Escaro",
       "departement": "66",
@@ -1220,16 +1094,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BEUZE",
-      "prenom": "Lola",
+      "nom_complet": "Lola BEUZE",
       "mandat": "conseiller-departemental",
       "departement": "66",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "CASES",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick CASES",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "66",
@@ -1237,8 +1109,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MAGDALOU",
-      "prenom": "Jean-André",
+      "nom_complet": "Jean-André MAGDALOU",
       "mandat": "maire",
       "territoire": "Alénya",
       "departement": "66",
@@ -1246,24 +1117,21 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CHARNAY",
-      "prenom": "Christiane",
+      "nom_complet": "Christiane CHARNAY",
       "mandat": "conseiller-metropolitain-lyon",
       "departement": "69",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "MILLET",
-      "prenom": "Pierre-Alain",
+      "nom_complet": "Pierre-Alain MILLET",
       "mandat": "conseiller-metropolitain-lyon",
       "departement": "69",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "LEPROUST",
-      "prenom": "Gilles",
+      "nom_complet": "Gilles LEPROUST",
       "mandat": "maire",
       "territoire": "Allonnes",
       "departement": "72",
@@ -1271,8 +1139,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "POIRRIER",
-      "prenom": "Sylvain",
+      "nom_complet": "Sylvain POIRRIER",
       "mandat": "maire",
       "territoire": "Arthezé",
       "departement": "72",
@@ -1280,8 +1147,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAMBERT",
-      "prenom": "Alain",
+      "nom_complet": "Alain LAMBERT",
       "mandat": "maire",
       "territoire": "Saint-Germain-sur-Rhône",
       "departement": "74",
@@ -1289,48 +1155,42 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BIDARD",
-      "prenom": "Hélène",
+      "nom_complet": "Hélène BIDARD",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "BONNET-OULALDJ",
-      "prenom": "Nicolas",
+      "nom_complet": "Nicolas BONNET-OULALDJ",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "BROSSAT",
-      "prenom": "Ian",
+      "nom_complet": "Ian BROSSAT",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "Mme",
-      "nom": "PRIMET",
-      "prenom": "Raphaëlle",
+      "nom_complet": "Raphaëlle PRIMET",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "Mme",
-      "nom": "HERVÉ",
-      "prenom": "Sophie",
+      "nom_complet": "Sophie HERVÉ",
       "mandat": "conseiller-departemental",
       "departement": "76",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "Mme",
-      "nom": "MOREL",
-      "prenom": "Christine",
+      "nom_complet": "Christine MOREL",
       "mandat": "maire",
       "territoire": "Harfleur",
       "departement": "76",
@@ -1338,16 +1198,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "MARGATÉ",
-      "prenom": "Marianne",
+      "nom_complet": "Marianne MARGATÉ",
       "mandat": "conseiller-departemental",
       "departement": "77",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "AUBREE",
-      "prenom": "Pascal",
+      "nom_complet": "Pascal AUBREE",
       "mandat": "maire",
       "territoire": "Bussy-lès-Poix",
       "departement": "80",
@@ -1355,24 +1213,21 @@
     },
     {
       "civilite": "M.",
-      "nom": "BEUVAIN",
-      "prenom": "Laurent",
+      "nom_complet": "Laurent BEUVAIN",
       "mandat": "conseiller-departemental",
       "departement": "80",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "Mme",
-      "nom": "ESTEBAN",
-      "prenom": "Dolorès",
+      "nom_complet": "Dolorès ESTEBAN",
       "mandat": "conseiller-departemental",
       "departement": "80",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "GAILLARD",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick GAILLARD",
       "mandat": "maire",
       "territoire": "Flixecourt",
       "departement": "80",
@@ -1380,8 +1235,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PARSY",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard PARSY",
       "mandat": "maire",
       "territoire": "Sailly-Saillisel",
       "departement": "80",
@@ -1389,8 +1243,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "RENAUX",
-      "prenom": "Jean-Claude",
+      "nom_complet": "Jean-Claude RENAUX",
       "mandat": "maire",
       "territoire": "Camon",
       "departement": "80",
@@ -1398,16 +1251,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "ALLARD",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre ALLARD",
       "mandat": "conseiller-departemental",
       "departement": "87",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "MUZETTE",
-      "prenom": "Thierry",
+      "nom_complet": "Thierry MUZETTE",
       "mandat": "maire",
       "territoire": "Sainte-Anne-Saint-Priest",
       "departement": "87",
@@ -1415,8 +1266,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "RIGOUT",
-      "prenom": "Jean-Yves",
+      "nom_complet": "Jean-Yves RIGOUT",
       "mandat": "maire",
       "territoire": "Veyrac",
       "departement": "87",
@@ -1424,8 +1274,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BLIN",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick BLIN",
       "mandat": "conseiller-regional",
       "territoire": "Bourgogne-Franche-Comté",
       "departement": "89",
@@ -1433,16 +1282,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "BURIER",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe BURIER",
       "mandat": "conseiller-departemental",
       "departement": "89",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "GOGLINS",
-      "prenom": "François",
+      "nom_complet": "François GOGLINS",
       "mandat": "maire",
       "territoire": "Villemanoche",
       "departement": "89",
@@ -1450,8 +1297,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DASSA",
-      "prenom": "Emmanuel",
+      "nom_complet": "Emmanuel DASSA",
       "mandat": "maire",
       "territoire": "Briis-sous-Forges",
       "departement": "91",
@@ -1459,16 +1305,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "OUZOULIAS",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre OUZOULIAS",
       "mandat": "senateur",
       "departement": "92",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "ASENSI",
-      "prenom": "François",
+      "nom_complet": "François ASENSI",
       "mandat": "maire",
       "territoire": "Tremblay-en-France",
       "departement": "93",
@@ -1476,16 +1320,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "BEDREDDINE",
-      "prenom": "Belaïde",
+      "nom_complet": "Belaïde BEDREDDINE",
       "mandat": "conseiller-departemental",
       "departement": "93",
       "publie_le": "2022-02-03"
     },
     {
       "civilite": "M.",
-      "nom": "GARZON",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre GARZON",
       "mandat": "maire",
       "territoire": "Villejuif",
       "departement": "94",
@@ -1493,8 +1335,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ÖZTORUN",
-      "prenom": "Denis",
+      "nom_complet": "Denis ÖZTORUN",
       "mandat": "maire",
       "territoire": "Bonneuil-sur-Marne",
       "departement": "94",
@@ -1502,16 +1343,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "GALL",
-      "prenom": "Aurélien",
+      "nom_complet": "Aurélien GALL",
       "mandat": "conseiller-departemental",
       "departement": "02",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "LAYER",
-      "prenom": "Marie-Ange",
+      "nom_complet": "Marie-Ange LAYER",
       "mandat": "conseiller-regional",
       "territoire": "Hauts-De-France",
       "departement": "02",
@@ -1519,8 +1358,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "NELATON",
-      "prenom": "Robert",
+      "nom_complet": "Robert NELATON",
       "mandat": "maire",
       "territoire": "Coyolles",
       "departement": "02",
@@ -1528,8 +1366,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "RAGEL",
-      "prenom": "Sylvie",
+      "nom_complet": "Sylvie RAGEL",
       "mandat": "maire-delegue",
       "territoire": "Tergnier",
       "departement": "02",
@@ -1537,8 +1374,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHAPUT",
-      "prenom": "Ludovic",
+      "nom_complet": "Ludovic CHAPUT",
       "mandat": "maire",
       "territoire": "Bourbon-l'Archambault",
       "departement": "03",
@@ -1546,8 +1382,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FOURNIER",
-      "prenom": "Jean-Pierre",
+      "nom_complet": "Jean-Pierre FOURNIER",
       "mandat": "maire",
       "territoire": "Hyds",
       "departement": "03",
@@ -1555,16 +1390,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LACARIN",
-      "prenom": "Marie-Françoise",
+      "nom_complet": "Marie-Françoise LACARIN",
       "mandat": "conseiller-departemental",
       "departement": "03",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "LOGNON",
-      "prenom": "Alain",
+      "nom_complet": "Alain LOGNON",
       "mandat": "maire",
       "territoire": "Beaulon",
       "departement": "03",
@@ -1572,8 +1405,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PETIOT",
-      "prenom": "Yves",
+      "nom_complet": "Yves PETIOT",
       "mandat": "maire",
       "territoire": "Noyant-d'Allier",
       "departement": "03",
@@ -1581,8 +1413,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "THEVENOUX",
-      "prenom": "Fabien",
+      "nom_complet": "Fabien THEVENOUX",
       "mandat": "maire",
       "territoire": "Cérilly",
       "departement": "03",
@@ -1590,8 +1421,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ALBIN",
-      "prenom": "Noël",
+      "nom_complet": "Noël ALBIN",
       "mandat": "maire",
       "territoire": "Touët-de-l'Escarène",
       "departement": "06",
@@ -1599,8 +1429,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LASSALLE",
-      "prenom": "Yvon",
+      "nom_complet": "Yvon LASSALLE",
       "mandat": "maire",
       "territoire": "Pailhès",
       "departement": "09",
@@ -1608,8 +1437,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MORETTO",
-      "prenom": "Richard",
+      "nom_complet": "Richard MORETTO",
       "mandat": "maire",
       "territoire": "Sautel",
       "departement": "09",
@@ -1617,8 +1445,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "PIQUEMAL",
-      "prenom": "Isabelle",
+      "nom_complet": "Isabelle PIQUEMAL",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "09",
@@ -1626,8 +1453,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CONTIES",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques CONTIES",
       "mandat": "maire",
       "territoire": "Fontcouverte",
       "departement": "11",
@@ -1635,16 +1461,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "GASPARINI",
-      "prenom": "Sébastien",
+      "nom_complet": "Sébastien GASPARINI",
       "mandat": "conseiller-departemental",
       "departement": "11",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "VILAS",
-      "prenom": "Sylvie",
+      "nom_complet": "Sylvie VILAS",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "11",
@@ -1652,8 +1476,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LADRECH",
-      "prenom": "Jean-Pierre",
+      "nom_complet": "Jean-Pierre LADRECH",
       "mandat": "maire",
       "territoire": "Firmi",
       "departement": "12",
@@ -1661,8 +1484,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BELSOLA",
-      "prenom": "Laurent",
+      "nom_complet": "Laurent BELSOLA",
       "mandat": "maire",
       "territoire": "Port-de-Bouc",
       "departement": "13",
@@ -1670,8 +1492,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DHARRÉVILLE",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre DHARRÉVILLE",
       "mandat": "depute",
       "circonscription": 13,
       "departement": "13",
@@ -1679,24 +1500,21 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GARINO",
-      "prenom": "Audrey",
+      "nom_complet": "Audrey GARINO",
       "mandat": "conseiller-departemental",
       "departement": "13",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "GIORGETTI",
-      "prenom": "Magali",
+      "nom_complet": "Magali GIORGETTI",
       "mandat": "conseiller-departemental",
       "departement": "13",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "JULLIEN",
-      "prenom": "Georges",
+      "nom_complet": "Georges JULLIEN",
       "mandat": "maire",
       "territoire": "Noves",
       "departement": "13",
@@ -1704,8 +1522,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MOLINO",
-      "prenom": "André",
+      "nom_complet": "André MOLINO",
       "mandat": "maire",
       "territoire": "Septèmes-les-Vallons",
       "departement": "13",
@@ -1713,8 +1530,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ROSSO",
-      "prenom": "Georges",
+      "nom_complet": "Georges ROSSO",
       "mandat": "maire",
       "territoire": "Le Rove",
       "departement": "13",
@@ -1722,8 +1538,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ICHMOUKAMETOFF",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard ICHMOUKAMETOFF",
       "mandat": "maire",
       "territoire": "Chouain",
       "departement": "14",
@@ -1731,8 +1546,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MOURARET",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre MOURARET",
       "mandat": "maire",
       "territoire": "Dives-sur-Mer",
       "departement": "14",
@@ -1740,8 +1554,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SÉRIÈS",
-      "prenom": "Alain",
+      "nom_complet": "Alain SÉRIÈS",
       "mandat": "maire",
       "territoire": "Rouffiac",
       "departement": "15",
@@ -1749,8 +1562,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GRENIER-RIGNOUX",
-      "prenom": "Laure",
+      "nom_complet": "Laure GRENIER-RIGNOUX",
       "mandat": "maire",
       "territoire": "Foëcy",
       "departement": "18",
@@ -1758,8 +1570,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BRIGOULET",
-      "prenom": "Jean Marie",
+      "nom_complet": "Jean Marie BRIGOULET",
       "mandat": "maire-delegue",
       "territoire": "Argentat-sur-Dordogne",
       "departement": "19",
@@ -1767,8 +1578,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TRAMONI",
-      "prenom": "Michel",
+      "nom_complet": "Michel TRAMONI",
       "mandat": "maire",
       "territoire": "Bilia",
       "departement": "2A",
@@ -1776,8 +1586,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BARTOLI",
-      "prenom": "Jacky",
+      "nom_complet": "Jacky BARTOLI",
       "mandat": "maire",
       "territoire": "Isolaccio-di-Fiumorbo",
       "departement": "2B",
@@ -1785,8 +1594,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "POINSEL",
-      "prenom": "Marie",
+      "nom_complet": "Marie POINSEL",
       "mandat": "conseiller-regional",
       "territoire": "Bourgogne-Franche-Comté",
       "departement": "21",
@@ -1794,16 +1602,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BERNARD",
-      "prenom": "Cinderella",
+      "nom_complet": "Cinderella BERNARD",
       "mandat": "conseiller-departemental",
       "departement": "22",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "CADIOU",
-      "prenom": "Gaby",
+      "nom_complet": "Gaby CADIOU",
       "mandat": "conseiller-regional",
       "territoire": "Bretagne",
       "departement": "22",
@@ -1811,16 +1617,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "DEJOUÉ",
-      "prenom": "Jean-Marc",
+      "nom_complet": "Jean-Marc DEJOUÉ",
       "mandat": "conseiller-departemental",
       "departement": "22",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "GARZUEL",
-      "prenom": "Alain",
+      "nom_complet": "Alain GARZUEL",
       "mandat": "maire",
       "territoire": "Le Vieux-Marché",
       "departement": "22",
@@ -1828,8 +1632,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LE MARREC",
-      "prenom": "François",
+      "nom_complet": "François LE MARREC",
       "mandat": "maire",
       "territoire": "Belle-Isle-en-Terre",
       "departement": "22",
@@ -1837,16 +1640,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "SALLOU-LE GUEN",
-      "prenom": "Nadine",
+      "nom_complet": "Nadine SALLOU-LE GUEN",
       "mandat": "conseiller-departemental",
       "departement": "22",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "PARNIERE",
-      "prenom": "Jean-Claude",
+      "nom_complet": "Jean-Claude PARNIERE",
       "mandat": "maire",
       "territoire": "Soumans",
       "departement": "23",
@@ -1854,8 +1655,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "AUZOU",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques AUZOU",
       "mandat": "president-epci",
       "territoire": "CA Le Grand Périgueux",
       "departement": "24",
@@ -1863,8 +1663,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BATAILLER",
-      "prenom": "Régis",
+      "nom_complet": "Régis BATAILLER",
       "mandat": "maire",
       "territoire": "Léguillac-de-l'Auche",
       "departement": "24",
@@ -1872,8 +1671,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CASSAGNOLE",
-      "prenom": "Jean-Claude",
+      "nom_complet": "Jean-Claude CASSAGNOLE",
       "mandat": "maire",
       "territoire": "Domme",
       "departement": "24",
@@ -1881,8 +1679,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CASTAIGNEDE",
-      "prenom": "Fanny",
+      "nom_complet": "Fanny CASTAIGNEDE",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "24",
@@ -1890,8 +1687,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "COLBAC",
-      "prenom": "Francis",
+      "nom_complet": "Francis COLBAC",
       "mandat": "maire",
       "territoire": "Trélissac",
       "departement": "24",
@@ -1899,8 +1695,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GENDREAU",
-      "prenom": "Jean-Jacques",
+      "nom_complet": "Jean-Jacques GENDREAU",
       "mandat": "maire",
       "territoire": "Parcoul-Chenaud",
       "departement": "24",
@@ -1908,8 +1703,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LECOMTE",
-      "prenom": "Christian",
+      "nom_complet": "Christian LECOMTE",
       "mandat": "maire",
       "territoire": "Champcevinel",
       "departement": "24",
@@ -1917,16 +1711,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "VARAILLAS",
-      "prenom": "Marie-Claude",
+      "nom_complet": "Marie-Claude VARAILLAS",
       "mandat": "senateur",
       "departement": "24",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "VERGNAUD",
-      "prenom": "Lionel",
+      "nom_complet": "Lionel VERGNAUD",
       "mandat": "maire",
       "territoire": "Le Pizou",
       "departement": "24",
@@ -1934,8 +1726,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GUINEBERT",
-      "prenom": "Matthieu",
+      "nom_complet": "Matthieu GUINEBERT",
       "mandat": "conseiller-regional",
       "territoire": "Bourgogne-Franche-Comté",
       "departement": "25",
@@ -1943,8 +1734,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAMY",
-      "prenom": "Eric",
+      "nom_complet": "Eric LAMY",
       "mandat": "maire",
       "territoire": "Bart",
       "departement": "25",
@@ -1952,8 +1742,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "THIRIOT",
-      "prenom": "Christian",
+      "nom_complet": "Christian THIRIOT",
       "mandat": "maire",
       "territoire": "Beauvoisin",
       "departement": "26",
@@ -1961,8 +1750,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BEURIOT",
-      "prenom": "Valéry",
+      "nom_complet": "Valéry BEURIOT",
       "mandat": "maire",
       "territoire": "Brionne",
       "departement": "27",
@@ -1970,8 +1758,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LE BRAS",
-      "prenom": "Olivier",
+      "nom_complet": "Olivier LE BRAS",
       "mandat": "conseiller-regional",
       "territoire": "Bretagne",
       "departement": "29",
@@ -1979,8 +1766,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BORD",
-      "prenom": "Serge",
+      "nom_complet": "Serge BORD",
       "mandat": "maire",
       "territoire": "Saint-Julien-les-Rosiers",
       "departement": "30",
@@ -1988,8 +1774,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHASSARY",
-      "prenom": "Ghislain",
+      "nom_complet": "Ghislain CHASSARY",
       "mandat": "maire",
       "territoire": "Rousson",
       "departement": "30",
@@ -1997,8 +1782,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOUBE",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick BOUBE",
       "mandat": "maire",
       "territoire": "Boussan",
       "departement": "31",
@@ -2006,8 +1790,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MELLIER",
-      "prenom": "Frédéric",
+      "nom_complet": "Frédéric MELLIER",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "33",
@@ -2015,8 +1798,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "MUGRON",
-      "prenom": "Josette",
+      "nom_complet": "Josette MUGRON",
       "mandat": "maire",
       "territoire": "Frontenac",
       "departement": "33",
@@ -2024,8 +1806,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "TARIS",
-      "prenom": "Isabelle",
+      "nom_complet": "Isabelle TARIS",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "33",
@@ -2033,16 +1814,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BOUTON",
-      "prenom": "Cécile",
+      "nom_complet": "Cécile BOUTON",
       "mandat": "conseiller-departemental",
       "departement": "35",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "DEMOLDER",
-      "prenom": "Michel",
+      "nom_complet": "Michel DEMOLDER",
       "mandat": "maire",
       "territoire": "Pont-Péan",
       "departement": "35",
@@ -2050,8 +1829,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAPOUMEROULIE",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique LAPOUMEROULIE",
       "mandat": "maire",
       "territoire": "Buxeuil",
       "departement": "36",
@@ -2059,8 +1837,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "TEIXEIRA",
-      "prenom": "Isabel",
+      "nom_complet": "Isabel TEIXEIRA",
       "mandat": "conseiller-regional",
       "territoire": "Centre-Val De Loire",
       "departement": "37",
@@ -2068,8 +1845,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "STEFANI",
-      "prenom": "François",
+      "nom_complet": "François STEFANI",
       "mandat": "maire",
       "territoire": "Tencin",
       "departement": "38",
@@ -2077,8 +1853,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SULLI",
-      "prenom": "Renzo",
+      "nom_complet": "Renzo SULLI",
       "mandat": "maire",
       "territoire": "Échirolles",
       "departement": "38",
@@ -2086,8 +1861,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GANET",
-      "prenom": "Michel",
+      "nom_complet": "Michel GANET",
       "mandat": "maire",
       "territoire": "Pagney",
       "departement": "39",
@@ -2095,8 +1869,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GINIES",
-      "prenom": "Michel",
+      "nom_complet": "Michel GINIES",
       "mandat": "maire",
       "territoire": "Damparis",
       "departement": "39",
@@ -2104,8 +1877,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LONCHAMPT",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique LONCHAMPT",
       "mandat": "conseiller-regional",
       "territoire": "Bourgogne-Franche-Comté",
       "departement": "39",
@@ -2113,8 +1885,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BACHÉ",
-      "prenom": "Alain",
+      "nom_complet": "Alain BACHÉ",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "40",
@@ -2122,8 +1893,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DEHEZ",
-      "prenom": "Sabine",
+      "nom_complet": "Sabine DEHEZ",
       "mandat": "maire",
       "territoire": "Carcen-Ponson",
       "departement": "40",
@@ -2131,16 +1901,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "DELAVOIE",
-      "prenom": "Damien",
+      "nom_complet": "Damien DELAVOIE",
       "mandat": "conseiller-departemental",
       "departement": "40",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "LESPADE",
-      "prenom": "Jean-Marc",
+      "nom_complet": "Jean-Marc LESPADE",
       "mandat": "maire",
       "territoire": "Tarnos",
       "departement": "40",
@@ -2148,8 +1916,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MAN",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick MAN",
       "mandat": "maire",
       "territoire": "Hauriet",
       "departement": "40",
@@ -2157,8 +1924,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BONNEFOY",
-      "prenom": "Cyrille",
+      "nom_complet": "Cyrille BONNEFOY",
       "mandat": "maire",
       "territoire": "La Ricamarie",
       "departement": "42",
@@ -2166,8 +1932,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOUÉ",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique BOUÉ",
       "mandat": "conseiller-regional",
       "territoire": "Centre-Val De Loire",
       "departement": "45",
@@ -2175,8 +1940,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ANDURAND",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques ANDURAND",
       "mandat": "maire",
       "territoire": "Aynac",
       "departement": "46",
@@ -2184,8 +1948,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SAUVIER",
-      "prenom": "Jean-Claude",
+      "nom_complet": "Jean-Claude SAUVIER",
       "mandat": "maire",
       "territoire": "Laburgade",
       "departement": "46",
@@ -2193,16 +1956,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "MIRANDE",
-      "prenom": "Jean-Jacques",
+      "nom_complet": "Jean-Jacques MIRANDE",
       "mandat": "conseiller-departemental",
       "departement": "47",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "LAMY",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard LAMY",
       "mandat": "maire",
       "territoire": "Saint-Germain-de-Calberte",
       "departement": "48",
@@ -2210,8 +1971,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DAVIAU",
-      "prenom": "Patrice",
+      "nom_complet": "Patrice DAVIAU",
       "mandat": "maire",
       "territoire": "Marcé",
       "departement": "49",
@@ -2219,8 +1979,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GUILLON",
-      "prenom": "Béatrice",
+      "nom_complet": "Béatrice GUILLON",
       "mandat": "maire-delegue",
       "territoire": "Saumur",
       "departement": "49",
@@ -2228,8 +1987,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BERTELLE",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard BERTELLE",
       "mandat": "maire",
       "territoire": "Blénod-lès-Pont-à-Mousson",
       "departement": "54",
@@ -2237,8 +1995,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BRUSCO",
-      "prenom": "Stéphan",
+      "nom_complet": "Stéphan BRUSCO",
       "mandat": "maire",
       "territoire": "Thil",
       "departement": "54",
@@ -2246,8 +2003,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "VUILLAUME",
-      "prenom": "Hervé",
+      "nom_complet": "Hervé VUILLAUME",
       "mandat": "maire",
       "territoire": "Resson",
       "departement": "55",
@@ -2255,16 +2011,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "QUÉRIC",
-      "prenom": "Catherine",
+      "nom_complet": "Catherine QUÉRIC",
       "mandat": "conseiller-departemental",
       "departement": "56",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "ABATE",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick ABATE",
       "mandat": "maire",
       "territoire": "Talange",
       "departement": "57",
@@ -2272,8 +2026,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FORESTIER",
-      "prenom": "Denis",
+      "nom_complet": "Denis FORESTIER",
       "mandat": "maire",
       "territoire": "Surgy",
       "departement": "58",
@@ -2281,8 +2034,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "JUSSIERE",
-      "prenom": "Eric",
+      "nom_complet": "Eric JUSSIERE",
       "mandat": "maire",
       "territoire": "Châtin",
       "departement": "58",
@@ -2290,16 +2042,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "LECHER",
-      "prenom": "Lionel",
+      "nom_complet": "Lionel LECHER",
       "mandat": "conseiller-departemental",
       "departement": "58",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "BAUDOUX",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard BAUDOUX",
       "mandat": "maire",
       "territoire": "Aulnoye-Aymeries",
       "departement": "59",
@@ -2307,16 +2057,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOCQUET",
-      "prenom": "Eric",
+      "nom_complet": "Eric BOCQUET",
       "mandat": "senateur",
       "departement": "59",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "CANDELIER",
-      "prenom": "Jean-Jacques",
+      "nom_complet": "Jean-Jacques CANDELIER",
       "mandat": "maire",
       "territoire": "Bruille-lez-Marchiennes",
       "departement": "59",
@@ -2324,8 +2072,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CHOAIN",
-      "prenom": "Isabelle",
+      "nom_complet": "Isabelle CHOAIN",
       "mandat": "maire",
       "territoire": "Prouvy",
       "departement": "59",
@@ -2333,16 +2080,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DENYS",
-      "prenom": "Agnes",
+      "nom_complet": "Agnes DENYS",
       "mandat": "conseiller-departemental",
       "departement": "59",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "DESMEDT",
-      "prenom": "André",
+      "nom_complet": "André DESMEDT",
       "mandat": "maire",
       "territoire": "Hasnon",
       "departement": "59",
@@ -2350,8 +2095,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GOUPIL-DEREGNAUCOURT",
-      "prenom": "Annie",
+      "nom_complet": "Annie GOUPIL-DEREGNAUCOURT",
       "mandat": "maire",
       "territoire": "Flines-lez-Raches",
       "departement": "59",
@@ -2359,8 +2103,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "JOUANIN",
-      "prenom": "Xavier",
+      "nom_complet": "Xavier JOUANIN",
       "mandat": "maire",
       "territoire": "Onnaing",
       "departement": "59",
@@ -2368,8 +2111,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LASPALAS",
-      "prenom": "Hervé",
+      "nom_complet": "Hervé LASPALAS",
       "mandat": "maire",
       "territoire": "Sémeries",
       "departement": "59",
@@ -2377,8 +2119,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MARET",
-      "prenom": "Jean-Claude",
+      "nom_complet": "Jean-Claude MARET",
       "mandat": "maire",
       "territoire": "Boussois",
       "departement": "59",
@@ -2386,8 +2127,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MICHALAK",
-      "prenom": "Denis",
+      "nom_complet": "Denis MICHALAK",
       "mandat": "maire",
       "territoire": "Lewarde",
       "departement": "59",
@@ -2395,8 +2135,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BEURDELEY",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel BEURDELEY",
       "mandat": "maire",
       "territoire": "Longueil-Annel",
       "departement": "60",
@@ -2404,8 +2143,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOSINO",
-      "prenom": "Jean-Pierre",
+      "nom_complet": "Jean-Pierre BOSINO",
       "mandat": "maire",
       "territoire": "Montataire",
       "departement": "60",
@@ -2413,16 +2151,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DAILLY",
-      "prenom": "Catherine",
+      "nom_complet": "Catherine DAILLY",
       "mandat": "conseiller-departemental",
       "departement": "60",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "DUPUIS",
-      "prenom": "Denis",
+      "nom_complet": "Denis DUPUIS",
       "mandat": "maire",
       "territoire": "Breuil-le-Sec",
       "departement": "60",
@@ -2430,8 +2166,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LÉTOFFÉ",
-      "prenom": "Jean-Guy",
+      "nom_complet": "Jean-Guy LÉTOFFÉ",
       "mandat": "maire",
       "territoire": "Ribécourt-Dreslincourt",
       "departement": "60",
@@ -2439,8 +2174,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOULENGER",
-      "prenom": "Georges",
+      "nom_complet": "Georges BOULENGER",
       "mandat": "maire",
       "territoire": "Le Quesnoy-en-Artois",
       "departement": "62",
@@ -2448,24 +2182,21 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BRETON",
-      "prenom": "Anouck",
+      "nom_complet": "Anouck BRETON",
       "mandat": "conseiller-departemental",
       "departement": "62",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "DAUTRICHE-DESMARAI",
-      "prenom": "Audrey",
+      "nom_complet": "Audrey DAUTRICHE-DESMARAI",
       "mandat": "conseiller-departemental",
       "departement": "62",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "GAROT",
-      "prenom": "Line",
+      "nom_complet": "Line GAROT",
       "mandat": "maire",
       "territoire": "Ferfay",
       "departement": "62",
@@ -2473,8 +2204,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "VISEUX",
-      "prenom": "Maurice",
+      "nom_complet": "Maurice VISEUX",
       "mandat": "maire",
       "territoire": "Bouvigny-Boyeffles",
       "departement": "62",
@@ -2482,8 +2212,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "VOLANTI",
-      "prenom": "Michel",
+      "nom_complet": "Michel VOLANTI",
       "mandat": "maire",
       "territoire": "Fresnoy-en-Gohelle",
       "departement": "62",
@@ -2491,8 +2220,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOUCHET",
-      "prenom": "Boris",
+      "nom_complet": "Boris BOUCHET",
       "mandat": "conseiller-regional",
       "territoire": "Auvergne-Rhône-Alpes",
       "departement": "63",
@@ -2500,8 +2228,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DUBIEN",
-      "prenom": "Ghislaine",
+      "nom_complet": "Ghislaine DUBIEN",
       "mandat": "maire",
       "territoire": "La Renaudie",
       "departement": "63",
@@ -2509,16 +2236,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "GRAND",
-      "prenom": "Jacky",
+      "nom_complet": "Jacky GRAND",
       "mandat": "conseiller-departemental",
       "departement": "63",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "JOUBERT",
-      "prenom": "Serge",
+      "nom_complet": "Serge JOUBERT",
       "mandat": "maire",
       "territoire": "Saint-Amant-Roche-Savine",
       "departement": "63",
@@ -2526,16 +2251,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "VEYSSIERE",
-      "prenom": "Rémi",
+      "nom_complet": "Rémi VEYSSIERE",
       "mandat": "conseiller-departemental",
       "departement": "63",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "LARROUY",
-      "prenom": "Isabelle",
+      "nom_complet": "Isabelle LARROUY",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "64",
@@ -2543,8 +2266,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAURENT",
-      "prenom": "Patrice",
+      "nom_complet": "Patrice LAURENT",
       "mandat": "maire",
       "territoire": "Mourenx",
       "departement": "64",
@@ -2552,8 +2274,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MORA",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard MORA",
       "mandat": "maire-delegue",
       "territoire": "Asasp-Arros",
       "departement": "64",
@@ -2561,8 +2282,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CARCAILLON",
-      "prenom": "Danielle",
+      "nom_complet": "Danielle CARCAILLON",
       "mandat": "maire",
       "territoire": "Lagarde",
       "departement": "65",
@@ -2570,8 +2290,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LESCOUTE",
-      "prenom": "Roger",
+      "nom_complet": "Roger LESCOUTE",
       "mandat": "maire",
       "territoire": "Soues",
       "departement": "65",
@@ -2579,32 +2298,28 @@
     },
     {
       "civilite": "Mme",
-      "nom": "FITER",
-      "prenom": "Françoise",
+      "nom_complet": "Françoise FITER",
       "mandat": "conseiller-departemental",
       "departement": "66",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "LACAPERE",
-      "prenom": "Rémi",
+      "nom_complet": "Rémi LACAPERE",
       "mandat": "conseiller-departemental",
       "departement": "66",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "ARTHAUD",
-      "prenom": "Léna",
+      "nom_complet": "Léna ARTHAUD",
       "mandat": "conseiller-metropolitain-lyon",
       "departement": "69",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "BELLOT",
-      "prenom": "Eric",
+      "nom_complet": "Eric BELLOT",
       "mandat": "maire",
       "territoire": "Neuville-sur-Saône",
       "departement": "69",
@@ -2612,16 +2327,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BURRICAND",
-      "prenom": "Marie-Christine",
+      "nom_complet": "Marie-Christine BURRICAND",
       "mandat": "conseiller-metropolitain-lyon",
       "departement": "69",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "PICARD",
-      "prenom": "Michèle",
+      "nom_complet": "Michèle PICARD",
       "mandat": "maire",
       "territoire": "Vénissieux",
       "departement": "69",
@@ -2629,16 +2342,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "CALIPPE",
-      "prenom": "Yves",
+      "nom_complet": "Yves CALIPPE",
       "mandat": "conseiller-departemental",
       "departement": "72",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "THOMAS",
-      "prenom": "Gil",
+      "nom_complet": "Gil THOMAS",
       "mandat": "maire",
       "territoire": "Cervens",
       "departement": "74",
@@ -2646,24 +2357,21 @@
     },
     {
       "civilite": "M.",
-      "nom": "COCHARD",
-      "prenom": "Maxime",
+      "nom_complet": "Maxime COCHARD",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "LAURENT",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre LAURENT",
       "mandat": "senateur",
       "departement": "75",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "MALAISE",
-      "prenom": "Céline",
+      "nom_complet": "Céline MALAISE",
       "mandat": "conseiller-regional",
       "territoire": "Île-De-France",
       "departement": "75",
@@ -2671,16 +2379,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "PATRIE",
-      "prenom": "Béatrice",
+      "nom_complet": "Béatrice PATRIE",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "LECOQ",
-      "prenom": "Jean-Paul",
+      "nom_complet": "Jean-Paul LECOQ",
       "mandat": "depute",
       "circonscription": 8,
       "departement": "76",
@@ -2688,8 +2394,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MOYSE",
-      "prenom": "Joachim",
+      "nom_complet": "Joachim MOYSE",
       "mandat": "maire",
       "territoire": "Saint-Étienne-du-Rouvray",
       "departement": "76",
@@ -2697,8 +2402,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "WULFRANC",
-      "prenom": "Hubert",
+      "nom_complet": "Hubert WULFRANC",
       "mandat": "depute",
       "circonscription": 3,
       "departement": "76",
@@ -2706,8 +2410,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BLANDIOT-FARIDE",
-      "prenom": "Charlotte",
+      "nom_complet": "Charlotte BLANDIOT-FARIDE",
       "mandat": "maire",
       "territoire": "Mitry-Mory",
       "departement": "77",
@@ -2715,8 +2418,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DAGRON",
-      "prenom": "Régis",
+      "nom_complet": "Régis DAGRON",
       "mandat": "maire",
       "territoire": "Livry-sur-Seine",
       "departement": "77",
@@ -2724,8 +2426,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MARION",
-      "prenom": "Joël",
+      "nom_complet": "Joël MARION",
       "mandat": "maire",
       "territoire": "Compans",
       "departement": "77",
@@ -2733,8 +2434,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "EPOULET",
-      "prenom": "Gerard",
+      "nom_complet": "Gerard EPOULET",
       "mandat": "maire",
       "territoire": "Germond-Rouvre",
       "departement": "79",
@@ -2742,8 +2442,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUROT",
-      "prenom": "Denis",
+      "nom_complet": "Denis DUROT",
       "mandat": "maire",
       "territoire": "Béthencourt-sur-Mer",
       "departement": "80",
@@ -2751,16 +2450,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "LOGNON",
-      "prenom": "René",
+      "nom_complet": "René LOGNON",
       "mandat": "conseiller-departemental",
       "departement": "80",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "PETIT",
-      "prenom": "Arnaud",
+      "nom_complet": "Arnaud PETIT",
       "mandat": "maire",
       "territoire": "Woincourt",
       "departement": "80",
@@ -2768,8 +2465,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DEYMIE",
-      "prenom": "Christine",
+      "nom_complet": "Christine DEYMIE",
       "mandat": "maire",
       "territoire": "Valence-d'Albigeois",
       "departement": "81",
@@ -2777,8 +2473,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SAN ANDRES",
-      "prenom": "Thierry",
+      "nom_complet": "Thierry SAN ANDRES",
       "mandat": "maire",
       "territoire": "Saint-Benoît-de-Carmaux",
       "departement": "81",
@@ -2786,8 +2481,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MARTY",
-      "prenom": "Alfred",
+      "nom_complet": "Alfred MARTY",
       "mandat": "maire",
       "territoire": "Monbéqui",
       "departement": "82",
@@ -2795,8 +2489,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PORTOLES",
-      "prenom": "Rodolphe",
+      "nom_complet": "Rodolphe PORTOLES",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "82",
@@ -2804,8 +2497,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MOUREAU",
-      "prenom": "Guy",
+      "nom_complet": "Guy MOUREAU",
       "mandat": "maire",
       "territoire": "Entraigues-sur-la-Sorgue",
       "departement": "84",
@@ -2813,8 +2505,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GANACHAUD",
-      "prenom": "Joachim",
+      "nom_complet": "Joachim GANACHAUD",
       "mandat": "maire",
       "territoire": "Villemort",
       "departement": "86",
@@ -2822,32 +2513,28 @@
     },
     {
       "civilite": "M.",
-      "nom": "MALET",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick MALET",
       "mandat": "conseiller-departemental",
       "departement": "87",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "PAULET",
-      "prenom": "Valérie",
+      "nom_complet": "Valérie PAULET",
       "mandat": "conseiller-departemental",
       "departement": "87",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "TUYERAS",
-      "prenom": "Sylvie",
+      "nom_complet": "Sylvie TUYERAS",
       "mandat": "conseiller-departemental",
       "departement": "87",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "BLAISE",
-      "prenom": "Sandra",
+      "nom_complet": "Sandra BLAISE",
       "mandat": "conseiller-regional",
       "territoire": "Grand Est",
       "departement": "88",
@@ -2855,8 +2542,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SACKEPEY",
-      "prenom": "Gilles",
+      "nom_complet": "Gilles SACKEPEY",
       "mandat": "maire",
       "territoire": "Étivey",
       "departement": "89",
@@ -2864,8 +2550,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "TERNANT",
-      "prenom": "Muriel",
+      "nom_complet": "Muriel TERNANT",
       "mandat": "conseiller-regional",
       "territoire": "Bourgogne-Franche-Comté",
       "departement": "90",
@@ -2873,8 +2558,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CORZANI",
-      "prenom": "Olivier",
+      "nom_complet": "Olivier CORZANI",
       "mandat": "maire",
       "territoire": "Fleury-Mérogis",
       "departement": "91",
@@ -2882,8 +2566,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BELHOMME-DUPONT",
-      "prenom": "Jacqueline",
+      "nom_complet": "Jacqueline BELHOMME-DUPONT",
       "mandat": "maire",
       "territoire": "Malakoff",
       "departement": "92",
@@ -2891,32 +2574,28 @@
     },
     {
       "civilite": "Mme",
-      "nom": "MOUADDINE",
-      "prenom": "Nadia",
+      "nom_complet": "Nadia MOUADDINE",
       "mandat": "conseiller-departemental",
       "departement": "92",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "ASSASSI",
-      "prenom": "Eliane",
+      "nom_complet": "Eliane ASSASSI",
       "mandat": "senateur",
       "departement": "93",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "LABBE",
-      "prenom": "Pascale",
+      "nom_complet": "Pascale LABBE",
       "mandat": "conseiller-departemental",
       "departement": "93",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "SARRABEYROUSE",
-      "prenom": "Olivier",
+      "nom_complet": "Olivier SARRABEYROUSE",
       "mandat": "maire",
       "territoire": "Noisy-le-Sec",
       "departement": "93",
@@ -2924,16 +2603,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "BESCOND",
-      "prenom": "Nicolas",
+      "nom_complet": "Nicolas BESCOND",
       "mandat": "conseiller-departemental",
       "departement": "94",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "BOUYSSOU",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe BOUYSSOU",
       "mandat": "maire",
       "territoire": "Ivry-sur-Seine",
       "departement": "94",
@@ -2941,24 +2618,21 @@
     },
     {
       "civilite": "Mme",
-      "nom": "COHEN",
-      "prenom": "Laurence",
+      "nom_complet": "Laurence COHEN",
       "mandat": "senateur",
       "departement": "94",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "Mme",
-      "nom": "MUNCK",
-      "prenom": "Flore",
+      "nom_complet": "Flore MUNCK",
       "mandat": "conseiller-departemental",
       "departement": "94",
       "publie_le": "2022-02-08"
     },
     {
       "civilite": "M.",
-      "nom": "BARROS",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre BARROS",
       "mandat": "maire",
       "territoire": "Fosses",
       "departement": "95",
@@ -2966,8 +2640,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "SIMON",
-      "prenom": "Martine",
+      "nom_complet": "Martine SIMON",
       "mandat": "maire",
       "territoire": "Blesmes",
       "departement": "02",
@@ -2975,8 +2648,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "VIRLOGEUX",
-      "prenom": "Alain",
+      "nom_complet": "Alain VIRLOGEUX",
       "mandat": "maire",
       "territoire": "Pouzy-Mésangy",
       "departement": "03",
@@ -2984,8 +2656,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DUFOUR",
-      "prenom": "Claire",
+      "nom_complet": "Claire DUFOUR",
       "mandat": "maire",
       "territoire": "Reillanne",
       "departement": "04",
@@ -2993,8 +2664,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "AGERT",
-      "prenom": "Marcel",
+      "nom_complet": "Marcel AGERT",
       "mandat": "maire",
       "territoire": "Aucazein",
       "departement": "09",
@@ -3002,8 +2672,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LOPEZ",
-      "prenom": "Geneviève",
+      "nom_complet": "Geneviève LOPEZ",
       "mandat": "maire",
       "territoire": "Roubia",
       "departement": "11",
@@ -3011,8 +2680,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DENOIT",
-      "prenom": "Jean-Louis",
+      "nom_complet": "Jean-Louis DENOIT",
       "mandat": "maire",
       "territoire": "Viviez",
       "departement": "12",
@@ -3020,24 +2688,21 @@
     },
     {
       "civilite": "M.",
-      "nom": "FRAU",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard FRAU",
       "mandat": "conseiller-departemental",
       "departement": "13",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "JEANNE",
-      "prenom": "Joël",
+      "nom_complet": "Joël JEANNE",
       "mandat": "conseiller-departemental",
       "departement": "14",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "PRAT",
-      "prenom": "Claude",
+      "nom_complet": "Claude PRAT",
       "mandat": "maire",
       "territoire": "Glénat",
       "departement": "15",
@@ -3045,8 +2710,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GAGNEUR",
-      "prenom": "Edwige",
+      "nom_complet": "Edwige GAGNEUR",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "16",
@@ -3054,8 +2718,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BAUDOUIN",
-      "prenom": "Marie-Christine",
+      "nom_complet": "Marie-Christine BAUDOUIN",
       "mandat": "maire",
       "territoire": "Saint-Germain-du-Puy",
       "departement": "18",
@@ -3063,8 +2726,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "REYDY",
-      "prenom": "Annabelle",
+      "nom_complet": "Annabelle REYDY",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "19",
@@ -3072,8 +2734,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "AGOSTINI",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre AGOSTINI",
       "mandat": "maire",
       "territoire": "Olmeta-di-Tuda",
       "departement": "2B",
@@ -3081,8 +2742,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "NOGUES",
-      "prenom": "Jean-Louis",
+      "nom_complet": "Jean-Louis NOGUES",
       "mandat": "maire",
       "territoire": "Saint-André-des-Eaux",
       "departement": "22",
@@ -3090,8 +2750,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DEGUILHEM",
-      "prenom": "Thierry Joel",
+      "nom_complet": "Thierry Joel DEGUILHEM",
       "mandat": "maire",
       "territoire": "Baneuil",
       "departement": "24",
@@ -3099,8 +2758,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FLORENTY",
-      "prenom": "Michel",
+      "nom_complet": "Michel FLORENTY",
       "mandat": "maire",
       "territoire": "Saint-Médard-de-Mussidan",
       "departement": "24",
@@ -3108,8 +2766,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GONTHIER",
-      "prenom": "Liliane",
+      "nom_complet": "Liliane GONTHIER",
       "mandat": "maire-delegue",
       "territoire": "Boulazac Isle Manoire",
       "departement": "24",
@@ -3117,16 +2774,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAJUGIE",
-      "prenom": "Michel",
+      "nom_complet": "Michel LAJUGIE",
       "mandat": "conseiller-departemental",
       "departement": "24",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "LEVITRE",
-      "prenom": "Arnaud",
+      "nom_complet": "Arnaud LEVITRE",
       "mandat": "maire",
       "territoire": "Alizay",
       "departement": "27",
@@ -3134,8 +2789,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "RIEU",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard RIEU",
       "mandat": "maire",
       "territoire": "Vallabrix",
       "departement": "30",
@@ -3143,24 +2797,21 @@
     },
     {
       "civilite": "M.",
-      "nom": "BAGNERIS",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard BAGNERIS",
       "mandat": "conseiller-departemental",
       "departement": "31",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "Mme",
-      "nom": "CROQUETTE",
-      "prenom": "Martine",
+      "nom_complet": "Martine CROQUETTE",
       "mandat": "conseiller-departemental",
       "departement": "31",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "MORERE",
-      "prenom": "André",
+      "nom_complet": "André MORERE",
       "mandat": "maire",
       "territoire": "Saint-Hilaire",
       "departement": "31",
@@ -3168,16 +2819,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "SAINT-AUBAIN",
-      "prenom": "Anais Alice Maïthé",
+      "nom_complet": "Anais Alice Maïthé SAINT-AUBAIN",
       "mandat": "conseiller-departemental",
       "departement": "31",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "LAFFITTE",
-      "prenom": "Jean-Michel",
+      "nom_complet": "Jean-Michel LAFFITTE",
       "mandat": "maire",
       "territoire": "Saint-Élix-Theux",
       "departement": "32",
@@ -3185,8 +2834,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "REDOLFI DE ZAN",
-      "prenom": "Sandrine",
+      "nom_complet": "Sandrine REDOLFI DE ZAN",
       "mandat": "maire",
       "territoire": "Maignaut-Tauzia",
       "departement": "32",
@@ -3194,16 +2842,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "LE BOT",
-      "prenom": "Stéphane",
+      "nom_complet": "Stéphane LE BOT",
       "mandat": "conseiller-departemental",
       "departement": "33",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "COMPAIN",
-      "prenom": "Yanick",
+      "nom_complet": "Yanick COMPAIN",
       "mandat": "maire",
       "territoire": "Saint-Florentin",
       "departement": "36",
@@ -3211,32 +2857,28 @@
     },
     {
       "civilite": "M.",
-      "nom": "BESSIRON",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel BESSIRON",
       "mandat": "conseiller-departemental",
       "departement": "38",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "Mme",
-      "nom": "DEMORE",
-      "prenom": "Amandine",
+      "nom_complet": "Amandine DEMORE",
       "mandat": "conseiller-departemental",
       "departement": "38",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "Mme",
-      "nom": "GERBIER",
-      "prenom": "Françoise",
+      "nom_complet": "Françoise GERBIER",
       "mandat": "conseiller-departemental",
       "departement": "38",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "Mme",
-      "nom": "LASSALLE",
-      "prenom": "Fabienne",
+      "nom_complet": "Fabienne LASSALLE",
       "mandat": "maire",
       "territoire": "Argelos",
       "departement": "40",
@@ -3244,8 +2886,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "THEROND",
-      "prenom": "Flore",
+      "nom_complet": "Flore THEROND",
       "mandat": "maire",
       "territoire": "Florac Trois Rivières",
       "departement": "48",
@@ -3253,8 +2894,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DELLA-NOCE WAWRZYNIAK",
-      "prenom": "Marianne",
+      "nom_complet": "Marianne DELLA-NOCE WAWRZYNIAK",
       "mandat": "maire",
       "territoire": "Tucquegnieux",
       "departement": "54",
@@ -3262,8 +2902,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LÉON",
-      "prenom": "Jean-Marc",
+      "nom_complet": "Jean-Marc LÉON",
       "mandat": "maire",
       "territoire": "Joudreville",
       "departement": "54",
@@ -3271,16 +2910,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "SILVANI",
-      "prenom": "Silvana",
+      "nom_complet": "Silvana SILVANI",
       "mandat": "conseiller-departemental",
       "departement": "54",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "SONREL",
-      "prenom": "Christophe",
+      "nom_complet": "Christophe SONREL",
       "mandat": "maire",
       "territoire": "Damelevières",
       "departement": "54",
@@ -3288,8 +2925,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "YILMAZ",
-      "prenom": "Bora",
+      "nom_complet": "Bora YILMAZ",
       "mandat": "conseiller-regional",
       "territoire": "Grand Est",
       "departement": "54",
@@ -3297,8 +2933,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SICOT",
-      "prenom": "Olivier",
+      "nom_complet": "Olivier SICOT",
       "mandat": "maire",
       "territoire": "Varennes-Vauzelles",
       "departement": "58",
@@ -3306,24 +2941,21 @@
     },
     {
       "civilite": "M.",
-      "nom": "BEAUCHAMP",
-      "prenom": "Charles",
+      "nom_complet": "Charles BEAUCHAMP",
       "mandat": "conseiller-departemental",
       "departement": "59",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "Mme",
-      "nom": "DENIZON ZAWIEJA",
-      "prenom": "Isabelle",
+      "nom_complet": "Isabelle DENIZON ZAWIEJA",
       "mandat": "conseiller-departemental",
       "departement": "59",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "BLARY",
-      "prenom": "Michel",
+      "nom_complet": "Michel BLARY",
       "mandat": "maire",
       "territoire": "Thiverny",
       "departement": "60",
@@ -3331,8 +2963,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MAUGER",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe MAUGER",
       "mandat": "maire",
       "territoire": "Mouy",
       "departement": "60",
@@ -3340,8 +2971,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "HOCQ",
-      "prenom": "René",
+      "nom_complet": "René HOCQ",
       "mandat": "maire",
       "territoire": "Burbure",
       "departement": "62",
@@ -3349,8 +2979,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHASSAIGNE",
-      "prenom": "André",
+      "nom_complet": "André CHASSAIGNE",
       "mandat": "depute",
       "circonscription": 5,
       "departement": "63",
@@ -3358,8 +2987,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BRAMANT",
-      "prenom": "Jacqueline",
+      "nom_complet": "Jacqueline BRAMANT",
       "mandat": "conseiller-regional",
       "territoire": "Bourgogne-Franche-Comté",
       "departement": "71",
@@ -3367,8 +2995,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CONSTANT",
-      "prenom": "Jean-Paul",
+      "nom_complet": "Jean-Paul CONSTANT",
       "mandat": "maire",
       "territoire": "Arâches-la-Frasse",
       "departement": "74",
@@ -3376,16 +3003,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GOMES",
-      "prenom": "Barbara",
+      "nom_complet": "Barbara GOMES",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "BARRE",
-      "prenom": "Stéphane",
+      "nom_complet": "Stéphane BARRE",
       "mandat": "maire",
       "territoire": "Oissel",
       "departement": "76",
@@ -3393,16 +3018,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BOTTE",
-      "prenom": "Séverine",
+      "nom_complet": "Séverine BOTTE",
       "mandat": "conseiller-departemental",
       "departement": "76",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "Mme",
-      "nom": "ROUQUETTE",
-      "prenom": "Géraldine",
+      "nom_complet": "Géraldine ROUQUETTE",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "81",
@@ -3410,40 +3033,35 @@
     },
     {
       "civilite": "M.",
-      "nom": "PIRONNEAU",
-      "prenom": "Pascal",
+      "nom_complet": "Pascal PIRONNEAU",
       "mandat": "conseiller-departemental",
       "departement": "87",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "Mme",
-      "nom": "CILLIERES",
-      "prenom": "Hélène",
+      "nom_complet": "Hélène CILLIERES",
       "mandat": "conseiller-departemental",
       "departement": "92",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "Mme",
-      "nom": "DELLAC",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique DELLAC",
       "mandat": "conseiller-departemental",
       "departement": "93",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "GAY",
-      "prenom": "Fabien",
+      "nom_complet": "Fabien GAY",
       "mandat": "senateur",
       "departement": "93",
       "publie_le": "2022-02-10"
     },
     {
       "civilite": "M.",
-      "nom": "CARREAU",
-      "prenom": "Michel",
+      "nom_complet": "Michel CARREAU",
       "mandat": "maire",
       "territoire": "Tergnier",
       "departement": "02",
@@ -3451,8 +3069,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "MULLER",
-      "prenom": "Stéphanie",
+      "nom_complet": "Stéphanie MULLER",
       "mandat": "maire-delegue",
       "territoire": "Tergnier",
       "departement": "02",
@@ -3460,8 +3077,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHALMIN",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick CHALMIN",
       "mandat": "maire",
       "territoire": "Châtillon",
       "departement": "03",
@@ -3469,8 +3085,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MONNET",
-      "prenom": "Yannick",
+      "nom_complet": "Yannick MONNET",
       "mandat": "conseiller-regional",
       "territoire": "Auvergne-Rhône-Alpes",
       "departement": "03",
@@ -3478,8 +3093,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TABUTIN",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel TABUTIN",
       "mandat": "maire",
       "territoire": "Blomard",
       "departement": "03",
@@ -3487,8 +3101,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PARRAUD",
-      "prenom": "Stéphenn",
+      "nom_complet": "Stéphenn PARRAUD",
       "mandat": "maire",
       "territoire": "Saint-Maime",
       "departement": "04",
@@ -3496,8 +3109,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PAUL",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard PAUL",
       "mandat": "maire",
       "territoire": "Les Mées",
       "departement": "04",
@@ -3505,8 +3117,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "VILLARD",
-      "prenom": "René Albert Joseph",
+      "nom_complet": "René Albert Joseph VILLARD",
       "mandat": "maire",
       "territoire": "Château-Arnoux-Saint-Auban",
       "departement": "04",
@@ -3514,16 +3125,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BOSC",
-      "prenom": "Elvire",
+      "nom_complet": "Elvire BOSC",
       "mandat": "conseiller-departemental",
       "departement": "07",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "DALVERNY",
-      "prenom": "Jérôme",
+      "nom_complet": "Jérôme DALVERNY",
       "mandat": "maire",
       "territoire": "Prades",
       "departement": "07",
@@ -3531,8 +3140,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "REYMOND",
-      "prenom": "Jean-Pierre",
+      "nom_complet": "Jean-Pierre REYMOND",
       "mandat": "maire",
       "territoire": "Burzet",
       "departement": "07",
@@ -3540,8 +3148,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DEDIEU",
-      "prenom": "Jean-Claude",
+      "nom_complet": "Jean-Claude DEDIEU",
       "mandat": "maire",
       "territoire": "Encourtiech",
       "departement": "09",
@@ -3549,8 +3156,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DURAND",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard DURAND",
       "mandat": "maire",
       "territoire": "Perles-et-Castelet",
       "departement": "09",
@@ -3558,16 +3164,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LARRUY",
-      "prenom": "Marie-Ange",
+      "nom_complet": "Marie-Ange LARRUY",
       "mandat": "conseiller-departemental",
       "departement": "11",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "Mme",
-      "nom": "BESSARD",
-      "prenom": "Magali",
+      "nom_complet": "Magali BESSARD",
       "mandat": "conseiller-regional",
       "territoire": "Centre-Val De Loire",
       "departement": "18",
@@ -3575,8 +3179,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUMON",
-      "prenom": "François",
+      "nom_complet": "François DUMON",
       "mandat": "president-epci",
       "territoire": "CC Vierzon-Sologne-Berry",
       "departement": "18",
@@ -3584,8 +3187,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LETOURNEAU",
-      "prenom": "Henri",
+      "nom_complet": "Henri LETOURNEAU",
       "mandat": "maire",
       "territoire": "Dampierre-en-Graçay",
       "departement": "18",
@@ -3593,16 +3195,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "PIÉTU",
-      "prenom": "Delphine",
+      "nom_complet": "Delphine PIÉTU",
       "mandat": "conseiller-departemental",
       "departement": "18",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "ROUSSEAU",
-      "prenom": "Stéphane",
+      "nom_complet": "Stéphane ROUSSEAU",
       "mandat": "maire",
       "territoire": "Saint-Hilaire-de-Court",
       "departement": "18",
@@ -3610,8 +3210,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MOUZAT",
-      "prenom": "Jean",
+      "nom_complet": "Jean MOUZAT",
       "mandat": "maire",
       "territoire": "Chanteix",
       "departement": "19",
@@ -3619,8 +3218,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BLANCHET",
-      "prenom": "Michel",
+      "nom_complet": "Michel BLANCHET",
       "mandat": "maire",
       "territoire": "Lanquais",
       "departement": "24",
@@ -3628,8 +3226,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "JAUBERTIE",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre JAUBERTIE",
       "mandat": "maire",
       "territoire": "Vergt",
       "departement": "24",
@@ -3637,8 +3234,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ROBLES",
-      "prenom": "Christian",
+      "nom_complet": "Christian ROBLES",
       "mandat": "maire",
       "territoire": "Vézac",
       "departement": "24",
@@ -3646,8 +3242,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SPADETTO",
-      "prenom": "Emmanuel",
+      "nom_complet": "Emmanuel SPADETTO",
       "mandat": "maire",
       "territoire": "Mondon",
       "departement": "25",
@@ -3655,8 +3250,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PARIS",
-      "prenom": "Jean-Charles",
+      "nom_complet": "Jean-Charles PARIS",
       "mandat": "maire",
       "territoire": "Hondouville",
       "departement": "27",
@@ -3664,16 +3258,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOUGET",
-      "prenom": "Vincent",
+      "nom_complet": "Vincent BOUGET",
       "mandat": "conseiller-departemental",
       "departement": "30",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "DEMANSE",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques DEMANSE",
       "mandat": "maire",
       "territoire": "Sauveterre",
       "departement": "30",
@@ -3681,16 +3273,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "FARDOUX-JOUVE",
-      "prenom": "Isabelle",
+      "nom_complet": "Isabelle FARDOUX-JOUVE",
       "mandat": "conseiller-departemental",
       "departement": "30",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "MERCIER",
-      "prenom": "Michel",
+      "nom_complet": "Michel MERCIER",
       "mandat": "maire",
       "territoire": "Le Martinet",
       "departement": "30",
@@ -3698,8 +3288,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DOUGNAC",
-      "prenom": "Jean-Claude",
+      "nom_complet": "Jean-Claude DOUGNAC",
       "mandat": "maire",
       "territoire": "Mazères-sur-Salat",
       "departement": "31",
@@ -3707,16 +3296,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GOFFRE PEDROSA",
-      "prenom": "Ines",
+      "nom_complet": "Ines GOFFRE PEDROSA",
       "mandat": "conseiller-departemental",
       "departement": "31",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "MONAMY",
-      "prenom": "Jérôme",
+      "nom_complet": "Jérôme MONAMY",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "31",
@@ -3724,8 +3311,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BLANC",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique BLANC",
       "mandat": "maire",
       "territoire": "Flamarens",
       "departement": "32",
@@ -3733,8 +3319,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BURGAN",
-      "prenom": "Michel",
+      "nom_complet": "Michel BURGAN",
       "mandat": "maire",
       "territoire": "Castelnau-Barbarens",
       "departement": "32",
@@ -3742,8 +3327,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LILLE",
-      "prenom": "Michel",
+      "nom_complet": "Michel LILLE",
       "mandat": "maire",
       "territoire": "Monlezun",
       "departement": "32",
@@ -3751,16 +3335,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "MAURIN",
-      "prenom": "Vincent",
+      "nom_complet": "Vincent MAURIN",
       "mandat": "conseiller-departemental",
       "departement": "33",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "RONCOLI",
-      "prenom": "Robert",
+      "nom_complet": "Robert RONCOLI",
       "mandat": "maire",
       "territoire": "Fargues",
       "departement": "33",
@@ -3768,8 +3350,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BIAU",
-      "prenom": "Jean-Marc",
+      "nom_complet": "Jean-Marc BIAU",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "34",
@@ -3777,16 +3358,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GOURNAY GARCIA",
-      "prenom": "Corinne",
+      "nom_complet": "Corinne GOURNAY GARCIA",
       "mandat": "conseiller-departemental",
       "departement": "34",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "PEREZ",
-      "prenom": "Jean-Pierre",
+      "nom_complet": "Jean-Pierre PEREZ",
       "mandat": "maire",
       "territoire": "Vendres",
       "departement": "34",
@@ -3794,8 +3373,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "TARTARIN",
-      "prenom": "Martine",
+      "nom_complet": "Martine TARTARIN",
       "mandat": "maire",
       "territoire": "La Chapelle-Blanche-Saint-Martin",
       "departement": "37",
@@ -3803,8 +3381,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHAMBON",
-      "prenom": "Denis",
+      "nom_complet": "Denis CHAMBON",
       "mandat": "maire",
       "territoire": "Saint-Alban-du-Rhône",
       "departement": "38",
@@ -3812,8 +3389,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "QUEIROS",
-      "prenom": "David",
+      "nom_complet": "David QUEIROS",
       "mandat": "maire",
       "territoire": "Saint-Martin-d'Hères",
       "departement": "38",
@@ -3821,8 +3397,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHAUVIN",
-      "prenom": "Roger",
+      "nom_complet": "Roger CHAUVIN",
       "mandat": "maire",
       "territoire": "Darbonnay",
       "departement": "39",
@@ -3830,8 +3405,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "NEILZ",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick NEILZ",
       "mandat": "maire",
       "territoire": "Montaigu",
       "departement": "39",
@@ -3839,8 +3413,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TRIBUT",
-      "prenom": "Jean-Noël",
+      "nom_complet": "Jean-Noël TRIBUT",
       "mandat": "maire",
       "territoire": "Chapois",
       "departement": "39",
@@ -3848,8 +3421,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CAMPAGNE",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick CAMPAGNE",
       "mandat": "maire",
       "territoire": "Villeneuve-de-Marsan",
       "departement": "40",
@@ -3857,8 +3429,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MAGESCAS",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard MAGESCAS",
       "mandat": "maire",
       "territoire": "Misson",
       "departement": "40",
@@ -3866,8 +3437,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LEONARD",
-      "prenom": "Emmanuel",
+      "nom_complet": "Emmanuel LEONARD",
       "mandat": "conseiller-regional",
       "territoire": "Centre-Val De Loire",
       "departement": "41",
@@ -3875,16 +3445,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "PADOVANI",
-      "prenom": "Fabienne",
+      "nom_complet": "Fabienne PADOVANI",
       "mandat": "conseiller-departemental",
       "departement": "44",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "DEMAUMONT",
-      "prenom": "Franck",
+      "nom_complet": "Franck DEMAUMONT",
       "mandat": "maire",
       "territoire": "Châlette-sur-Loing",
       "departement": "45",
@@ -3892,8 +3460,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MAURES",
-      "prenom": "Jean-Jacques",
+      "nom_complet": "Jean-Jacques MAURES",
       "mandat": "maire",
       "territoire": "Cambayrac",
       "departement": "46",
@@ -3901,8 +3468,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GARCIA",
-      "prenom": "Francis",
+      "nom_complet": "Francis GARCIA",
       "mandat": "maire",
       "territoire": "Le Passage",
       "departement": "47",
@@ -3910,8 +3476,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GIRARDI",
-      "prenom": "Raymond",
+      "nom_complet": "Raymond GIRARDI",
       "mandat": "maire",
       "territoire": "Argenton",
       "departement": "47",
@@ -3919,16 +3484,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "AIGOIN",
-      "prenom": "Robert",
+      "nom_complet": "Robert AIGOIN",
       "mandat": "conseiller-departemental",
       "departement": "48",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "DAUTRY",
-      "prenom": "Pierre-Emmanuel",
+      "nom_complet": "Pierre-Emmanuel DAUTRY",
       "mandat": "maire",
       "territoire": "Ventalon en Cévennes",
       "departement": "48",
@@ -3936,8 +3499,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "PASQUET",
-      "prenom": "Colette",
+      "nom_complet": "Colette PASQUET",
       "mandat": "maire",
       "territoire": "Charleville",
       "departement": "51",
@@ -3945,16 +3507,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "PETRON",
-      "prenom": "Camille",
+      "nom_complet": "Camille PETRON",
       "mandat": "conseiller-departemental",
       "departement": "53",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "ZANARDO",
-      "prenom": "Jacky",
+      "nom_complet": "Jacky ZANARDO",
       "mandat": "maire",
       "territoire": "Jarny",
       "departement": "54",
@@ -3962,8 +3522,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MANGIN",
-      "prenom": "Jean-François",
+      "nom_complet": "Jean-François MANGIN",
       "mandat": "maire",
       "territoire": "Riaville",
       "departement": "55",
@@ -3971,8 +3530,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BARRET",
-      "prenom": "Pascal",
+      "nom_complet": "Pascal BARRET",
       "mandat": "maire",
       "territoire": "Arradon",
       "departement": "56",
@@ -3980,8 +3538,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PERON",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick PERON",
       "mandat": "maire",
       "territoire": "Algrange",
       "departement": "57",
@@ -3989,8 +3546,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "TOSI",
-      "prenom": "Marie-Claude",
+      "nom_complet": "Marie-Claude TOSI",
       "mandat": "maire",
       "territoire": "Pettoncourt",
       "departement": "57",
@@ -3998,8 +3554,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LIRON",
-      "prenom": "Isabelle",
+      "nom_complet": "Isabelle LIRON",
       "mandat": "conseiller-regional",
       "territoire": "Bourgogne-Franche-Comté",
       "departement": "58",
@@ -4007,8 +3562,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUMOULIN",
-      "prenom": "Etienne",
+      "nom_complet": "Etienne DUMOULIN",
       "mandat": "maire",
       "territoire": "Anstaing",
       "departement": "59",
@@ -4016,8 +3570,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LUCAS",
-      "prenom": "Maryline",
+      "nom_complet": "Maryline LUCAS",
       "mandat": "maire",
       "territoire": "Guesnain",
       "departement": "59",
@@ -4025,8 +3578,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ROBIN",
-      "prenom": "Aymeric",
+      "nom_complet": "Aymeric ROBIN",
       "mandat": "maire",
       "territoire": "Raismes",
       "departement": "59",
@@ -4034,8 +3586,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ROUSSEL",
-      "prenom": "Régis",
+      "nom_complet": "Régis ROUSSEL",
       "mandat": "maire",
       "territoire": "Émerchicourt",
       "departement": "59",
@@ -4043,8 +3594,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "THURETTE",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques THURETTE",
       "mandat": "maire",
       "territoire": "Leval",
       "departement": "59",
@@ -4052,8 +3602,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ZELANI",
-      "prenom": "David",
+      "nom_complet": "David ZELANI",
       "mandat": "maire",
       "territoire": "Bachant",
       "departement": "59",
@@ -4061,8 +3610,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAVEUR",
-      "prenom": "Gilles",
+      "nom_complet": "Gilles LAVEUR",
       "mandat": "maire",
       "territoire": "Bonneuil-en-Valois",
       "departement": "60",
@@ -4070,8 +3618,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHAMPIRE",
-      "prenom": "Christian",
+      "nom_complet": "Christian CHAMPIRE",
       "mandat": "maire",
       "territoire": "Grenay",
       "departement": "62",
@@ -4079,8 +3626,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DUBOIS",
-      "prenom": "Carole",
+      "nom_complet": "Carole DUBOIS",
       "mandat": "maire",
       "territoire": "Lillers",
       "departement": "62",
@@ -4088,8 +3634,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "ROGER COUPIN",
-      "prenom": "Maryse",
+      "nom_complet": "Maryse ROGER COUPIN",
       "mandat": "maire",
       "territoire": "Angres",
       "departement": "62",
@@ -4097,16 +3642,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BURIAS",
-      "prenom": "Aude",
+      "nom_complet": "Aude BURIAS",
       "mandat": "conseiller-departemental",
       "departement": "63",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "CHASSAGNE",
-      "prenom": "Eugène",
+      "nom_complet": "Eugène CHASSAGNE",
       "mandat": "maire",
       "territoire": "Martres-sur-Morge",
       "departement": "63",
@@ -4114,8 +3657,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "THOMAS",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard THOMAS",
       "mandat": "maire",
       "territoire": "Verneugheol",
       "departement": "63",
@@ -4123,8 +3665,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TRILLEAUD",
-      "prenom": "Eric",
+      "nom_complet": "Eric TRILLEAUD",
       "mandat": "maire",
       "territoire": "La Chapelle-sur-Usson",
       "departement": "63",
@@ -4132,8 +3673,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BURON",
-      "prenom": "Jean",
+      "nom_complet": "Jean BURON",
       "mandat": "maire",
       "territoire": "Bazet",
       "departement": "65",
@@ -4141,8 +3681,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GRASSET",
-      "prenom": "Jean-Pierre",
+      "nom_complet": "Jean-Pierre GRASSET",
       "mandat": "maire",
       "territoire": "Trie-sur-Baïse",
       "departement": "65",
@@ -4150,8 +3689,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LACOUME",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe LACOUME",
       "mandat": "maire",
       "territoire": "Calavanté",
       "departement": "65",
@@ -4159,8 +3697,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAPEYRE",
-      "prenom": "René",
+      "nom_complet": "René LAPEYRE",
       "mandat": "maire",
       "territoire": "Sarniguet",
       "departement": "65",
@@ -4168,8 +3705,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LARAN",
-      "prenom": "Jean-Paul",
+      "nom_complet": "Jean-Paul LARAN",
       "mandat": "maire",
       "territoire": "Capvern",
       "departement": "65",
@@ -4177,16 +3713,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "SOUQUET",
-      "prenom": "Andrée",
+      "nom_complet": "Andrée SOUQUET",
       "mandat": "conseiller-departemental",
       "departement": "65",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "Mme",
-      "nom": "PUGNET",
-      "prenom": "Édith",
+      "nom_complet": "Édith PUGNET",
       "mandat": "maire",
       "territoire": "Cabestany",
       "departement": "66",
@@ -4194,16 +3728,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LARONZE",
-      "prenom": "Fleur",
+      "nom_complet": "Fleur LARONZE",
       "mandat": "conseiller-departemental",
       "departement": "67",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "Mme",
-      "nom": "TURAN",
-      "prenom": "Hülliya",
+      "nom_complet": "Hülliya TURAN",
       "mandat": "conseiller-regional",
       "territoire": "Grand Est",
       "departement": "67",
@@ -4211,8 +3743,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "WAGNER",
-      "prenom": "Jacky",
+      "nom_complet": "Jacky WAGNER",
       "mandat": "maire",
       "territoire": "Quatzenheim",
       "departement": "67",
@@ -4220,8 +3751,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHERMETTE",
-      "prenom": "Richard",
+      "nom_complet": "Richard CHERMETTE",
       "mandat": "maire",
       "territoire": "Chevinay",
       "departement": "69",
@@ -4229,24 +3759,21 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GUILLEREY",
-      "prenom": "Karine",
+      "nom_complet": "Karine GUILLEREY",
       "mandat": "conseiller-departemental",
       "departement": "70",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "Mme",
-      "nom": "CHAMBRIAT",
-      "prenom": "Sylvie",
+      "nom_complet": "Sylvie CHAMBRIAT",
       "mandat": "conseiller-departemental",
       "departement": "71",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "Mme",
-      "nom": "DUMAS",
-      "prenom": "Cécile",
+      "nom_complet": "Cécile DUMAS",
       "mandat": "conseiller-regional",
       "territoire": "Île-De-France",
       "departement": "75",
@@ -4254,8 +3781,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GHIATI",
-      "prenom": "Vanessa",
+      "nom_complet": "Vanessa GHIATI",
       "mandat": "conseiller-regional",
       "territoire": "Île-De-France",
       "departement": "75",
@@ -4263,16 +3789,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "GILLET",
-      "prenom": "Jean-Philippe",
+      "nom_complet": "Jean-Philippe GILLET",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "BRUNEAU",
-      "prenom": "Alban",
+      "nom_complet": "Alban BRUNEAU",
       "mandat": "maire",
       "territoire": "Gonfreville-l'Orcher",
       "departement": "76",
@@ -4280,8 +3804,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CERCEL",
-      "prenom": "Agnès",
+      "nom_complet": "Agnès CERCEL",
       "mandat": "maire",
       "territoire": "Tourville-la-Rivière",
       "departement": "76",
@@ -4289,8 +3812,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ALBOUY",
-      "prenom": "Jean-Marie",
+      "nom_complet": "Jean-Marie ALBOUY",
       "mandat": "president-epci",
       "territoire": "CC Pays de Montereau",
       "departement": "77",
@@ -4298,8 +3820,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "NEDJAR",
-      "prenom": "Djamel",
+      "nom_complet": "Djamel NEDJAR",
       "mandat": "maire",
       "territoire": "Limay",
       "departement": "78",
@@ -4307,24 +3828,21 @@
     },
     {
       "civilite": "Mme",
-      "nom": "QUIQUEMPOIS",
-      "prenom": "Guillemette",
+      "nom_complet": "Guillemette QUIQUEMPOIS",
       "mandat": "conseiller-departemental",
       "departement": "80",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "CASTELLI",
-      "prenom": "André",
+      "nom_complet": "André CASTELLI",
       "mandat": "conseiller-departemental",
       "departement": "84",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "BUREAU",
-      "prenom": "Jean",
+      "nom_complet": "Jean BUREAU",
       "mandat": "maire",
       "territoire": "Saint-Hilaire-le-Vouhis",
       "departement": "85",
@@ -4332,16 +3850,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "HARRIS",
-      "prenom": "Florence",
+      "nom_complet": "Florence HARRIS",
       "mandat": "conseiller-departemental",
       "departement": "86",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "BAUDEMONT",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique BAUDEMONT",
       "mandat": "maire",
       "territoire": "Peyrat-le-Château",
       "departement": "87",
@@ -4349,8 +3865,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LA DUNE",
-      "prenom": "Catherine",
+      "nom_complet": "Catherine LA DUNE",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "87",
@@ -4358,8 +3873,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CAMARA",
-      "prenom": "Lamine",
+      "nom_complet": "Lamine CAMARA",
       "mandat": "conseiller-regional",
       "territoire": "Île-De-France",
       "departement": "91",
@@ -4367,8 +3881,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "RIO",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe RIO",
       "mandat": "maire",
       "territoire": "Grigny",
       "departement": "91",
@@ -4376,32 +3889,28 @@
     },
     {
       "civilite": "Mme",
-      "nom": "VALDEYRON",
-      "prenom": "Tiphaine",
+      "nom_complet": "Tiphaine VALDEYRON",
       "mandat": "conseiller-departemental",
       "departement": "91",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "DATCHARRY",
-      "prenom": "Denis",
+      "nom_complet": "Denis DATCHARRY",
       "mandat": "conseiller-departemental",
       "departement": "92",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "M.",
-      "nom": "MORA",
-      "prenom": "Franck",
+      "nom_complet": "Franck MORA",
       "mandat": "conseiller-departemental",
       "departement": "94",
       "publie_le": "2022-02-15"
     },
     {
       "civilite": "Mme",
-      "nom": "TORDJMAN",
-      "prenom": "Patricia",
+      "nom_complet": "Patricia TORDJMAN",
       "mandat": "maire",
       "territoire": "Gentilly",
       "departement": "94",
@@ -4409,8 +3918,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "VALLADE",
-      "prenom": "Michel",
+      "nom_complet": "Michel VALLADE",
       "mandat": "maire",
       "territoire": "Pierrelaye",
       "departement": "95",
@@ -4418,8 +3926,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "MARCELOT",
-      "prenom": "Annie",
+      "nom_complet": "Annie MARCELOT",
       "mandat": "maire",
       "territoire": "Pougny",
       "departement": "01",
@@ -4427,8 +3934,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PINÇON",
-      "prenom": "Michel",
+      "nom_complet": "Michel PINÇON",
       "mandat": "maire",
       "territoire": "Lehaucourt",
       "departement": "02",
@@ -4436,8 +3942,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BIZOT-GASTALDI",
-      "prenom": "Michèle",
+      "nom_complet": "Michèle BIZOT-GASTALDI",
       "mandat": "maire",
       "territoire": "La Palud-sur-Verdon",
       "departement": "04",
@@ -4445,8 +3950,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FERRANDO",
-      "prenom": "Armand",
+      "nom_complet": "Armand FERRANDO",
       "mandat": "maire-delegue",
       "territoire": "La Palud-sur-Verdon",
       "departement": "04",
@@ -4454,8 +3958,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GOSSE",
-      "prenom": "Joël",
+      "nom_complet": "Joël GOSSE",
       "mandat": "maire",
       "territoire": "Bendejun",
       "departement": "06",
@@ -4463,8 +3966,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOUVIER",
-      "prenom": "Gilbert",
+      "nom_complet": "Gilbert BOUVIER",
       "mandat": "maire",
       "territoire": "Gilhac-et-Bruzac",
       "departement": "07",
@@ -4472,8 +3974,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BONNET",
-      "prenom": "André",
+      "nom_complet": "André BONNET",
       "mandat": "maire",
       "territoire": "Raissac-sur-Lampy",
       "departement": "11",
@@ -4481,8 +3982,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHARROUX",
-      "prenom": "Gaby",
+      "nom_complet": "Gaby CHARROUX",
       "mandat": "maire",
       "territoire": "Martigues",
       "departement": "13",
@@ -4490,8 +3990,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PIN",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick PIN",
       "mandat": "maire",
       "territoire": "Belcodène",
       "departement": "13",
@@ -4499,8 +3998,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BROUHARD",
-      "prenom": "Patrice",
+      "nom_complet": "Patrice BROUHARD",
       "mandat": "maire",
       "territoire": "Le Gua",
       "departement": "17",
@@ -4508,16 +4006,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CHAUVET",
-      "prenom": "Mélanie",
+      "nom_complet": "Mélanie CHAUVET",
       "mandat": "conseiller-departemental",
       "departement": "18",
       "publie_le": "2022-02-17"
     },
     {
       "civilite": "M.",
-      "nom": "GRADOR",
-      "prenom": "Jean Paul",
+      "nom_complet": "Jean Paul GRADOR",
       "mandat": "maire",
       "territoire": "Uzerche",
       "departement": "19",
@@ -4525,8 +4021,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MOISSON",
-      "prenom": "Albert",
+      "nom_complet": "Albert MOISSON",
       "mandat": "maire",
       "territoire": "Neuville",
       "departement": "19",
@@ -4534,8 +4029,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DUBOS",
-      "prenom": "Jean Paul",
+      "nom_complet": "Jean Paul DUBOS",
       "mandat": "maire",
       "territoire": "Saint-Avit-de-Vialard",
       "departement": "24",
@@ -4543,8 +4037,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "FABRE",
-      "prenom": "Nathalie",
+      "nom_complet": "Nathalie FABRE",
       "mandat": "maire",
       "territoire": "Montferrand-du-Périgord",
       "departement": "24",
@@ -4552,8 +4045,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "VICAIRE BONNIEU",
-      "prenom": "Delphine",
+      "nom_complet": "Delphine VICAIRE BONNIEU",
       "mandat": "maire-delegue",
       "territoire": "La Roche-Chalais",
       "departement": "24",
@@ -4561,8 +4053,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LE LANN",
-      "prenom": "Hubert",
+      "nom_complet": "Hubert LE LANN",
       "mandat": "maire",
       "territoire": "Berrien",
       "departement": "29",
@@ -4570,8 +4061,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GIOVINAZZO",
-      "prenom": "Alain",
+      "nom_complet": "Alain GIOVINAZZO",
       "mandat": "maire",
       "territoire": "Les Mages",
       "departement": "30",
@@ -4579,8 +4069,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BEUILLÉ",
-      "prenom": "Michel",
+      "nom_complet": "Michel BEUILLÉ",
       "mandat": "maire",
       "territoire": "Aussonne",
       "departement": "31",
@@ -4588,8 +4077,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "HOFFMANN",
-      "prenom": "Carole",
+      "nom_complet": "Carole HOFFMANN",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "31",
@@ -4597,8 +4085,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LACAZE",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre LACAZE",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "31",
@@ -4606,8 +4093,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DENOYELLE",
-      "prenom": "Stéphane",
+      "nom_complet": "Stéphane DENOYELLE",
       "mandat": "maire",
       "territoire": "Saint-Pierre-d'Aurillac",
       "departement": "33",
@@ -4615,8 +4101,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOURGOIN",
-      "prenom": "Marcel",
+      "nom_complet": "Marcel BOURGOIN",
       "mandat": "maire",
       "territoire": "La Châtre-Langlin",
       "departement": "36",
@@ -4624,8 +4109,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FALCO",
-      "prenom": "Stéphane",
+      "nom_complet": "Stéphane FALCO",
       "mandat": "maire",
       "territoire": "Engins",
       "departement": "38",
@@ -4633,8 +4117,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOULLÉE",
-      "prenom": "Michel",
+      "nom_complet": "Michel BOULLÉE",
       "mandat": "maire",
       "territoire": "Suzannecourt",
       "departement": "52",
@@ -4642,8 +4125,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SILLAIRE",
-      "prenom": "Roger",
+      "nom_complet": "Roger SILLAIRE",
       "mandat": "maire",
       "territoire": "Écrouves",
       "departement": "54",
@@ -4651,8 +4133,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BOURDOUNE",
-      "prenom": "Nicolas",
+      "nom_complet": "Nicolas BOURDOUNE",
       "mandat": "maire",
       "territoire": "Clamecy",
       "departement": "58",
@@ -4660,8 +4141,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "MORTELETTE VAHE",
-      "prenom": "Nadine",
+      "nom_complet": "Nadine MORTELETTE VAHE",
       "mandat": "maire",
       "territoire": "Anhiers",
       "departement": "59",
@@ -4669,8 +4149,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FRASIAK",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard FRASIAK",
       "mandat": "maire",
       "territoire": "Saint-Jean-d'Heurs",
       "departement": "63",
@@ -4678,8 +4157,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "SAMSON",
-      "prenom": "Christiane",
+      "nom_complet": "Christiane SAMSON",
       "mandat": "maire",
       "territoire": "Courpière",
       "departement": "63",
@@ -4687,8 +4165,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "CHA",
-      "prenom": "Sabine",
+      "nom_complet": "Sabine CHA",
       "mandat": "maire",
       "territoire": "Castéra-Lou",
       "departement": "65",
@@ -4696,8 +4173,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TOUCHARD",
-      "prenom": "Pascal",
+      "nom_complet": "Pascal TOUCHARD",
       "mandat": "maire",
       "territoire": "Saint-Bonnet-le-Troncy",
       "departement": "69",
@@ -4705,8 +4181,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "RAMEAU",
-      "prenom": "Pascal",
+      "nom_complet": "Pascal RAMEAU",
       "mandat": "maire",
       "territoire": "La Motte-Saint-Jean",
       "departement": "71",
@@ -4714,8 +4189,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "GIRARD",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe GIRARD",
       "mandat": "maire",
       "territoire": "Sainte-Marie-de-Cuines",
       "departement": "73",
@@ -4723,16 +4197,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "FABRE",
-      "prenom": "André",
+      "nom_complet": "André FABRE",
       "mandat": "conseiller-departemental",
       "departement": "81",
       "publie_le": "2022-02-17"
     },
     {
       "civilite": "M.",
-      "nom": "LEBLANC",
-      "prenom": "Christian",
+      "nom_complet": "Christian LEBLANC",
       "mandat": "maire",
       "territoire": "Saint-Amand-le-Petit",
       "departement": "87",
@@ -4740,8 +4212,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BESSAC",
-      "prenom": "Patrice",
+      "nom_complet": "Patrice BESSAC",
       "mandat": "maire",
       "territoire": "Montreuil",
       "departement": "93",
@@ -4749,8 +4220,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "QUINA",
-      "prenom": "Olivier",
+      "nom_complet": "Olivier QUINA",
       "mandat": "maire-delegue",
       "territoire": "Tergnier",
       "departement": "02",
@@ -4758,8 +4228,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FERRANDON",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques FERRANDON",
       "mandat": "maire",
       "territoire": "Châtel-de-Neuvre",
       "departement": "03",
@@ -4767,8 +4236,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "RENOIR",
-      "prenom": "Gilles",
+      "nom_complet": "Gilles RENOIR",
       "mandat": "maire",
       "territoire": "Fays-la-Chapelle",
       "departement": "10",
@@ -4776,8 +4244,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "QUINCEY",
-      "prenom": "Roland",
+      "nom_complet": "Roland QUINCEY",
       "mandat": "maire",
       "territoire": "Saint-Pierre-des-Champs",
       "departement": "11",
@@ -4785,16 +4252,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "HEUZÉ",
-      "prenom": "Edithe",
+      "nom_complet": "Edithe HEUZÉ",
       "mandat": "conseiller-departemental",
       "departement": "14",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "CLAVIER",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard CLAVIER",
       "mandat": "maire",
       "territoire": "Morogues",
       "departement": "18",
@@ -4802,8 +4267,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FERRANDI",
-      "prenom": "Etienne",
+      "nom_complet": "Etienne FERRANDI",
       "mandat": "maire",
       "territoire": "Alata",
       "departement": "2A",
@@ -4811,16 +4275,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "GOUYETTE",
-      "prenom": "Ludovic",
+      "nom_complet": "Ludovic GOUYETTE",
       "mandat": "conseiller-departemental",
       "departement": "22",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "THOMAS",
-      "prenom": "Gilles",
+      "nom_complet": "Gilles THOMAS",
       "mandat": "maire",
       "territoire": "Plussulien",
       "departement": "22",
@@ -4828,8 +4290,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "MORTIER",
-      "prenom": "Priça",
+      "nom_complet": "Priça MORTIER",
       "mandat": "maire",
       "territoire": "Saint-Victor",
       "departement": "24",
@@ -4837,8 +4298,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "SAURIN",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard SAURIN",
       "mandat": "maire",
       "territoire": "Saint-Léon-sur-l'Isle",
       "departement": "24",
@@ -4846,8 +4306,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHATELAIN",
-      "prenom": "Claude",
+      "nom_complet": "Claude CHATELAIN",
       "mandat": "maire",
       "territoire": "Le Val",
       "departement": "25",
@@ -4855,16 +4314,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "HENRY",
-      "prenom": "Jeanne",
+      "nom_complet": "Jeanne HENRY",
       "mandat": "conseiller-departemental",
       "departement": "25",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "MIAILLE",
-      "prenom": "Christian",
+      "nom_complet": "Christian MIAILLE",
       "mandat": "maire",
       "territoire": "La Vernarède",
       "departement": "30",
@@ -4872,8 +4329,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BRINI",
-      "prenom": "Bouziane",
+      "nom_complet": "Bouziane BRINI",
       "mandat": "maire",
       "territoire": "Bachas",
       "departement": "31",
@@ -4881,8 +4337,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BERNEDE",
-      "prenom": "Jean-Claude",
+      "nom_complet": "Jean-Claude BERNEDE",
       "mandat": "maire",
       "territoire": "Coirac",
       "departement": "33",
@@ -4890,8 +4345,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "TRAVAILLOT",
-      "prenom": "Josette",
+      "nom_complet": "Josette TRAVAILLOT",
       "mandat": "maire",
       "territoire": "Tizac-de-Curton",
       "departement": "33",
@@ -4899,16 +4353,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "CABANEL",
-      "prenom": "Henri",
+      "nom_complet": "Henri CABANEL",
       "mandat": "senateur",
       "departement": "34",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "Mme",
-      "nom": "PELE",
-      "prenom": "Maria Alice",
+      "nom_complet": "Maria Alice PELE",
       "mandat": "conseiller-regional",
       "territoire": "Occitanie",
       "departement": "34",
@@ -4916,8 +4368,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BACHÉ",
-      "prenom": "Jean-Guy",
+      "nom_complet": "Jean-Guy BACHÉ",
       "mandat": "maire",
       "territoire": "Bougue",
       "departement": "40",
@@ -4925,8 +4376,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "COUSSEAU",
-      "prenom": "Hélène",
+      "nom_complet": "Hélène COUSSEAU",
       "mandat": "maire",
       "territoire": "Lesperon",
       "departement": "40",
@@ -4934,8 +4384,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHAPELLE",
-      "prenom": "Guy",
+      "nom_complet": "Guy CHAPELLE",
       "mandat": "maire",
       "territoire": "Saint-Germain-Laprade",
       "departement": "43",
@@ -4943,8 +4392,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LUTZ",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques LUTZ",
       "mandat": "maire",
       "territoire": "Cambes",
       "departement": "46",
@@ -4952,8 +4400,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TESTUT",
-      "prenom": "Jean-Pierre",
+      "nom_complet": "Jean-Pierre TESTUT",
       "mandat": "maire",
       "territoire": "Cahuzac",
       "departement": "47",
@@ -4961,8 +4408,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ROUSSEAU",
-      "prenom": "François",
+      "nom_complet": "François ROUSSEAU",
       "mandat": "maire",
       "territoire": "Port-Bail-sur-Mer",
       "departement": "50",
@@ -4970,8 +4416,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TRINOLI",
-      "prenom": "Massimo",
+      "nom_complet": "Massimo TRINOLI",
       "mandat": "maire",
       "territoire": "Arrancy-sur-Crusnes",
       "departement": "55",
@@ -4979,8 +4424,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "ALEXANDRE",
-      "prenom": "Delphine",
+      "nom_complet": "Delphine ALEXANDRE",
       "mandat": "conseiller-regional",
       "territoire": "Bretagne",
       "departement": "56",
@@ -4988,8 +4432,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "JURCZAK",
-      "prenom": "Serge",
+      "nom_complet": "Serge JURCZAK",
       "mandat": "maire",
       "territoire": "Serémange-Erzange",
       "departement": "57",
@@ -4997,8 +4440,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LOCTIN",
-      "prenom": "Emmanuel",
+      "nom_complet": "Emmanuel LOCTIN",
       "mandat": "maire",
       "territoire": "Chevenon",
       "departement": "58",
@@ -5006,8 +4448,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ASCONE",
-      "prenom": "Guiseppe",
+      "nom_complet": "Guiseppe ASCONE",
       "mandat": "maire",
       "territoire": "Louvroil",
       "departement": "59",
@@ -5015,16 +4456,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "NANCEL",
-      "prenom": "Sébastien",
+      "nom_complet": "Sébastien NANCEL",
       "mandat": "conseiller-departemental",
       "departement": "60",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "CARRÈRE",
-      "prenom": "Hervé",
+      "nom_complet": "Hervé CARRÈRE",
       "mandat": "maire",
       "territoire": "Batsère",
       "departement": "65",
@@ -5032,16 +4471,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "GARCIA",
-      "prenom": "Nicolas",
+      "nom_complet": "Nicolas GARCIA",
       "mandat": "conseiller-departemental",
       "departement": "66",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "FARGEAS",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard FARGEAS",
       "mandat": "maire",
       "territoire": "Montsapey",
       "departement": "73",
@@ -5049,16 +4486,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "AQUA",
-      "prenom": "Jean-Noël",
+      "nom_complet": "Jean-Noël AQUA",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "LEBOUC",
-      "prenom": "Michel",
+      "nom_complet": "Michel LEBOUC",
       "mandat": "maire",
       "territoire": "Magnanville",
       "departement": "78",
@@ -5066,16 +4501,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "PENICAUD",
-      "prenom": "Bernard",
+      "nom_complet": "Bernard PENICAUD",
       "mandat": "conseiller-departemental",
       "departement": "79",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "MONGNE",
-      "prenom": "Jean-Paul",
+      "nom_complet": "Jean-Paul MONGNE",
       "mandat": "maire",
       "territoire": "Gamaches",
       "departement": "80",
@@ -5083,8 +4516,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FROMENT",
-      "prenom": "René",
+      "nom_complet": "René FROMENT",
       "mandat": "maire",
       "territoire": "Sainte-Radégonde-des-Noyers",
       "departement": "85",
@@ -5092,16 +4524,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "ARASA",
-      "prenom": "Marie-Claire",
+      "nom_complet": "Marie-Claire ARASA",
       "mandat": "conseiller-departemental",
       "departement": "91",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "Mme",
-      "nom": "BUFFET",
-      "prenom": "Marie-George",
+      "nom_complet": "Marie-George BUFFET",
       "mandat": "depute",
       "circonscription": 4,
       "departement": "93",
@@ -5109,8 +4539,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "MIGNOT",
-      "prenom": "Didier",
+      "nom_complet": "Didier MIGNOT",
       "mandat": "conseiller-regional",
       "territoire": "Île-De-France",
       "departement": "93",
@@ -5118,16 +4547,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "AGGOUNE",
-      "prenom": "Fatiha",
+      "nom_complet": "Fatiha AGGOUNE",
       "mandat": "conseiller-departemental",
       "departement": "94",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "Mme",
-      "nom": "GERGEN",
-      "prenom": "Colette",
+      "nom_complet": "Colette GERGEN",
       "mandat": "conseiller-regional",
       "territoire": "Île-De-France",
       "departement": "94",
@@ -5135,40 +4562,35 @@
     },
     {
       "civilite": "Mme",
-      "nom": "RABARDEL",
-      "prenom": "Evelyne",
+      "nom_complet": "Evelyne RABARDEL",
       "mandat": "conseiller-departemental",
       "departement": "94",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "SAVOLDELLI",
-      "prenom": "Pascal",
+      "nom_complet": "Pascal SAVOLDELLI",
       "mandat": "senateur",
       "departement": "94",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "TRAORÉ",
-      "prenom": "Ibrahima",
+      "nom_complet": "Ibrahima TRAORÉ",
       "mandat": "conseiller-departemental",
       "departement": "94",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "Mme",
-      "nom": "ERUDEL",
-      "prenom": "Isabelle",
+      "nom_complet": "Isabelle ERUDEL",
       "mandat": "conseiller-departemental",
       "departement": "974",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "GIRONCEL",
-      "prenom": "Maurice",
+      "nom_complet": "Maurice GIRONCEL",
       "mandat": "maire",
       "territoire": "Sainte-Suzanne",
       "departement": "974",
@@ -5176,48 +4598,42 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GIRONCEL DAMOUR",
-      "prenom": "Nadine",
+      "nom_complet": "Nadine GIRONCEL DAMOUR",
       "mandat": "conseiller-regional",
       "departement": "974",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "LANGENIER",
-      "prenom": "Jean Yves",
+      "nom_complet": "Jean Yves LANGENIER",
       "mandat": "conseiller-departemental",
       "departement": "974",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "SOTACA",
-      "prenom": "René",
+      "nom_complet": "René SOTACA",
       "mandat": "conseiller-departemental",
       "departement": "974",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "AUBERT",
-      "prenom": "Jacky",
+      "nom_complet": "Jacky AUBERT",
       "mandat": "president-conseil-consulaire",
       "territoire": "Maroc - 2e circonscription",
       "publie_le": "2022-02-22"
     },
     {
       "civilite": "M.",
-      "nom": "COMBET",
-      "prenom": "Arnaud",
+      "nom_complet": "Arnaud COMBET",
       "mandat": "conseiller-departemental",
       "departement": "12",
       "publie_le": "2022-02-24"
     },
     {
       "civilite": "M.",
-      "nom": "JLALJI",
-      "prenom": "Brahim",
+      "nom_complet": "Brahim JLALJI",
       "mandat": "conseiller-regional",
       "territoire": "Nouvelle-Aquitaine",
       "departement": "17",
@@ -5225,8 +4641,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "BARBA",
-      "prenom": "Joseph",
+      "nom_complet": "Joseph BARBA",
       "mandat": "maire",
       "territoire": "Laval-Pradel",
       "departement": "30",
@@ -5234,8 +4649,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "RASPEAU",
-      "prenom": "Raoul",
+      "nom_complet": "Raoul RASPEAU",
       "mandat": "maire",
       "territoire": "Saint-Martory",
       "departement": "31",
@@ -5243,8 +4657,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "KRÜGER",
-      "prenom": "Katja",
+      "nom_complet": "Katja KRÜGER",
       "mandat": "conseiller-regional",
       "territoire": "Bretagne",
       "departement": "35",
@@ -5252,16 +4665,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "PEDUCASSE",
-      "prenom": "Sylvie",
+      "nom_complet": "Sylvie PEDUCASSE",
       "mandat": "conseiller-departemental",
       "departement": "40",
       "publie_le": "2022-02-24"
     },
     {
       "civilite": "M.",
-      "nom": "MUSSAULT",
-      "prenom": "Benoît",
+      "nom_complet": "Benoît MUSSAULT",
       "mandat": "maire-delegue",
       "territoire": "Noyant-Villages",
       "departement": "49",
@@ -5269,8 +4680,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TUSSEAU",
-      "prenom": "Alain",
+      "nom_complet": "Alain TUSSEAU",
       "mandat": "maire",
       "territoire": "Ingrandes-Le Fresne sur Loire",
       "departement": "49",
@@ -5278,8 +4688,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "WALLET",
-      "prenom": "Frédéric",
+      "nom_complet": "Frédéric WALLET",
       "mandat": "maire",
       "territoire": "Haisnes",
       "departement": "62",
@@ -5287,8 +4696,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "REY",
-      "prenom": "Henri",
+      "nom_complet": "Henri REY",
       "mandat": "maire",
       "territoire": "Sadournin",
       "departement": "65",
@@ -5296,8 +4704,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "RICHARD-MUNOZ",
-      "prenom": "Sonia",
+      "nom_complet": "Sonia RICHARD-MUNOZ",
       "mandat": "maire",
       "territoire": "Mirandol-Bourgnounac",
       "departement": "81",
@@ -5305,8 +4712,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "TARDY",
-      "prenom": "Lionel",
+      "nom_complet": "Lionel TARDY",
       "mandat": "maire",
       "territoire": "Rosans",
       "departement": "05",
@@ -5314,8 +4720,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ARCHAMBAULT",
-      "prenom": "Michel",
+      "nom_complet": "Michel ARCHAMBAULT",
       "mandat": "maire",
       "territoire": "Graçay",
       "departement": "18",
@@ -5323,16 +4728,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHARLES",
-      "prenom": "Jean-Pierre",
+      "nom_complet": "Jean-Pierre CHARLES",
       "mandat": "conseiller-departemental",
       "departement": "18",
       "publie_le": "2022-03-01"
     },
     {
       "civilite": "M.",
-      "nom": "LEROUX",
-      "prenom": "Benjamin",
+      "nom_complet": "Benjamin LEROUX",
       "mandat": "maire",
       "territoire": "Arnay-le-Duc",
       "departement": "21",
@@ -5340,8 +4743,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHANTEGREIL",
-      "prenom": "Florian",
+      "nom_complet": "Florian CHANTEGREIL",
       "mandat": "maire",
       "territoire": "Saint-Paul-de-Serre",
       "departement": "24",
@@ -5349,8 +4751,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "SALINIER",
-      "prenom": "Bernadette",
+      "nom_complet": "Bernadette SALINIER",
       "mandat": "maire-delegue",
       "territoire": "Boulazac Isle Manoire",
       "departement": "24",
@@ -5358,8 +4759,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LOPEZ DUBREUIL",
-      "prenom": "Julie",
+      "nom_complet": "Julie LOPEZ DUBREUIL",
       "mandat": "maire",
       "territoire": "Saint-Jean-du-Pin",
       "departement": "30",
@@ -5367,8 +4767,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PALISSE",
-      "prenom": "Patrick",
+      "nom_complet": "Patrick PALISSE",
       "mandat": "maire",
       "territoire": "Le Pin",
       "departement": "30",
@@ -5376,16 +4775,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "BLASCO",
-      "prenom": "Gabriel",
+      "nom_complet": "Gabriel BLASCO",
       "mandat": "conseiller-departemental",
       "departement": "34",
       "publie_le": "2022-03-01"
     },
     {
       "civilite": "M.",
-      "nom": "CHARBONNIER",
-      "prenom": "Jacky",
+      "nom_complet": "Jacky CHARBONNIER",
       "mandat": "maire",
       "territoire": "Orbigny",
       "departement": "37",
@@ -5393,8 +4790,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "DE CARLI",
-      "prenom": "Serge",
+      "nom_complet": "Serge DE CARLI",
       "mandat": "maire",
       "territoire": "Mont-Saint-Martin",
       "departement": "54",
@@ -5402,8 +4798,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FORTUNAT",
-      "prenom": "André",
+      "nom_complet": "André FORTUNAT",
       "mandat": "maire-delegue",
       "territoire": "Val de Briey",
       "departement": "54",
@@ -5411,8 +4806,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LE MOULLEC",
-      "prenom": "René",
+      "nom_complet": "René LE MOULLEC",
       "mandat": "maire",
       "territoire": "Guémené-sur-Scorff",
       "departement": "56",
@@ -5420,8 +4814,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PATRIGNANI",
-      "prenom": "Armand",
+      "nom_complet": "Armand PATRIGNANI",
       "mandat": "maire",
       "territoire": "Fèves",
       "departement": "57",
@@ -5429,16 +4822,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "NAGET",
-      "prenom": "Camille",
+      "nom_complet": "Camille NAGET",
       "mandat": "conseiller-paris",
       "departement": "75",
       "publie_le": "2022-03-01"
     },
     {
       "civilite": "Mme",
-      "nom": "MARCOUX LESTIEUX",
-      "prenom": "Patricia",
+      "nom_complet": "Patricia MARCOUX LESTIEUX",
       "mandat": "maire",
       "territoire": "Peyrat-de-Bellac",
       "departement": "87",
@@ -5446,16 +4837,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GENTHON",
-      "prenom": "Laureen",
+      "nom_complet": "Laureen GENTHON",
       "mandat": "conseiller-departemental",
       "departement": "92",
       "publie_le": "2022-03-01"
     },
     {
       "civilite": "M.",
-      "nom": "GUILLAUD-BATAILLE",
-      "prenom": "Fabien",
+      "nom_complet": "Fabien GUILLAUD-BATAILLE",
       "mandat": "conseiller-regional",
       "territoire": "Île-De-France",
       "departement": "94",
@@ -5463,32 +4852,28 @@
     },
     {
       "civilite": "Mme",
-      "nom": "KIROUANI",
-      "prenom": "Lamya",
+      "nom_complet": "Lamya KIROUANI",
       "mandat": "conseiller-departemental",
       "departement": "94",
       "publie_le": "2022-03-01"
     },
     {
       "civilite": "Mme",
-      "nom": "GOBALOU ERAMBRANPOULLÉ",
-      "prenom": "Virginie",
+      "nom_complet": "Virginie GOBALOU ERAMBRANPOULLÉ",
       "mandat": "conseiller-regional",
       "departement": "974",
       "publie_le": "2022-03-01"
     },
     {
       "civilite": "Mme",
-      "nom": "CAMARD",
-      "prenom": "Sophie",
+      "nom_complet": "Sophie CAMARD",
       "mandat": "maire-arrondissement",
       "departement": "13",
       "publie_le": "2022-03-03"
     },
     {
       "civilite": "M.",
-      "nom": "SANSU",
-      "prenom": "Nicolas",
+      "nom_complet": "Nicolas SANSU",
       "mandat": "maire",
       "territoire": "Vierzon",
       "departement": "18",
@@ -5496,8 +4881,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "THURU",
-      "prenom": "Gérald",
+      "nom_complet": "Gérald THURU",
       "mandat": "maire",
       "territoire": "Millonfosse",
       "departement": "59",
@@ -5505,8 +4889,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "GODART",
-      "prenom": "Nicole",
+      "nom_complet": "Nicole GODART",
       "mandat": "maire",
       "territoire": "Monchy-Breton",
       "departement": "62",
@@ -5514,8 +4897,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "FATTA",
-      "prenom": "Henri",
+      "nom_complet": "Henri FATTA",
       "mandat": "maire",
       "territoire": "Oursbelille",
       "departement": "65",
@@ -5523,8 +4905,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "LAURENT",
-      "prenom": "Jean-Luc",
+      "nom_complet": "Jean-Luc LAURENT",
       "mandat": "maire",
       "territoire": "Le Kremlin-Bicêtre",
       "departement": "94",
@@ -5532,8 +4913,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "PAIGNE",
-      "prenom": "Alain",
+      "nom_complet": "Alain PAIGNE",
       "mandat": "maire",
       "territoire": "Gours",
       "departement": "33",
@@ -5541,8 +4921,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ROJO",
-      "prenom": "Éric",
+      "nom_complet": "Éric ROJO",
       "mandat": "maire",
       "territoire": "Couquèques",
       "departement": "33",
@@ -5550,8 +4929,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DONZE",
-      "prenom": "Anne-Christine",
+      "nom_complet": "Anne-Christine DONZE",
       "mandat": "maire",
       "territoire": "Larrivoire",
       "departement": "39",
@@ -5559,8 +4937,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "ROUDIL",
-      "prenom": "Aymeric",
+      "nom_complet": "Aymeric ROUDIL",
       "mandat": "maire",
       "territoire": "Chadron",
       "departement": "43",
@@ -5568,16 +4945,14 @@
     },
     {
       "civilite": "M.",
-      "nom": "OLLIVIER",
-      "prenom": "Bertrand",
+      "nom_complet": "Bertrand OLLIVIER",
       "mandat": "conseiller-departemental",
       "departement": "52",
       "publie_le": "2022-03-07"
     },
     {
       "civilite": "Mme",
-      "nom": "BOURNAT GONZALEZ",
-      "prenom": "Karine",
+      "nom_complet": "Karine BOURNAT GONZALEZ",
       "mandat": "maire",
       "territoire": "Neuf-Église",
       "departement": "63",
@@ -5585,8 +4960,7 @@
     },
     {
       "civilite": "M.",
-      "nom": "CHARRIERE",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel CHARRIERE",
       "mandat": "maire",
       "territoire": "Saint-Marcel",
       "departement": "73",

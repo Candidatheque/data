@@ -63,8 +63,7 @@
   "parrainages": [
     {
       "civilite": "M",
-      "nom": "LECOEUR",
-      "prenom": "Marc",
+      "nom_complet": "Marc LECOEUR",
       "mandat": "maire",
       "territoire": "La Bourdinière-Saint-Loup",
       "departement": "28",
@@ -72,16 +71,14 @@
     },
     {
       "civilite": "M",
-      "nom": "GUERET",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel GUERET",
       "mandat": "conseiller-departemental",
       "departement": "28",
       "publie_le": "2017-03-03"
     },
     {
       "civilite": "M",
-      "nom": "BAETEMAN",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe BAETEMAN",
       "mandat": "maire",
       "territoire": "Bouglainval",
       "departement": "28",
@@ -89,8 +86,7 @@
     },
     {
       "civilite": "M",
-      "nom": "PINEAU",
-      "prenom": "Gilles",
+      "nom_complet": "Gilles PINEAU",
       "mandat": "maire",
       "territoire": "Meslay-le-Grenet",
       "departement": "28",
@@ -98,8 +94,7 @@
     },
     {
       "civilite": "M",
-      "nom": "PEAN",
-      "prenom": "Gilles",
+      "nom_complet": "Gilles PEAN",
       "mandat": "maire",
       "territoire": "Fresnay-le-Comte",
       "departement": "28",
@@ -107,8 +102,7 @@
     },
     {
       "civilite": "M",
-      "nom": "LEON",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard LEON",
       "mandat": "maire",
       "territoire": "Roinville",
       "departement": "28",
@@ -116,8 +110,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BRACCO",
-      "prenom": "Anne",
+      "nom_complet": "Anne BRACCO",
       "mandat": "maire",
       "territoire": "Gas",
       "departement": "28",
@@ -125,8 +118,7 @@
     },
     {
       "civilite": "M",
-      "nom": "QUELVEN",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre QUELVEN",
       "mandat": "maire",
       "territoire": "Thury-en-Valois",
       "departement": "60",
@@ -134,8 +126,7 @@
     },
     {
       "civilite": "M",
-      "nom": "POPOT",
-      "prenom": "Pierre-Marie",
+      "nom_complet": "Pierre-Marie POPOT",
       "mandat": "maire",
       "territoire": "Fresnay-le-Gilmert",
       "departement": "28",
@@ -143,8 +134,7 @@
     },
     {
       "civilite": "M",
-      "nom": "BELLAMY",
-      "prenom": "Alain",
+      "nom_complet": "Alain BELLAMY",
       "mandat": "maire",
       "territoire": "Clévilliers",
       "departement": "28",
@@ -152,8 +142,7 @@
     },
     {
       "civilite": "M",
-      "nom": "DORET",
-      "prenom": "Xavier",
+      "nom_complet": "Xavier DORET",
       "mandat": "maire",
       "territoire": "Gommerville",
       "departement": "28",
@@ -161,8 +150,7 @@
     },
     {
       "civilite": "M",
-      "nom": "LAMOTHE",
-      "prenom": "Jean",
+      "nom_complet": "Jean LAMOTHE",
       "mandat": "maire",
       "territoire": "Umpeau",
       "departement": "28",
@@ -170,8 +158,7 @@
     },
     {
       "civilite": "M",
-      "nom": "MOLET",
-      "prenom": "Marc",
+      "nom_complet": "Marc MOLET",
       "mandat": "maire",
       "territoire": "Soulaires",
       "departement": "28",
@@ -179,8 +166,7 @@
     },
     {
       "civilite": "M",
-      "nom": "PETILLON",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique PETILLON",
       "mandat": "maire",
       "territoire": "Houville-la-Branche",
       "departement": "28",
@@ -188,8 +174,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BOUDET",
-      "prenom": "Monique",
+      "nom_complet": "Monique BOUDET",
       "mandat": "maire",
       "territoire": "Poisvilliers",
       "departement": "28",
@@ -197,8 +182,7 @@
     },
     {
       "civilite": "M",
-      "nom": "GARNIER",
-      "prenom": "Didier",
+      "nom_complet": "Didier GARNIER",
       "mandat": "maire",
       "territoire": "Mignières",
       "departement": "28",
@@ -206,8 +190,7 @@
     },
     {
       "civilite": "M",
-      "nom": "MORIZEAU",
-      "prenom": "Jean-François",
+      "nom_complet": "Jean-François MORIZEAU",
       "mandat": "maire",
       "territoire": "Dangers",
       "departement": "28",
@@ -215,16 +198,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BARRAULT",
-      "prenom": "Elisabeth",
+      "nom_complet": "Elisabeth BARRAULT",
       "mandat": "conseiller-departemental",
       "departement": "28",
       "publie_le": "2017-03-07"
     },
     {
       "civilite": "Mme",
-      "nom": "LHERMITTE",
-      "prenom": "Annick",
+      "nom_complet": "Annick LHERMITTE",
       "mandat": "maire",
       "territoire": "Dammarie",
       "departement": "28",
@@ -232,8 +213,7 @@
     },
     {
       "civilite": "M",
-      "nom": "CAVET",
-      "prenom": "Jean-Marc",
+      "nom_complet": "Jean-Marc CAVET",
       "mandat": "maire",
       "territoire": "Saint-Prest",
       "departement": "28",
@@ -241,8 +221,7 @@
     },
     {
       "civilite": "M",
-      "nom": "GOUIN",
-      "prenom": "Fabrice",
+      "nom_complet": "Fabrice GOUIN",
       "mandat": "maire",
       "territoire": "Briconville",
       "departement": "28",
@@ -250,8 +229,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "FRANCHET",
-      "prenom": "Brigitte",
+      "nom_complet": "Brigitte FRANCHET",
       "mandat": "maire",
       "territoire": "Nogent-le-Phaye",
       "departement": "28",
@@ -259,8 +237,7 @@
     },
     {
       "civilite": "M",
-      "nom": "LEYRIS",
-      "prenom": "Yann",
+      "nom_complet": "Yann LEYRIS",
       "mandat": "maire",
       "territoire": "Cuvergnon",
       "departement": "60",
@@ -268,8 +245,7 @@
     },
     {
       "civilite": "M",
-      "nom": "DELAHAYE",
-      "prenom": "Eric",
+      "nom_complet": "Eric DELAHAYE",
       "mandat": "maire",
       "territoire": "Vitray-en-Beauce",
       "departement": "28",
@@ -277,24 +253,21 @@
     },
     {
       "civilite": "Mme",
-      "nom": "FROMONT",
-      "prenom": "Elisabeth",
+      "nom_complet": "Elisabeth FROMONT",
       "mandat": "conseiller-departemental",
       "departement": "28",
       "publie_le": "2017-03-07"
     },
     {
       "civilite": "Mme",
-      "nom": "DORANGE",
-      "prenom": "Karine",
+      "nom_complet": "Karine DORANGE",
       "mandat": "conseiller-departemental",
       "departement": "28",
       "publie_le": "2017-03-07"
     },
     {
       "civilite": "M",
-      "nom": "GARNIER",
-      "prenom": "Gérald",
+      "nom_complet": "Gérald GARNIER",
       "mandat": "maire",
       "territoire": "Bailleau-Armenonville",
       "departement": "28",
@@ -302,16 +275,14 @@
     },
     {
       "civilite": "M",
-      "nom": "TEROUINARD",
-      "prenom": "Claude",
+      "nom_complet": "Claude TEROUINARD",
       "mandat": "conseiller-departemental",
       "departement": "28",
       "publie_le": "2017-03-07"
     },
     {
       "civilite": "M",
-      "nom": "GALIOTTO",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe GALIOTTO",
       "mandat": "maire",
       "territoire": "Coltainville",
       "departement": "28",
@@ -319,8 +290,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "PICHARD",
-      "prenom": "Mylène",
+      "nom_complet": "Mylène PICHARD",
       "mandat": "maire",
       "territoire": "Voise",
       "departement": "28",
@@ -328,8 +298,7 @@
     },
     {
       "civilite": "M",
-      "nom": "DE PAUL DE BARCHIFONTAINE",
-      "prenom": "Camille",
+      "nom_complet": "Camille DE PAUL DE BARCHIFONTAINE",
       "mandat": "maire",
       "territoire": "Soulangis",
       "departement": "18",
@@ -337,8 +306,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LAGOUTTE",
-      "prenom": "Evelyne",
+      "nom_complet": "Evelyne LAGOUTTE",
       "mandat": "maire",
       "territoire": "Denonville",
       "departement": "28",
@@ -346,8 +314,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "ELOY",
-      "prenom": "Mireille",
+      "nom_complet": "Mireille ELOY",
       "mandat": "maire",
       "territoire": "Boutigny-Prouais",
       "departement": "28",
@@ -355,8 +322,7 @@
     },
     {
       "civilite": "M",
-      "nom": "PAUL-LOUBIERE",
-      "prenom": "Christian",
+      "nom_complet": "Christian PAUL-LOUBIERE",
       "mandat": "maire",
       "territoire": "Jouy",
       "departement": "28",
@@ -364,16 +330,14 @@
     },
     {
       "civilite": "M",
-      "nom": "MASSELUS",
-      "prenom": "Franck",
+      "nom_complet": "Franck MASSELUS",
       "mandat": "conseiller-departemental",
       "departement": "28",
       "publie_le": "2017-03-07"
     },
     {
       "civilite": "M",
-      "nom": "PREVEAUX",
-      "prenom": "Michel",
+      "nom_complet": "Michel PREVEAUX",
       "mandat": "maire",
       "territoire": "Gellainville",
       "departement": "28",
@@ -381,8 +345,7 @@
     },
     {
       "civilite": "M",
-      "nom": "LETHUILLIER",
-      "prenom": "Christophe",
+      "nom_complet": "Christophe LETHUILLIER",
       "mandat": "maire",
       "territoire": "Oinville-sous-Auneau",
       "departement": "28",
@@ -390,8 +353,7 @@
     },
     {
       "civilite": "M",
-      "nom": "BINEY",
-      "prenom": "Paul",
+      "nom_complet": "Paul BINEY",
       "mandat": "maire",
       "territoire": "Sandarville",
       "departement": "28",
@@ -399,8 +361,7 @@
     },
     {
       "civilite": "M",
-      "nom": "BESNARD",
-      "prenom": "Gérard",
+      "nom_complet": "Gérard BESNARD",
       "mandat": "maire",
       "territoire": "Morancez",
       "departement": "28",
@@ -408,8 +369,7 @@
     },
     {
       "civilite": "M",
-      "nom": "PORTET",
-      "prenom": "Jean-Bernard",
+      "nom_complet": "Jean-Bernard PORTET",
       "mandat": "maire",
       "territoire": "Roquefort-sur-Garonne",
       "departement": "31",
@@ -417,8 +377,7 @@
     },
     {
       "civilite": "M",
-      "nom": "LECLAIR",
-      "prenom": "Pascal",
+      "nom_complet": "Pascal LECLAIR",
       "mandat": "maire",
       "territoire": "Nogent-sur-Eure",
       "departement": "28",
@@ -426,8 +385,7 @@
     },
     {
       "civilite": "M",
-      "nom": "LAMBERT",
-      "prenom": "Jean-Guy",
+      "nom_complet": "Jean-Guy LAMBERT",
       "mandat": "maire",
       "territoire": "Saint-Aubin-des-Bois",
       "departement": "28",
@@ -435,8 +393,7 @@
     },
     {
       "civilite": "M",
-      "nom": "MARTIAL",
-      "prenom": "Rémi",
+      "nom_complet": "Rémi MARTIAL",
       "mandat": "maire",
       "territoire": "Lèves",
       "departement": "28",
@@ -444,8 +401,7 @@
     },
     {
       "civilite": "M",
-      "nom": "PANDO",
-      "prenom": "Christophe",
+      "nom_complet": "Christophe PANDO",
       "mandat": "maire",
       "territoire": "Siros",
       "departement": "64",
@@ -453,8 +409,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "LEMAIRE",
-      "prenom": "Martine",
+      "nom_complet": "Martine LEMAIRE",
       "mandat": "maire",
       "territoire": "Cintray",
       "departement": "28",
@@ -462,8 +417,7 @@
     },
     {
       "civilite": "M",
-      "nom": "TAUPIN",
-      "prenom": "François",
+      "nom_complet": "François TAUPIN",
       "mandat": "maire",
       "territoire": "Croisilles",
       "departement": "28",
@@ -471,8 +425,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BRILLOT",
-      "prenom": "Corinne",
+      "nom_complet": "Corinne BRILLOT",
       "mandat": "maire",
       "territoire": "Champseru",
       "departement": "28",
@@ -480,8 +433,7 @@
     },
     {
       "civilite": "M",
-      "nom": "BELHOMME",
-      "prenom": "William",
+      "nom_complet": "William BELHOMME",
       "mandat": "maire",
       "territoire": "Gasville-Oisème",
       "departement": "28",
@@ -489,8 +441,7 @@
     },
     {
       "civilite": "M",
-      "nom": "MOULIN",
-      "prenom": "Eric",
+      "nom_complet": "Eric MOULIN",
       "mandat": "maire",
       "territoire": "Francourville",
       "departement": "28",
@@ -498,8 +449,7 @@
     },
     {
       "civilite": "M",
-      "nom": "TACHAT",
-      "prenom": "Mickael",
+      "nom_complet": "Mickael TACHAT",
       "mandat": "maire",
       "territoire": "Mittainvilliers-Vérigny",
       "departement": "28",
@@ -507,8 +457,7 @@
     },
     {
       "civilite": "M",
-      "nom": "SCHLUCK",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel SCHLUCK",
       "mandat": "maire",
       "territoire": "Igney",
       "departement": "54",
@@ -516,16 +465,14 @@
     },
     {
       "civilite": "Mme",
-      "nom": "BAUDET",
-      "prenom": "Alice",
+      "nom_complet": "Alice BAUDET",
       "mandat": "conseiller-departemental",
       "departement": "28",
       "publie_le": "2017-03-14"
     },
     {
       "civilite": "M",
-      "nom": "BLOIS",
-      "prenom": "Dominique",
+      "nom_complet": "Dominique BLOIS",
       "mandat": "maire",
       "territoire": "Berchères-Saint-Germain",
       "departement": "28",
@@ -533,8 +480,7 @@
     },
     {
       "civilite": "M",
-      "nom": "HANNETON",
-      "prenom": "Alain",
+      "nom_complet": "Alain HANNETON",
       "mandat": "maire",
       "territoire": "Augers-en-Brie",
       "departement": "77",
@@ -542,8 +488,7 @@
     },
     {
       "civilite": "M",
-      "nom": "BILLARD",
-      "prenom": "John",
+      "nom_complet": "John BILLARD",
       "mandat": "maire",
       "territoire": "Le Favril",
       "departement": "28",
@@ -551,8 +496,7 @@
     },
     {
       "civilite": "M",
-      "nom": "CINTRAT",
-      "prenom": "Maurice",
+      "nom_complet": "Maurice CINTRAT",
       "mandat": "maire",
       "territoire": "Saint-Léger-des-Aubées",
       "departement": "28",
@@ -560,8 +504,7 @@
     },
     {
       "civilite": "M",
-      "nom": "PLAULT",
-      "prenom": "Jean-Michel",
+      "nom_complet": "Jean-Michel PLAULT",
       "mandat": "maire",
       "territoire": "Sours",
       "departement": "28",
@@ -569,8 +512,7 @@
     },
     {
       "civilite": "M",
-      "nom": "RIGOURD",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel RIGOURD",
       "mandat": "maire",
       "territoire": "Villemeux-sur-Eure",
       "departement": "28",
@@ -578,8 +520,7 @@
     },
     {
       "civilite": "M",
-      "nom": "LE BALC'H",
-      "prenom": "Serge",
+      "nom_complet": "Serge LE BALC'H",
       "mandat": "maire",
       "territoire": "Meslay-le-Vidame",
       "departement": "28",
@@ -587,8 +528,7 @@
     },
     {
       "civilite": "M",
-      "nom": "CHARPENTIER",
-      "prenom": "Michel",
+      "nom_complet": "Michel CHARPENTIER",
       "mandat": "maire",
       "territoire": "Fontenay-sur-Eure",
       "departement": "28",
@@ -596,8 +536,7 @@
     },
     {
       "civilite": "M",
-      "nom": "RAUX",
-      "prenom": "Jean-Jacques",
+      "nom_complet": "Jean-Jacques RAUX",
       "mandat": "maire",
       "territoire": "Moinville-la-Jeulin",
       "departement": "28",
@@ -605,8 +544,7 @@
     },
     {
       "civilite": "M",
-      "nom": "BILIEN",
-      "prenom": "Pierre-Louis",
+      "nom_complet": "Pierre-Louis BILIEN",
       "mandat": "maire",
       "territoire": "Saint-Martin-de-Nigelles",
       "departement": "28",
@@ -614,8 +552,7 @@
     },
     {
       "civilite": "M",
-      "nom": "VAN DER STICHELE",
-      "prenom": "Max",
+      "nom_complet": "Max VAN DER STICHELE",
       "mandat": "maire",
       "territoire": "Ver-lès-Chartres",
       "departement": "28",
@@ -623,8 +560,7 @@
     },
     {
       "civilite": "M",
-      "nom": "BARAZZUTTI",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe BARAZZUTTI",
       "mandat": "maire",
       "territoire": "Bailleau-l'Evêque",
       "departement": "28",
@@ -632,8 +568,7 @@
     },
     {
       "civilite": "M",
-      "nom": "LOCATELLI",
-      "prenom": "Jacques",
+      "nom_complet": "Jacques LOCATELLI",
       "mandat": "maire",
       "territoire": "Aussevielle",
       "departement": "64",
@@ -641,8 +576,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "DENIEAULT",
-      "prenom": "Hélène",
+      "nom_complet": "Hélène DENIEAULT",
       "mandat": "maire",
       "territoire": "Challet",
       "departement": "28",
@@ -650,8 +584,7 @@
     },
     {
       "civilite": "Mme",
-      "nom": "MARCETTEAU",
-      "prenom": "Annick",
+      "nom_complet": "Annick MARCETTEAU",
       "mandat": "maire",
       "territoire": "Thivars",
       "departement": "28",
@@ -659,8 +592,7 @@
     },
     {
       "civilite": "M",
-      "nom": "THOMAS",
-      "prenom": "Daniel",
+      "nom_complet": "Daniel THOMAS",
       "mandat": "maire",
       "territoire": "La Prénessaye",
       "departement": "22",
@@ -668,8 +600,7 @@
     },
     {
       "civilite": "M",
-      "nom": "BELLEVILLE",
-      "prenom": "Philippe",
+      "nom_complet": "Philippe BELLEVILLE",
       "mandat": "maire",
       "territoire": "Sennecey-lès-Dijon",
       "departement": "21",
@@ -677,8 +608,7 @@
     },
     {
       "civilite": "M",
-      "nom": "GOUDIN",
-      "prenom": "Pierre",
+      "nom_complet": "Pierre GOUDIN",
       "mandat": "maire",
       "territoire": "Les Pinthières",
       "departement": "28",
