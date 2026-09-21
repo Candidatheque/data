@@ -57,7 +57,8 @@
             }
           ]
         }
-      ]
+      ],
+      "parcours": []
     },
     {
       "personne": "PE-0018",
@@ -89,7 +90,8 @@
             }
           ]
         }
-      ]
+      ],
+      "parcours": []
     },
     {
       "personne": "PE-0019",
@@ -135,7 +137,8 @@
             }
           ]
         }
-      ]
+      ],
+      "parcours": []
     },
     {
       "personne": "PE-0030",
@@ -192,6 +195,113 @@
             }
           ]
         }
+      ],
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "1967-04-03",
+          "fin": "1967-05-07",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1798",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1798",
+              "commentaire": "Jacques Chirac, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "1968-07-11",
+          "fin": "1968-08-12",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1798",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1798",
+              "commentaire": "Jacques Chirac, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "1973-04-02",
+          "fin": "1973-05-08",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1798",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1798",
+              "commentaire": "Jacques Chirac, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "1976-11-14",
+          "fin": "1978-04-02",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1798",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1798",
+              "commentaire": "Jacques Chirac, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "1978-04-03",
+          "fin": "1981-05-22",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1798",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1798",
+              "commentaire": "Jacques Chirac, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "1981-07-02",
+          "fin": "1986-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1798",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1798",
+              "commentaire": "Jacques Chirac, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "1986-04-02",
+          "fin": "1986-04-02",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1798",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1798",
+              "commentaire": "Jacques Chirac, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
       ]
     },
     {
@@ -224,7 +334,8 @@
             }
           ]
         }
-      ]
+      ],
+      "parcours": []
     },
     {
       "personne": "PE-0032",
@@ -256,7 +367,8 @@
             }
           ]
         }
-      ]
+      ],
+      "parcours": []
     },
     {
       "personne": "PE-0033",
@@ -288,7 +400,8 @@
             }
           ]
         }
-      ]
+      ],
+      "parcours": []
     },
     {
       "personne": "PE-0034",
@@ -320,7 +433,8 @@
             }
           ]
         }
-      ]
+      ],
+      "parcours": []
     },
     {
       "personne": "PE-0035",
@@ -352,7 +466,8 @@
             }
           ]
         }
-      ]
+      ],
+      "parcours": []
     }
   ]
 }
