@@ -80,7 +80,53 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Seine",
+          "debut": "1956-01-19",
+          "fin": "1958-12-08",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7607",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7607",
+              "commentaire": "Jean-Marie Le Pen, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Seine",
+          "debut": "1958-12-09",
+          "fin": "1962-10-09",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7607",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7607",
+              "commentaire": "Jean-Marie Le Pen, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Paris",
+          "debut": "1986-04-02",
+          "fin": "1988-05-14",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7607",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7607",
+              "commentaire": "Jean-Marie Le Pen, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0034",
@@ -147,7 +193,83 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Vendée",
+          "debut": "1987-06-02",
+          "fin": "1988-05-14",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7404",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7404",
+              "commentaire": "Philippe de Villiers, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Vendée",
+          "debut": "1988-06-06",
+          "fin": "1993-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7404",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7404",
+              "commentaire": "Philippe de Villiers, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Vendée",
+          "debut": "1993-04-02",
+          "fin": "1994-10-24",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7404",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7404",
+              "commentaire": "Philippe de Villiers, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Vendée",
+          "debut": "1997-06-01",
+          "fin": "2002-06-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7404",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7404",
+              "commentaire": "Philippe de Villiers, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Vendée",
+          "debut": "2002-06-19",
+          "fin": "2004-07-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7404",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7404",
+              "commentaire": "Philippe de Villiers, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0037",
@@ -200,7 +322,23 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Jura",
+          "debut": "1997-06-01",
+          "fin": "1997-07-04",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7481",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7481",
+              "commentaire": "Dominique Voynet, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0042",
@@ -234,7 +372,23 @@
         }
       ],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Isère",
+          "debut": "1986-04-02",
+          "fin": "1988-05-14",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:5160",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5160",
+              "commentaire": "Bruno Megret, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0043",
@@ -314,7 +468,82 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "1986-04-02",
+          "fin": "1988-05-14",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "1988-06-13",
+          "fin": "1993-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "1993-04-02",
+          "fin": "1993-05-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "1997-06-01",
+          "fin": "1999-12-21",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "2002-06-19",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0046",
@@ -334,7 +563,52 @@
       ],
       "partis": [],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Guyane",
+          "debut": "1993-04-02",
+          "fin": "1997-04-21",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6964",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6964",
+              "commentaire": "Christiane Taubira-Delannon, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Guyane",
+          "debut": "1997-06-01",
+          "fin": "2002-06-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6964",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6964",
+              "commentaire": "Christiane Taubira-Delannon, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Guyane",
+          "debut": "2002-06-19",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6964",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6964",
+              "commentaire": "Christiane Taubira-Delannon, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0049",
@@ -354,7 +628,82 @@
       ],
       "partis": [],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Yvelines",
+          "debut": "1986-04-02",
+          "fin": "1988-05-14",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1133",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1133",
+              "commentaire": "Christine Boutin, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Yvelines",
+          "debut": "1988-06-13",
+          "fin": "1993-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1133",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1133",
+              "commentaire": "Christine Boutin, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Yvelines",
+          "debut": "1993-04-02",
+          "fin": "1997-04-21",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1133",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1133",
+              "commentaire": "Christine Boutin, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Yvelines",
+          "debut": "1997-06-01",
+          "fin": "2002-06-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1133",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1133",
+              "commentaire": "Christine Boutin, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Yvelines",
+          "debut": "2002-06-19",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1133",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1133",
+              "commentaire": "Christine Boutin, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0050",
@@ -374,7 +723,143 @@
       ],
       "partis": [],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Territoire-de-Belfort",
+          "debut": "1973-04-02",
+          "fin": "1978-04-02",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1780",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1780",
+              "commentaire": "Jean-Pierre Chevènement, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Territoire-de-Belfort",
+          "debut": "1978-04-03",
+          "fin": "1981-05-22",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1780",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1780",
+              "commentaire": "Jean-Pierre Chevènement, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Territoire-de-Belfort",
+          "debut": "1981-07-02",
+          "fin": "1981-07-23",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1780",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1780",
+              "commentaire": "Jean-Pierre Chevènement, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Territoire-de-Belfort",
+          "debut": "1986-04-02",
+          "fin": "1988-05-14",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1780",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1780",
+              "commentaire": "Jean-Pierre Chevènement, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Territoire-de-Belfort",
+          "debut": "1988-06-06",
+          "fin": "1988-07-28",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1780",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1780",
+              "commentaire": "Jean-Pierre Chevènement, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Territoire-de-Belfort",
+          "debut": "1991-06-10",
+          "fin": "1993-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1780",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1780",
+              "commentaire": "Jean-Pierre Chevènement, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Territoire-de-Belfort",
+          "debut": "1993-04-02",
+          "fin": "1997-04-21",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1780",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1780",
+              "commentaire": "Jean-Pierre Chevènement, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Territoire-de-Belfort",
+          "debut": "1997-06-01",
+          "fin": "1997-07-04",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1780",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1780",
+              "commentaire": "Jean-Pierre Chevènement, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Territoire-de-Belfort",
+          "debut": "2000-10-22",
+          "fin": "2002-06-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1780",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1780",
+              "commentaire": "Jean-Pierre Chevènement, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0052",
@@ -440,7 +925,37 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Seine-St-Denis",
+          "debut": "1997-06-01",
+          "fin": "1997-07-04",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1300",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1300",
+              "commentaire": "Marie-George Buffet, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Seine-St-Denis",
+          "debut": "2002-06-19",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:1300",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1300",
+              "commentaire": "Marie-George Buffet, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0054",
@@ -563,7 +1078,67 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Deux-Sèvres",
+          "debut": "1988-06-13",
+          "fin": "1992-05-02",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6174",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6174",
+              "commentaire": "Ségolène Royal, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Deux-Sèvres",
+          "debut": "1993-04-02",
+          "fin": "1997-04-21",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6174",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6174",
+              "commentaire": "Ségolène Royal, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Deux-Sèvres",
+          "debut": "1997-06-01",
+          "fin": "1997-07-04",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6174",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6174",
+              "commentaire": "Ségolène Royal, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Deux-Sèvres",
+          "debut": "2002-06-19",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6174",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6174",
+              "commentaire": "Ségolène Royal, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0057",
@@ -654,7 +1229,98 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "1988-06-06",
+          "fin": "1993-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "1993-04-02",
+          "fin": "1993-05-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "1995-09-24",
+          "fin": "1997-04-21",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "1997-05-25",
+          "fin": "2002-06-07",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "2002-06-19",
+          "fin": "2002-07-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "2005-03-14",
+          "fin": "2005-07-02",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0064",
@@ -674,7 +1340,37 @@
       ],
       "partis": [],
       "tours": [],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Essonne",
+          "debut": "1997-06-01",
+          "fin": "2002-06-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:2721",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2721",
+              "commentaire": "Nicolas Dupont-Aignan, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Essonne",
+          "debut": "2002-06-19",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:2721",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2721",
+              "commentaire": "Nicolas Dupont-Aignan, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0076",

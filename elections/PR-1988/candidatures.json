@@ -58,7 +58,128 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Nièvre",
+          "debut": "1946-11-10",
+          "fin": "1951-07-04",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:5312",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312",
+              "commentaire": "François Mitterrand, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Nièvre",
+          "debut": "1951-06-17",
+          "fin": "1955-12-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:5312",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312",
+              "commentaire": "François Mitterrand, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Nièvre",
+          "debut": "1956-01-02",
+          "fin": "1958-12-08",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:5312",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312",
+              "commentaire": "François Mitterrand, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Nièvre",
+          "debut": "1962-11-25",
+          "fin": "1967-04-02",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:5312",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312",
+              "commentaire": "François Mitterrand, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Nièvre",
+          "debut": "1967-03-05",
+          "fin": "1968-05-30",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:5312",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312",
+              "commentaire": "François Mitterrand, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Nièvre",
+          "debut": "1968-06-30",
+          "fin": "1973-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:5312",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312",
+              "commentaire": "François Mitterrand, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Nièvre",
+          "debut": "1973-04-02",
+          "fin": "1978-04-02",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:5312",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312",
+              "commentaire": "François Mitterrand, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Nièvre",
+          "debut": "1978-03-19",
+          "fin": "1981-05-22",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:5312",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312",
+              "commentaire": "François Mitterrand, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0018",
@@ -138,7 +259,52 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Seine",
+          "debut": "1956-01-19",
+          "fin": "1958-12-08",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7607",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7607",
+              "commentaire": "Jean-Marie Le Pen, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Seine",
+          "debut": "1958-12-09",
+          "fin": "1962-10-09",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7607",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7607",
+              "commentaire": "Jean-Marie Le Pen, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Paris",
+          "debut": "1986-04-02",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:7607",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7607",
+              "commentaire": "Jean-Marie Le Pen, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0030",
@@ -335,7 +501,52 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Rhône",
+          "debut": "1978-04-03",
+          "fin": "1978-05-03",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:432",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/432",
+              "commentaire": "Raymond Barre, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Rhône",
+          "debut": "1981-07-02",
+          "fin": "1986-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:432",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/432",
+              "commentaire": "Raymond Barre, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Rhône",
+          "debut": "1986-04-02",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:432",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/432",
+              "commentaire": "Raymond Barre, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0032",
@@ -368,7 +579,53 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Essonne",
+          "debut": "1967-03-12",
+          "fin": "1968-05-30",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:4105",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4105",
+              "commentaire": "Pierre Juquin, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Essonne",
+          "debut": "1973-04-02",
+          "fin": "1978-04-02",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:4105",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4105",
+              "commentaire": "Pierre Juquin, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Essonne",
+          "debut": "1978-03-19",
+          "fin": "1981-05-22",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:4105",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4105",
+              "commentaire": "Pierre Juquin, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0033",
@@ -467,7 +724,52 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Allier",
+          "debut": "1978-04-03",
+          "fin": "1981-05-22",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:4284",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4284",
+              "commentaire": "André Lajoinie, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Allier",
+          "debut": "1981-07-02",
+          "fin": "1986-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:4284",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4284",
+              "commentaire": "André Lajoinie, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Allier",
+          "debut": "1986-04-02",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:4284",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4284",
+              "commentaire": "André Lajoinie, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

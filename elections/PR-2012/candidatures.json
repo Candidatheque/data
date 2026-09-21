@@ -113,7 +113,97 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "1986-04-02",
+          "fin": "1988-05-14",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "1988-06-13",
+          "fin": "1993-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "1993-04-02",
+          "fin": "1993-05-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "1997-06-01",
+          "fin": "1999-12-21",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "2002-06-19",
+          "fin": "2007-06-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Pyrénées-Atlantiques",
+          "debut": "2007-06-20",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:516",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/516",
+              "commentaire": "François Bayrou, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0058",
@@ -171,7 +261,98 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "1988-06-06",
+          "fin": "1993-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "1993-04-02",
+          "fin": "1993-05-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "1995-09-24",
+          "fin": "1997-04-21",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "1997-05-25",
+          "fin": "2002-06-07",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "2002-06-19",
+          "fin": "2002-07-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Hauts-de-Seine",
+          "debut": "2005-03-14",
+          "fin": "2005-07-02",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:6289",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6289",
+              "commentaire": "Nicolas Sarkozy, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0059",
@@ -411,7 +592,52 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Essonne",
+          "debut": "1997-06-01",
+          "fin": "2002-06-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:2721",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2721",
+              "commentaire": "Nicolas Dupont-Aignan, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Essonne",
+          "debut": "2002-06-19",
+          "fin": "2007-06-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:2721",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2721",
+              "commentaire": "Nicolas Dupont-Aignan, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Essonne",
+          "debut": "2007-06-20",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:2721",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2721",
+              "commentaire": "Nicolas Dupont-Aignan, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0065",
@@ -469,7 +695,67 @@
           ]
         }
       ],
-      "parcours": []
+      "parcours": [
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "1988-06-13",
+          "fin": "1993-04-01",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:3853",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3853",
+              "commentaire": "François Hollande, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "1997-06-01",
+          "fin": "2002-06-18",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:3853",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3853",
+              "commentaire": "François Hollande, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "2002-06-19",
+          "fin": "2007-06-19",
+          "en_cours": false,
+          "sources": [
+            {
+              "id": "assemblee-nationale:3853",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3853",
+              "commentaire": "François Hollande, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "fonction": "depute",
+          "ressort": "Corrèze",
+          "debut": "2007-06-20",
+          "en_cours": true,
+          "sources": [
+            {
+              "id": "assemblee-nationale:3853",
+              "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3853",
+              "commentaire": "François Hollande, fiche de la base de données des députés français depuis 1789 (Sycomore)",
+              "consultee_le": "2026-09-21"
+            }
+          ]
+        }
+      ]
     },
     {
       "personne": "PE-0069",
