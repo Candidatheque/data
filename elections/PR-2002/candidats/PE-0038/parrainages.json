@@ -1,0 +1,3446 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-2002",
+  "personne": "PE-0038",
+  "nom_complet": "Lionel JOSPIN",
+  "etendue": "tirage-au-sort",
+  "publications": [
+    {
+      "date": "2002-04-10",
+      "source": {
+        "id": "conseil-constitutionnel:2002-107-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002107PDR.htm",
+        "commentaire": "Décision du 10 avril 2002 portant publication du nom et de la qualité des citoyens ayant présenté les candidats à l'élection présidentielle",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "nom": "Bernard GAGNET",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-HERBLAIN-EST",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel GODIN",
+      "mandat": "president-communaute",
+      "territoire": "EN TERRES VIVES",
+      "departement": "18",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-François FOUNTAINE",
+      "mandat": "conseiller-regional",
+      "departement": "17",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre COSTES",
+      "mandat": "conseiller-general",
+      "territoire": "LAUZUN",
+      "departement": "47",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre OLIVIER",
+      "mandat": "maire",
+      "territoire": "NAUCELLES",
+      "departement": "15",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Joël NICOLLET",
+      "mandat": "maire",
+      "territoire": "ROCLES",
+      "departement": "07",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marc DOLEZ",
+      "mandat": "depute",
+      "circonscription": 17,
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marcel KLAMMERS",
+      "mandat": "maire",
+      "territoire": "SAINTE-MARIE-AUX-CHÊNES",
+      "departement": "57",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Annick LEPETIT",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Danièle PIC",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-JEAN-EN-ROYANS",
+      "departement": "26",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gilles JUILLIARD",
+      "mandat": "conseiller-general",
+      "territoire": "LA-SALVETAT-PEYRALÈS",
+      "departement": "12",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Brigitte DOUAY",
+      "mandat": "depute",
+      "circonscription": 18,
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain LEIKINE",
+      "mandat": "conseiller-general",
+      "territoire": "ARGENTEUIL-OUEST",
+      "departement": "95",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Geneviève GERDE",
+      "mandat": "maire",
+      "territoire": "LIAC",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain CALMAT",
+      "mandat": "maire",
+      "territoire": "LIVRY-GARGAN",
+      "departement": "93",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yveline MOEGLEN",
+      "mandat": "conseiller-regional",
+      "departement": "67",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yannick BOTREL",
+      "mandat": "conseiller-general",
+      "territoire": "BOURBRIAC",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre CHENOT",
+      "mandat": "maire",
+      "territoire": "SAINT-AMBROIX",
+      "departement": "18",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Louis ROCHE",
+      "mandat": "maire",
+      "territoire": "MONTAREN-ET-SAINT-MÉDIERS",
+      "departement": "30",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Françoise MERCIER-RAYET",
+      "mandat": "conseiller-regional",
+      "departement": "03",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gilles POULAIN",
+      "mandat": "maire",
+      "territoire": "BRUNÉMONT",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "François COLLEC",
+      "mandat": "maire",
+      "territoire": "LOPERHET",
+      "departement": "29",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Lyne COHEN-SOLAL",
+      "mandat": "conseiller-regional",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jacques HILMOINE",
+      "mandat": "maire",
+      "territoire": "GUISY",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René VAVON",
+      "mandat": "maire",
+      "territoire": "MURLIN",
+      "departement": "58",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre FORGUES",
+      "mandat": "depute",
+      "circonscription": 1,
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Olga TROSTIANSKY",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Edouard DAVID",
+      "mandat": "maire",
+      "territoire": "SAINT-LÉGER",
+      "departement": "06",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Louise LE MORZADEC",
+      "mandat": "maire",
+      "territoire": "TRÉVOU-TRÉGUIGNEC",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Armand JUNG",
+      "mandat": "depute",
+      "circonscription": 1,
+      "departement": "67",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Serge MORIN",
+      "mandat": "maire",
+      "territoire": "BRANNE",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Raymond SLAMA",
+      "mandat": "maire",
+      "territoire": "IFS",
+      "departement": "14",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Patrice JOLY",
+      "mandat": "conseiller-general",
+      "territoire": "MONTSAUCHE-LES-SETTONS",
+      "departement": "58",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean PAGET",
+      "mandat": "maire",
+      "territoire": "LIZOS",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gilbert VILLACAMPA",
+      "mandat": "maire",
+      "territoire": "SÉNAC",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Edmond ROY",
+      "mandat": "conseiller-general",
+      "territoire": "BOURGOIN-JALLIEU-SUD",
+      "departement": "38",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Dominique DELEPLACE",
+      "mandat": "maire",
+      "territoire": "LIGNY-THILLOY",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérald RUTAULT",
+      "mandat": "maire",
+      "territoire": "MAURECOURT",
+      "departement": "78",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Louis PICQUET",
+      "mandat": "maire",
+      "territoire": "BASSERCLES",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel ROUSSELOT",
+      "mandat": "maire",
+      "territoire": "ESPIRAT",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre VIDAL",
+      "mandat": "conseiller-regional",
+      "departement": "30",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert DARNAUD",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-MARTORY",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel DAVID",
+      "mandat": "maire",
+      "territoire": "BENET",
+      "departement": "85",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Rémi PAUVROS",
+      "mandat": "maire",
+      "territoire": "MAUBEUGE",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Paul DIDIER",
+      "mandat": "maire",
+      "territoire": "PETIT-CROIX",
+      "departement": "90",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre BRIOUX",
+      "mandat": "maire",
+      "territoire": "OULCHY-LE-CHÂTEAU",
+      "departement": "02",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yannick VAUGRENARD",
+      "mandat": "conseiller-regional",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Abel MIGNE",
+      "mandat": "conseiller-general",
+      "territoire": "SOYAUX",
+      "departement": "16",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André BARTHES",
+      "mandat": "maire",
+      "territoire": "MASSAC",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Odile VIGNERON",
+      "mandat": "maire",
+      "territoire": "BLONDEFONTAINE",
+      "departement": "70",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yves DURAND",
+      "mandat": "depute",
+      "circonscription": 11,
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Joël CLEMENT",
+      "mandat": "maire",
+      "territoire": "MALAUNAY",
+      "departement": "76",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Henri DE MARSAC",
+      "mandat": "maire",
+      "territoire": "MARSAC",
+      "departement": "82",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernadette LAPORTE",
+      "mandat": "conseiller-regional",
+      "departement": "84",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Joseph PARRENIN",
+      "mandat": "depute",
+      "circonscription": 3,
+      "departement": "25",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude COMMENGE",
+      "mandat": "maire",
+      "territoire": "ROQUES-SUR-GARONNE",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gilbert ROSEAU",
+      "mandat": "depute",
+      "circonscription": 1,
+      "departement": "34",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Charles MOREAU",
+      "mandat": "conseiller-general",
+      "territoire": "HERBIGNAC",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Yves GATEAUD",
+      "mandat": "depute",
+      "circonscription": 1,
+      "departement": "36",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude BARTOLONE",
+      "mandat": "conseiller-regional",
+      "departement": "93",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel DALTIN",
+      "mandat": "maire",
+      "territoire": "MARTRES-DE-RIVIÈRE",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean MICHEL",
+      "mandat": "depute",
+      "circonscription": 6,
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude TOUCHEFEU",
+      "mandat": "conseiller-general",
+      "territoire": "TOULOUSE-12",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean BESSON",
+      "mandat": "senateur",
+      "departement": "26",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel ETIEVANT",
+      "mandat": "depute",
+      "circonscription": 3,
+      "departement": "21",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard LEGOT",
+      "mandat": "maire",
+      "territoire": "SAINT-NICOLAS-DES-BOIS",
+      "departement": "61",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel LAUSSU",
+      "mandat": "maire",
+      "territoire": "AZUR",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christophe MASSE",
+      "mandat": "conseiller-general",
+      "territoire": "MARSEILLE-10",
+      "departement": "13",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "François DUMARAIS",
+      "mandat": "maire",
+      "territoire": "PLANCHEZ",
+      "departement": "58",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Roland BEIX",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-HILAIRE-DE-VILLEFRANCHE",
+      "departement": "17",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Mathieu CERVONI",
+      "mandat": "maire",
+      "territoire": "CASTIFAO",
+      "departement": "2B",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Félix PELISSIER",
+      "mandat": "maire",
+      "territoire": "EYGALIÈRES",
+      "departement": "13",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel LALOS",
+      "mandat": "maire",
+      "territoire": "BALLON",
+      "departement": "72",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Liberto PANIAGUA",
+      "mandat": "maire",
+      "territoire": "BARSAC",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Paul LAGRAVE",
+      "mandat": "maire",
+      "territoire": "ESCAUNETS",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean PERINGUEY",
+      "mandat": "conseiller-general",
+      "territoire": "VILLANDRAUT",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gabriel BANVILLE",
+      "mandat": "maire",
+      "territoire": "MONTIVILLIERS",
+      "departement": "76",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert FOUBERT",
+      "mandat": "conseiller-general",
+      "territoire": "ROUEN-6",
+      "departement": "76",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christian COULON",
+      "mandat": "maire",
+      "territoire": "arrondissement de LYON SECTEUR 08",
+      "departement": "69",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Hubert ZEKRI",
+      "mandat": "maire",
+      "territoire": "LE MUY",
+      "departement": "83",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel PEREZ",
+      "mandat": "maire",
+      "territoire": "ROQUETTES",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yves MENESGUEN",
+      "mandat": "conseiller-general",
+      "territoire": "BREST-RECOUVRANCE",
+      "departement": "29",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain BROCHET",
+      "mandat": "maire",
+      "territoire": "CEYRAT",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean CARRERE",
+      "mandat": "conseiller-regional",
+      "departement": "66",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel REMOND",
+      "mandat": "maire",
+      "territoire": "GLAY",
+      "departement": "25",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard BETENFELD",
+      "mandat": "conseiller-general",
+      "territoire": "PONT-DU-CHÂTEAU",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre OUSTY",
+      "mandat": "conseiller-general",
+      "territoire": "TONNEINS",
+      "departement": "47",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain ASTIE",
+      "mandat": "maire",
+      "territoire": "ROSIÈRES",
+      "departement": "81",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Luc CHENUT",
+      "mandat": "maire",
+      "territoire": "LE RHEU",
+      "departement": "35",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Maurice LE BECHEC",
+      "mandat": "maire",
+      "territoire": "SAINT-NIC",
+      "departement": "29",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard VIDAL",
+      "mandat": "conseiller-general",
+      "territoire": "NAJAC",
+      "departement": "12",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Hélène SAUZEA",
+      "mandat": "conseiller-regional",
+      "departement": "42",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pascal MAZEAU",
+      "mandat": "maire",
+      "territoire": "CHÂLUS",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gilbert PETITALOT",
+      "mandat": "maire",
+      "territoire": "AIGUEPERSE",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Louis GUYOT",
+      "mandat": "maire",
+      "territoire": "MONAY",
+      "departement": "39",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claire-Lise CAMPION",
+      "mandat": "senateur",
+      "departement": "91",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Catherine BOURSIER",
+      "mandat": "maire",
+      "territoire": "CHAMPEY-SUR-MOSELLE",
+      "departement": "54",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean LE FLOCH",
+      "mandat": "conseiller-general",
+      "territoire": "LANVOLLON",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel DELPECH",
+      "mandat": "maire",
+      "territoire": "DOMME",
+      "departement": "24",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel RICART",
+      "mandat": "maire",
+      "territoire": "LOGNES",
+      "departement": "77",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Philippe PARESYS",
+      "mandat": "conseiller-general",
+      "territoire": "DUNKERQUE-OUEST",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claudine LAMBOLEY",
+      "mandat": "maire",
+      "territoire": "LES AYNANS",
+      "departement": "70",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel LEBEAU",
+      "mandat": "maire",
+      "territoire": "BUCHÈRES",
+      "departement": "10",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Richard BLUM",
+      "mandat": "maire",
+      "territoire": "REVIGNY",
+      "departement": "39",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Michel LAMASSIAUDE",
+      "mandat": "conseiller-general",
+      "territoire": "LANOUAILLE",
+      "departement": "24",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Josiane HOURET",
+      "mandat": "maire",
+      "territoire": "SAINT-LON-LES-MINES",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André VENUAT",
+      "mandat": "maire",
+      "territoire": "AUZANCES",
+      "departement": "23",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean RANOUIL",
+      "mandat": "maire",
+      "territoire": "TARNÈS",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marc SEREIN",
+      "mandat": "maire",
+      "territoire": "BOLLÈNE",
+      "departement": "84",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Hervé SERNIGUET",
+      "mandat": "maire",
+      "territoire": "LASSERRE",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marceau COEUILTE",
+      "mandat": "maire",
+      "territoire": "TOURS-EN-VIMEU",
+      "departement": "80",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gabrielle FALCOU",
+      "mandat": "maire",
+      "territoire": "GRAMAZIE",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Roger CASSARD",
+      "mandat": "maire",
+      "territoire": "LALHEUE",
+      "departement": "71",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christophe CARESCHE",
+      "mandat": "depute",
+      "circonscription": 18,
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard FARION",
+      "mandat": "conseiller-regional",
+      "departement": "28",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean Pierre PEYS",
+      "mandat": "maire",
+      "territoire": "SAUVAGNON",
+      "departement": "64",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michèle SAN VICENTE",
+      "mandat": "senateur",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guy JOUHIER",
+      "mandat": "conseiller-general",
+      "territoire": "CESSON-SÉVIGNÉ",
+      "departement": "35",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Georges FRECHE",
+      "mandat": "maire",
+      "territoire": "MONTPELLIER",
+      "departement": "34",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "William CHERVY",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-VAURY",
+      "departement": "23",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Joël COSSON",
+      "mandat": "maire",
+      "territoire": "SAINT-GERMAIN-LA-BLANCHE-HERBE",
+      "departement": "14",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yves GUEDO",
+      "mandat": "maire",
+      "territoire": "SAINTE-EULALIE-EN-BORN",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Marie BENCE",
+      "mandat": "maire",
+      "territoire": "SAINT-AIGNAN",
+      "departement": "82",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René AICARDI",
+      "mandat": "membre-csfe",
+      "territoire": "TOKYO",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René ROUQUET",
+      "mandat": "maire",
+      "territoire": "ALFORTVILLE",
+      "departement": "94",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Monique COLLANGE",
+      "mandat": "depute",
+      "circonscription": 4,
+      "departement": "81",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Robert LINDRON",
+      "mandat": "maire",
+      "territoire": "AYAT-SUR-SIOULE",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude NICOLLE",
+      "mandat": "maire",
+      "territoire": "LES MOLLETTES",
+      "departement": "73",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Louis GUILLOUX",
+      "mandat": "maire",
+      "territoire": "ESLOURENTIES-DABAN",
+      "departement": "64",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Edmond BOINEAU",
+      "mandat": "maire",
+      "territoire": "RIVÈRENERT",
+      "departement": "09",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André GIROUD",
+      "mandat": "maire",
+      "territoire": "MASSAY",
+      "departement": "18",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André HUBERT",
+      "mandat": "maire",
+      "territoire": "CAMALÈS",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Paul FOURNIER",
+      "mandat": "maire",
+      "territoire": "LEBIEZ",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jacques ASTRUC",
+      "mandat": "maire",
+      "territoire": "PAMPELONNE",
+      "departement": "81",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marcel WACHEUX",
+      "mandat": "conseiller-general",
+      "territoire": "HOUDAIN",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude REYNARD",
+      "mandat": "maire",
+      "territoire": "POMPIGNAN",
+      "departement": "30",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre GOURLAY",
+      "mandat": "maire",
+      "territoire": "SAINT-LAURENT-DE-VEYRÈS",
+      "departement": "48",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre CREDOZ",
+      "mandat": "maire",
+      "territoire": "DÉCINES-CHARPIEU",
+      "departement": "69",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Serge GAY",
+      "mandat": "maire",
+      "territoire": "SAINT-FÉLIX-DE-RIEUTORD",
+      "departement": "09",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert NAVARRO",
+      "mandat": "conseiller-regional",
+      "departement": "34",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude LAURENT",
+      "mandat": "maire",
+      "territoire": "DAMEREY",
+      "departement": "71",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude ANTONINI",
+      "mandat": "maire",
+      "territoire": "ANGERS",
+      "departement": "49",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre BLEVIN",
+      "mandat": "maire",
+      "territoire": "MÉZIÈRES-SUR-SEINE",
+      "departement": "78",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René VIGNERIE",
+      "mandat": "maire",
+      "territoire": "BARBEZIEUX-SAINT-HILAIRE",
+      "departement": "16",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Germain BOUCHE",
+      "mandat": "maire",
+      "territoire": "PARFONDRUPT",
+      "departement": "55",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Rémy MARTIN",
+      "mandat": "maire",
+      "territoire": "SAVENNIÈRES",
+      "departement": "49",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "François LASTERNAS",
+      "mandat": "conseiller-general",
+      "territoire": "LA FORCE",
+      "departement": "24",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René BERTHONNEAU",
+      "mandat": "maire",
+      "territoire": "VILLENEUVE-LA-COMTESSE",
+      "departement": "17",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain CASELLAS GIMBERNAT",
+      "mandat": "maire",
+      "territoire": "PALAJA",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Monique PLAZZI",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-YRIEIX-LA-PERCHE",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Janine HADDAD",
+      "mandat": "conseiller-regional",
+      "departement": "95",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard LAMM",
+      "mandat": "maire",
+      "territoire": "MONDELANGE",
+      "departement": "57",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Marc ROUSSEAU",
+      "mandat": "conseiller-regional",
+      "departement": "45",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Marie CHADOUTEAU",
+      "mandat": "conseiller-general",
+      "territoire": "GUER",
+      "departement": "56",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard BROUILLE",
+      "mandat": "maire",
+      "territoire": "BESSINES-SUR-GARTEMPE",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jacques BONDOUX",
+      "mandat": "conseiller-general",
+      "territoire": "NIMES-3",
+      "departement": "30",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Régis LECOYER",
+      "mandat": "maire",
+      "territoire": "HOURY",
+      "departement": "02",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel FAYOLLE",
+      "mandat": "maire",
+      "territoire": "CHEMILLY",
+      "departement": "03",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude BROY",
+      "mandat": "conseiller-general",
+      "territoire": "BOURG",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Joachim MARTI",
+      "mandat": "maire",
+      "territoire": "LE PLA",
+      "departement": "09",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain DIEUAIDE",
+      "mandat": "maire",
+      "territoire": "ALLEMANS",
+      "departement": "24",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Thierry BURLOT",
+      "mandat": "president-communaute",
+      "territoire": "PAYS DE LANVOLLON PLOUHA",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André CANTIRAN",
+      "mandat": "maire",
+      "territoire": "LUBBON",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude SEYSE",
+      "mandat": "conseiller-general",
+      "territoire": "NANTES-5",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel DELAVEAU",
+      "mandat": "maire",
+      "territoire": "SAINT-JACQUES-DE-LA-LANDE",
+      "departement": "35",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierrick PERRIN",
+      "mandat": "maire",
+      "territoire": "PLEUMEUR-BODOU",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Geneviève CHIGNAC",
+      "mandat": "conseiller-regional",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guy MOUILLESEAUX",
+      "mandat": "maire",
+      "territoire": "BESSONCOURT",
+      "departement": "90",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude CHUPIN",
+      "mandat": "maire",
+      "territoire": "MONTREUIL-SUR-LOIR",
+      "departement": "49",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Claude BONNAFOUS",
+      "mandat": "maire",
+      "territoire": "VILLEFRANCHE-DE-LAURAGAIS",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain LEFEBVRE",
+      "mandat": "conseiller-general",
+      "territoire": "SAINS-EN-GOHELLE",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Eric CHEVAILLIER",
+      "mandat": "conseiller-regional",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michèle FOUILLERON",
+      "mandat": "maire",
+      "territoire": "CHAUM",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guy CUISINIER",
+      "mandat": "conseiller-general",
+      "territoire": "LIMOGES-LA-BASTIDE",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Marie PARENTEAU",
+      "mandat": "maire",
+      "territoire": "BIRAC",
+      "departement": "16",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Philippe FARDOUX",
+      "mandat": "maire",
+      "territoire": "ECQUES",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel MOREIGNE",
+      "mandat": "senateur",
+      "departement": "23",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christine MOUILLAUD",
+      "mandat": "maire",
+      "territoire": "ISSERTEAUX",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude ZICOLA",
+      "mandat": "maire",
+      "territoire": "RIOM",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gilbert ANSQUER",
+      "mandat": "maire",
+      "territoire": "PONT-CROIX",
+      "departement": "29",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre DE SAINTIGNON",
+      "mandat": "conseiller-regional",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Henri DEJONGHE",
+      "mandat": "maire",
+      "territoire": "AUXI-LE-CHÂTEAU",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard POUBLAN",
+      "mandat": "maire",
+      "territoire": "SIARROUY",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Dominique SERVANT",
+      "mandat": "maire",
+      "territoire": "SAINT-LÉGER-DES-BOIS",
+      "departement": "49",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre BIAGGINI",
+      "mandat": "maire",
+      "territoire": "FOUJU",
+      "departement": "77",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Luc TIXIER",
+      "mandat": "conseiller-general",
+      "territoire": "CHAMPEIX",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Emile ETUIN",
+      "mandat": "maire",
+      "territoire": "RAMILLIES",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Albert DELHOUME",
+      "mandat": "maire",
+      "territoire": "SAINTE-MARIE-DE-VAUX",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Paul DENANOT",
+      "mandat": "conseiller-regional",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Elie NORGUET",
+      "mandat": "maire",
+      "territoire": "MESLAY",
+      "departement": "41",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard MOULINIER",
+      "mandat": "maire",
+      "territoire": "SAINT-SAUVEUR-DE-PUYNORMAND",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Henri DUHON",
+      "mandat": "maire",
+      "territoire": "VICQ-D'AURIBAT",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Bernard DUCROIX",
+      "mandat": "conseiller-general",
+      "territoire": "FONTAINE-LE-DUN",
+      "departement": "76",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude DARZACQ",
+      "mandat": "maire",
+      "territoire": "SAINT-GEOURS-DE-MAREMNE",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Agnès CHEVAUCHE",
+      "mandat": "conseiller-general",
+      "territoire": "LIGNIÈRES",
+      "departement": "18",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Sylvie GILLET DE THOREY",
+      "mandat": "maire",
+      "territoire": "MEYTHET",
+      "departement": "74",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Maurice LEBOUTET",
+      "mandat": "maire",
+      "territoire": "BOSMIE-L'AIGUILLE",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Mireille MASSOT",
+      "mandat": "conseiller-general",
+      "territoire": "RENNES-SUD-EST",
+      "departement": "35",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Didier BOULAUD",
+      "mandat": "senateur",
+      "departement": "58",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Valérie LEVIN",
+      "mandat": "conseiller-regional",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Nicole BRICQ",
+      "mandat": "depute",
+      "circonscription": 6,
+      "departement": "77",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Louis DESTANS",
+      "mandat": "conseiller-general",
+      "territoire": "PONT-AUDEMER",
+      "departement": "27",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel EIMER",
+      "mandat": "conseiller-general",
+      "territoire": "BLOIS-2",
+      "departement": "41",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard RAMPON",
+      "mandat": "maire",
+      "territoire": "MONTASTRUC-DE-SALIES",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean MAISONNET",
+      "mandat": "conseiller-general",
+      "territoire": "CLERMONT-FERRAND-SUD-EST",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard DUMONT",
+      "mandat": "maire",
+      "territoire": "EYBOULEUF",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Maryse TROVEL",
+      "mandat": "maire",
+      "territoire": "PLÉDRAN",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Didier LE GAC",
+      "mandat": "maire",
+      "territoire": "LAMPAUL-PLOUARZEL",
+      "departement": "29",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yves FOURTHON",
+      "mandat": "maire",
+      "territoire": "CÉRONS",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean VALES",
+      "mandat": "maire",
+      "territoire": "LUNEL-VIEL",
+      "departement": "34",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marcel MURGUE",
+      "mandat": "maire",
+      "territoire": "BONSON",
+      "departement": "42",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Thérèse GOUZE",
+      "mandat": "conseiller-general",
+      "territoire": "GRENADE",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain DAYAN",
+      "mandat": "conseiller-regional",
+      "departement": "37",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre LALANNE",
+      "mandat": "maire",
+      "territoire": "RABASTENS-DE-BIGORRE",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Marc TODESCHINI",
+      "mandat": "senateur",
+      "departement": "57",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel COURTADON",
+      "mandat": "conseiller-general",
+      "territoire": "PONTGIBAUD",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude DUBEAU",
+      "mandat": "maire",
+      "territoire": "CHAMEYRAT",
+      "departement": "19",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Véronique LOUIS",
+      "mandat": "conseiller-regional",
+      "departement": "07",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert ALRIC",
+      "mandat": "conseiller-general",
+      "territoire": "CAPENDU",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel BAHUREL",
+      "mandat": "maire",
+      "territoire": "PAIMBOEUF",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André ROURE",
+      "mandat": "conseiller-general",
+      "territoire": "LE-PUY-EN-VELAY-OUEST",
+      "departement": "43",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude CHALEIL",
+      "mandat": "maire",
+      "territoire": "VARENNES-SUR-USSON",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "François LAMY",
+      "mandat": "depute",
+      "circonscription": 6,
+      "departement": "91",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain MAURICE",
+      "mandat": "conseiller-general",
+      "territoire": "BOURG-LÈS-VALENCE",
+      "departement": "26",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Louis BROUSSE",
+      "mandat": "maire",
+      "territoire": "L'ISLE-EN-DODON",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Catherine GUY-QUINT",
+      "mandat": "representant-parlement-europeen",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marc PLANTEGENEST",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-PIERRE",
+      "departement": "975",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Noël PARPILLON",
+      "mandat": "conseiller-general",
+      "territoire": "LA MOTTE-SERVOLEX",
+      "departement": "73",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Roland BRUNO",
+      "mandat": "maire",
+      "territoire": "RAMATUELLE",
+      "departement": "83",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude STEPIEN",
+      "mandat": "maire",
+      "territoire": "CURDIN",
+      "departement": "71",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard HEUZE",
+      "mandat": "conseiller-general",
+      "territoire": "LE HAVRE-3",
+      "departement": "76",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Christine BOUSQUET",
+      "mandat": "maire",
+      "territoire": "SAINT-ETIENNE-DE-GOURGAS",
+      "departement": "34",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard RIVALTA",
+      "mandat": "conseiller-general",
+      "territoire": "VILLEURBANNE-NORD",
+      "departement": "69",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Francis LE PICHON",
+      "mandat": "maire",
+      "territoire": "LE FAOUËT",
+      "departement": "56",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre EMANN",
+      "mandat": "maire",
+      "territoire": "COULEVON",
+      "departement": "70",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Philippe ARCILLON",
+      "mandat": "conseiller-general",
+      "territoire": "MOYENNEVILLE",
+      "departement": "80",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Max COUSTAU",
+      "mandat": "maire",
+      "territoire": "PRÉCHAC",
+      "departement": "32",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christophe COUNIL",
+      "mandat": "conseiller-general",
+      "territoire": "LE MANS-SUD-EST",
+      "departement": "72",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre TRINQUIER",
+      "mandat": "maire",
+      "territoire": "CASTELNAU-RIVIÈRE-BASSE",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Charles GAUTIER",
+      "mandat": "senateur",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert GENDRE",
+      "mandat": "maire",
+      "territoire": "BAZIÈGE",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Serge VINCENT",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-DIÉ-EST",
+      "departement": "88",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christophe DOURTHE",
+      "mandat": "maire",
+      "territoire": "BUSSAC-SUR-CHARENTE",
+      "departement": "17",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René CAUSSE",
+      "mandat": "maire",
+      "territoire": "POURCHARESSES",
+      "departement": "48",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guyves-Didier DUPRONT",
+      "mandat": "maire",
+      "territoire": "GONDRIN",
+      "departement": "32",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain BUSSY",
+      "mandat": "maire",
+      "territoire": "BLIS-ET-BORN",
+      "departement": "24",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean DEXPERTS",
+      "mandat": "maire",
+      "territoire": "LUC-ARMAU",
+      "departement": "64",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Camille BEAUBIS",
+      "mandat": "maire",
+      "territoire": "MEILLY-SUR-ROUVRES",
+      "departement": "21",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guy GERARD",
+      "mandat": "maire",
+      "territoire": "MONSEMPRON-LIBOS",
+      "departement": "47",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Jacques BESSE",
+      "mandat": "conseiller-regional",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Geneviève BELLENGER",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Louis LABAT",
+      "mandat": "maire",
+      "territoire": "ENCAUSSE-LES-THERMES",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jeannine HUON",
+      "mandat": "conseiller-general",
+      "territoire": "RENNES-CENTRE-SUD",
+      "departement": "35",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard DEVAUX",
+      "mandat": "maire",
+      "territoire": "BEAUVOIS-EN-CAMBRÉSIS",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre DULHOSTE",
+      "mandat": "maire",
+      "territoire": "POUY",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Raymond DELMAS",
+      "mandat": "maire",
+      "territoire": "BASSIGNAC-LE-HAUT",
+      "departement": "19",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christian LAROCHE",
+      "mandat": "maire",
+      "territoire": "MARSANEIX",
+      "departement": "24",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René DUPLAIX",
+      "mandat": "maire",
+      "territoire": "SAINTE-THORETTE",
+      "departement": "18",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Marie SALLES",
+      "mandat": "maire",
+      "territoire": "ALZONNE",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Dominique RIERA",
+      "mandat": "conseiller-general",
+      "territoire": "ASNIÈRES-SUR-SEINE-NORD",
+      "departement": "92",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard CORRIHONS",
+      "mandat": "maire",
+      "territoire": "ONDRES",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Philippe CHARPENTIER",
+      "mandat": "conseiller-regional",
+      "departement": "86",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude SESCOUSSE",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-VINCENT-DE-TYROSSE",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Henri SCANVIC",
+      "mandat": "conseiller-general",
+      "territoire": "LORIENT-NORD",
+      "departement": "56",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Martine VOIDEY",
+      "mandat": "conseiller-general",
+      "territoire": "VALENTIGNEY",
+      "departement": "25",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Paul FAUCHER",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE-LE-CHASTEL",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Michel GUERRE",
+      "mandat": "conseiller-regional",
+      "departement": "03",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude ALLAN",
+      "mandat": "conseiller-general",
+      "territoire": "BOULOGNE-SUR-MER-NORD-EST",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Stéphane DU CREST DE VILLENEUVE",
+      "mandat": "maire",
+      "territoire": "GOMETZ-LE-CHÂTEL",
+      "departement": "91",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre BONNEFOUS",
+      "mandat": "maire",
+      "territoire": "CORBARIEU",
+      "departement": "82",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Patrick BOURDY",
+      "mandat": "conseiller-general",
+      "territoire": "MONTLOUIS-SUR-LOIRE",
+      "departement": "37",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Georges SYLVESTRE",
+      "mandat": "maire",
+      "territoire": "VIEILLEVIGNE",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André LAFITTE",
+      "mandat": "maire",
+      "territoire": "ORIST",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Yves PHILIPPE",
+      "mandat": "maire",
+      "territoire": "SAINT-CONNAN",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Hyacinthe MATTEI",
+      "mandat": "maire",
+      "territoire": "MONTICELLO",
+      "departement": "2B",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel CASSAIGNEAU",
+      "mandat": "maire",
+      "territoire": "CASTILLON-DE-SAINT-MARTORY",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guy AVIZOU",
+      "mandat": "conseiller-general",
+      "territoire": "GUÉRET-SUD-EST",
+      "departement": "23",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michèle BAULLARD",
+      "mandat": "conseiller-regional",
+      "departement": "02",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Maryvonne BLONDIN",
+      "mandat": "conseiller-general",
+      "territoire": "QUIMPER-2",
+      "departement": "29",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude LE GALL",
+      "mandat": "maire",
+      "territoire": "SAVENAY",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christian TEYSSEDRE",
+      "mandat": "conseiller-general",
+      "territoire": "RODEZ-NORD",
+      "departement": "12",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain VEYRET",
+      "mandat": "depute",
+      "circonscription": 1,
+      "departement": "47",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude DILAIN",
+      "mandat": "maire",
+      "territoire": "CLICHY-SOUS-BOIS",
+      "departement": "93",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guy DELCOURT",
+      "mandat": "maire",
+      "territoire": "LENS",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel BARBIER",
+      "mandat": "conseiller-general",
+      "territoire": "LA MACHINE",
+      "departement": "58",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Stanislas SIODOS",
+      "mandat": "maire",
+      "territoire": "MATHAUX",
+      "departement": "10",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Eric ALBERTI",
+      "mandat": "maire",
+      "territoire": "POUSSIGNAC",
+      "departement": "47",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Roland RIES",
+      "mandat": "conseiller-regional",
+      "departement": "67",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel BONIN",
+      "mandat": "maire",
+      "territoire": "PASSY",
+      "departement": "71",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert DESCAZEAUX",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-NICOLAS-DE-LA-GRAVE",
+      "departement": "82",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André DUCHATEAU",
+      "mandat": "conseiller-general",
+      "territoire": "PAU-NORD",
+      "departement": "64",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Louis LEBOUTEILLER",
+      "mandat": "maire",
+      "territoire": "AUDRIEU",
+      "departement": "14",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel BOISSERIE",
+      "mandat": "depute",
+      "circonscription": 2,
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Philippe ESNOL",
+      "mandat": "maire",
+      "territoire": "CONFLANS-SAINTE-HONORINE",
+      "departement": "78",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard FAYOLLE",
+      "mandat": "maire",
+      "territoire": "SORBIERS",
+      "departement": "42",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Maurice MARRON",
+      "mandat": "maire",
+      "territoire": "TULLINS",
+      "departement": "38",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Paul PLANCHOU",
+      "mandat": "maire",
+      "territoire": "CHELLES",
+      "departement": "77",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Max IVAN",
+      "mandat": "maire",
+      "territoire": "SAINTE-CÉCILE-LES-VIGNES",
+      "departement": "84",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yannick GUIN",
+      "mandat": "conseiller-regional",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René CHERBONNIER",
+      "mandat": "maire",
+      "territoire": "GOUZENS",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Joseph FORTER",
+      "mandat": "maire",
+      "territoire": "LUDON-MÉDOC",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Josy POUEYTO",
+      "mandat": "conseiller-general",
+      "territoire": "PAU-CENTRE",
+      "departement": "64",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Georges ALEXANDRE",
+      "mandat": "maire",
+      "territoire": "PLOULEC'H",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude CUBAUD",
+      "mandat": "maire",
+      "territoire": "L'ISLE-JOURDAIN",
+      "departement": "86",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Martin MALVY",
+      "mandat": "conseiller-regional",
+      "departement": "46",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-François GAUJOUR",
+      "mandat": "maire",
+      "territoire": "SAINT-ETIENNE-DE-CROSSEY",
+      "departement": "38",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain LE GARREC",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Philippe RYGAS",
+      "mandat": "maire",
+      "territoire": "FROUVILLE",
+      "departement": "95",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude NERIN",
+      "mandat": "maire",
+      "territoire": "GAILLÈRES",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jacques BASCOU",
+      "mandat": "depute",
+      "circonscription": 2,
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André ROUXEL",
+      "mandat": "maire",
+      "territoire": "TOURLAVILLE",
+      "departement": "50",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Augustin SOEUR",
+      "mandat": "maire",
+      "territoire": "AMANCE",
+      "departement": "70",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Albert DARRICARRERE",
+      "mandat": "maire",
+      "territoire": "BEYRIES",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Emile RIOS",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-LYS",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Joël DUQUENOY",
+      "mandat": "maire",
+      "territoire": "ARQUES",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Leslie CLERET",
+      "mandat": "conseiller-general",
+      "territoire": "LOUVIERS-NORD",
+      "departement": "27",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean LALANNE",
+      "mandat": "maire",
+      "territoire": "HABAS",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Monique BERARD",
+      "mandat": "maire",
+      "territoire": "MAIXE",
+      "departement": "54",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel BROUSSE",
+      "mandat": "conseiller-general",
+      "territoire": "SALLES-SUR-L'HERS",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Louis DUMONT",
+      "mandat": "depute",
+      "circonscription": 2,
+      "departement": "55",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Olivier DUHAMEL",
+      "mandat": "representant-parlement-europeen",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Colin SUEUR",
+      "mandat": "maire",
+      "territoire": "COLOMBELLES",
+      "departement": "14",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard GAUCHER",
+      "mandat": "maire",
+      "territoire": "ANDRYES",
+      "departement": "89",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marcel VIDAL",
+      "mandat": "conseiller-general",
+      "territoire": "CLERMONT-L'HÉRAULT",
+      "departement": "34",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre SOULA",
+      "mandat": "maire",
+      "territoire": "RIMONT",
+      "departement": "09",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre LANNAREIX",
+      "mandat": "maire",
+      "territoire": "VITRAC",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre LACOURT",
+      "mandat": "maire",
+      "territoire": "GRISOLLES",
+      "departement": "82",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard LABAT",
+      "mandat": "maire",
+      "territoire": "HORSARRIEU",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "François PATRIAT",
+      "mandat": "president-communaute",
+      "territoire": "L'AUXOIS SUD",
+      "departement": "21",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michèle SABBAN",
+      "mandat": "conseiller-regional",
+      "departement": "94",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "François PUPPONI",
+      "mandat": "maire",
+      "territoire": "SARCELLES",
+      "departement": "95",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard FUCHS",
+      "mandat": "depute",
+      "circonscription": 10,
+      "departement": "76",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Rose KORO",
+      "mandat": "conseiller-regional",
+      "departement": "14",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Baptiste TURIES",
+      "mandat": "maire",
+      "territoire": "LASBORDES",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Roger GISBERT",
+      "mandat": "maire",
+      "territoire": "SAINT-PAUL-DE-LOUBRESSAC",
+      "departement": "46",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude GRENE",
+      "mandat": "maire",
+      "territoire": "VILLENEUVE",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "François RIOU",
+      "mandat": "conseiller-general",
+      "territoire": "CHATEAUNEUF-DU-FAOU",
+      "departement": "29",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Patrick GARRASSIEU",
+      "mandat": "maire",
+      "territoire": "LAHITTE-TOUPIÈRE",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Laurent SEGUIN",
+      "mandat": "maire",
+      "territoire": "FAUCOGNEY-ET-LA-MER",
+      "departement": "70",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Germinal PEIRO",
+      "mandat": "depute",
+      "circonscription": 4,
+      "departement": "24",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Claude VERDAN",
+      "mandat": "conseiller-general",
+      "territoire": "CAYENNE-CENTRE",
+      "departement": "973",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Thérèse LEROY",
+      "mandat": "maire",
+      "territoire": "MONTGAILLARD-SUR-SAVE",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gisèle CAUDRELIER",
+      "mandat": "maire",
+      "territoire": "SAINT-ANGEL",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marcel MARTINEZ",
+      "mandat": "conseiller-general",
+      "territoire": "AXAT",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Francis STIEVENARD",
+      "mandat": "maire",
+      "territoire": "HASPRES",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Eric ANDRIEU",
+      "mandat": "maire",
+      "territoire": "VILLEROUGE-TERMENÈS",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre BERANGER",
+      "mandat": "maire",
+      "territoire": "NEMOURS",
+      "departement": "77",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre GABORIAU",
+      "mandat": "conseiller-general",
+      "territoire": "CHÂTEAUNEUF-EN-THYMERAIS",
+      "departement": "28",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel PIERQUET",
+      "mandat": "conseiller-regional",
+      "departement": "90",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean CASTAGNET",
+      "mandat": "maire",
+      "territoire": "TALLER",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michelle MEUNIER",
+      "mandat": "conseiller-general",
+      "territoire": "NANTES-2",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Roger BARRAU",
+      "mandat": "conseiller-regional",
+      "departement": "09",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard MIQUEL",
+      "mandat": "senateur",
+      "departement": "46",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alfred RECOURS",
+      "mandat": "depute",
+      "circonscription": 2,
+      "departement": "27",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gilbert COUSSEAU",
+      "mandat": "maire",
+      "territoire": "LABASTIDE-PAUMÈS",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guy ROUX",
+      "mandat": "maire",
+      "territoire": "VERNIOZ",
+      "departement": "38",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre CARPE",
+      "mandat": "maire",
+      "territoire": "GLANGES",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Joël CARBON",
+      "mandat": "conseiller-general",
+      "territoire": "COUDEKERQUE-BRANCHE",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René CHABBERT",
+      "mandat": "maire",
+      "territoire": "SIRAN",
+      "departement": "34",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Loïc RAOULT",
+      "mandat": "conseiller-general",
+      "territoire": "ETABLES-SUR-MER",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Didier CHOUAT",
+      "mandat": "depute",
+      "circonscription": 3,
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Léon COPIN",
+      "mandat": "maire",
+      "territoire": "NOYELLES-LÈS-VERMELLES",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude MADAMOUR",
+      "mandat": "president-communaute",
+      "territoire": "SAINT-GAUDINOIS",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Odette GARBRECHT",
+      "mandat": "conseiller-general",
+      "territoire": "MEYZIEU",
+      "departement": "69",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel ROCHEFORT",
+      "mandat": "maire",
+      "territoire": "DOLO",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Luc DRAPEAU",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-MAIXENT-L'ECOLE-1",
+      "departement": "79",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre DELOINCE",
+      "mandat": "maire",
+      "territoire": "ARNAY-LE-DUC",
+      "departement": "21",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Thérèse DELRIEU",
+      "mandat": "conseiller-general",
+      "territoire": "CHATEAUROUX-SUD",
+      "departement": "36",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "François DAGNAUD",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Elisabeth BUREL",
+      "mandat": "maire",
+      "territoire": "LA NOUAYE",
+      "departement": "35",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marc DEJEAN",
+      "mandat": "maire",
+      "territoire": "OISEMONT",
+      "departement": "80",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jangui LE CARPENTIER",
+      "mandat": "conseiller-regional",
+      "departement": "14",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Serge DUBOS",
+      "mandat": "maire",
+      "territoire": "MARLIAC",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Louis MASSOT",
+      "mandat": "conseiller-general",
+      "territoire": "VEYNES",
+      "departement": "05",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jacques SAUNIERE",
+      "mandat": "maire",
+      "territoire": "SAINT-PAUL-DE-JARRAT",
+      "departement": "09",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Arnaud MONTEBOURG",
+      "mandat": "depute",
+      "circonscription": 6,
+      "departement": "71",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Anne-Christine LANG",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude AUSSET",
+      "mandat": "maire",
+      "territoire": "AUJOLS",
+      "departement": "46",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gabriel MALAUZAT",
+      "mandat": "conseiller-general",
+      "territoire": "MARSEILLE-2",
+      "departement": "13",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre BARBIERY",
+      "mandat": "maire",
+      "territoire": "NOLAY",
+      "departement": "21",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel CHERET",
+      "mandat": "maire",
+      "territoire": "AUGA",
+      "departement": "64",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard CHAUSSOY",
+      "mandat": "maire",
+      "territoire": "RINXENT",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jacques DELLERIE",
+      "mandat": "maire",
+      "territoire": "SANDOUVILLE",
+      "departement": "76",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jacques BOISSON",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLE-DES-MARAIS",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Monique COMPAIN",
+      "mandat": "conseiller-regional",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel LECIGNE",
+      "mandat": "maire",
+      "territoire": "ANVIN",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claudine DESMICHEL-VAUZELLE",
+      "mandat": "maire",
+      "territoire": "CHERVILLE",
+      "departement": "51",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel AUTHIER",
+      "mandat": "maire",
+      "territoire": "LA FAJOLE",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel MOYRAND",
+      "mandat": "conseiller-regional",
+      "departement": "24",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marcel DORIAC",
+      "mandat": "maire",
+      "territoire": "OLLIÈRES",
+      "departement": "83",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Edgard SAULNIER",
+      "mandat": "maire",
+      "territoire": "VILLEFAGNAN",
+      "departement": "16",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel MAURICE",
+      "mandat": "maire",
+      "territoire": "CASTELNAU-CHALOSSE",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel DEJEAN",
+      "mandat": "conseiller-regional",
+      "departement": "974",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christophe SERRE",
+      "mandat": "maire",
+      "territoire": "SAINT-PAULET-DE-CAISSON",
+      "departement": "30",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christian CROUZEL",
+      "mandat": "maire",
+      "territoire": "FORGES-LES-BAINS",
+      "departement": "91",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Henri ROUGE",
+      "mandat": "maire",
+      "territoire": "SORGEAT",
+      "departement": "09",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Rémi CHAINTRON",
+      "mandat": "conseiller-general",
+      "territoire": "LOUHANS",
+      "departement": "71",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christophe SIRUGUE",
+      "mandat": "conseiller-general",
+      "territoire": "CHALON-SUR-SAÊNE-NORD",
+      "departement": "71",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Françoise PERON",
+      "mandat": "maire",
+      "territoire": "LOGONNA-DAOULAS",
+      "departement": "29",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André MASSAT",
+      "mandat": "maire",
+      "territoire": "VAREN",
+      "departement": "82",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Tony PETTAVINO",
+      "mandat": "membre-csfe",
+      "territoire": "MONACO",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Monique ALOSI",
+      "mandat": "conseiller-regional",
+      "departement": "54",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude BOURDIN",
+      "mandat": "conseiller-general",
+      "territoire": "BEAUGENCY",
+      "departement": "45",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel CARRIERE",
+      "mandat": "maire",
+      "territoire": "MONTÉGUT-PLANTAUREL",
+      "departement": "09",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Jacques APINE",
+      "mandat": "maire",
+      "territoire": "GRENADE-SUR-GARONNE",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre PALAT",
+      "mandat": "maire",
+      "territoire": "SORIGNY",
+      "departement": "37",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Francis HERBAYS",
+      "mandat": "maire",
+      "territoire": "FILLIÈRES",
+      "departement": "54",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guy MOUTAUD",
+      "mandat": "conseiller-general",
+      "territoire": "LE GRAND-BOURG",
+      "departement": "23",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Françoise ROSET",
+      "mandat": "conseiller-regional",
+      "departement": "69",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre TINTIGNAC",
+      "mandat": "maire",
+      "territoire": "SAINT-PAUL",
+      "departement": "19",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Hans MOLTRECHT",
+      "mandat": "maire",
+      "territoire": "MARIGNAC-EN-DIOIS",
+      "departement": "26",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel ROCARD",
+      "mandat": "representant-parlement-europeen",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude LEMOINE",
+      "mandat": "maire",
+      "territoire": "MARIGNY-BRIZAY",
+      "departement": "86",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel OPIC",
+      "mandat": "conseiller-regional",
+      "departement": "16",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "André ROOU",
+      "mandat": "maire",
+      "territoire": "MONTGEARD",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard TERRIER",
+      "mandat": "depute",
+      "circonscription": 1,
+      "departement": "57",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christian BATAILLE",
+      "mandat": "depute",
+      "circonscription": 22,
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Lucien CLERGUE",
+      "mandat": "maire",
+      "territoire": "SAINTE-COLOMBE-SUR-L'HERS",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Henri QUER",
+      "mandat": "maire",
+      "territoire": "GÂVRES",
+      "departement": "56",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jacques DUCOS",
+      "mandat": "maire",
+      "territoire": "SAINTE-FOY",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Christian MARTINON",
+      "mandat": "maire",
+      "territoire": "SAVIGNY",
+      "departement": "69",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gabriel AMARD",
+      "mandat": "maire",
+      "territoire": "VIRY-CHÂTILLON",
+      "departement": "91",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Paul SERRES",
+      "mandat": "maire",
+      "territoire": "MIONS",
+      "departement": "69",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Patrick CASSANY",
+      "mandat": "conseiller-general",
+      "territoire": "VILLENEUVE-SUR-LOT-SUD",
+      "departement": "47",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Denis MOUGENEZ",
+      "mandat": "maire",
+      "territoire": "JEANDELIZE",
+      "departement": "54",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel BARRETTE",
+      "mandat": "maire",
+      "territoire": "SAINT-MAIGNER",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Henri LAURENT",
+      "mandat": "maire",
+      "territoire": "SAINT-LAURENT-MÉDOC",
+      "departement": "33",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude NOEL",
+      "mandat": "maire",
+      "territoire": "HALLINES",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Denise GRANDJEAN",
+      "mandat": "maire",
+      "territoire": "PLOUMILLIAU",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Guy DELAINE",
+      "mandat": "maire",
+      "territoire": "LABATUT-RIVIÈRE",
+      "departement": "65",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude LEBLANC",
+      "mandat": "maire",
+      "territoire": "MAYENNE",
+      "departement": "53",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard VILLENEUVE",
+      "mandat": "maire",
+      "territoire": "SAINTE-SOLINE",
+      "departement": "79",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bernard BOISELLE",
+      "mandat": "maire",
+      "territoire": "COINCHES",
+      "departement": "88",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pascal CHERKI",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Denis MAGRE",
+      "mandat": "maire",
+      "territoire": "TOUTENS",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Albert MAHE",
+      "mandat": "conseiller-general",
+      "territoire": "NANTES-9",
+      "departement": "44",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard ALARCON-GARCIA",
+      "mandat": "maire",
+      "territoire": "PONT-DE-METZ",
+      "departement": "80",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Claude DUCERT",
+      "mandat": "maire",
+      "territoire": "LABÈGE",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marc LABBEY",
+      "mandat": "conseiller-regional",
+      "departement": "29",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Emmanuel CONSTANT",
+      "mandat": "conseiller-general",
+      "territoire": "NOISY-LE-GRAND",
+      "departement": "93",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre BLAZY",
+      "mandat": "depute",
+      "circonscription": 9,
+      "departement": "95",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yves DEBORD",
+      "mandat": "conseiller-general",
+      "territoire": "AURILLAC-2",
+      "departement": "15",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Olivier RIGAUD",
+      "mandat": "maire",
+      "territoire": "VODABLE",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Sylvie GUILLAUME",
+      "mandat": "conseiller-regional",
+      "departement": "69",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Patrick BEISBARDT",
+      "mandat": "conseiller-general",
+      "territoire": "MIRECOURT",
+      "departement": "88",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Josette MONTECH",
+      "mandat": "maire",
+      "territoire": "VILLANIÈRE",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Nicolle RIMASSON",
+      "mandat": "conseiller-general",
+      "territoire": "DARNÉTAL",
+      "departement": "76",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel TESTON",
+      "mandat": "senateur",
+      "departement": "07",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Hervé PELLOIS",
+      "mandat": "conseiller-general",
+      "territoire": "VANNES-EST",
+      "departement": "56",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard GLEIZES",
+      "mandat": "maire",
+      "territoire": "MONTOULIERS",
+      "departement": "34",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Simone VERDIER",
+      "mandat": "maire",
+      "territoire": "MANSES",
+      "departement": "09",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Philippe DUBOURG",
+      "mandat": "maire",
+      "territoire": "CARCARÈS-SAINTE-CROIX",
+      "departement": "40",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean TKACZUK",
+      "mandat": "maire",
+      "territoire": "LISLE-SUR-TARN",
+      "departement": "81",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel DEVAUX",
+      "mandat": "maire",
+      "territoire": "VALLEROIS-LE-BOIS",
+      "departement": "70",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Béatrice AMOSSE",
+      "mandat": "conseiller-general",
+      "territoire": "BLOIS-5",
+      "departement": "41",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yves LIGIER",
+      "mandat": "maire",
+      "territoire": "LE CHEIX-SUR-MORGE",
+      "departement": "63",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gilbert CHABROUX",
+      "mandat": "senateur",
+      "departement": "69",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard CAPBLANQUET",
+      "mandat": "maire",
+      "territoire": "MARIGNAC-LASCLARES",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierrette ROQUABERT",
+      "mandat": "maire",
+      "territoire": "SANA",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel FLEURY",
+      "mandat": "maire",
+      "territoire": "BEUREY-BAUGUAY",
+      "departement": "21",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude PORTELLA",
+      "mandat": "maire",
+      "territoire": "CERBÈRE",
+      "departement": "66",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean ESMONIN",
+      "mandat": "conseiller-general",
+      "territoire": "CHENOVE",
+      "departement": "21",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pierre CASSAN",
+      "mandat": "maire",
+      "territoire": "ROUTIER",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Joaquim PUEYO",
+      "mandat": "maire",
+      "territoire": "LIVAIE",
+      "departement": "61",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Barthélémy MARIANI",
+      "mandat": "maire",
+      "territoire": "LORGUES",
+      "departement": "83",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert LECAS",
+      "mandat": "maire",
+      "territoire": "MAGNY-COURS",
+      "departement": "58",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Maxime VERDIER",
+      "mandat": "maire",
+      "territoire": "LAVERGNE",
+      "departement": "46",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Yves TONDOUX",
+      "mandat": "maire",
+      "territoire": "POUILLOUX",
+      "departement": "71",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel HERBERT",
+      "mandat": "maire",
+      "territoire": "WIZERNES",
+      "departement": "62",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Isabelle MOUSSANT-BRIQUET",
+      "mandat": "maire",
+      "territoire": "LE PALAIS-SUR-VIENNE",
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean CRUSOL",
+      "mandat": "conseiller-regional",
+      "departement": "972",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Michel PERES",
+      "mandat": "maire",
+      "territoire": "CLERMONT-POUYGUILLÈS",
+      "departement": "32",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Bertrand BRET",
+      "mandat": "conseiller-regional",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Auguste CARABEN",
+      "mandat": "maire",
+      "territoire": "CORBIÈRES",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Luc PERAT",
+      "mandat": "maire",
+      "territoire": "ANOR",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain RODET",
+      "mandat": "depute",
+      "circonscription": 4,
+      "departement": "87",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Léon LABESQUE",
+      "mandat": "maire",
+      "territoire": "LALONQUETTE",
+      "departement": "64",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Ange MORIN",
+      "mandat": "conseiller-regional",
+      "departement": "57",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert CHAPUIS",
+      "mandat": "conseiller-general",
+      "territoire": "VIVIERS",
+      "departement": "07",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Pascal LOPEZ",
+      "mandat": "maire",
+      "territoire": "BUZY",
+      "departement": "64",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Marie BOCKEL",
+      "mandat": "depute",
+      "circonscription": 5,
+      "departement": "68",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Marie-Claude BASCOUL",
+      "mandat": "conseiller-regional",
+      "departement": "81",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Gérard COSME",
+      "mandat": "maire",
+      "territoire": "LE PRÉ-SAINT-GERVAIS",
+      "departement": "93",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Maria GARROUSTE",
+      "mandat": "conseiller-regional",
+      "departement": "47",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Georges EYMERY",
+      "mandat": "conseiller-general",
+      "territoire": "IMPHY",
+      "departement": "58",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Mireille FLAM",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Claude BATEUX",
+      "mandat": "depute",
+      "circonscription": 5,
+      "departement": "76",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "René CANTIE",
+      "mandat": "maire",
+      "territoire": "SAINTE-COLOMBE-SUR-GUETTE",
+      "departement": "11",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert DE MAN",
+      "mandat": "maire",
+      "territoire": "PONT-À-MARCQ",
+      "departement": "59",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Pierre BOUQUET",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-RÉMY-EN-BOUZEMONT",
+      "departement": "51",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Robert NOGUES",
+      "mandat": "conseiller-general",
+      "territoire": "EVRAN",
+      "departement": "22",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Georges MALET",
+      "mandat": "maire",
+      "territoire": "BÉZÉRIL",
+      "departement": "32",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Daniel FRARD",
+      "mandat": "maire",
+      "territoire": "VERNOUILLET",
+      "departement": "28",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jean-Louis ALENA",
+      "mandat": "maire",
+      "territoire": "CARCÈS",
+      "departement": "83",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Alain FAUCONNIER",
+      "mandat": "maire",
+      "territoire": "SAINT-AFFRIQUE",
+      "departement": "12",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Serge ATTALI",
+      "mandat": "maire",
+      "territoire": "CLERMONT-LE-FORT",
+      "departement": "31",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Yves LEONARD",
+      "mandat": "conseiller-regional",
+      "departement": "84",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Patrick MENNUCCI",
+      "mandat": "conseiller-regional",
+      "departement": "13",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Jacques GUYOT",
+      "mandat": "maire",
+      "territoire": "LA SALLE",
+      "departement": "88",
+      "publie_le": "2002-04-10"
+    },
+    {
+      "nom": "Francette GUIBOURT",
+      "mandat": "maire",
+      "territoire": "LA CELLE-EN-MORVAN",
+      "departement": "71",
+      "publie_le": "2002-04-10"
+    }
+  ]
+}

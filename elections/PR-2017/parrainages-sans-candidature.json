@@ -1,0 +1,5783 @@
+{
+  "$schema": "../../schemas/parrainages-sans-candidature.schema.json",
+  "election": "PR-2017",
+  "etendue": "integrale",
+  "publications": [
+    {
+      "date": "2017-03-01",
+      "source": {
+        "id": "conseil-constitutionnel:2017-158-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017158PDR.htm",
+        "commentaire": "Liste du 1er mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-03",
+      "source": {
+        "id": "conseil-constitutionnel:2017-159-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017159PDR.htm",
+        "commentaire": "Liste du 2 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-07",
+      "source": {
+        "id": "conseil-constitutionnel:2017-160-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017160PDR.htm",
+        "commentaire": "Liste du 7 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-10",
+      "source": {
+        "id": "conseil-constitutionnel:2017-161-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017161PDR.htm",
+        "commentaire": "Liste du 9 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-14",
+      "source": {
+        "id": "conseil-constitutionnel:2017-162-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017162PDR.htm",
+        "commentaire": "Liste du 14 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-18",
+      "source": {
+        "id": "conseil-constitutionnel:2017-164-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017164PDR.htm",
+        "commentaire": "Liste du 17 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "beneficiaires": [
+    {
+      "nom_source": "BAROIN François",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "NICOLAS",
+          "prenom": "Thierry",
+          "mandat": "conseiller-regional",
+          "territoire": "Grand Est",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHAUVOT",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Charrey-sur-Seine",
+          "departement": "21",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "SCHULER",
+          "prenom": "Georges",
+          "mandat": "conseiller-regional",
+          "territoire": "Grand Est",
+          "departement": "67",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CAZENAVE",
+          "prenom": "Samuel",
+          "mandat": "conseiller-departemental",
+          "departement": "16",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DUPONT",
+          "prenom": "Thierry",
+          "mandat": "maire",
+          "territoire": "Linthelles",
+          "departement": "51",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DRAPRON",
+          "prenom": "Bruno",
+          "mandat": "conseiller-regional",
+          "territoire": "Nouvelle-Aquitaine",
+          "departement": "17",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "STURMA",
+          "prenom": "Francis",
+          "mandat": "maire",
+          "territoire": "Marimbault",
+          "departement": "33",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "JAY",
+          "prenom": "Xavier",
+          "mandat": "maire",
+          "territoire": "Montigny-les-Monts",
+          "departement": "10",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LANTHIEZ",
+          "prenom": "Raphaële",
+          "mandat": "maire",
+          "territoire": "Soligny-les-Etangs",
+          "departement": "10",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "BENOIST",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Thostes",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "VINCENT",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Vanvey",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "TILQUIN",
+          "prenom": "Eric",
+          "mandat": "maire",
+          "territoire": "Maisey-le-Duc",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "VERPY",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Prusly-sur-Ource",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "THOUEMENT",
+          "prenom": "Marc",
+          "mandat": "maire",
+          "territoire": "Bois-Herpin",
+          "departement": "91",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "SALOMON",
+          "prenom": "Denis",
+          "mandat": "maire",
+          "territoire": "Savoisy",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "PETIT",
+          "prenom": "Jean-Louis",
+          "mandat": "maire",
+          "territoire": "La Motte-Ternant",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "DANREE",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Orvilliers-Saint-Julien",
+          "departement": "10",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "LUCIANI",
+          "prenom": "Marc",
+          "mandat": "maire",
+          "territoire": "Monacia-d'Aullène",
+          "departement": "2A",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "GUYOT",
+          "prenom": "Robert",
+          "mandat": "maire",
+          "territoire": "Mons-en-Laonnois",
+          "departement": "02",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "CRENET",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "Epieds",
+          "departement": "02",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "ZUCCARELLI",
+          "prenom": "Marie",
+          "mandat": "conseiller-departemental",
+          "departement": "2A",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "MATHIEU",
+          "prenom": "Véronique",
+          "mandat": "conseiller-regional",
+          "territoire": "Grand Est",
+          "departement": "88",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEPRINCE",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "Fontvannes",
+          "departement": "10",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "DELOFFRE",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Vandeléville",
+          "departement": "54",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "GUENEAU",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Torcy-et-Pouligny",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "HOUPERT",
+          "prenom": "Alain",
+          "mandat": "senateur",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "GAGNEPAIN",
+          "prenom": "Roger",
+          "mandat": "maire",
+          "territoire": "Antigny-la-Ville",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "JOYEUX",
+          "prenom": "Laurent",
+          "mandat": "maire",
+          "territoire": "Maizeray",
+          "departement": "55",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "RUGGERI-ZANETTACI",
+          "prenom": "Nathalie",
+          "mandat": "conseiller-departemental",
+          "departement": "2A",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "VEJUX",
+          "prenom": "Raphaël",
+          "mandat": "maire",
+          "territoire": "Baulme-la-Roche",
+          "departement": "21",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "HORIOT",
+          "prenom": "Jacky",
+          "mandat": "maire",
+          "territoire": "Vicq",
+          "departement": "52",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "JACQUOT",
+          "prenom": "Denis",
+          "mandat": "maire",
+          "territoire": "Jancigny",
+          "departement": "21",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "FRELIN",
+          "prenom": "Roland",
+          "mandat": "maire",
+          "territoire": "Villemoiron-en-Othe",
+          "departement": "10",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "ANGELY",
+          "prenom": "Jacques",
+          "mandat": "maire",
+          "territoire": "Civrac-sur-Dordogne",
+          "departement": "33",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BAISE",
+          "prenom": "Christian",
+          "mandat": "maire",
+          "territoire": "Saint-Jean-de-Thurigneux",
+          "departement": "01",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "DEPAIX",
+          "prenom": "Régis",
+          "mandat": "maire",
+          "territoire": "Montcornet",
+          "departement": "08",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "CLAIR",
+          "prenom": "Ghislaine",
+          "mandat": "maire",
+          "territoire": "Noë-les-Mallets",
+          "departement": "10",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "FERON",
+          "prenom": "Jacques",
+          "mandat": "maire",
+          "territoire": "Saint-Martin-du-Tertre",
+          "departement": "95",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "ALLAIS",
+          "prenom": "Jack",
+          "mandat": "maire",
+          "territoire": "Saint-Quentin-de-Baron",
+          "departement": "33",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "MARGUET",
+          "prenom": "Gilbert",
+          "mandat": "maire",
+          "territoire": "Gilley",
+          "departement": "25",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LALLEMANT",
+          "prenom": "Jean-François",
+          "mandat": "maire",
+          "territoire": "Arnay-sous-Vitteaux",
+          "departement": "21",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "PIERRE",
+          "prenom": "Nicolas",
+          "mandat": "maire",
+          "territoire": "Gourgeon",
+          "departement": "70",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "SIMONET",
+          "prenom": "Valérie",
+          "mandat": "conseiller-departemental",
+          "departement": "23",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "CHARPIGNON",
+          "prenom": "Sylvie",
+          "mandat": "maire",
+          "territoire": "Santigny",
+          "departement": "89",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "VICTOR",
+          "prenom": "Cyril",
+          "mandat": "conseiller-regional",
+          "territoire": "Nouvelle-Aquitaine",
+          "departement": "23",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "BESSON Eric",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "AARAB",
+          "prenom": "Mounir",
+          "mandat": "conseiller-regional",
+          "territoire": "Auvergne-Rhône-Alpes",
+          "departement": "26",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "BORLOO Jean-Louis",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "LAFOND",
+          "prenom": "Guy",
+          "mandat": "maire",
+          "territoire": "Tailhac",
+          "departement": "43",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "RAHAL",
+          "prenom": "Radya",
+          "mandat": "membre-afe",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "ZOUGGAGH",
+          "prenom": "Karima",
+          "mandat": "conseiller-departemental",
+          "departement": "59",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "CAZENEUVE Bernard",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "MICHEL",
+          "prenom": "Jean",
+          "mandat": "maire",
+          "territoire": "Lapeyrouse",
+          "departement": "63",
+          "publie_le": "2017-03-14"
+        }
+      ]
+    },
+    {
+      "nom_source": "COHN-BENDIT Daniel",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "GATTOLIN",
+          "prenom": "André",
+          "mandat": "senateur",
+          "departement": "92",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "FAUDOT Bastien",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "DURAND",
+          "prenom": "Denis",
+          "mandat": "maire",
+          "territoire": "Bengy-sur-Craon",
+          "departement": "18",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROBIN",
+          "prenom": "Jacques",
+          "mandat": "maire",
+          "territoire": "Saint-Maurice-de-Satonnay",
+          "departement": "71",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "DELORME",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "La Saulsotte",
+          "departement": "10",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "VINZIO",
+          "prenom": "René",
+          "mandat": "maire",
+          "territoire": "Pont-du-Château",
+          "departement": "63",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "SENECHAL",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "Givenchy-en-Gohelle",
+          "departement": "62",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "TRELA",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Boron",
+          "departement": "90",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ALEXANDRE",
+          "prenom": "Jean-Marie",
+          "mandat": "maire",
+          "territoire": "Souchez",
+          "departement": "62",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "HUTIN",
+          "prenom": "Christian",
+          "mandat": "depute",
+          "circonscription": 13,
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "JOUVE",
+          "prenom": "Paul",
+          "mandat": "maire",
+          "territoire": "Etoile-Saint-Cyrice",
+          "departement": "05",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROUX",
+          "prenom": "Jacques",
+          "mandat": "maire",
+          "territoire": "Eyjeaux",
+          "departement": "87",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LE CHAPELAIN",
+          "prenom": "Jean-Luc",
+          "mandat": "maire",
+          "territoire": "Villosanges",
+          "departement": "63",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "VITU",
+          "prenom": "Patrick",
+          "mandat": "maire",
+          "territoire": "Pinon",
+          "departement": "02",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "DIRAND",
+          "prenom": "Jean",
+          "mandat": "maire",
+          "territoire": "Villers-sur-Port",
+          "departement": "70",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "CONNESSON",
+          "prenom": "Jean-Claude",
+          "mandat": "maire",
+          "territoire": "Ménil-la-Horgne",
+          "departement": "55",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "BILLOT",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Vorly",
+          "departement": "18",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "FLEURY",
+          "prenom": "François",
+          "mandat": "maire",
+          "territoire": "Jully",
+          "departement": "89",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "AUDINET",
+          "prenom": "Kléber",
+          "mandat": "maire",
+          "territoire": "Saint-Ciers-d'Abzac",
+          "departement": "33",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LOCH",
+          "prenom": "Josette",
+          "mandat": "maire",
+          "territoire": "Chagey",
+          "departement": "70",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "SZABO",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Estevelles",
+          "departement": "62",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "BRUN",
+          "prenom": "Yves",
+          "mandat": "maire",
+          "territoire": "Athies-sous-Laon",
+          "departement": "02",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "VANDEWALLE",
+          "prenom": "Benoit",
+          "mandat": "conseiller-departemental",
+          "departement": "59",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "FOREST",
+          "prenom": "Christian",
+          "mandat": "maire",
+          "territoire": "Barlieu",
+          "departement": "18",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "PIRE",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Nouvion-le-Vineux",
+          "departement": "02",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "URBANIAK",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Mazingarbe",
+          "departement": "62",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "GAUSSIN",
+          "prenom": "Christian",
+          "mandat": "maire",
+          "territoire": "Saulnot",
+          "departement": "70",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "VIAU",
+          "prenom": "Catherine",
+          "mandat": "maire",
+          "territoire": "Lissay-Lochy",
+          "departement": "18",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "COTELLE",
+          "prenom": "Thierry",
+          "mandat": "conseiller-regional",
+          "territoire": "Occitanie",
+          "departement": "31",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LAURENT",
+          "prenom": "Jean-Luc",
+          "mandat": "depute",
+          "circonscription": 10,
+          "departement": "94",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "NICOLLE",
+          "prenom": "Jean-Marc",
+          "mandat": "maire",
+          "territoire": "Le Kremlin-Bicêtre",
+          "departement": "94",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "GOUE Michaël",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "PLOUVIER",
+          "prenom": "Aimé",
+          "mandat": "maire",
+          "territoire": "Tousson",
+          "departement": "77",
+          "publie_le": "2017-03-10"
+        }
+      ]
+    },
+    {
+      "nom_source": "HENART Laurent",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "HUPPE",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Adissan",
+          "departement": "34",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "LECA",
+          "prenom": "Daniel",
+          "mandat": "conseiller-regional",
+          "territoire": "Hauts-de-France",
+          "departement": "60",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "GAZIN",
+          "prenom": "Mireille",
+          "mandat": "conseiller-regional",
+          "territoire": "Grand Est",
+          "departement": "54",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "JACQUE",
+          "prenom": "Edouard",
+          "mandat": "conseiller-regional",
+          "territoire": "Grand Est",
+          "departement": "54",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "DEBEVE",
+          "prenom": "Christian",
+          "mandat": "conseiller-regional",
+          "territoire": "Grand Est",
+          "departement": "68",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "WEITEN",
+          "prenom": "Patrick",
+          "mandat": "depute",
+          "circonscription": 9,
+          "departement": "57",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DE FIGUEIREDO",
+          "prenom": "Sandrine",
+          "mandat": "conseiller-departemental",
+          "departement": "60",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "HOLLANDE François",
+      "personne": "PE-0065",
+      "nom_complet": "François HOLLANDE",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "MELLET",
+          "prenom": "Éric",
+          "mandat": "maire",
+          "territoire": "Montredon-des-Corbières",
+          "departement": "11",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "PARCHEMINAL",
+          "prenom": "Jean-Michel",
+          "mandat": "maire",
+          "territoire": "Plounéour-Ménez",
+          "departement": "29",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BEDU",
+          "prenom": "Anne-Laure",
+          "mandat": "conseiller-regional",
+          "territoire": "Nouvelle-Aquitaine",
+          "departement": "33",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BONNEFON",
+          "prenom": "Patrick",
+          "mandat": "maire",
+          "territoire": "Carsac-Aillac",
+          "departement": "24",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "DUCHATEAU",
+          "prenom": "André",
+          "mandat": "conseiller-departemental",
+          "departement": "64",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "KEMPF",
+          "prenom": "Suzanne",
+          "mandat": "conseiller-departemental",
+          "departement": "67",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LE DAIN",
+          "prenom": "Anne-Yvonne",
+          "mandat": "depute",
+          "circonscription": 2,
+          "departement": "34",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "JADOT Yannick",
+      "personne": "PE-0074",
+      "nom_complet": "Yannick JADOT",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "PELEGRIN",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Chantecorps",
+          "departement": "79",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "RENOUX",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "La Petite-Marche",
+          "departement": "03",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "VANRECHEM-ROSSETTO",
+          "prenom": "Roxane",
+          "mandat": "maire",
+          "territoire": "Baleyssagues",
+          "departement": "47",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "CLEREMBAUX",
+          "prenom": "Serge",
+          "mandat": "maire",
+          "territoire": "Sainte-Honorine-la-Guillaume",
+          "departement": "61",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LAGARDE",
+          "prenom": "Loïc",
+          "mandat": "maire",
+          "territoire": "Raissac",
+          "departement": "09",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "JOSPIN Lionel",
+      "personne": "PE-0038",
+      "nom_complet": "Lionel JOSPIN",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "ASTOUL",
+          "prenom": "Etienne",
+          "mandat": "maire",
+          "territoire": "Villebrumier",
+          "departement": "82",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "JUPPE Alain",
+      "parrainages": [
+        {
+          "civilite": "Mme",
+          "nom": "JARROT",
+          "prenom": "Marie-Claude",
+          "mandat": "maire",
+          "territoire": "Montceau-les-Mines",
+          "departement": "71",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "DUPUY",
+          "prenom": "Christian",
+          "mandat": "maire",
+          "territoire": "Suresnes",
+          "departement": "92",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LE HELLOCO",
+          "prenom": "Jean-François",
+          "mandat": "conseiller-departemental",
+          "departement": "94",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DE CASTELLANE",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "Annoville",
+          "departement": "50",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FATIN",
+          "prenom": "Florent",
+          "mandat": "maire",
+          "territoire": "Pauillac",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "VITTENET",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Oraison",
+          "departement": "04",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LOUASSIER",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Chepniers",
+          "departement": "17",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GRAND",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Castelnau-le-Lez",
+          "departement": "34",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROUDAUT",
+          "prenom": "Stéphane",
+          "mandat": "maire",
+          "territoire": "Gouesnou",
+          "departement": "29",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "JERRETIE",
+          "prenom": "Christophe",
+          "mandat": "maire",
+          "territoire": "Naves",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GABORIT",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Saint-Front-sur-Nizonne",
+          "departement": "24",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MARTINEAU",
+          "prenom": "Jacky",
+          "mandat": "maire",
+          "territoire": "Brillac",
+          "departement": "16",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "JOBIT",
+          "prenom": "Christian",
+          "mandat": "maire",
+          "territoire": "Graves-Saint-Amant",
+          "departement": "16",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BOHN",
+          "prenom": "Patricia",
+          "mandat": "conseiller-departemental",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "KLUMPP",
+          "prenom": "Théo",
+          "mandat": "maire",
+          "territoire": "Oberhausbergen",
+          "departement": "67",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FERRY",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Wisches",
+          "departement": "67",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GOESTER",
+          "prenom": "Joseph",
+          "mandat": "maire",
+          "territoire": "Zillisheim",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "REY",
+          "prenom": "Emmanuel",
+          "mandat": "maire",
+          "territoire": "Le Rousset-Marizy",
+          "departement": "71",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MENAGER",
+          "prenom": "Louis",
+          "mandat": "maire",
+          "territoire": "Montreuil-sous-Pérouse",
+          "departement": "35",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CUZIN",
+          "prenom": "Jean-Paul",
+          "mandat": "conseiller-departemental",
+          "departement": "63",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BERTHON",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Soisy-sur-Ecole",
+          "departement": "91",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "RAPITEAU",
+          "prenom": "Jean-Michel",
+          "mandat": "maire",
+          "territoire": "Orignolles",
+          "departement": "17",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BRIZION",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "Darmannes",
+          "departement": "52",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEMOINE",
+          "prenom": "Henry",
+          "mandat": "conseiller-regional",
+          "territoire": "Grand Est",
+          "departement": "54",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MANET",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Bruley",
+          "departement": "54",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CLAEYS",
+          "prenom": "Jacques",
+          "mandat": "maire",
+          "territoire": "Gorcy",
+          "departement": "54",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LAPORTE",
+          "prenom": "Yves",
+          "mandat": "maire",
+          "territoire": "Donzenac",
+          "departement": "19",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "MONTEIL",
+          "prenom": "Christian",
+          "mandat": "conseiller-departemental",
+          "departement": "74",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "COURDES",
+          "prenom": "René",
+          "mandat": "maire-delegue",
+          "territoire": "Cœur de Causse",
+          "departement": "46",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LE GRAND",
+          "prenom": "Alain",
+          "mandat": "conseiller-departemental",
+          "departement": "29",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DEGOUY",
+          "prenom": "Jean-Jacques",
+          "mandat": "maire",
+          "territoire": "Litz",
+          "departement": "60",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MAGRIT",
+          "prenom": "Gilles",
+          "mandat": "maire",
+          "territoire": "Le Mas-d'Artige",
+          "departement": "23",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GUILHEM",
+          "prenom": "Bernard",
+          "mandat": "maire-delegue",
+          "territoire": "Bussière-Galant",
+          "departement": "87",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHANCONIE",
+          "prenom": "Jean-Claude",
+          "mandat": "maire",
+          "territoire": "Le Vigen",
+          "departement": "87",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "MATHIEU-PORTEJOIE",
+          "prenom": "Claire",
+          "mandat": "maire",
+          "territoire": "Jenzat",
+          "departement": "03",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LAFAYE",
+          "prenom": "Francis",
+          "mandat": "maire",
+          "territoire": "Montagrier",
+          "departement": "24",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DEPAQUIS",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Vanault-le-Châtel",
+          "departement": "51",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "HASSLER",
+          "prenom": "Daniel",
+          "mandat": "maire",
+          "territoire": "Steinbrunn-le-Bas",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "FELICIAGGI",
+          "prenom": "Isabelle",
+          "mandat": "conseiller-departemental",
+          "departement": "2A",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MUSSO",
+          "prenom": "Ange",
+          "mandat": "maire",
+          "territoire": "Le Revest-les-Eaux",
+          "departement": "83",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "JULAUD",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "La Chapelle-de-Brain",
+          "departement": "35",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GENEST",
+          "prenom": "Jacques",
+          "mandat": "senateur",
+          "departement": "07",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DUBECHOT",
+          "prenom": "Claudine",
+          "mandat": "maire",
+          "territoire": "Heiltz-le-Maurupt",
+          "departement": "51",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "POIRET",
+          "prenom": "Christian",
+          "mandat": "conseiller-departemental",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LECERF",
+          "prenom": "Jean-René",
+          "mandat": "conseiller-departemental",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MEARY",
+          "prenom": "Nicolas",
+          "mandat": "maire",
+          "territoire": "Brétigny-sur-Orge",
+          "departement": "91",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LECOQ",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire-arrondissement",
+          "departement": "75",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "MONTANDON",
+          "prenom": "Valérie",
+          "mandat": "conseiller-paris",
+          "departement": "75",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "THOUROUDE",
+          "prenom": "Jacques",
+          "mandat": "conseiller-departemental",
+          "departement": "81",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GUIARD",
+          "prenom": "Franck",
+          "mandat": "maire",
+          "territoire": "Audigny",
+          "departement": "02",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FONTAINE",
+          "prenom": "Patrice",
+          "mandat": "conseiller-departemental",
+          "departement": "60",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LAPORTE",
+          "prenom": "Franck",
+          "mandat": "maire",
+          "territoire": "Talais",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "NETZER",
+          "prenom": "Jean-Lucien",
+          "mandat": "maire",
+          "territoire": "Bischwiller",
+          "departement": "67",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEYMONIE",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Mauriac",
+          "departement": "15",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LONGEOT",
+          "prenom": "Jean-François",
+          "mandat": "senateur",
+          "departement": "25",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "THOMAS",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "Saint-Maurice-en-Rivière",
+          "departement": "71",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BECART",
+          "prenom": "Jeanne",
+          "mandat": "conseiller-departemental",
+          "departement": "92",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DELATTRE",
+          "prenom": "Francis",
+          "mandat": "maire",
+          "territoire": "Franconville",
+          "departement": "95",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FORIN",
+          "prenom": "François",
+          "mandat": "maire",
+          "territoire": "Lucey",
+          "departement": "54",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DE GOUVION SAINT CYR",
+          "prenom": "Laurent",
+          "mandat": "president-communaute",
+          "territoire": "Territoire de Lunéville à Baccarat",
+          "departement": "54",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DEBET",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Badefols-d'Ans",
+          "departement": "24",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GALLET",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Curtafond",
+          "departement": "01",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FABRY",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Verges",
+          "departement": "39",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DESCROUET",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Serris",
+          "departement": "77",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "COLLANGE",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Neuville-sur-Ailette",
+          "departement": "02",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEVEQUE",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Montgru-Saint-Hilaire",
+          "departement": "02",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MAURS",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Saint-Cirgues-de-Jordanne",
+          "departement": "15",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEFEBVRE",
+          "prenom": "Daniel",
+          "mandat": "maire",
+          "territoire": "Sonnac-sur-l'Hers",
+          "departement": "11",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHARRON",
+          "prenom": "Pierre-Yves",
+          "mandat": "maire",
+          "territoire": "Soussans",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "RODIER",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Saint-Pierre-lès-Nemours",
+          "departement": "77",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FONTAINE",
+          "prenom": "Jean-Paul",
+          "mandat": "conseiller-regional",
+          "territoire": "Hauts-de-France",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "HUGUET",
+          "prenom": "Patrick",
+          "mandat": "conseiller-metropolitain-lyon",
+          "departement": "69",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "TRIQUART",
+          "prenom": "Stéphane",
+          "mandat": "maire",
+          "territoire": "Mussidan",
+          "departement": "24",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BONNOT",
+          "prenom": "Sylviane",
+          "mandat": "maire-delegue",
+          "territoire": "Le Rousset-Marizy",
+          "departement": "71",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "RIESTER",
+          "prenom": "Franck",
+          "mandat": "depute",
+          "circonscription": 5,
+          "departement": "77",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DEZOBRY",
+          "prenom": "Hervé",
+          "mandat": "maire",
+          "territoire": "Le Mesnil-Aubry",
+          "departement": "95",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "HONORE",
+          "prenom": "Christian",
+          "mandat": "conseiller-paris",
+          "departement": "75",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEGARET",
+          "prenom": "Jean-François",
+          "mandat": "maire-arrondissement",
+          "departement": "75",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "CHEVAUCHER",
+          "prenom": "Aline",
+          "mandat": "conseiller-departemental",
+          "departement": "29",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FLOCH",
+          "prenom": "Nicolas",
+          "mandat": "maire",
+          "territoire": "Saint-Pol-de-Léon",
+          "departement": "29",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "COROLLEUR",
+          "prenom": "Antoine",
+          "mandat": "maire",
+          "territoire": "Plourin",
+          "departement": "29",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FIOCCA",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "Belforêt-en-Perche",
+          "departement": "61",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GALLETTI",
+          "prenom": "Jean-Claude",
+          "mandat": "maire",
+          "territoire": "Pietracorbara",
+          "departement": "2B",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "APHATIE",
+          "prenom": "Marie",
+          "mandat": "maire",
+          "territoire": "Saint-Vincent-de-Tyrosse",
+          "departement": "40",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CAYLA",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "Brommat",
+          "departement": "12",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOUVET",
+          "prenom": "Jean-Pierre",
+          "mandat": "conseiller-departemental",
+          "departement": "13",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "RAULT",
+          "prenom": "Denis",
+          "mandat": "maire-delegue",
+          "territoire": "Sartilly-Baie-Bocage",
+          "departement": "50",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GRAVELAT",
+          "prenom": "Stephan",
+          "mandat": "maire",
+          "territoire": "Les Monts d'Andaine",
+          "departement": "61",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BIBOLLET",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "Thônes",
+          "departement": "74",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BERTHET",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Sarrant",
+          "departement": "32",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BENQUET",
+          "prenom": "Daniel",
+          "mandat": "maire",
+          "territoire": "Marmande",
+          "departement": "47",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CLAVIER",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Pujols-sur-Ciron",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "RAYNAL",
+          "prenom": "Franck",
+          "mandat": "maire",
+          "territoire": "Pessac",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FAVARD",
+          "prenom": "Patrice",
+          "mandat": "maire",
+          "territoire": "Ribérac",
+          "departement": "24",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "TEISSERE",
+          "prenom": "Patrick",
+          "mandat": "conseiller-departemental",
+          "departement": "76",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MONNET",
+          "prenom": "Michel",
+          "mandat": "maire-delegue",
+          "territoire": "Fursac",
+          "departement": "23",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LAVASTROU",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "La Chapelle-aux-Saints",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "PION",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Ménétréols-sous-Vatan",
+          "departement": "36",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MUNCK",
+          "prenom": "Marc",
+          "mandat": "maire",
+          "territoire": "Ottmarsheim",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROSSI",
+          "prenom": "Mario",
+          "mandat": "conseiller-departemental",
+          "departement": "51",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "CHOUBAT",
+          "prenom": "Chantal",
+          "mandat": "maire",
+          "territoire": "Juvigny",
+          "departement": "51",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "KLINKERT",
+          "prenom": "Brigitte",
+          "mandat": "conseiller-departemental",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "SCHMIDT",
+          "prenom": "Simon",
+          "mandat": "maire",
+          "territoire": "Oermingen",
+          "departement": "67",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FALQUE",
+          "prenom": "Armand",
+          "mandat": "maire",
+          "territoire": "Vaux-devant-Damloup",
+          "departement": "55",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "REYNAUD",
+          "prenom": "Jean-Michel",
+          "mandat": "maire",
+          "territoire": "Albiez-le-Jeune",
+          "departement": "73",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "SAINT-ANDRE",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Les Mars",
+          "departement": "23",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BRUT",
+          "prenom": "Jean-Marc",
+          "mandat": "maire",
+          "territoire": "Cublac",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GOUEROU",
+          "prenom": "Jacques",
+          "mandat": "conseiller-departemental",
+          "departement": "29",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHEMIN",
+          "prenom": "Daniel",
+          "mandat": "maire-delegue",
+          "territoire": "Belforêt-en-Perche",
+          "departement": "61",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LINDET",
+          "prenom": "Patrick",
+          "mandat": "conseiller-departemental",
+          "departement": "61",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROIG",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "Sainte-Marie-la-mer",
+          "departement": "66",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MATHAN",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Belmont",
+          "departement": "38",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "PYPE",
+          "prenom": "Denis",
+          "mandat": "conseiller-regional",
+          "territoire": "Hauts-de-France",
+          "departement": "60",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LE FORMAL",
+          "prenom": "Adrien",
+          "mandat": "maire",
+          "territoire": "Plouhinec",
+          "departement": "56",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "FRANCINGUE",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Organ",
+          "departement": "65",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DUFLOUCQ",
+          "prenom": "Patrick",
+          "mandat": "maire",
+          "territoire": "Estrées-sur-Noye",
+          "departement": "80",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "PAUMIER",
+          "prenom": "Jean-Gérard",
+          "mandat": "conseiller-departemental",
+          "departement": "37",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BELLUROT",
+          "prenom": "Nadine",
+          "mandat": "maire",
+          "territoire": "Reuilly",
+          "departement": "36",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DHERSIN",
+          "prenom": "Franck",
+          "mandat": "maire",
+          "territoire": "Téteghem-Coudekerque-Village",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BESNARD",
+          "prenom": "Max",
+          "mandat": "maire",
+          "territoire": "Dierre",
+          "departement": "37",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "REAULT",
+          "prenom": "Didier",
+          "mandat": "conseiller-departemental",
+          "departement": "13",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "SARDELLA",
+          "prenom": "Serge",
+          "mandat": "conseiller-departemental",
+          "departement": "04",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BARRET",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Santes",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DUPONT",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Boussières-sur-Sambre",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "SAGNIEZ",
+          "prenom": "Paul",
+          "mandat": "maire",
+          "territoire": "Solesmes",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MARTIN",
+          "prenom": "José",
+          "mandat": "maire",
+          "territoire": "Villers-sur-le-Roule",
+          "departement": "27",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "PIERRET",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Drocourt",
+          "departement": "78",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DENAMIEL",
+          "prenom": "Alexandre",
+          "mandat": "maire",
+          "territoire": "Pézarches",
+          "departement": "77",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "VANDEWOESTYNE",
+          "prenom": "Martial",
+          "mandat": "maire",
+          "territoire": "Lambres-lez-Douai",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "THIBAUDEAU-RAINOT",
+          "prenom": "Florence",
+          "mandat": "conseiller-departemental",
+          "departement": "76",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MARSALEIX",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "Saint-Bonnet-l'Enfantier",
+          "departement": "19",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "DIAMANTIDIS",
+          "prenom": "Pierre",
+          "mandat": "conseiller-metropolitain-lyon",
+          "departement": "69",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "VIOSSAT",
+          "prenom": "Marc",
+          "mandat": "conseiller-departemental",
+          "departement": "05",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GAUTIER",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "Les Alluets-le-Roi",
+          "departement": "78",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "REMY",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Grandfontaine",
+          "departement": "67",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "FARGETAS",
+          "prenom": "Josette",
+          "mandat": "maire",
+          "territoire": "Juillac",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOISSELET",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Givrezac",
+          "departement": "17",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "TALLIEU",
+          "prenom": "Jean-Pierre",
+          "mandat": "president-communaute",
+          "territoire": "Royan Atlantique",
+          "departement": "17",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BACHELLERIE",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Vineuil",
+          "departement": "36",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BERNARD",
+          "prenom": "Jean-Marie",
+          "mandat": "conseiller-regional",
+          "territoire": "Normandie",
+          "departement": "14",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GARY",
+          "prenom": "Yves",
+          "mandat": "maire",
+          "territoire": "Turenne",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BONNE",
+          "prenom": "Bernard",
+          "mandat": "conseiller-departemental",
+          "departement": "42",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "AOÛT",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Chapelle-Spinasse",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LIGIER",
+          "prenom": "Jean-François",
+          "mandat": "maire",
+          "territoire": "Houtaud",
+          "departement": "25",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHALMIN",
+          "prenom": "Thierry",
+          "mandat": "maire-delegue",
+          "territoire": "Soing-Cubry-Charentenay",
+          "departement": "70",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BRIDE",
+          "prenom": "Marcel",
+          "mandat": "maire",
+          "territoire": "Marnézia",
+          "departement": "39",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ALPY",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Frasne",
+          "departement": "25",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BREUILLOT",
+          "prenom": "Laurence",
+          "mandat": "maire",
+          "territoire": "Chenecey-Buillon",
+          "departement": "25",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "VANDEPUTTE",
+          "prenom": "Thierry",
+          "mandat": "maire",
+          "territoire": "Broyes",
+          "departement": "60",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GARNIER",
+          "prenom": "Christian",
+          "mandat": "maire-delegue",
+          "territoire": "Saint Antoine l'Abbaye",
+          "departement": "38",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BUR",
+          "prenom": "Yves",
+          "mandat": "maire",
+          "territoire": "Lingolsheim",
+          "departement": "67",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "COSTES",
+          "prenom": "Marie",
+          "mandat": "conseiller-regional",
+          "territoire": "Nouvelle-Aquitaine",
+          "departement": "47",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROCHE",
+          "prenom": "André",
+          "mandat": "maire",
+          "territoire": "Saint-Georges-Lagricol",
+          "departement": "43",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "NURY",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "Laurac-en-Vivarais",
+          "departement": "07",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LACHAIZE",
+          "prenom": "Sylvie",
+          "mandat": "conseiller-departemental",
+          "departement": "15",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "GIRARD",
+          "prenom": "Catherine",
+          "mandat": "maire",
+          "territoire": "Sampigny-lès-Maranges",
+          "departement": "71",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROUSSELIN",
+          "prenom": "Jean-Louis",
+          "mandat": "conseiller-departemental",
+          "departement": "76",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LUBERRIAGA",
+          "prenom": "Bénédicte",
+          "mandat": "conseiller-departemental",
+          "departement": "64",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DAMART",
+          "prenom": "Daniel",
+          "mandat": "conseiller-departemental",
+          "departement": "62",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MANYA",
+          "prenom": "Jacques",
+          "mandat": "maire",
+          "territoire": "Collioure",
+          "departement": "66",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LANSAMAN",
+          "prenom": "Serge",
+          "mandat": "maire",
+          "territoire": "Hagetmau",
+          "departement": "40",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LOTHAIRE",
+          "prenom": "Pierre",
+          "mandat": "conseiller-departemental",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHEVREAU",
+          "prenom": "Hervé",
+          "mandat": "maire",
+          "territoire": "Epinay-sur-Seine",
+          "departement": "93",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "SCHLESINGER",
+          "prenom": "Matthieu",
+          "mandat": "maire",
+          "territoire": "Olivet",
+          "departement": "45",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "OCTEAU",
+          "prenom": "Bernadette",
+          "mandat": "maire",
+          "territoire": "Saint-Sigismond-de-Clermont",
+          "departement": "17",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DE GERMAY",
+          "prenom": "Aymar",
+          "mandat": "maire",
+          "territoire": "Marmagne",
+          "departement": "18",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DUVAULT",
+          "prenom": "Michelle",
+          "mandat": "maire",
+          "territoire": "Pont-de-Ruan",
+          "departement": "37",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHASSEING",
+          "prenom": "Daniel",
+          "mandat": "senateur",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MARTY",
+          "prenom": "Pascal",
+          "mandat": "maire",
+          "territoire": "Saint-Aubin-de-Cadelech",
+          "departement": "24",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BARRERE",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Lavardac",
+          "departement": "47",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "KERRIEN",
+          "prenom": "Marc",
+          "mandat": "maire",
+          "territoire": "Noyal-Pontivy",
+          "departement": "56",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LAURET",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Saint-Emilion",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "VINCENT",
+          "prenom": "Dominique",
+          "mandat": "conseiller-departemental",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOURRAS",
+          "prenom": "Guy",
+          "mandat": "maire",
+          "territoire": "Saint-Julien-du-Sault",
+          "departement": "89",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "CORBET-TRONEL",
+          "prenom": "Catherine",
+          "mandat": "maire",
+          "territoire": "Argentenay",
+          "departement": "89",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GRIS",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Louverot (Le)",
+          "departement": "39",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "PICARD - VOLPILHAC",
+          "prenom": "Anne-Marie",
+          "mandat": "conseiller-departemental",
+          "departement": "63",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DUBOIS",
+          "prenom": "Madeleine",
+          "mandat": "conseiller-departemental",
+          "departement": "43",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "COUCHE",
+          "prenom": "Valérie",
+          "mandat": "maire-delegue",
+          "territoire": "Celles-sur-Belle",
+          "departement": "79",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHATAIGNER",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "La Meilleraie-Tillay",
+          "departement": "85",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GONZALVEZ",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "L'Isle-sur-la-Sorgue",
+          "departement": "84",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LE GALL",
+          "prenom": "Jean-Noël",
+          "mandat": "maire",
+          "territoire": "Irvillac",
+          "departement": "29",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "NESPOULOUS",
+          "prenom": "Régine",
+          "mandat": "maire",
+          "territoire": "Durenque",
+          "departement": "12",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOURGEON",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Illartein",
+          "departement": "09",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "D'ANGLADE",
+          "prenom": "Jean-Louis",
+          "mandat": "maire",
+          "territoire": "Abzac",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BELIN",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Le Triadou",
+          "departement": "34",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "CARABELLI-SEJEAN",
+          "prenom": "Jacqueline",
+          "mandat": "maire",
+          "territoire": "Poilhes",
+          "departement": "34",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "TOULZA",
+          "prenom": "Gilles",
+          "mandat": "conseiller-departemental",
+          "departement": "87",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LE LANNIC",
+          "prenom": "Geneviève",
+          "mandat": "maire",
+          "territoire": "Monteton",
+          "departement": "47",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "VEGEE",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Tessé-Froulay",
+          "departement": "61",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "THEVENON",
+          "prenom": "Raphaël",
+          "mandat": "maire",
+          "territoire": "Esserts-Blay",
+          "departement": "73",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GENDRE",
+          "prenom": "Léon",
+          "mandat": "maire",
+          "territoire": "La Flotte",
+          "departement": "17",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BLIN",
+          "prenom": "Francis",
+          "mandat": "maire",
+          "territoire": "Trigny",
+          "departement": "51",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BAYER",
+          "prenom": "Jean-Jacques",
+          "mandat": "maire",
+          "territoire": "La Porte du Der",
+          "departement": "52",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHERON",
+          "prenom": "James",
+          "mandat": "conseiller-regional",
+          "territoire": "Île-de-France",
+          "departement": "77",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEUWERS",
+          "prenom": "René",
+          "mandat": "maire",
+          "territoire": "Paillart",
+          "departement": "60",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LOISIER",
+          "prenom": "Anne-Catherine",
+          "mandat": "senateur",
+          "departement": "21",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MARIS",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Godewaersvelde",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "RUSIN",
+          "prenom": "Isabelle",
+          "mandat": "maire",
+          "territoire": "Epiais-lès-Louvres",
+          "departement": "95",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "REBOURGEON",
+          "prenom": "Jean-Pierre",
+          "mandat": "conseiller-departemental",
+          "departement": "21",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MELE",
+          "prenom": "Eric",
+          "mandat": "maire",
+          "territoire": "Gourdon",
+          "departement": "06",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BARRIOL",
+          "prenom": "Denis",
+          "mandat": "maire",
+          "territoire": "Genilac",
+          "departement": "42",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "JUGIEU",
+          "prenom": "André",
+          "mandat": "maire",
+          "territoire": "La Trinitat",
+          "departement": "15",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "VALADE",
+          "prenom": "Jean",
+          "mandat": "maire",
+          "territoire": "Liginiac",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DASSIER",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Fontaine-la-Guyon",
+          "departement": "28",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ASSIER",
+          "prenom": "Ludovic",
+          "mandat": "conseiller-regional",
+          "territoire": "Normandie",
+          "departement": "61",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "NOUGEIN",
+          "prenom": "Claude",
+          "mandat": "senateur",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "FRIMIGACCI",
+          "prenom": "Lucie",
+          "mandat": "conseiller-departemental",
+          "departement": "2A",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MONTASSIER",
+          "prenom": "Wilfrid",
+          "mandat": "maire",
+          "territoire": "La Rabatelière",
+          "departement": "85",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "COYON",
+          "prenom": "Christian",
+          "mandat": "maire",
+          "territoire": "Ville-sur-Tourbe",
+          "departement": "51",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "PESTRE",
+          "prenom": "Isabelle",
+          "mandat": "conseiller-regional",
+          "territoire": "Grand Est",
+          "departement": "51",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "THORAVAL",
+          "prenom": "Marie-Hélène",
+          "mandat": "maire",
+          "territoire": "Romans-sur-Isère",
+          "departement": "26",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GRANGER",
+          "prenom": "Michel",
+          "mandat": "maire-delegue",
+          "territoire": "Balleroy-sur-Drôme",
+          "departement": "14",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BRETAGNE",
+          "prenom": "Evelyne",
+          "mandat": "conseiller-departemental",
+          "departement": "81",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "ARTHAUD-BERTHET",
+          "prenom": "Gaston",
+          "mandat": "conseiller-departemental",
+          "departement": "73",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MACE",
+          "prenom": "Denis",
+          "mandat": "maire",
+          "territoire": "Valbonnais",
+          "departement": "38",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "PANNEKOUCKE",
+          "prenom": "Fabrice",
+          "mandat": "maire",
+          "territoire": "Moûtiers",
+          "departement": "73",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "OMEYER",
+          "prenom": "Jean-Paul",
+          "mandat": "conseiller-regional",
+          "territoire": "Grand Est",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "WITH",
+          "prenom": "Rémi",
+          "mandat": "conseiller-departemental",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEFEVRE",
+          "prenom": "Franck",
+          "mandat": "conseiller-paris",
+          "departement": "75",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "HUIN",
+          "prenom": "Christian",
+          "mandat": "maire",
+          "territoire": "Germiny",
+          "departement": "54",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "JOSEPH",
+          "prenom": "Jean-Paul",
+          "mandat": "maire",
+          "territoire": "Bandol",
+          "departement": "83",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "RICHARD",
+          "prenom": "Jean",
+          "mandat": "maire",
+          "territoire": "Lac-des-Rouges-Truites",
+          "departement": "39",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BURTIN",
+          "prenom": "Roger",
+          "mandat": "maire",
+          "territoire": "Mary",
+          "departement": "71",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GIRON",
+          "prenom": "Jean-Jacques",
+          "mandat": "maire",
+          "territoire": "Boncourt-sur-Meuse",
+          "departement": "55",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "PONTLEVE",
+          "prenom": "Chantal",
+          "mandat": "maire",
+          "territoire": "Sceaux-du-Gâtinais",
+          "departement": "45",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "QUINTARD",
+          "prenom": "Jean-Claude",
+          "mandat": "maire",
+          "territoire": "Vert-le-Grand",
+          "departement": "91",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "GALAUD",
+          "prenom": "Samuel",
+          "mandat": "maire",
+          "territoire": "Bierre-lès-Semur",
+          "departement": "21",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "KELLER",
+          "prenom": "Fabienne",
+          "mandat": "senateur",
+          "departement": "67",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BZDAK",
+          "prenom": "Luc",
+          "mandat": "maire",
+          "territoire": "Coulommes-la-Montagne",
+          "departement": "51",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LALLE",
+          "prenom": "Jean-Michel",
+          "mandat": "maire",
+          "territoire": "Rodelle",
+          "departement": "12",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GABOUTY",
+          "prenom": "Jean-Marc",
+          "mandat": "senateur",
+          "departement": "87",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "COINAUD",
+          "prenom": "Pierre",
+          "mandat": "conseiller-regional",
+          "territoire": "Nouvelle-Aquitaine",
+          "departement": "87",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "CAMPODARVE",
+          "prenom": "Caroline",
+          "mandat": "conseiller-departemental",
+          "departement": "17",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "RACHESBOEUF",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Dury",
+          "departement": "02",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "EELBODE",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "Cocherel",
+          "departement": "77",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CARLE",
+          "prenom": "Lucien",
+          "mandat": "maire",
+          "territoire": "Surcamps",
+          "departement": "80",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "COMYN",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Tilloloy",
+          "departement": "80",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LENOIR",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Equirre",
+          "departement": "62",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LAFFINEUR",
+          "prenom": "Marc",
+          "mandat": "depute",
+          "circonscription": 7,
+          "departement": "49",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "PIRON",
+          "prenom": "Michel",
+          "mandat": "depute",
+          "circonscription": 4,
+          "departement": "49",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "WAYMEL",
+          "prenom": "Philippe",
+          "mandat": "conseiller-departemental",
+          "departement": "59",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GUILLON",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Saint-Pardoult",
+          "departement": "17",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "PEYRET",
+          "prenom": "Franck",
+          "mandat": "conseiller-departemental",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "REYNAL",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Astaillac",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CAYRE",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Beaulieu-sur-Dordogne",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DELPECH",
+          "prenom": "Jean-Jacques",
+          "mandat": "conseiller-departemental",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "CORCORAL",
+          "prenom": "Christine",
+          "mandat": "maire",
+          "territoire": "Vars-sur-Roseix",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROUANNE",
+          "prenom": "Hervé",
+          "mandat": "maire",
+          "territoire": "Goulles",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "QUEYREL-PEYRAMAURE",
+          "prenom": "Annie",
+          "mandat": "conseiller-departemental",
+          "departement": "19",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ALPHA",
+          "prenom": "Tearii",
+          "mandat": "maire",
+          "territoire": "Teva I Uta",
+          "departement": "987",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "GRENIER",
+          "prenom": "Maryvonne",
+          "mandat": "conseiller-departemental",
+          "departement": "05",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DELDOULI",
+          "prenom": "Najat",
+          "mandat": "conseiller-departemental",
+          "departement": "19",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEYGNAC",
+          "prenom": "Jean-Claude",
+          "mandat": "conseiller-departemental",
+          "departement": "19",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "ALRIVIE",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Sexcles",
+          "departement": "19",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "LASSERRE",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Bassignac-le-Bas",
+          "departement": "19",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "ZECCHINI",
+          "prenom": "Alphonse",
+          "mandat": "maire",
+          "territoire": "Juillac",
+          "departement": "33",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "CALMEL",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Sauveterre-la-Lémance",
+          "departement": "47",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LEFEBVRE",
+          "prenom": "Guylaine",
+          "mandat": "conseiller-departemental",
+          "departement": "04",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "BAJAZET",
+          "prenom": "Clodomir",
+          "mandat": "conseiller-departemental",
+          "departement": "971",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "PAUVREHOMME",
+          "prenom": "Pascal",
+          "mandat": "maire",
+          "territoire": "Sainte-Lizaigne",
+          "departement": "36",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DE PELICHY",
+          "prenom": "Constance",
+          "mandat": "maire",
+          "territoire": "La Ferté-Saint-Aubin",
+          "departement": "45",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "POUJON",
+          "prenom": "Jean-Paul",
+          "mandat": "maire",
+          "territoire": "Saint-Martin-de-Lerm",
+          "departement": "33",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "CAVAILLOLS",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Barsac",
+          "departement": "33",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOUCHER",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Bouquelon",
+          "departement": "27",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "SCHMIT",
+          "prenom": "Jean",
+          "mandat": "maire",
+          "territoire": "Juaye-Mondaye",
+          "departement": "14",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "LAMBERT",
+          "prenom": "Jean-Marie",
+          "mandat": "maire",
+          "territoire": "Varennes-en-Argonne",
+          "departement": "55",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "DEMANGE",
+          "prenom": "Stéphane",
+          "mandat": "maire",
+          "territoire": "Ban-de-Laveline",
+          "departement": "88",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "PEYRAC",
+          "prenom": "Jean-Paul",
+          "mandat": "maire",
+          "territoire": "Palmas d'Aveyron",
+          "departement": "12",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "GARCIA",
+          "prenom": "Miguel",
+          "mandat": "maire",
+          "territoire": "Veyreau",
+          "departement": "12",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "MONNET",
+          "prenom": "Lionel",
+          "mandat": "maire-delegue",
+          "territoire": "Val des Vignes",
+          "departement": "16",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "FERRAU",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Behren-lès-Forbach",
+          "departement": "57",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "GALLAND",
+          "prenom": "Daniel",
+          "mandat": "conseiller-departemental",
+          "departement": "05",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "VALLETOUX",
+          "prenom": "Frédéric",
+          "mandat": "maire",
+          "territoire": "Fontainebleau",
+          "departement": "77",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "NAY",
+          "prenom": "Cécile",
+          "mandat": "conseiller-departemental",
+          "departement": "29",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "MESSAGER",
+          "prenom": "Raymond",
+          "mandat": "conseiller-departemental",
+          "departement": "29",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "PEYRONDET",
+          "prenom": "Laurent",
+          "mandat": "maire",
+          "territoire": "Lacanau",
+          "departement": "33",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "COGNETTI",
+          "prenom": "Vincent",
+          "mandat": "maire",
+          "territoire": "Morosaglia",
+          "departement": "2B",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "MALNOURY",
+          "prenom": "Xavier",
+          "mandat": "maire",
+          "territoire": "Semond",
+          "departement": "21",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "MAROANUI",
+          "prenom": "Rodrigue",
+          "mandat": "maire-delegue",
+          "territoire": "Rurutu",
+          "departement": "987",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROOMATAAROA",
+          "prenom": "Firmin",
+          "mandat": "maire-delegue",
+          "territoire": "Rurutu",
+          "departement": "987",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "MOEAU",
+          "prenom": "Dominique",
+          "mandat": "maire-delegue",
+          "territoire": "Rurutu",
+          "departement": "987",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "POMPONI",
+          "prenom": "Paul-François",
+          "mandat": "maire",
+          "territoire": "Rezza",
+          "departement": "2A",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "TURK",
+          "prenom": "Alex",
+          "mandat": "senateur",
+          "departement": "59",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "MANGON",
+          "prenom": "Jacques",
+          "mandat": "maire",
+          "territoire": "Saint-Médard-en-Jalles",
+          "departement": "33",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEBARON",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Clitourps",
+          "departement": "50",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "DELPECH",
+          "prenom": "Laurent",
+          "mandat": "maire",
+          "territoire": "Dampmart",
+          "departement": "77",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "TOLETTI",
+          "prenom": "Daniel",
+          "mandat": "maire",
+          "territoire": "Peillonnex",
+          "departement": "74",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "JACQUET",
+          "prenom": "Anne-Lise",
+          "mandat": "maire",
+          "territoire": "Artigues-près-Bordeaux",
+          "departement": "33",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "MASSON",
+          "prenom": "Jean-Gabriel",
+          "mandat": "maire",
+          "territoire": "Fromelles",
+          "departement": "59",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "OCTRU",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Claix",
+          "departement": "38",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "FOXONET",
+          "prenom": "Gilles",
+          "mandat": "maire",
+          "territoire": "Baixas",
+          "departement": "66",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "LETRILLART",
+          "prenom": "Benoît",
+          "mandat": "maire",
+          "territoire": "Cutry",
+          "departement": "02",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "RINGUET",
+          "prenom": "François",
+          "mandat": "maire",
+          "territoire": "Kourou",
+          "departement": "973",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "JEAN",
+          "prenom": "Élainne",
+          "mandat": "membre-assemblee-outre-mer",
+          "departement": "973",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "MAESTRACCI",
+          "prenom": "Pierre-Baptiste",
+          "mandat": "maire",
+          "territoire": "Ville-di-Paraso",
+          "departement": "2B",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHOSSAT DE MONTBURON",
+          "prenom": "Jacques",
+          "mandat": "maire",
+          "territoire": "Pagny-le-Château",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "TEMEHARO",
+          "prenom": "René",
+          "mandat": "membre-assemblee-outre-mer",
+          "departement": "987",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHOISNEL",
+          "prenom": "Nicolas",
+          "mandat": "maire",
+          "territoire": "Moncrabeau",
+          "departement": "47",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOULY",
+          "prenom": "Serge",
+          "mandat": "maire",
+          "territoire": "Laneuveville-devant-Nancy",
+          "departement": "54",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "BIGNON",
+          "prenom": "Daniel",
+          "mandat": "maire",
+          "territoire": "Montmiral",
+          "departement": "26",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "EUDES",
+          "prenom": "Rémy",
+          "mandat": "maire",
+          "territoire": "Saint-Marcouf",
+          "departement": "14",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "LACAM",
+          "prenom": "Guy",
+          "mandat": "maire",
+          "territoire": "Ydes",
+          "departement": "15",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "SUBLON",
+          "prenom": "Yves",
+          "mandat": "conseiller-departemental",
+          "departement": "67",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "COQUARD",
+          "prenom": "Bertrand",
+          "mandat": "conseiller-departemental",
+          "departement": "78",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "PINET",
+          "prenom": "Françoise",
+          "mandat": "conseiller-departemental",
+          "departement": "05",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LAGARDE",
+          "prenom": "Sonia",
+          "mandat": "depute",
+          "circonscription": 1,
+          "departement": "988",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "DUPONT",
+          "prenom": "Jean-Marie",
+          "mandat": "maire",
+          "territoire": "Branne",
+          "departement": "33",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "RAULO",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Cressy-sur-Somme",
+          "departement": "71",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHAUSSEE",
+          "prenom": "Daniel",
+          "mandat": "maire",
+          "territoire": "Armoy",
+          "departement": "74",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "DUPONT",
+          "prenom": "Jean-Paul",
+          "mandat": "maire",
+          "territoire": "Donnemain-Saint-Mamès",
+          "departement": "28",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEMAIRE",
+          "prenom": "Jean-Christophe",
+          "mandat": "conseiller-departemental",
+          "departement": "76",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "HELARD",
+          "prenom": "Eric",
+          "mandat": "conseiller-paris",
+          "departement": "75",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "KANNER Patrick",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "ZIENTEK",
+          "prenom": "Ludovic",
+          "mandat": "maire",
+          "territoire": "Bouchain",
+          "departement": "59",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "KOSCIUSKO-MORIZET Nathalie",
+      "parrainages": [
+        {
+          "civilite": "Mme",
+          "nom": "PRUNIER",
+          "prenom": "Valérie",
+          "mandat": "conseiller-departemental",
+          "departement": "63",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "LAINE Camille",
+      "parrainages": [
+        {
+          "civilite": "Mme",
+          "nom": "BIDARD",
+          "prenom": "Hélène",
+          "mandat": "conseiller-paris",
+          "departement": "75",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "LEMAIRE Bruno",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "LAINE",
+          "prenom": "Laurent",
+          "mandat": "maire",
+          "territoire": "Martagny",
+          "departement": "27",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "MARCHANDISE Charlotte",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "GLORIA",
+          "prenom": "Fabrice",
+          "mandat": "maire",
+          "territoire": "Moulins-la-Marche",
+          "departement": "61",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "DORANLO",
+          "prenom": "Henri",
+          "mandat": "maire",
+          "territoire": "Maxent",
+          "departement": "35",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "VINCENT",
+          "prenom": "Sandrine",
+          "mandat": "maire",
+          "territoire": "Chevaigné",
+          "departement": "35",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "CLEMENT",
+          "prenom": "Yvette",
+          "mandat": "maire",
+          "territoire": "Trémargat",
+          "departement": "22",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "REDIEN",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Tillou",
+          "departement": "79",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "PERRIN-GILBERT",
+          "prenom": "Nathalie",
+          "mandat": "maire-arrondissement",
+          "departement": "69",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "BAILLET",
+          "prenom": "Patrice",
+          "mandat": "maire",
+          "territoire": "Lasson",
+          "departement": "89",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "MOUSSON",
+          "prenom": "Sabine",
+          "mandat": "maire",
+          "territoire": "Teulat",
+          "departement": "81",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "HUAUME",
+          "prenom": "Yann",
+          "mandat": "maire",
+          "territoire": "Saint-Sulpice-la-Forêt",
+          "departement": "35",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "AYMONIER",
+          "prenom": "Gaëtan",
+          "mandat": "maire",
+          "territoire": "Saint-Maur",
+          "departement": "39",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ORBION",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Nançois-le-Grand",
+          "departement": "55",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "SPIEGEL",
+          "prenom": "Jo",
+          "mandat": "maire",
+          "territoire": "Kingersheim",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "HESTIN",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Rombach-le-Franc",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GIBEY",
+          "prenom": "Jean-Marc",
+          "mandat": "maire",
+          "territoire": "Jargeau",
+          "departement": "45",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "OLLIVIER",
+          "prenom": "Jean-Michel",
+          "mandat": "maire",
+          "territoire": "Brestot",
+          "departement": "27",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "NACHEZ",
+          "prenom": "Marie-Françoise",
+          "mandat": "maire",
+          "territoire": "Arboras",
+          "departement": "34",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "ALCORTA",
+          "prenom": "Martine",
+          "mandat": "conseiller-regional",
+          "territoire": "Nouvelle-Aquitaine",
+          "departement": "33",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BAILLY",
+          "prenom": "Frédéric",
+          "mandat": "maire",
+          "territoire": "Senlis",
+          "departement": "62",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "COLIN-REBREYEND",
+          "prenom": "Micheline",
+          "mandat": "maire",
+          "territoire": "Charnod",
+          "departement": "39",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "VAN AERTRYCK",
+          "prenom": "Lionel",
+          "mandat": "maire",
+          "territoire": "Saint-Médard-sur-Ille",
+          "departement": "35",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "AUBINEAU",
+          "prenom": "Nicolas",
+          "mandat": "maire",
+          "territoire": "Arrènes",
+          "departement": "23",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "SEGERIC",
+          "prenom": "Jacques",
+          "mandat": "maire",
+          "territoire": "Vigoulet-Auzil",
+          "departement": "31",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "ARNOUX",
+          "prenom": "Marie-Luce",
+          "mandat": "maire",
+          "territoire": "Chambost-Longessaigne",
+          "departement": "69",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GIBERT",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Rocles",
+          "departement": "07",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "BENIS",
+          "prenom": "Jean-Christophe",
+          "mandat": "maire",
+          "territoire": "Hédé-Bazouges",
+          "departement": "35",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LECOMTE",
+          "prenom": "Olivier",
+          "mandat": "maire",
+          "territoire": "Jallans",
+          "departement": "28",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LE GOUX",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Pléguien",
+          "departement": "22",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "RAZNIK",
+          "prenom": "Pascal",
+          "mandat": "maire",
+          "territoire": "Motey-sur-Saône",
+          "departement": "70",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DENNEMONT",
+          "prenom": "Jacques",
+          "mandat": "conseiller-departemental",
+          "departement": "974",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BINDAULT-LEMAITRE",
+          "prenom": "Marguerite-Marie",
+          "mandat": "maire-delegue",
+          "territoire": "Formigny La Bataille",
+          "departement": "14",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LAMY",
+          "prenom": "Laurence",
+          "mandat": "conseiller-departemental",
+          "departement": "47",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DURY",
+          "prenom": "Anne-Cécile",
+          "mandat": "maire",
+          "territoire": "Vals-des-Tilles",
+          "departement": "52",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "SABOT",
+          "prenom": "Guillaume",
+          "mandat": "maire",
+          "territoire": "Graix",
+          "departement": "42",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "TREHIN",
+          "prenom": "Axelle",
+          "mandat": "maire",
+          "territoire": "Reugny",
+          "departement": "37",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "MONNERIE",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Saint-Germain-sur-Ille",
+          "departement": "35",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "VILLEMAN",
+          "prenom": "Marc",
+          "mandat": "maire",
+          "territoire": "Einville-au-Jard",
+          "departement": "54",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "CUEFF",
+          "prenom": "Daniel",
+          "mandat": "maire",
+          "territoire": "Langouet",
+          "departement": "35",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "DUCENE",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Val de Louyre et Caudeau",
+          "departement": "24",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "GOUDARD",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Grandris",
+          "departement": "69",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "MEULIN",
+          "prenom": "Maurice",
+          "mandat": "maire",
+          "territoire": "Rouvroy-les-Merles",
+          "departement": "60",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "ATTARD",
+          "prenom": "Isabelle",
+          "mandat": "depute",
+          "circonscription": 5,
+          "departement": "14",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "DE MERONA",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Mérona",
+          "departement": "39",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "WISSENMEYER",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Westhouse",
+          "departement": "67",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "SIMIAN",
+          "prenom": "Fabienne",
+          "mandat": "maire",
+          "territoire": "Eyzahut",
+          "departement": "26",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "BASTIEN",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Saint-Jean-en-Val",
+          "departement": "63",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHAUDEMANCHE",
+          "prenom": "Hervé",
+          "mandat": "maire",
+          "territoire": "Festes-et-Saint-André",
+          "departement": "11",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "COASSY",
+          "prenom": "Bruno",
+          "mandat": "maire",
+          "territoire": "Sainte-Agathe-en-Donzy",
+          "departement": "42",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LE LOSTEC",
+          "prenom": "Martine",
+          "mandat": "maire",
+          "territoire": "Saint-Quirc",
+          "departement": "09",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "MASURIER",
+          "prenom": "Thierry",
+          "mandat": "maire",
+          "territoire": "Gerville",
+          "departement": "76",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOUREUX",
+          "prenom": "Mathieu",
+          "mandat": "maire",
+          "territoire": "Le Gallet",
+          "departement": "60",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "GUESDON",
+          "prenom": "Philippe",
+          "mandat": "maire-delegue",
+          "territoire": "Beaussais-sur-mer",
+          "departement": "22",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "MINIER",
+          "prenom": "Marcel",
+          "mandat": "maire",
+          "territoire": "Muel",
+          "departement": "35",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "GAUCHER",
+          "prenom": "Denis",
+          "mandat": "maire-delegue",
+          "territoire": "Le Malesherbois",
+          "departement": "45",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "NERON",
+          "prenom": "Marc-Antoine",
+          "mandat": "maire-delegue",
+          "territoire": "Saumur",
+          "departement": "49",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "LETISSIER",
+          "prenom": "Marcel",
+          "mandat": "maire",
+          "territoire": "Ecordal",
+          "departement": "08",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "ALLARD",
+          "prenom": "Emmanuel",
+          "mandat": "maire",
+          "territoire": "Allonne",
+          "departement": "79",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "TABUTEAU",
+          "prenom": "Aurélien",
+          "mandat": "maire",
+          "territoire": "Plaisance",
+          "departement": "86",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "ROL",
+          "prenom": "Sandrine",
+          "mandat": "conseiller-departemental",
+          "departement": "35",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "CATRAIN",
+          "prenom": "Jean-Jacques",
+          "mandat": "maire",
+          "territoire": "Alloue",
+          "departement": "16",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "NICOLLE",
+          "prenom": "Jean-Claude",
+          "mandat": "maire",
+          "territoire": "Les Mollettes",
+          "departement": "73",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BULLE-LESCOFFIT",
+          "prenom": "Claudine",
+          "mandat": "maire",
+          "territoire": "Les Fourgs",
+          "departement": "25",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "PIELA",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Breitenbach",
+          "departement": "67",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "JOLY",
+          "prenom": "Thomas",
+          "mandat": "maire",
+          "territoire": "Verrières-le-Buisson",
+          "departement": "91",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "MAHIEU",
+          "prenom": "Carine",
+          "mandat": "conseiller-departemental",
+          "departement": "50",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "MOREL",
+          "prenom": "Gilles",
+          "mandat": "maire",
+          "territoire": "Foncine-le-Bas",
+          "departement": "39",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "JEAN",
+          "prenom": "Agnès",
+          "mandat": "maire",
+          "territoire": "Saint-Privat-du-Dragon",
+          "departement": "43",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BONNET",
+          "prenom": "Céline",
+          "mandat": "maire",
+          "territoire": "Boulieu-lès-Annonay",
+          "departement": "07",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "GONTARD",
+          "prenom": "Guillaume",
+          "mandat": "maire",
+          "territoire": "Percy",
+          "departement": "38",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "BENOIT",
+          "prenom": "Denis",
+          "mandat": "maire",
+          "territoire": "Aouste-sur-Sye",
+          "departement": "26",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "DA CUNHA",
+          "prenom": "Michel",
+          "mandat": "conseiller-departemental",
+          "departement": "19",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LAUNAY",
+          "prenom": "Anne",
+          "mandat": "conseiller-departemental",
+          "departement": "91",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "HENRY-WERNER",
+          "prenom": "Anne",
+          "mandat": "membre-afe",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "BLANCO",
+          "prenom": "Jean-François",
+          "mandat": "conseiller-regional",
+          "territoire": "Nouvelle-Aquitaine",
+          "departement": "64",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "SIMON",
+          "prenom": "Stéphane",
+          "mandat": "maire",
+          "territoire": "Puéchabon",
+          "departement": "34",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BEAURY",
+          "prenom": "Pascal",
+          "mandat": "maire",
+          "territoire": "Mont Lozere et Goulet",
+          "departement": "48",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "VOGEL",
+          "prenom": "Jean",
+          "mandat": "maire",
+          "territoire": "Saales",
+          "departement": "67",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "FURNION",
+          "prenom": "Pascal",
+          "mandat": "maire",
+          "territoire": "Chaussan",
+          "departement": "69",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "HERVE",
+          "prenom": "Pascal",
+          "mandat": "maire",
+          "territoire": "Laillé",
+          "departement": "35",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "REYNAUD",
+          "prenom": "Brigitte",
+          "mandat": "conseiller-departemental",
+          "departement": "04",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "MOYSAN",
+          "prenom": "Youri",
+          "mandat": "maire",
+          "territoire": "Aubigné",
+          "departement": "35",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "COUTEAU",
+          "prenom": "Benoît",
+          "mandat": "maire",
+          "territoire": "Monnières",
+          "departement": "44",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEPINEUX",
+          "prenom": "François",
+          "mandat": "maire",
+          "territoire": "Brax",
+          "departement": "31",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "GARCIA",
+          "prenom": "Clément",
+          "mandat": "maire",
+          "territoire": "Saccourvielle",
+          "departement": "31",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "FOURRIERE",
+          "prenom": "Denis",
+          "mandat": "maire",
+          "territoire": "Mandres-aux-Quatre-Tours",
+          "departement": "54",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEVI",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Montagagne",
+          "departement": "09",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "PERROT",
+          "prenom": "Pascal",
+          "mandat": "maire",
+          "territoire": "Vertus",
+          "departement": "51",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "MOINE",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Aubusson",
+          "departement": "23",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BLEUNVEN",
+          "prenom": "Jean-Luc",
+          "mandat": "depute",
+          "circonscription": 3,
+          "departement": "29",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEFEBVRE",
+          "prenom": "Jean-Luc",
+          "mandat": "maire",
+          "territoire": "Wannehain",
+          "departement": "59",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DEBOST",
+          "prenom": "Elen",
+          "mandat": "conseiller-departemental",
+          "departement": "72",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHATEAU-DUCOS",
+          "prenom": "Alexandre",
+          "mandat": "membre-afe",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "MICHEZ",
+          "prenom": "Jean-Michel",
+          "mandat": "maire",
+          "territoire": "Belvis",
+          "departement": "11",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DELLI",
+          "prenom": "Karima",
+          "mandat": "representant-parlement-europeen",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROSSIGNOL",
+          "prenom": "Patrick",
+          "mandat": "maire",
+          "territoire": "Saint-Amancet",
+          "departement": "81",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BAU",
+          "prenom": "Nathalie",
+          "mandat": "maire",
+          "territoire": "Dissangis",
+          "departement": "89",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "MAURY",
+          "prenom": "Benoît",
+          "mandat": "maire-delegue",
+          "territoire": "Valravillon",
+          "departement": "89",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "ABELLARD",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Le Plessis-Grammoire",
+          "departement": "49",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DESIRA-NADAL",
+          "prenom": "Mireille",
+          "mandat": "maire",
+          "territoire": "Saint-Victor-de-Malcap",
+          "departement": "30",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "PRUNET",
+          "prenom": "Florence",
+          "mandat": "conseiller-departemental",
+          "departement": "56",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOUTAULT",
+          "prenom": "Jacques",
+          "mandat": "maire-arrondissement",
+          "departement": "75",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "KOHLHAAS",
+          "prenom": "Jean-Charles",
+          "mandat": "conseiller-regional",
+          "territoire": "Auvergne-Rhône-Alpes",
+          "departement": "69",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "TERY-VERBE",
+          "prenom": "Alix",
+          "mandat": "conseiller-regional",
+          "territoire": "Centre-Val de Loire",
+          "departement": "37",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "GRIENEISEN",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Burnhaupt-le-Bas",
+          "departement": "68",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "MULLER",
+          "prenom": "Marie-Josée",
+          "mandat": "maire",
+          "territoire": "Riespach",
+          "departement": "68",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "WUNENBURGER",
+          "prenom": "René",
+          "mandat": "maire",
+          "territoire": "Griesheim-sur-Souffel",
+          "departement": "67",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BRINGUY",
+          "prenom": "Sophie",
+          "mandat": "conseiller-regional",
+          "territoire": "Pays de la Loire",
+          "departement": "72",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHALON",
+          "prenom": "Patrick",
+          "mandat": "maire",
+          "territoire": "Saint-Etienne-de-Chigny",
+          "departement": "37",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "MERCIER",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Pesse (La)",
+          "departement": "39",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "TAUGOURDEAU",
+          "prenom": "Sylvie",
+          "mandat": "maire-delegue",
+          "territoire": "Saumur",
+          "departement": "49",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "GUYOT",
+          "prenom": "Laurent",
+          "mandat": "maire",
+          "territoire": "Dommartin-lès-Toul",
+          "departement": "54",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "THIEBAUT",
+          "prenom": "René",
+          "mandat": "maire",
+          "territoire": "Breteau",
+          "departement": "45",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BITEAU",
+          "prenom": "Benoît",
+          "mandat": "conseiller-regional",
+          "territoire": "Nouvelle-Aquitaine",
+          "departement": "17",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "PARAT",
+          "prenom": "Christophe",
+          "mandat": "maire",
+          "territoire": "Bonnay",
+          "departement": "71",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "PAQUET",
+          "prenom": "Quentin",
+          "mandat": "maire",
+          "territoire": "Bard",
+          "departement": "42",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEDEUX",
+          "prenom": "Jean-Louis",
+          "mandat": "conseiller-departemental",
+          "departement": "86",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "ELEGEEST",
+          "prenom": "Rudy",
+          "mandat": "maire",
+          "territoire": "Mons-en-Baroeul",
+          "departement": "59",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "RUXER",
+          "prenom": "Denis",
+          "mandat": "maire",
+          "territoire": "Saint-Pierre",
+          "departement": "67",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "CAREIL",
+          "prenom": "Pierre",
+          "mandat": "maire",
+          "territoire": "Sainte-Gemme-la-Plaine",
+          "departement": "85",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "MIRANVILLE",
+          "prenom": "Vanessa",
+          "mandat": "maire",
+          "territoire": "La Possession",
+          "departement": "974",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LENGENFELDER",
+          "prenom": "Daniel",
+          "mandat": "maire",
+          "territoire": "Lixhausen",
+          "departement": "67",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LAHMER",
+          "prenom": "Annie",
+          "mandat": "conseiller-regional",
+          "territoire": "Île-de-France",
+          "departement": "94",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BARBIER",
+          "prenom": "Patrick",
+          "mandat": "maire",
+          "territoire": "Muttersholtz",
+          "departement": "67",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BONNIN",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Chartres-de-Bretagne",
+          "departement": "35",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DELSALLE",
+          "prenom": "Joëlle",
+          "mandat": "maire",
+          "territoire": "Berzé-le-Châtel",
+          "departement": "71",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "VERGIAT",
+          "prenom": "Marie-Christine",
+          "mandat": "representant-parlement-europeen",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "CLEMENT",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "Chalesmes (Les)",
+          "departement": "39",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "LEFEVRE",
+          "prenom": "David",
+          "mandat": "maire",
+          "territoire": "Friville-Escarbotin",
+          "departement": "80",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BARTHELEMY",
+          "prenom": "Stanislas",
+          "mandat": "maire",
+          "territoire": "Longueil-Sainte-Marie",
+          "departement": "60",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "MANACH",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Malville",
+          "departement": "44",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "ALDEBERT",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "Vinassan",
+          "departement": "11",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "DE CREMIERS",
+          "prenom": "Christelle",
+          "mandat": "conseiller-regional",
+          "territoire": "Centre-Val de Loire",
+          "departement": "45",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "BOUCHERY",
+          "prenom": "Marie-Christelle",
+          "mandat": "maire",
+          "territoire": "Priaires",
+          "departement": "79",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "GAUDIN",
+          "prenom": "Jean-Luc",
+          "mandat": "maire",
+          "territoire": "Pont-Péan",
+          "departement": "35",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOURBAN",
+          "prenom": "Didier",
+          "mandat": "maire",
+          "territoire": "Le Ménil-Broût",
+          "departement": "61",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "CHARLES",
+          "prenom": "Bruno",
+          "mandat": "conseiller-metropolitain-lyon",
+          "departement": "69",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "MILLO Jean-Luc",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "MILLO",
+          "prenom": "Jean-Luc",
+          "mandat": "maire",
+          "territoire": "Olivese",
+          "departement": "2A",
+          "publie_le": "2017-03-10"
+        }
+      ]
+    },
+    {
+      "nom_source": "MORIN Hervé",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "JOURDAIN",
+          "prenom": "Patrick",
+          "mandat": "maire",
+          "territoire": "Tilly",
+          "departement": "27",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "MUMBACH Paul",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "CONRAD",
+          "prenom": "Yves",
+          "mandat": "maire",
+          "territoire": "Eteimbes",
+          "departement": "68",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOHLI",
+          "prenom": "Jean-Marie",
+          "mandat": "maire",
+          "territoire": "Rammersmatt",
+          "departement": "68",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "WIES",
+          "prenom": "Joël",
+          "mandat": "maire",
+          "territoire": "Saint-Cosme",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "SCHNOEBELEN",
+          "prenom": "Jean-Marc",
+          "mandat": "maire",
+          "territoire": "Falkwiller",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MENGIS",
+          "prenom": "Jean-Claude",
+          "mandat": "maire-delegue",
+          "territoire": "Illtal",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LACHAUSSEE",
+          "prenom": "Florent",
+          "mandat": "maire",
+          "territoire": "Valdieu-Lutran",
+          "departement": "68",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "OBERLIN",
+          "prenom": "Jean-Jacques",
+          "mandat": "maire",
+          "territoire": "Sondernach",
+          "departement": "68",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "CONCHOU",
+          "prenom": "Daniel",
+          "mandat": "maire",
+          "territoire": "Saint-Cernin-de-l'Herm",
+          "departement": "24",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "HUBER",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "Muespach",
+          "departement": "68",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "BAUR",
+          "prenom": "Roger",
+          "mandat": "maire",
+          "territoire": "Diefmatten",
+          "departement": "68",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "BRINGEL",
+          "prenom": "Eric",
+          "mandat": "maire",
+          "territoire": "Buethwiller",
+          "departement": "68",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "SCHLEGEL",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Liebsdorf",
+          "departement": "68",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "BISCHOFF",
+          "prenom": "Jean-Claude",
+          "mandat": "maire",
+          "territoire": "Traubach-le-Bas",
+          "departement": "68",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "GANDRE",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Broye-Aubigney-Montseugny",
+          "departement": "70",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "REGIS Olivier",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "BEGUINOT",
+          "prenom": "Guy",
+          "mandat": "maire",
+          "territoire": "Cour-l'Evêque",
+          "departement": "52",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "PHILIPPOT",
+          "prenom": "Claude",
+          "mandat": "maire",
+          "territoire": "Gizy",
+          "departement": "02",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "KERKHOF",
+          "prenom": "Isabelle",
+          "mandat": "maire-delegue",
+          "territoire": "Téteghem-Coudekerque-Village",
+          "departement": "59",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "RIVIER",
+          "prenom": "Pascal",
+          "mandat": "maire",
+          "territoire": "Tournemire",
+          "departement": "12",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "SOLLER",
+          "prenom": "Jean-Luc",
+          "mandat": "maire",
+          "territoire": "Laperrière-sur-Saône",
+          "departement": "21",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "PICARD",
+          "prenom": "Eric",
+          "mandat": "maire",
+          "territoire": "Espalion",
+          "departement": "12",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "AZEMAR",
+          "prenom": "Bernadette",
+          "mandat": "maire",
+          "territoire": "Coubisou",
+          "departement": "12",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "TRAMBOUZE Bernard",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "TRAMBOUZE",
+          "prenom": "Bernard",
+          "mandat": "maire",
+          "territoire": "Vielle-Saint-Girons",
+          "departement": "40",
+          "publie_le": "2017-03-03"
+        }
+      ]
+    },
+    {
+      "nom_source": "TROADEC Christian",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "ERNAGA",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Urepel",
+          "departement": "64",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "LE GALL",
+          "prenom": "Gilbert",
+          "mandat": "maire",
+          "territoire": "Duault",
+          "departement": "22",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "ALFONSI",
+          "prenom": "François",
+          "mandat": "maire",
+          "territoire": "Osani",
+          "departement": "2A",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "NICOT",
+          "prenom": "Patrick",
+          "mandat": "maire",
+          "territoire": "Collorec",
+          "departement": "29",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "TOMI",
+          "prenom": "Marc",
+          "mandat": "maire",
+          "territoire": "Santo-Pietro-di-Tenda",
+          "departement": "2B",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "MORGANTI",
+          "prenom": "Jean Toussaint",
+          "mandat": "maire",
+          "territoire": "Ogliastro",
+          "departement": "2B",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "NICOLE",
+          "prenom": "Corinne",
+          "mandat": "conseiller-departemental",
+          "departement": "29",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "SIRE",
+          "prenom": "Louis",
+          "mandat": "maire",
+          "territoire": "Saint-Just-et-le-Bézu",
+          "departement": "11",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "SAISSET",
+          "prenom": "Jean-François",
+          "mandat": "maire",
+          "territoire": "Trausse",
+          "departement": "11",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "LE MASLE",
+          "prenom": "Jean-Louis",
+          "mandat": "maire",
+          "territoire": "Inguiniel",
+          "departement": "56",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "GROLHIER",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Villars",
+          "departement": "24",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "VIEILLEFOSSE",
+          "prenom": "Philippe",
+          "mandat": "maire",
+          "territoire": "La Dornac",
+          "departement": "24",
+          "publie_le": "2017-03-01"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROBIN",
+          "prenom": "Yannick",
+          "mandat": "maire",
+          "territoire": "Plouguerneau",
+          "departement": "29",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "BOZZI",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Forciolo",
+          "departement": "2A",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROCCA SERRA",
+          "prenom": "Jean-Paul",
+          "mandat": "maire",
+          "territoire": "Serra-di-Scopamène",
+          "departement": "2A",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "PUCCI",
+          "prenom": "Joseph",
+          "mandat": "maire",
+          "territoire": "Viggianello",
+          "departement": "2A",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "DERRIEN",
+          "prenom": "Christian",
+          "mandat": "maire",
+          "territoire": "Langonnet",
+          "departement": "56",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "CORNIC",
+          "prenom": "Jean-René",
+          "mandat": "maire",
+          "territoire": "Langolen",
+          "departement": "29",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "SIMEONI",
+          "prenom": "Pasquale",
+          "mandat": "maire",
+          "territoire": "Manso",
+          "departement": "2B",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "MOULLEC",
+          "prenom": "Yvan",
+          "mandat": "conseiller-departemental",
+          "departement": "29",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "LE ROY",
+          "prenom": "Gérard",
+          "mandat": "maire",
+          "territoire": "Saint-Allouestre",
+          "departement": "56",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GRANDIN",
+          "prenom": "Jean-Luc",
+          "mandat": "maire",
+          "territoire": "Billio",
+          "departement": "56",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "JONDOT",
+          "prenom": "Yann",
+          "mandat": "maire",
+          "territoire": "Langoëlan",
+          "departement": "56",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "IRIART",
+          "prenom": "Alain",
+          "mandat": "maire",
+          "territoire": "Saint-Pierre-d'Irube",
+          "departement": "64",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "TREGUER",
+          "prenom": "René",
+          "mandat": "maire",
+          "territoire": "Tréouergat",
+          "departement": "29",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "MAVIC",
+          "prenom": "Thierry",
+          "mandat": "conseiller-departemental",
+          "departement": "29",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "GERARD",
+          "prenom": "Jean-Paul",
+          "mandat": "maire",
+          "territoire": "Brécé",
+          "departement": "35",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "COGEN",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Plévin",
+          "departement": "22",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "HORNSPERGER",
+          "prenom": "Sébastien",
+          "mandat": "maire",
+          "territoire": "Troisfontaines",
+          "departement": "57",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "VANOYE",
+          "prenom": "Henri",
+          "mandat": "maire",
+          "territoire": "Fresnes-Mazancourt",
+          "departement": "80",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "ROUDIER",
+          "prenom": "Stéphane",
+          "mandat": "maire",
+          "territoire": "Condat-sur-Vézère",
+          "departement": "24",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LE NY",
+          "prenom": "Hélène",
+          "mandat": "maire",
+          "territoire": "Le Saint",
+          "departement": "56",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DIVANAC'H",
+          "prenom": "Paul",
+          "mandat": "maire",
+          "territoire": "Plonévez-Porzay",
+          "departement": "29",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DEMONEIN",
+          "prenom": "Jean-Michel",
+          "mandat": "maire",
+          "territoire": "Coly",
+          "departement": "24",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "DEFFREIX",
+          "prenom": "Jean-Pierre",
+          "mandat": "maire",
+          "territoire": "Eglise-Neuve-d'Issac",
+          "departement": "24",
+          "publie_le": "2017-03-07"
+        },
+        {
+          "civilite": "M",
+          "nom": "LASSAQUE",
+          "prenom": "Roger",
+          "mandat": "maire",
+          "territoire": "Saint-Martin-le-Redon",
+          "departement": "46",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "CARRERE",
+          "prenom": "Bruno",
+          "mandat": "maire",
+          "territoire": "Ustaritz",
+          "departement": "64",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LECA",
+          "prenom": "Réjane",
+          "mandat": "maire",
+          "territoire": "Sant'Andréa-d'Orcino",
+          "departement": "2A",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "TOUYA",
+          "prenom": "Dominique",
+          "mandat": "maire",
+          "territoire": "Labastide-Cézéracq",
+          "departement": "64",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "PIERI",
+          "prenom": "Stella",
+          "mandat": "maire",
+          "territoire": "Rapaggio",
+          "departement": "2B",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "CESARI",
+          "prenom": "Marcel",
+          "mandat": "membre-assemblee-corse",
+          "departement": "2B",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "DUBOIS",
+          "prenom": "Jean-François",
+          "mandat": "conseiller-departemental",
+          "departement": "58",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "LESCHI",
+          "prenom": "Stéphane",
+          "mandat": "maire",
+          "territoire": "Erone",
+          "departement": "2B",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "STEFANI",
+          "prenom": "Pierre-Jean",
+          "mandat": "maire",
+          "territoire": "Piedipartino",
+          "departement": "2B",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "BELLINI",
+          "prenom": "Pierre-François",
+          "mandat": "maire",
+          "territoire": "Carbuccia",
+          "departement": "2A",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "VERSINI",
+          "prenom": "Antoine",
+          "mandat": "maire",
+          "territoire": "Cristinacce",
+          "departement": "2A",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "NIVAGGIONI",
+          "prenom": "Nadine",
+          "mandat": "membre-assemblee-corse",
+          "departement": "2A",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "NEGRONI",
+          "prenom": "Jérôme",
+          "mandat": "maire",
+          "territoire": "San-Lorenzo",
+          "departement": "2B",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "STREIBIG",
+          "prenom": "Laurent",
+          "mandat": "maire",
+          "territoire": "Echannay",
+          "departement": "21",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "Mme",
+          "nom": "LANGLET",
+          "prenom": "Ghislaine",
+          "mandat": "conseiller-departemental",
+          "departement": "56",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "MAZOTTI",
+          "prenom": "Francis",
+          "mandat": "maire",
+          "territoire": "Pino",
+          "departement": "2B",
+          "publie_le": "2017-03-14"
+        },
+        {
+          "civilite": "M",
+          "nom": "DENAX",
+          "prenom": "Jean-Marc",
+          "mandat": "maire",
+          "territoire": "Artiguelouve",
+          "departement": "64",
+          "publie_le": "2017-03-18"
+        },
+        {
+          "civilite": "M",
+          "nom": "GUARISE",
+          "prenom": "Jean-Claude",
+          "mandat": "maire",
+          "territoire": "Saint-Rabier",
+          "departement": "24",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "VERGNE Michel",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "SOCA",
+          "prenom": "Roland",
+          "mandat": "maire",
+          "territoire": "Pinel-Hauterive",
+          "departement": "47",
+          "publie_le": "2017-03-03"
+        },
+        {
+          "civilite": "M",
+          "nom": "GAUBAN",
+          "prenom": "Patrick",
+          "mandat": "maire",
+          "territoire": "Agmé",
+          "departement": "47",
+          "publie_le": "2017-03-10"
+        },
+        {
+          "civilite": "M",
+          "nom": "VERGNE",
+          "prenom": "Michel",
+          "mandat": "maire",
+          "territoire": "Labretonie",
+          "departement": "47",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    },
+    {
+      "nom_source": "WAUQUIEZ Laurent",
+      "parrainages": [
+        {
+          "civilite": "M",
+          "nom": "AGUILERA-BOURGUIGNON",
+          "prenom": "Frédéric",
+          "mandat": "conseiller-departemental",
+          "departement": "03",
+          "publie_le": "2017-03-18"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-2022",
+  "personne": "PE-0093",
+  "nom_complet": "Nicolas MIGUET",
+  "etendue": "integrale",
+  "publications": [
+    {
+      "date": "2022-02-01",
+      "source": {
+        "id": "conseil-constitutionnel:2022-175-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022175PDR.htm",
+        "commentaire": "Liste du 1er février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-03",
+      "source": {
+        "id": "conseil-constitutionnel:2022-176-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022176PDR.htm",
+        "commentaire": "Liste du 3 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-08",
+      "source": {
+        "id": "conseil-constitutionnel:2022-177-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022177PDR.htm",
+        "commentaire": "Liste du 8 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-10",
+      "source": {
+        "id": "conseil-constitutionnel:2022-178-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022178PDR.htm",
+        "commentaire": "Liste du 10 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-15",
+      "source": {
+        "id": "conseil-constitutionnel:2022-179-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022179PDR.htm",
+        "commentaire": "Liste du 15 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-17",
+      "source": {
+        "id": "conseil-constitutionnel:2022-180-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022180PDR.htm",
+        "commentaire": "Liste du 17 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-22",
+      "source": {
+        "id": "conseil-constitutionnel:2022-181-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022181PDR.htm",
+        "commentaire": "Liste du 22 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-24",
+      "source": {
+        "id": "conseil-constitutionnel:2022-182-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022182PDR.htm",
+        "commentaire": "Liste du 24 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-03-01",
+      "source": {
+        "id": "conseil-constitutionnel:2022-183-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022183PDR.htm",
+        "commentaire": "Liste du 1er mars 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-03-03",
+      "source": {
+        "id": "conseil-constitutionnel:2022-185-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022185PDR.htm",
+        "commentaire": "Liste du 3 mars 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-03-07",
+      "source": {
+        "id": "conseil-constitutionnel:2022-186-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022186PDR.htm",
+        "commentaire": "Liste du 7 mars 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "civilite": "M.",
+      "nom": "GUICHARD",
+      "prenom": "Arnaud",
+      "mandat": "maire",
+      "territoire": "Fontaine-la-Louvet",
+      "departement": "27",
+      "publie_le": "2022-02-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "DELAPORTE",
+      "prenom": "Didier",
+      "mandat": "maire",
+      "territoire": "La Lande-Saint-Siméon",
+      "departement": "61",
+      "publie_le": "2022-02-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "GRENIER",
+      "prenom": "Jean",
+      "mandat": "maire",
+      "territoire": "Puisieux-et-Clanlieu",
+      "departement": "02",
+      "publie_le": "2022-02-08"
+    },
+    {
+      "civilite": "M.",
+      "nom": "HENNINOT",
+      "prenom": "Pierre-Jean",
+      "mandat": "maire",
+      "territoire": "Cilly",
+      "departement": "02",
+      "publie_le": "2022-02-08"
+    },
+    {
+      "civilite": "M.",
+      "nom": "OSMOND",
+      "prenom": "Michel",
+      "mandat": "maire",
+      "territoire": "Mandres",
+      "departement": "27",
+      "publie_le": "2022-02-08"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "BREQUE",
+      "prenom": "Nicole",
+      "mandat": "maire",
+      "territoire": "Saint-Araille",
+      "departement": "31",
+      "publie_le": "2022-02-08"
+    },
+    {
+      "civilite": "M.",
+      "nom": "ANDRÉ",
+      "prenom": "Rémy",
+      "mandat": "maire",
+      "territoire": "Montrodat",
+      "departement": "48",
+      "publie_le": "2022-02-08"
+    },
+    {
+      "civilite": "M.",
+      "nom": "GILBERT",
+      "prenom": "Bertrand",
+      "mandat": "maire",
+      "territoire": "Brouains",
+      "departement": "50",
+      "publie_le": "2022-02-08"
+    },
+    {
+      "civilite": "M.",
+      "nom": "MITTAUX",
+      "prenom": "Jean-Marie",
+      "mandat": "maire",
+      "territoire": "Abaucourt-Hautecourt",
+      "departement": "55",
+      "publie_le": "2022-02-08"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "BESSIERE",
+      "prenom": "Martine",
+      "mandat": "maire",
+      "territoire": "Curières",
+      "departement": "12",
+      "publie_le": "2022-02-15"
+    },
+    {
+      "civilite": "M.",
+      "nom": "LAVIGNE",
+      "prenom": "Jean-Luc",
+      "mandat": "maire",
+      "territoire": "Campagne",
+      "departement": "60",
+      "publie_le": "2022-02-15"
+    },
+    {
+      "civilite": "M.",
+      "nom": "ROHMER",
+      "prenom": "Clément",
+      "mandat": "maire",
+      "territoire": "Bootzheim",
+      "departement": "67",
+      "publie_le": "2022-02-15"
+    },
+    {
+      "civilite": "M.",
+      "nom": "VINETTE",
+      "prenom": "Didier",
+      "mandat": "maire",
+      "territoire": "Massignieu-de-Rives",
+      "departement": "01",
+      "publie_le": "2022-02-24"
+    },
+    {
+      "civilite": "M.",
+      "nom": "GRILLON",
+      "prenom": "Patrick",
+      "mandat": "maire",
+      "territoire": "Arc-sous-Montenot",
+      "departement": "25",
+      "publie_le": "2022-02-24"
+    },
+    {
+      "civilite": "M.",
+      "nom": "REMY",
+      "prenom": "Jean-Pierre Albert Jules",
+      "mandat": "maire",
+      "territoire": "Ygos-Saint-Saturnin",
+      "departement": "40",
+      "publie_le": "2022-02-24"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "DÉPAUX",
+      "prenom": "Corinne",
+      "mandat": "maire",
+      "territoire": "Vincelles",
+      "departement": "51",
+      "publie_le": "2022-02-24"
+    },
+    {
+      "civilite": "M.",
+      "nom": "DURGET",
+      "prenom": "Arnaud",
+      "mandat": "maire",
+      "territoire": "Conflandey",
+      "departement": "70",
+      "publie_le": "2022-02-24"
+    },
+    {
+      "civilite": "M.",
+      "nom": "YARDIN",
+      "prenom": "Jean-Luc",
+      "mandat": "maire",
+      "territoire": "Gemmelaincourt",
+      "departement": "88",
+      "publie_le": "2022-02-24"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "COGNARD",
+      "prenom": "Isabelle",
+      "mandat": "conseiller-departemental",
+      "departement": "21",
+      "publie_le": "2022-03-01"
+    },
+    {
+      "civilite": "M.",
+      "nom": "REBILLOU",
+      "prenom": "Bernard",
+      "mandat": "maire",
+      "territoire": "Saint-Félix-de-Foncaude",
+      "departement": "33",
+      "publie_le": "2022-03-01"
+    },
+    {
+      "civilite": "M.",
+      "nom": "VAUTRIN",
+      "prenom": "Luc",
+      "mandat": "maire",
+      "territoire": "Mareilles",
+      "departement": "52",
+      "publie_le": "2022-03-01"
+    },
+    {
+      "civilite": "M.",
+      "nom": "DAVID",
+      "prenom": "Jean Pierre",
+      "mandat": "maire",
+      "territoire": "Flirey",
+      "departement": "54",
+      "publie_le": "2022-03-01"
+    },
+    {
+      "civilite": "M.",
+      "nom": "GUILLET",
+      "prenom": "Denis",
+      "mandat": "maire",
+      "territoire": "Les Menus",
+      "departement": "61",
+      "publie_le": "2022-03-01"
+    },
+    {
+      "civilite": "M.",
+      "nom": "BARBEROT",
+      "prenom": "Jean-Paul",
+      "mandat": "maire",
+      "territoire": "Menoux",
+      "departement": "70",
+      "publie_le": "2022-03-01"
+    },
+    {
+      "civilite": "M.",
+      "nom": "PARIS",
+      "prenom": "Dany",
+      "mandat": "maire",
+      "territoire": "Vallon-sur-Gée",
+      "departement": "72",
+      "publie_le": "2022-03-01"
+    },
+    {
+      "civilite": "M.",
+      "nom": "BLANC",
+      "prenom": "Gabriel",
+      "mandat": "maire",
+      "territoire": "Feissons-sur-Salins",
+      "departement": "73",
+      "publie_le": "2022-03-01"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "CARPENTIER",
+      "prenom": "Catherine",
+      "mandat": "maire",
+      "territoire": "Grisy-les-Plâtres",
+      "departement": "95",
+      "publie_le": "2022-03-01"
+    },
+    {
+      "civilite": "M.",
+      "nom": "BERTRAND",
+      "prenom": "Marc",
+      "mandat": "maire",
+      "territoire": "Remilly-les-Pothées",
+      "departement": "08",
+      "publie_le": "2022-03-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "LALONDE",
+      "prenom": "Loïc",
+      "mandat": "maire",
+      "territoire": "Saint-Pierremont",
+      "departement": "08",
+      "publie_le": "2022-03-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "MALCUIT",
+      "prenom": "Etienne",
+      "mandat": "maire",
+      "territoire": "La Ferté-sur-Chiers",
+      "departement": "08",
+      "publie_le": "2022-03-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "VAIRY",
+      "prenom": "Lionel Roger",
+      "mandat": "maire",
+      "territoire": "Olizy-Primat",
+      "departement": "08",
+      "publie_le": "2022-03-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "ARNOULD",
+      "prenom": "Etienne",
+      "mandat": "maire",
+      "territoire": "Chemillé-sur-Indrois",
+      "departement": "37",
+      "publie_le": "2022-03-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "LÉVEILLÉ",
+      "prenom": "Philippe",
+      "mandat": "maire-delegue",
+      "territoire": "Écouché-les-Vallées",
+      "departement": "61",
+      "publie_le": "2022-03-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "BASTIEN",
+      "prenom": "Gérard",
+      "mandat": "maire",
+      "territoire": "Saint-Jean-en-Val",
+      "departement": "63",
+      "publie_le": "2022-03-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "GOGNY",
+      "prenom": "Christian",
+      "mandat": "maire",
+      "territoire": "Aillon-le-Vieux",
+      "departement": "73",
+      "publie_le": "2022-03-03"
+    },
+    {
+      "civilite": "M.",
+      "nom": "SARONI",
+      "prenom": "Patrick",
+      "mandat": "maire",
+      "territoire": "Le Plantay",
+      "departement": "01",
+      "publie_le": "2022-03-07"
+    },
+    {
+      "civilite": "M.",
+      "nom": "BRECIN",
+      "prenom": "Jean-Yves",
+      "mandat": "maire",
+      "territoire": "Dialan sur Chaîne",
+      "departement": "14",
+      "publie_le": "2022-03-07"
+    },
+    {
+      "civilite": "M.",
+      "nom": "DIETRICH",
+      "prenom": "Christophe",
+      "mandat": "maire",
+      "territoire": "Laigneville",
+      "departement": "60",
+      "publie_le": "2022-03-07"
+    },
+    {
+      "civilite": "M.",
+      "nom": "LEMOINE",
+      "prenom": "Christian",
+      "mandat": "maire",
+      "territoire": "Caramany",
+      "departement": "66",
+      "publie_le": "2022-03-07"
+    },
+    {
+      "civilite": "M.",
+      "nom": "JAIRE",
+      "prenom": "Eric",
+      "mandat": "maire",
+      "territoire": "Boulancourt",
+      "departement": "77",
+      "publie_le": "2022-03-07"
+    }
+  ]
+}

@@ -1,0 +1,3496 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-1995",
+  "personne": "PE-0036",
+  "nom_complet": "Philippe de VILLIERS",
+  "etendue": "tirage-au-sort",
+  "publications": [
+    {
+      "date": "1995-04-12",
+      "source": {
+        "id": "conseil-constitutionnel:95-78-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/1995/9578pdr.htm",
+        "commentaire": "Listes des citoyens habilités ayant présenté les candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "nom": "Annie MONNOT",
+      "mandat": "maire",
+      "territoire": "ARGILLY",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Patrice DUMAS DE LA ROQUE",
+      "mandat": "maire",
+      "territoire": "SAINT-GERMAEN-DE-LA-RIVIERE",
+      "departement": "33",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christine BOUTIN",
+      "mandat": "depute",
+      "departement": "78",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert FARBOS",
+      "mandat": "maire",
+      "territoire": "CAMPAGNE-D’ARMAGNAC",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel de GOUVILLE",
+      "mandat": "maire",
+      "territoire": "COMMES",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Serge CLERET",
+      "mandat": "maire",
+      "territoire": "EVAUX-LESBAINS",
+      "departement": "23",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean GRANGER",
+      "mandat": "maire",
+      "territoire": "VILLEBOUT",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel GAUVAIN",
+      "mandat": "maire",
+      "territoire": "VAUX-LES-RUBIGNY",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Fernand CHAVASTELON",
+      "mandat": "maire",
+      "territoire": "SAINT-GERMAIN-LAVOLPS",
+      "departement": "19",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel PERNOT",
+      "mandat": "maire",
+      "territoire": "PRAUTHOY",
+      "departement": "52",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Colette FABRITIUS",
+      "mandat": "maire",
+      "territoire": "MARS-SOUS-BOURCQ",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel RONCHET",
+      "mandat": "maire",
+      "territoire": "LOYETTES",
+      "departement": "01",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean VERZEAUX",
+      "mandat": "maire",
+      "territoire": "VILLESUR-RETOURNE",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean MONCLIN",
+      "mandat": "maire",
+      "territoire": "BERTONCOURT",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Tanguy de KERNIER",
+      "mandat": "maire",
+      "territoire": "BECHEREL",
+      "departement": "35",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques ROUSSINEAU",
+      "mandat": "maire",
+      "territoire": "HUISSEAU-EN-BEAUCE",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques LONGUET DES DIGUERES",
+      "mandat": "maire",
+      "territoire": "SAINTLAMBERT-SUR-DIVE",
+      "departement": "61",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Raymond DARRAS",
+      "mandat": "maire",
+      "territoire": "LA LOGE",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude MILLET",
+      "mandat": "maire",
+      "territoire": "SAINT-MAURICE-LEGIRARD",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Paul ALBERT",
+      "mandat": "maire",
+      "territoire": "MONTAIGU",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André ALBERT",
+      "mandat": "maire",
+      "territoire": "SAINT-DENIS-LA-CHEVASSE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert MARQUET",
+      "mandat": "maire",
+      "territoire": "ANTIGNY-LA-VILLE",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Yves PAJOT",
+      "mandat": "maire",
+      "territoire": "MERVILLER",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean ERBRETEAU",
+      "mandat": "maire",
+      "territoire": "SAINT-GERVAIS",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Raymond JUILLET",
+      "mandat": "maire",
+      "territoire": "CHAMPAGNE-EN-VALROMEY",
+      "departement": "01",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques BESSARD",
+      "mandat": "maire",
+      "territoire": "SAINT-AUBIN-DE-COURTERAIE",
+      "departement": "61",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Monique BAUDEY",
+      "mandat": "maire",
+      "territoire": "COULOURS",
+      "departement": "89",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland HEUDIER",
+      "mandat": "maire",
+      "territoire": "NOYERS-BOCAGE",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard GIBERT",
+      "mandat": "maire",
+      "territoire": "MANOIR",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel PESCHARD",
+      "mandat": "maire",
+      "territoire": "PIERRES",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Yvonne TARDIF DE PETIVILLE",
+      "mandat": "maire",
+      "territoire": "CAMPAGNOLLES",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Claude RAIMBAULT",
+      "mandat": "maire",
+      "territoire": "MONTPOLLIN",
+      "departement": "49",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques de BONNEAU DE BEAUFORT",
+      "mandat": "maire",
+      "territoire": "LESTRE",
+      "departement": "50",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean DABOVILLE",
+      "mandat": "maire",
+      "territoire": "BRILLEVAST",
+      "departement": "50",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Maurice GAULTIER DE CARVILLE",
+      "mandat": "maire",
+      "territoire": "BOISYVON",
+      "departement": "50",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Georges QUETIER",
+      "mandat": "maire",
+      "territoire": "AGON-COUTAINVILLE",
+      "departement": "50",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean PERSEVAL",
+      "mandat": "maire",
+      "territoire": "CHAMERY",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Georges CLEMENT",
+      "mandat": "maire",
+      "territoire": "VILLENEUVE-LA-LIONNE",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "René VERY",
+      "mandat": "maire",
+      "territoire": "MARGNY",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Pierre CHAPRON",
+      "mandat": "maire",
+      "territoire": "CERNA Y-ENDORMOIS",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Marie PETIT",
+      "mandat": "maire",
+      "territoire": "BOULT-SURSUIPPE",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel FOY",
+      "mandat": "maire",
+      "territoire": "HAUSSIMONT",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Guy DELAIRE",
+      "mandat": "maire",
+      "territoire": "MARTINCOURT",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Marie RICARD",
+      "mandat": "maire",
+      "territoire": "HARAUCOURT",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Alain ORDITZ",
+      "mandat": "maire",
+      "territoire": "GYE",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude MOREL",
+      "mandat": "maire",
+      "territoire": "BOUZANVILLE",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean PEULTIER",
+      "mandat": "maire",
+      "territoire": "HAMMEVILLE",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe AUPHAN",
+      "mandat": "maire",
+      "territoire": "SAULGES",
+      "departement": "53",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Yves-Christian de GOUTTEPAGNON",
+      "mandat": "maire",
+      "territoire": "MEE",
+      "departement": "53",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard TASSIN",
+      "mandat": "maire",
+      "territoire": "SAULCES-CHAMPENOISES",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Denis PEROTIN",
+      "mandat": "maire",
+      "territoire": "SINGLY",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilbert DEQUET",
+      "mandat": "maire",
+      "territoire": "WARNECOURT",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Joël BONIFACE",
+      "mandat": "maire",
+      "territoire": "RIOUX-MARTIN",
+      "departement": "16",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacky ROLLIN",
+      "mandat": "maire",
+      "territoire": "BRAGELOGNE-BEAUVOIR",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "François PIOT",
+      "mandat": "maire",
+      "territoire": "DIENVILLE",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jules PRELAT",
+      "mandat": "maire",
+      "territoire": "BALNOT-SURLAIGNES",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques MOUGENOT",
+      "mandat": "maire",
+      "territoire": "PRUSY",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Guy de COCKBORNE",
+      "mandat": "maire",
+      "territoire": "VILLENEUVE-AU-CHEMIN",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilbert RIBAUTE",
+      "mandat": "maire",
+      "territoire": "LA BASTIDE-DE-LORDAT",
+      "departement": "09",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre CHEBSON",
+      "mandat": "maire",
+      "territoire": "LAPENNE",
+      "departement": "09",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Francis LARRIBEAU",
+      "mandat": "conseiller-general",
+      "departement": "47",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Maurice MENESPLIER",
+      "mandat": "maire",
+      "territoire": "MONVIEL",
+      "departement": "47",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Thérèse CHERRIER",
+      "mandat": "maire",
+      "territoire": "BEAUGENCY",
+      "departement": "45",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard THOMAS",
+      "mandat": "maire",
+      "territoire": "CHILLEURS-AUXBOIS",
+      "departement": "45",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel MOTHERON",
+      "mandat": "maire",
+      "territoire": "PRUNAY-CASSEREAU",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis GONET",
+      "mandat": "maire",
+      "territoire": "EPUISAY",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Hubert BRETHEAU",
+      "mandat": "maire",
+      "territoire": "MONTOIRE-SUR-LE-LOIR",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel CHEREAU",
+      "mandat": "maire",
+      "territoire": "FAYE",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert AVRAIN",
+      "mandat": "maire",
+      "territoire": "MULSANS",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard COUTY",
+      "mandat": "maire",
+      "territoire": "FORTAN",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert MORIN",
+      "mandat": "maire",
+      "territoire": "VILLAVARD",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christiane FOLGHERA",
+      "mandat": "maire",
+      "territoire": "SAINT - JEAN-DE-NIOST",
+      "departement": "01",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Patrick BERTHIER",
+      "mandat": "maire",
+      "territoire": "PONCIN",
+      "departement": "01",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Léon PELLIN",
+      "mandat": "maire",
+      "territoire": "BRENAZ",
+      "departement": "01",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "JeanJacques AUBERT",
+      "mandat": "maire",
+      "territoire": "MONCEAU-LE-WAAST",
+      "departement": "02",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "JeanLuc CRAPIER",
+      "mandat": "maire",
+      "territoire": "PLEINE-SELVE",
+      "departement": "02",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel CHOAIN",
+      "mandat": "maire",
+      "territoire": "SEQUEHART",
+      "departement": "02",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel NICOLAS",
+      "mandat": "maire",
+      "territoire": "AUTELS",
+      "departement": "02",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Claude LAMORINIERE",
+      "mandat": "maire",
+      "territoire": "VILLERSSAINT-CHRISTOPHE",
+      "departement": "02",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel BASQUIN",
+      "mandat": "maire",
+      "territoire": "MESNIL-SAINT-LAURENT",
+      "departement": "02",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Olivier THONIER",
+      "mandat": "maire",
+      "territoire": "TAXAT-SENAT",
+      "departement": "03",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Hervé DEVAULX DE CHAMBORD",
+      "mandat": "maire",
+      "territoire": "LOUROUX-BOURBONNAIS",
+      "departement": "03",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Charles BAUDET",
+      "mandat": "maire",
+      "territoire": "VALIGNAT",
+      "departement": "03",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Serge LAMBERSEND",
+      "mandat": "maire",
+      "territoire": "SAINT-GERMAIN-DE-SALLES",
+      "departement": "03",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques DU LIGONDES",
+      "mandat": "maire",
+      "territoire": "SAINT-BONNET-DE-ROCHEFORT",
+      "departement": "03",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernadette AURRIC",
+      "mandat": "maire",
+      "territoire": "GANAGOBIE",
+      "departement": "04",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert VERET",
+      "mandat": "maire",
+      "territoire": "RIBIERS",
+      "departement": "05",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre GRAND’EUR Y",
+      "mandat": "maire",
+      "territoire": "BUISSARD",
+      "departement": "05",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Marius BARNEOUD",
+      "mandat": "maire",
+      "territoire": "PUY-SAINT-PIERRE",
+      "departement": "05",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Raoul CHARDES",
+      "mandat": "maire",
+      "territoire": "SAINTE-MARGUERITE-LAFIGERE",
+      "departement": "07",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Joseph GARREAU",
+      "mandat": "maire",
+      "territoire": "VILLEPERDUE",
+      "departement": "37",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Rolande DRUET",
+      "mandat": "maire",
+      "territoire": "CIRAN",
+      "departement": "37",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Lucien VINCENT",
+      "mandat": "maire",
+      "territoire": "SAINT-SORLIN-DE-MORESTEL",
+      "departement": "38",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Yves BOTUA",
+      "mandat": "maire",
+      "territoire": "NANTEY",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Noël NOIROT",
+      "mandat": "maire",
+      "territoire": "RYE",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel LOUYS",
+      "mandat": "maire",
+      "territoire": "MOUTHIER-HAUTE-PIERRE",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean VILLAIN",
+      "mandat": "maire",
+      "territoire": "PUY",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude VERMOT",
+      "mandat": "maire",
+      "territoire": "VILLERSLE-LAC",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Aimé PARENT",
+      "mandat": "maire",
+      "territoire": "BELFAYS",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude LORNET",
+      "mandat": "maire",
+      "territoire": "CLERON",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Georges JEANDENAND",
+      "mandat": "maire",
+      "territoire": "SARAZ",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland MOREL",
+      "mandat": "maire",
+      "territoire": "AMANCEY",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Léon VUILLEMIN",
+      "mandat": "maire",
+      "territoire": "BOUVERANS",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Paul CASTADERE",
+      "mandat": "maire",
+      "territoire": "CERAN",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean LACROIX",
+      "mandat": "maire",
+      "territoire": "CASTILLON-SAVES",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André CASABONNE",
+      "mandat": "maire",
+      "territoire": "CASSAIGNE",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilbert BLASCO",
+      "mandat": "maire",
+      "territoire": "SAINT-MEZARD",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Fernand RICHARD",
+      "mandat": "maire",
+      "territoire": "SANTILLY",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Pierre MILLET",
+      "mandat": "maire",
+      "territoire": "GUILLONVILLE",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel MANCEAU",
+      "mandat": "maire",
+      "territoire": "COURTAL AIN",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Daniel TUFFIER",
+      "mandat": "maire",
+      "territoire": "FRETIGNY",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean DURAND",
+      "mandat": "maire",
+      "territoire": "PEZY",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Claude ATTANE",
+      "mandat": "maire",
+      "territoire": "CABANAC-ET-VILLAGRAINS",
+      "departement": "33",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel VAILLAT",
+      "mandat": "maire",
+      "territoire": "LATTES",
+      "departement": "34",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Guy CREBASSOL",
+      "mandat": "maire",
+      "territoire": "NIZAS",
+      "departement": "34",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel GIBILY",
+      "mandat": "maire",
+      "territoire": "TEYRAN",
+      "departement": "34",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean VALLON",
+      "mandat": "maire",
+      "territoire": "CAZEVIEILLE",
+      "departement": "34",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard BRUCHET",
+      "mandat": "maire",
+      "territoire": "EBATY",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre DUBOC",
+      "mandat": "maire",
+      "territoire": "EPAIGNES",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard SAILLOT",
+      "mandat": "maire",
+      "territoire": "IGOVILLE",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland BENETIER",
+      "mandat": "maire",
+      "territoire": "SAINT-DENIS-DES-MONTS",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marie-Thérèse MATECKI",
+      "mandat": "maire",
+      "territoire": "GUERNY",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacky TROUVE",
+      "mandat": "maire",
+      "territoire": "CARSIX",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre BERTIN",
+      "mandat": "maire",
+      "territoire": "VENTES",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis-Antoine de GONTAUT-BIRON",
+      "mandat": "maire",
+      "territoire": "MARON",
+      "departement": "36",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilbert JOYEUX",
+      "mandat": "maire",
+      "territoire": "SAUZELLES",
+      "departement": "36",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marie-Loïc RICHARD",
+      "mandat": "maire",
+      "territoire": "GETIGNE",
+      "departement": "44",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger CHARDONNEAU",
+      "mandat": "maire",
+      "territoire": "RASLAY",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques LONHIENNE",
+      "mandat": "maire",
+      "territoire": "ARCHIGNY",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland GIRARDOT",
+      "mandat": "maire",
+      "territoire": "JOURNET",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre GABILLON",
+      "mandat": "maire",
+      "territoire": "DERCE",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Claude BOUTET",
+      "mandat": "maire",
+      "territoire": "SAINTGEORGES-LES-BAILLARGEAUX",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André REYNAUD",
+      "mandat": "maire",
+      "territoire": "VALS-PRES-LE-PUY",
+      "departement": "43",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Paul DAVID",
+      "mandat": "maire",
+      "territoire": "COESMES",
+      "departement": "35",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Serge LEGENDRE",
+      "mandat": "maire",
+      "territoire": "SAINT-SULPICEDES-LANDES",
+      "departement": "35",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Henri LABEZIN",
+      "mandat": "maire",
+      "territoire": "SAINTCEZERT",
+      "departement": "31",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Maximin CHASTAN",
+      "mandat": "maire",
+      "territoire": "BOUVIERES",
+      "departement": "26",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard VIAL",
+      "mandat": "maire",
+      "territoire": "ESPELUCHE",
+      "departement": "26",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard GALABERT",
+      "mandat": "maire",
+      "territoire": "HERRE",
+      "departement": "40",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilbert PLICHARD",
+      "mandat": "maire",
+      "territoire": "LAGLORIEUSE",
+      "departement": "40",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean ROLLAND",
+      "mandat": "maire",
+      "territoire": "MACHE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Henri TENAILLEAU",
+      "mandat": "maire",
+      "territoire": "SAINT-CHRISTOPHE-DU-LIGNERON",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Annik CARTIER",
+      "mandat": "maire",
+      "territoire": "POUZAUGES",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard VINCENT",
+      "mandat": "maire",
+      "territoire": "PETOSSE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Ernest SOULARD",
+      "mandat": "maire",
+      "territoire": "L’OIE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André PICHAUD",
+      "mandat": "maire",
+      "territoire": "SAINTHILAIRE-DE-LOULAY",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Edouard de RODELLEC",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-LARS-EN-SAINTE-HERMINE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Léon MASSE",
+      "mandat": "maire",
+      "territoire": "MAILLE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "René de LAMOIT E",
+      "mandat": "maire",
+      "territoire": "OULMES",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean GAURIAU",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLEAUX-LYS",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Pierre GIRAUD",
+      "mandat": "maire",
+      "territoire": "TIFFAUGES",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean GERARD",
+      "mandat": "maire",
+      "territoire": "AUVERNAUX",
+      "departement": "91",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Francis CHOISEL",
+      "mandat": "conseiller-general",
+      "departement": "92",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre BERNARD",
+      "mandat": "maire",
+      "territoire": "MONTFERMEIL",
+      "departement": "93",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel LUCAS",
+      "mandat": "maire",
+      "territoire": "PERIGNY",
+      "departement": "94",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Maurice BONNEAU",
+      "mandat": "maire",
+      "territoire": "PLESSIS-GASSOT",
+      "departement": "95",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard JARSAILLON",
+      "mandat": "maire",
+      "territoire": "SAINT-S YMPHORIEN-D’ANCELLES",
+      "departement": "71",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Claude LAPIERRE",
+      "mandat": "maire",
+      "territoire": "SOLUTRE-POUILLY",
+      "departement": "71",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel GROS",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLE-DE-GUINCHAY",
+      "departement": "71",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Hugues DU RIVAU",
+      "mandat": "maire",
+      "territoire": "COURGENARD",
+      "departement": "72",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Eugène COURBOULAY",
+      "mandat": "maire",
+      "territoire": "NOUANS",
+      "departement": "72",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christian de la VILLESBRUNNE",
+      "mandat": "maire",
+      "territoire": "SAINT-HILAIRE-LE-LIERRU",
+      "departement": "72",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel de MONHOUDOU",
+      "mandat": "maire",
+      "territoire": "MONHOUDOU",
+      "departement": "72",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean SILLON",
+      "mandat": "maire",
+      "territoire": "CORBEL",
+      "departement": "73",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert BOURGEOIS",
+      "mandat": "maire",
+      "territoire": "CESSOY-EN-MONTOIS",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert VALLIN",
+      "mandat": "maire",
+      "territoire": "COUILLY-PONT-AUX-DAMES",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe CHABOT",
+      "mandat": "maire",
+      "territoire": "JABLINES",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Nicolas FENART",
+      "mandat": "maire",
+      "territoire": "MONTCEAUXLES-PROVINS",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard POTEL",
+      "mandat": "maire",
+      "territoire": "SAINTHONORE",
+      "departement": "76",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean LE NEVEU",
+      "mandat": "maire",
+      "territoire": "SAINT-VICTORL’ABBAYE",
+      "departement": "76",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland MAL AND AIN",
+      "mandat": "maire",
+      "territoire": "ECRETTEVELLE-LES-BAONS",
+      "departement": "76",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "François LANGE",
+      "mandat": "maire",
+      "territoire": "BEUZEVILLE-LA-GUERARD",
+      "departement": "76",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André GOUARD",
+      "mandat": "maire",
+      "territoire": "MANNEVILLE-ES-PLAINS",
+      "departement": "76",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Serge ANCELOT",
+      "mandat": "maire",
+      "territoire": "AUFFREVILLE-BRASSEUIL",
+      "departement": "78",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Colette de BAUDUS",
+      "mandat": "maire",
+      "territoire": "MILLEMONT",
+      "departement": "78",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard CHOUCQ",
+      "mandat": "maire",
+      "territoire": "SCILLE",
+      "departement": "79",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Hervé de TALHOUET-ROY",
+      "mandat": "conseiller-general",
+      "departement": "79",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Daniel DENGREVILLE",
+      "mandat": "maire",
+      "territoire": "SAINT-RIQUIER",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe DELIGNIERES",
+      "mandat": "maire",
+      "territoire": "ROUVROY-EN-SANTERRE",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Henry POITREY",
+      "mandat": "maire",
+      "territoire": "VILLERS-AUX-ERABLES",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Georges HAUDIQUET",
+      "mandat": "maire",
+      "territoire": "CARNOY",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Stéphane COPPIK",
+      "mandat": "maire",
+      "territoire": "RAIMBEAUCOURT",
+      "departement": "59",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Charles MASSON",
+      "mandat": "maire",
+      "territoire": "FOURNES-EN-WEPPES",
+      "departement": "59",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert VANDELANOITTE",
+      "mandat": "conseiller-general",
+      "departement": "59",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marc LESOBRE",
+      "mandat": "maire",
+      "territoire": "NOIREMONT",
+      "departement": "60",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Pierre MAYOT",
+      "mandat": "maire",
+      "territoire": "FOSSEUSE",
+      "departement": "60",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude RICHE",
+      "mandat": "maire",
+      "territoire": "BOUTENCOURT",
+      "departement": "60",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe MORIN",
+      "mandat": "maire",
+      "territoire": "BOUCONVILLERS",
+      "departement": "60",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Georges BASSET",
+      "mandat": "maire",
+      "territoire": "VARESNES",
+      "departement": "60",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Joseph BOUR",
+      "mandat": "maire",
+      "territoire": "TENTELING",
+      "departement": "57",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Germain BARBIER",
+      "mandat": "maire",
+      "territoire": "SAINCAIZE-MEAUCE",
+      "departement": "58",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel MARSE-GUERRA",
+      "mandat": "maire",
+      "territoire": "LARRE",
+      "departement": "61",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Yves PRIOUZEAU",
+      "mandat": "maire",
+      "territoire": "LA COUTURE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Olivier d’AUDIFFRET",
+      "mandat": "maire",
+      "territoire": "BRETIGNOLLES-SUR-MER",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel FILLIODEAU",
+      "mandat": "maire",
+      "territoire": "LA BRUFFIERE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Florent PALLARDY",
+      "mandat": "maire",
+      "territoire": "SAINTMICHEL-EN-L’ HERM",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Paul EVON",
+      "mandat": "maire",
+      "territoire": "CHAMBRETAUD",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland GUILLOTON",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLEHERMIER",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marc MERLAND DE CHAILLE",
+      "mandat": "maire",
+      "territoire": "BEAUFOU",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean ARNOU",
+      "mandat": "maire",
+      "territoire": "CHATELLIERS-CHATEAUMUR",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard GENDRILLON",
+      "mandat": "maire",
+      "territoire": "LA CHATAIGNERAIE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilles COUGNAUD",
+      "mandat": "maire",
+      "territoire": "LA CHAIZEGIRAUD",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel AGENEAU",
+      "mandat": "maire",
+      "territoire": "SAINTPROUANT",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christophe BLONDE",
+      "mandat": "maire",
+      "territoire": "MESNIL-SAINTGEORGES",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Paul CASTET",
+      "mandat": "maire",
+      "territoire": "COINCOURT",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis FRIZON",
+      "mandat": "maire",
+      "territoire": "GREMILLY",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude BEHAEGEL",
+      "mandat": "maire",
+      "territoire": "RARECOURT",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernadette POSTAL",
+      "mandat": "maire",
+      "territoire": "ESNES-EN-ARGONNE",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert BOURDOULOUS",
+      "mandat": "maire",
+      "territoire": "CUISY",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pascal MORIN",
+      "mandat": "maire",
+      "territoire": "GESNES-ENARGONNE",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean DAUDIN",
+      "mandat": "maire",
+      "territoire": "TOUZAC",
+      "departement": "16",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean LEBEL",
+      "mandat": "maire",
+      "territoire": "HERLY",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Claude LECOUTRE",
+      "mandat": "maire",
+      "territoire": "HENNEVEUX",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Fernand-Pierre DELAPEYRONNIE",
+      "mandat": "maire",
+      "territoire": "PONS",
+      "departement": "17",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude ORVELIN",
+      "mandat": "maire",
+      "territoire": "VILLENEUVE-SURCHER",
+      "departement": "18",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Simone BOUGEROLLE",
+      "mandat": "maire",
+      "territoire": "CORBERON",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis ARNOL",
+      "mandat": "maire",
+      "territoire": "THURY",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques MORIZE",
+      "mandat": "maire",
+      "territoire": "MEAUCE",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude BERTRAND",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTTNDE-NIGELLES",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude VIAN",
+      "mandat": "maire",
+      "territoire": "SAINTE-ANASTASIE",
+      "departement": "30",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre MASSEGUIN",
+      "mandat": "maire",
+      "territoire": "PLANS",
+      "departement": "30",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "François MANAC’H",
+      "mandat": "maire",
+      "territoire": "COMMANA",
+      "departement": "29",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Pierre MOLINIE",
+      "mandat": "maire",
+      "territoire": "CARNAC-ROUFFIAC",
+      "departement": "46",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Emile SEVESTRE",
+      "mandat": "maire",
+      "territoire": "TOURVDLLE-SUR-SIENNE",
+      "departement": "50",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel FREARD",
+      "mandat": "maire",
+      "territoire": "MERLERAULT",
+      "departement": "61",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marguerite MONDET",
+      "mandat": "maire",
+      "territoire": "GUINARTHE-PARENTIES",
+      "departement": "64",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Alain CHOQUIN",
+      "mandat": "maire",
+      "territoire": "AVAJAN",
+      "departement": "65",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard BELTZ",
+      "mandat": "maire",
+      "territoire": "ESCHENTZWILLER",
+      "departement": "68",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard COULIN",
+      "mandat": "maire",
+      "territoire": "VELORCEY",
+      "departement": "70",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Marc BOUDON",
+      "mandat": "maire",
+      "territoire": "ATHIE",
+      "departement": "89",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude BINET",
+      "mandat": "maire",
+      "territoire": "RUGNY",
+      "departement": "89",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel CALLEMENT",
+      "mandat": "maire",
+      "territoire": "BLEIGNY-LECARREAU",
+      "departement": "89",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Yves VICTOR",
+      "mandat": "conseiller-general",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques DUVAL",
+      "mandat": "maire",
+      "territoire": "SAINT-GEORGES-DU-MESNIL",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Ernest BONNE",
+      "mandat": "maire",
+      "territoire": "CORDELLE",
+      "departement": "42",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Guy GORGET",
+      "mandat": "maire",
+      "territoire": "PEAS",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Bernard CHALLAMEL",
+      "mandat": "maire",
+      "territoire": "THONES",
+      "departement": "74",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel RENAUDIN",
+      "mandat": "maire",
+      "territoire": "BUSSEAU",
+      "departement": "79",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis DUCROS",
+      "mandat": "maire",
+      "territoire": "BEAUMONT",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger LEMONNIER",
+      "mandat": "maire",
+      "territoire": "LA BALEINE",
+      "departement": "50",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Joseph PICARD",
+      "mandat": "maire",
+      "territoire": "CAMPENEAC",
+      "departement": "56",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Madeleine AVELINE",
+      "mandat": "maire",
+      "territoire": "DORCEAU",
+      "departement": "61",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Léon SOURISSEAU",
+      "mandat": "maire",
+      "territoire": "LA PETITE-BOIS SIERE",
+      "departement": "79",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marie-Thérèse VIRON",
+      "mandat": "maire",
+      "territoire": "BREVAINVILLE",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "William BARRAU",
+      "mandat": "maire",
+      "territoire": "L’EGUILLE",
+      "departement": "17",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Dominique BOURGEOIS",
+      "mandat": "maire",
+      "territoire": "IVERNY",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard CARDINAUD",
+      "mandat": "maire",
+      "territoire": "BOULOGNE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Paul CROUE",
+      "mandat": "maire",
+      "territoire": "SAINTE-FLORENCE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Laurent BOISSEL",
+      "mandat": "maire",
+      "territoire": "SAON",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Alice LAMY",
+      "mandat": "maire",
+      "territoire": "FORMIGNY",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Hugues RA VET",
+      "mandat": "maire",
+      "territoire": "PLEINE-SELVE",
+      "departement": "33",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert BESNARD",
+      "mandat": "maire",
+      "territoire": "MAZŒRESDE-TOURAINE",
+      "departement": "37",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Daniel TELLIER",
+      "mandat": "maire",
+      "territoire": "CORMOYEUX",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gisèle BABINOT",
+      "mandat": "maire",
+      "territoire": "MERVENT",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Emile GIRARDEAU",
+      "mandat": "maire",
+      "territoire": "BEAUREPAIRE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean MONTAGNE",
+      "mandat": "maire",
+      "territoire": "FONTANES-DE-SAULT",
+      "departement": "11",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard BOURDEAU DE FONTENAY",
+      "mandat": "maire",
+      "territoire": "SAINT-JEAN-DE-LIVET",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques PINASSEAU",
+      "mandat": "maire",
+      "territoire": "SAINT-PALAIS-DE-NEGRIGNAC",
+      "departement": "17",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Marie REMOND",
+      "mandat": "maire",
+      "territoire": "VIELVERGE",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Daniel CASSARD",
+      "mandat": "maire",
+      "territoire": "BELMONT",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert MARCHAL",
+      "mandat": "maire",
+      "territoire": "GILLANCOURT",
+      "departement": "52",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques FOUREAUX",
+      "mandat": "maire",
+      "territoire": "COURTEUIL",
+      "departement": "60",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel TARRIDE",
+      "mandat": "maire",
+      "territoire": "EPRETOT",
+      "departement": "76",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Francis CABOURDIN",
+      "mandat": "maire",
+      "territoire": "LEUVILLE-SUR-ORGE",
+      "departement": "91",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre GERMAIN",
+      "mandat": "maire",
+      "territoire": "LA FLOCELLIERE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Yves ROBIN",
+      "mandat": "maire",
+      "territoire": "THIRE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger ALBERT",
+      "mandat": "maire",
+      "territoire": "LA TARDIERE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Francis SEUX",
+      "mandat": "maire",
+      "territoire": "LA TOUR-ENJAREZ",
+      "departement": "42",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis-Marie GIRARDEAU",
+      "mandat": "maire",
+      "territoire": "BAZOGES-ENPAILLERS",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Dominique RAUTUREAU",
+      "mandat": "maire",
+      "territoire": "TALLUDSAINTE-GEMME",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis ALBERT",
+      "mandat": "maire",
+      "territoire": "LA GUYONNIERE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Claude RICHARD",
+      "mandat": "maire",
+      "territoire": "DAMVIX",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Eugène GATEAU",
+      "mandat": "maire",
+      "territoire": "COEX",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Raoul PELOTE",
+      "mandat": "maire",
+      "territoire": "BOUIN",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Félix MENDIBURU",
+      "mandat": "maire",
+      "territoire": "LABETS-BISCAY",
+      "departement": "64",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe DEMOURY",
+      "mandat": "maire",
+      "territoire": "BAZOCHES-SURVESLES",
+      "departement": "02",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean PAZIAUD",
+      "mandat": "maire",
+      "territoire": "ETROUSSAT",
+      "departement": "03",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel BOUDOUARD",
+      "mandat": "maire",
+      "territoire": "SAINT-ETÏENNE-LE-LAUS",
+      "departement": "05",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André ROATTA",
+      "mandat": "maire",
+      "territoire": "LA ROQUETTE-SUR-SIAGNE",
+      "departement": "06",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Georges d’AUTHIER",
+      "mandat": "maire",
+      "territoire": "LA PENNE",
+      "departement": "06",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Joseph BONHOMME",
+      "mandat": "maire",
+      "territoire": "COUCOURON",
+      "departement": "07",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques PIOT",
+      "mandat": "maire",
+      "territoire": "VAUDES",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Maurice CARRE",
+      "mandat": "maire",
+      "territoire": "ISLE-AUMONT",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Max BROQUET",
+      "mandat": "maire",
+      "territoire": "VILLEMAUR-SUR-VANNE",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard de la HAMAYDE",
+      "mandat": "maire",
+      "territoire": "SAINT-PARRES-LESVAUDES",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean JOUVENET",
+      "mandat": "maire",
+      "territoire": "BORDESAUMONT",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Huguette CASSIS",
+      "mandat": "maire",
+      "territoire": "CHAPPES",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Antonin BOILE",
+      "mandat": "maire",
+      "territoire": "LESPINASSIERE",
+      "departement": "11",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude PILET",
+      "mandat": "maire",
+      "territoire": "PUY-DU-LAC",
+      "departement": "17",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude MEUNIER",
+      "mandat": "maire",
+      "territoire": "PONTL’ABBE-D’ARNOULT",
+      "departement": "17",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Louis MORTEAU",
+      "mandat": "maire",
+      "territoire": "COTEBRUNE",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Claude JUBIN",
+      "mandat": "maire",
+      "territoire": "GLERE",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Max ROMANET",
+      "mandat": "conseiller-regional",
+      "departement": "30",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel DUHAIL",
+      "mandat": "maire",
+      "territoire": "BOUESSE",
+      "departement": "36",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard GIROLLET",
+      "mandat": "maire",
+      "territoire": "CIGOGNE",
+      "departement": "37",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis GOHIER",
+      "mandat": "maire",
+      "territoire": "MONTREUIL-EN-TOURAINE",
+      "departement": "37",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre CHANOIS",
+      "mandat": "maire",
+      "territoire": "CHENE-SEC",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gaston JAUD",
+      "mandat": "maire",
+      "territoire": "MARIGNA-SUR-VALOUSE",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Georges GAUTHERIN",
+      "mandat": "maire",
+      "territoire": "MONTAGNA-LE-RECONDUIT",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger DESŒUVRE",
+      "mandat": "maire",
+      "territoire": "PLESSIS-DORIN",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre LEMIERE",
+      "mandat": "maire",
+      "territoire": "MONDEMENT-MONTGIVROUX",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Cécile de ROCQUIGNY",
+      "mandat": "maire",
+      "territoire": "ASNIERES-SUR-BLOUR",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude PERRIN",
+      "mandat": "maire",
+      "territoire": "BETHINES",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Jacques ARBELLOT",
+      "mandat": "maire",
+      "territoire": "LIGLET",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert LAGASSE",
+      "mandat": "maire",
+      "territoire": "LESCOUT",
+      "departement": "81",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Léon LEROUX",
+      "mandat": "maire",
+      "territoire": "FRESNOY-LES-ROYE",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Laurent WETZEL",
+      "mandat": "maire",
+      "territoire": "SARTROUVILLE",
+      "departement": "78",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe ROUTHIER",
+      "mandat": "maire",
+      "territoire": "SAVIGNY-EN-REVERMONT",
+      "departement": "71",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Laurent SUNDHAUSER",
+      "mandat": "maire",
+      "territoire": "ACHENHEIM",
+      "departement": "67",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre BLIND",
+      "mandat": "maire",
+      "territoire": "SONDERSDORF",
+      "departement": "68",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André BOURREAU",
+      "mandat": "maire",
+      "territoire": "ESSARTS",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Clément ROUX",
+      "mandat": "maire",
+      "territoire": "MONLET",
+      "departement": "43",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Antoine GUILBAUD",
+      "mandat": "maire",
+      "territoire": "VALLET",
+      "departement": "44",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Joël LEROUX",
+      "mandat": "maire",
+      "territoire": "LA ROCHEBLANCHE",
+      "departement": "44",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Joseph-René LEFORT",
+      "mandat": "maire",
+      "territoire": "TREMONT",
+      "departement": "49",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude VIGNERON",
+      "mandat": "maire",
+      "territoire": "LONGERON",
+      "departement": "49",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre COURRIER",
+      "mandat": "maire",
+      "territoire": "COURLEON",
+      "departement": "49",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Camille LAURENDEAU",
+      "mandat": "maire",
+      "territoire": "VALANJOU",
+      "departement": "49",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Grégoire PUISEUX",
+      "mandat": "maire",
+      "territoire": "MONTEPREUX",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André PLOIX",
+      "mandat": "maire",
+      "territoire": "LINTHELLES",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre MARTIN",
+      "mandat": "maire",
+      "territoire": "BOUZY",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe MARTIN",
+      "mandat": "maire",
+      "territoire": "CUMIERES",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Yves PELTIER",
+      "mandat": "maire",
+      "territoire": "BELLEVILLE-SURMEUSE",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Noël ROCHER",
+      "mandat": "maire",
+      "territoire": "CARENTOIR",
+      "departement": "56",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Guy FETIQUE",
+      "mandat": "maire",
+      "territoire": "VARSBERG",
+      "departement": "57",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Luc HOCHART",
+      "mandat": "maire",
+      "territoire": "WISMES",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "René TEMPEZ",
+      "mandat": "maire",
+      "territoire": "COUTURELLE",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Monique ENGRAND",
+      "mandat": "maire",
+      "territoire": "SANGHEN",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard POUILLAUDE",
+      "mandat": "maire",
+      "territoire": "BANCOURT",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Charles VEIT",
+      "mandat": "maire",
+      "territoire": "MINVERSHEIM",
+      "departement": "67",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Pierre LELEUX",
+      "mandat": "conseiller-general",
+      "departement": "06",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert GANTIER",
+      "mandat": "conseiller-general",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger GUERRE",
+      "mandat": "conseiller-general",
+      "departement": "45",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André MARSY",
+      "mandat": "conseiller-general",
+      "departement": "45",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland MENTRE",
+      "mandat": "conseiller-general",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Guy GONNORD",
+      "mandat": "conseiller-general",
+      "departement": "79",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Pierre de LAMBILLY",
+      "mandat": "conseiller-general",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude OUVRARD",
+      "mandat": "conseiller-general",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bertrand LE JOLIS DE VILLIERS",
+      "mandat": "conseiller-general",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis DUCEPT",
+      "mandat": "conseiller-general",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe DARNICHE",
+      "mandat": "conseiller-general",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean MONSINJON",
+      "mandat": "maire",
+      "territoire": "PARIGNY-LAROSE",
+      "departement": "58",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel MAILLOT",
+      "mandat": "maire",
+      "territoire": "VERDELOT",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Elie PROCUREUR",
+      "mandat": "maire",
+      "territoire": "LEVECOURT",
+      "departement": "52",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Raymond PIERRE",
+      "mandat": "maire",
+      "territoire": "COSSESSEVILLE",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Georges GALLET",
+      "mandat": "maire",
+      "territoire": "LOISIA",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christian de BARMON",
+      "mandat": "maire",
+      "territoire": "FEGREAC",
+      "departement": "44",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland GAUDIN",
+      "mandat": "maire",
+      "territoire": "S AINT-GERM AIN-LES - PAROISSES",
+      "departement": "01",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel GODRET",
+      "mandat": "maire",
+      "territoire": "TOURNEDOSSUR-SEINE",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Marie DORMION",
+      "mandat": "maire",
+      "territoire": "LIZINES",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André GEORGES",
+      "mandat": "maire",
+      "territoire": "ESCLES",
+      "departement": "88",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Emile CHAZALON",
+      "mandat": "maire",
+      "territoire": "FONS",
+      "departement": "07",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel COIGNART",
+      "mandat": "maire",
+      "territoire": "GRIVYLOISY",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André MILLARD",
+      "mandat": "maire",
+      "territoire": "GOUAIX",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christian TRACOL",
+      "mandat": "maire",
+      "territoire": "MIRMANDE",
+      "departement": "26",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marin DESBOIS",
+      "mandat": "maire",
+      "territoire": "S ACE",
+      "departement": "53",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard LE SECQ",
+      "mandat": "maire",
+      "territoire": "BEAULIEU",
+      "departement": "61",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe BOUFFLERD",
+      "mandat": "maire",
+      "territoire": "VINCY-MANŒUVRE",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "MarieGabrielle DU DRESNAY",
+      "mandat": "maire",
+      "territoire": "LHOUMOIS",
+      "departement": "79",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre SUEL",
+      "mandat": "maire",
+      "territoire": "SAINT-COUTANT",
+      "departement": "16",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Paul LAMY",
+      "mandat": "maire",
+      "territoire": "LUCENAY",
+      "departement": "69",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean RENOUX",
+      "mandat": "maire",
+      "territoire": "VILLEBOUGIS",
+      "departement": "89",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christian BRAC DE LA PERRIERE",
+      "mandat": "maire",
+      "territoire": "LUCSUR-MER",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Pol LE GUERN",
+      "mandat": "maire",
+      "territoire": "AUDRIEU",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Guy IMHOF",
+      "mandat": "maire",
+      "territoire": "SAINT-MANVIEU-NORREY",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André GUERCHOUX",
+      "mandat": "maire",
+      "territoire": "VENDES",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard BEAUGEARD",
+      "mandat": "maire",
+      "territoire": "BURCY",
+      "departement": "14",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christian ANGIBAUD",
+      "mandat": "maire",
+      "territoire": "SAINTPAUL-DU-BOIS",
+      "departement": "49",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques SAINT CAST",
+      "mandat": "maire",
+      "territoire": "VARENNES-SUR-LOIRE",
+      "departement": "49",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean LECOQ",
+      "mandat": "maire",
+      "territoire": "QUINEVILLE",
+      "departement": "50",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger DOYARD",
+      "mandat": "maire",
+      "territoire": "VINDEY",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel THIEBLIN",
+      "mandat": "maire",
+      "territoire": "SAINT-LOUP",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Alain GIMONNET",
+      "mandat": "maire",
+      "territoire": "ESSARTS-LES-SEZANNE",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard ASSIER",
+      "mandat": "maire",
+      "territoire": "GIVRY-LES-LOISY",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Francis THOMAS",
+      "mandat": "maire",
+      "territoire": "ETOGES",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude REMY",
+      "mandat": "maire",
+      "territoire": "ALLEMANT",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard CLAUDON",
+      "mandat": "maire",
+      "territoire": "TANCONVILLE",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel GUERARD",
+      "mandat": "maire",
+      "territoire": "DAMPVITOUX",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean CHARROIS",
+      "mandat": "maire",
+      "territoire": "LANEUVEVILLE-DEVANT-B A Y ON",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean BESSON",
+      "mandat": "maire",
+      "territoire": "GONDRECOURT-AIX",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Maurice BOURGOIN",
+      "mandat": "maire",
+      "territoire": "CHAMPEON",
+      "departement": "53",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre CHAIZE",
+      "mandat": "maire",
+      "territoire": "FLAIGNESHAVYS",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques CHARNEY",
+      "mandat": "maire",
+      "territoire": "VILLIERS-LEBOIS",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean DUMEY",
+      "mandat": "maire",
+      "territoire": "MAROLLES-LESB AIT J.Y",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe SAVOURE-LEJEUNE",
+      "mandat": "maire",
+      "territoire": "CERCOTTES",
+      "departement": "45",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis SURGE",
+      "mandat": "maire",
+      "territoire": "VILLECHAUVE",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Louis PAMART",
+      "mandat": "maire",
+      "territoire": "JUMIGNY",
+      "departement": "02",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Auguste BRETIN",
+      "mandat": "maire",
+      "territoire": "MARCAY",
+      "departement": "37",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Maurice MARTIN",
+      "mandat": "maire",
+      "territoire": "DEUXFAYS",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Henri MAITRE",
+      "mandat": "maire",
+      "territoire": "CHAREZIER",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gaston BRISCHOUX",
+      "mandat": "maire",
+      "territoire": "BURNEVILLERS",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean DORNIER",
+      "mandat": "maire",
+      "territoire": "FALLERANS",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Paul PEPIOT",
+      "mandat": "maire",
+      "territoire": "LA GRANGE",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Alain DUFFOURG",
+      "mandat": "maire",
+      "territoire": "TOURRENQUETS",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Georges DOUBRERE",
+      "mandat": "maire",
+      "territoire": "ARMOUS-ETCAU",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Raymond VIDAL",
+      "mandat": "maire",
+      "territoire": "SAINT-GERMIER",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Max RUNEL BELLIARD",
+      "mandat": "maire",
+      "territoire": "TERRAUBE",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André LAURA Y",
+      "mandat": "maire",
+      "territoire": "LALANNE",
+      "departement": "32",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard LETELLIER",
+      "mandat": "maire",
+      "territoire": "MARCHEZAIS",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marc VINCHON",
+      "mandat": "maire",
+      "territoire": "BAIGNOLET",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Emile TOURNE",
+      "mandat": "maire",
+      "territoire": "VARIZE",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André ROYE",
+      "mandat": "maire",
+      "territoire": "NAUJAN-ET-POSTIAC",
+      "departement": "33",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques NARBONNE",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-LACAUSSADE",
+      "departement": "33",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Régis TEISSERENC",
+      "mandat": "maire",
+      "territoire": "SAINT-FELIX-DE-L’HERAS",
+      "departement": "34",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean GARREAU",
+      "mandat": "maire",
+      "territoire": "ARCEAU",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Laurent DELARUE",
+      "mandat": "maire",
+      "territoire": "SALMAISE",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Lionel LAINE",
+      "mandat": "maire",
+      "territoire": "NOTRE-DAMED’EPINE",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland BUC AILLE",
+      "mandat": "maire",
+      "territoire": "BAILLEUL-LAVALLEE",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre HOUSSAYE",
+      "mandat": "maire",
+      "territoire": "THEILNOLENT",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel GALIBERT",
+      "mandat": "maire",
+      "territoire": "SAINTE-ENIMIE",
+      "departement": "48",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Charles TAUGOURDEAU",
+      "mandat": "maire",
+      "territoire": "BEAUFORTEN-VALLEE",
+      "departement": "49",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques TISSIER",
+      "mandat": "maire",
+      "territoire": "FONTGOMBAULT",
+      "departement": "36",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bruno PERRIN",
+      "mandat": "maire",
+      "territoire": "MIGNY",
+      "departement": "36",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude LIDOREAU",
+      "mandat": "maire",
+      "territoire": "ROCE",
+      "departement": "41",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert MARTIN",
+      "mandat": "maire",
+      "territoire": "FROSSAY",
+      "departement": "44",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Joseph MAROILLE",
+      "mandat": "maire",
+      "territoire": "VICQ-SUR-GARTEMPE",
+      "departement": "86",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis OUILLON",
+      "mandat": "maire",
+      "territoire": "SAINT-MAURICE-DELIGNON",
+      "departement": "43",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Guy GIRONCE",
+      "mandat": "maire",
+      "territoire": "VALEUIL",
+      "departement": "24",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard PLUMERAND",
+      "mandat": "maire",
+      "territoire": "CHAMPLAN",
+      "departement": "91",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard NEVERS",
+      "mandat": "maire",
+      "territoire": "VILLEBON-SUR-YVETTE",
+      "departement": "91",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard AUGAGNEUR",
+      "mandat": "maire",
+      "territoire": "SAINT-LAURENT-EN-BRIONNAIS",
+      "departement": "71",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Raymond PASSOT",
+      "mandat": "maire",
+      "territoire": "BEAUREPAIRE-EN-BRESSE",
+      "departement": "71",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis MAUGUIN",
+      "mandat": "maire",
+      "territoire": "BERZE-LE-CHATEL",
+      "departement": "71",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel CHANROUX",
+      "mandat": "maire",
+      "territoire": "VEZOT",
+      "departement": "72",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Daniel DUFRENEY",
+      "mandat": "maire",
+      "territoire": "LA CHAMBRE",
+      "departement": "73",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard PIESSE",
+      "mandat": "maire",
+      "territoire": "MONTMACHOUX",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Alain CAZES",
+      "mandat": "maire",
+      "territoire": "MERICOURT",
+      "departement": "78",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Paul d’AVOUT",
+      "mandat": "maire",
+      "territoire": "LIGESCOURT",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Emile DECROISETTE",
+      "mandat": "maire",
+      "territoire": "FOUCAUCOURT-HORS-NESLE",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel CARON",
+      "mandat": "maire",
+      "territoire": "MAUREPAS",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel LAFALISSE",
+      "mandat": "maire",
+      "territoire": "LONGAVESNES",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André GENTY",
+      "mandat": "maire",
+      "territoire": "SAINTARNOULT",
+      "departement": "60",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilbert VEREECKE",
+      "mandat": "maire",
+      "territoire": "VILLERS-SURBONNIERES",
+      "departement": "60",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude NORMAND",
+      "mandat": "maire",
+      "territoire": "FONTAINELES-CAPPY",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Léon ALIBERT",
+      "mandat": "maire",
+      "territoire": "LOUBERS",
+      "departement": "81",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Maurice BERNIER",
+      "mandat": "maire",
+      "territoire": "CIERGES-SOUS-MONTFAUCON",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilbert DELANDRE",
+      "mandat": "maire",
+      "territoire": "ROMAGNE-SOUSMONTFAUCON",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Francis NEBOUT",
+      "mandat": "maire",
+      "territoire": "PEREUIL",
+      "departement": "16",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel CARON",
+      "mandat": "maire",
+      "territoire": "AUDINGHEN",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Lucien DELIGNY",
+      "mandat": "maire",
+      "territoire": "LESPINOY",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André GAGNEPAIN",
+      "mandat": "maire",
+      "territoire": "MAVILLY-MANDELOT",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André BREBION",
+      "mandat": "maire",
+      "territoire": "LA PLAINE",
+      "departement": "49",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Robert de BLOIS",
+      "mandat": "maire",
+      "territoire": "LIGNOL",
+      "departement": "56",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christian JOURET",
+      "mandat": "maire",
+      "territoire": "OLEAC-DEBAT",
+      "departement": "65",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Frédéric STRIBY",
+      "mandat": "maire",
+      "territoire": "MICHELBACH-LE-BAS",
+      "departement": "68",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel MORIAUD",
+      "mandat": "maire",
+      "territoire": "TREIZE",
+      "departement": "69",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel BARBE",
+      "mandat": "maire",
+      "territoire": "SORNAY",
+      "departement": "70",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel BAILLY",
+      "mandat": "maire",
+      "territoire": "MARNAY",
+      "departement": "70",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "René MAILLARD",
+      "mandat": "maire",
+      "territoire": "LANDAVILLE",
+      "departement": "88",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Guy de LAMBERTERIE",
+      "mandat": "maire",
+      "territoire": "PEYRAT-LA-NONIERE",
+      "departement": "23",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard POULAIN",
+      "mandat": "maire",
+      "territoire": "VIABON",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger PERDIGEON",
+      "mandat": "maire",
+      "territoire": "MAROLLES-ENBEAUCE",
+      "departement": "91",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Pierre JEANNIN",
+      "mandat": "maire",
+      "territoire": "SAINT-MARCEL",
+      "departement": "70",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean LONGUE",
+      "mandat": "maire",
+      "territoire": "OUZOUS",
+      "departement": "65",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Philippe des JAMONIERES",
+      "mandat": "maire",
+      "territoire": "CELLIER",
+      "departement": "44",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel MELLOT",
+      "mandat": "maire",
+      "territoire": "LARREY",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Bernard SALMON",
+      "mandat": "maire",
+      "territoire": "AZY",
+      "departement": "18",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcelle FOURNIER",
+      "mandat": "maire",
+      "territoire": "SAINT-CIERGE-SOUS-LE-CHEYLARD",
+      "departement": "07",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roland THEPENIER",
+      "mandat": "maire",
+      "territoire": "BUCHERES",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Michel HARTMANN",
+      "mandat": "maire",
+      "territoire": "SAINT-POUANGE",
+      "departement": "10",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Claude MALRIEU",
+      "mandat": "maire",
+      "territoire": "GALGAN",
+      "departement": "12",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilbert MICHENAUD",
+      "mandat": "maire",
+      "territoire": "SAINT-ANDRÉ-GOULE-D’OIE",
+      "departement": "85",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Claude DUBOIS",
+      "mandat": "maire",
+      "territoire": "GRIVESNES",
+      "departement": "80",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel DELMARRE",
+      "mandat": "maire",
+      "territoire": "BAZINVAL",
+      "departement": "76",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel COMMUNAL",
+      "mandat": "maire",
+      "territoire": "LA CHAISE-DIEU",
+      "departement": "43",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gilbert LACOURT",
+      "mandat": "maire",
+      "territoire": "NUISEMENTSUR-COOLE",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "René LAIR DE LA MOTTE",
+      "mandat": "maire",
+      "territoire": "MEZANGERS",
+      "departement": "53",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard STEBE",
+      "mandat": "maire",
+      "territoire": "REZONVILLE",
+      "departement": "57",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-François LEGRAND",
+      "mandat": "conseiller-general",
+      "departement": "55",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "François PARÀVISINI",
+      "mandat": "maire",
+      "territoire": "CANNELLE",
+      "departement": "2A",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard de VASSAL",
+      "mandat": "conseiller-general",
+      "departement": "92",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel CARLIN",
+      "mandat": "maire",
+      "territoire": "CHATEAUNEUFVILLEVIEILLE",
+      "departement": "06",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jacques VAN LUCHENE",
+      "mandat": "maire",
+      "territoire": "CHARBOGNE",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Francis TAUZIN",
+      "mandat": "maire",
+      "territoire": "VEYRINS-THUELLIN",
+      "departement": "38",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger MORARD",
+      "mandat": "maire",
+      "territoire": "ARGERS",
+      "departement": "51",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean-Marie BARRE",
+      "mandat": "maire",
+      "territoire": "COLLEMIERS",
+      "departement": "89",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Gérard PAURION",
+      "mandat": "maire",
+      "territoire": "REPARS AC",
+      "departement": "16",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Siméon MENUGE",
+      "mandat": "maire",
+      "territoire": "GAUDIEMPRE",
+      "departement": "62",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Daniel LACROIX",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Christian ANDRE de la FRESNAYE",
+      "mandat": "maire",
+      "territoire": "COURCELLES-LA-FORET",
+      "departement": "72",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger de LA BOUILLERIE",
+      "mandat": "maire",
+      "territoire": "SAINT-GRAVE",
+      "departement": "56",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel THOMAS",
+      "mandat": "maire",
+      "territoire": "FRETY",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Armand de MALHERBE",
+      "mandat": "maire",
+      "territoire": "MARCON",
+      "departement": "72",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Paul THIEFAIN",
+      "mandat": "maire",
+      "territoire": "BOSSUS-LES-RUMIGNY",
+      "departement": "08",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Marcel MOUILLON",
+      "mandat": "maire",
+      "territoire": "AGEY",
+      "departement": "21",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "René PRALON BOUVIER",
+      "mandat": "maire",
+      "territoire": "MARNAZ",
+      "departement": "74",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Etienne PETIT",
+      "mandat": "maire",
+      "territoire": "COULOMBS",
+      "departement": "28",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Yannick ARDEVEN",
+      "mandat": "conseiller-regional",
+      "departement": "974",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean BAUDOIN",
+      "mandat": "maire",
+      "territoire": "CHENOISE",
+      "departement": "77",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Louis COUTURET",
+      "mandat": "maire",
+      "territoire": "AUTREY-LES-CERRE",
+      "departement": "70",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean CONTOIS",
+      "mandat": "maire",
+      "territoire": "SERANVILLE",
+      "departement": "54",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel CHAMBARD",
+      "mandat": "maire",
+      "territoire": "VILLARD-SUR-BIENNE",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "René JANVIER",
+      "mandat": "maire",
+      "territoire": "VAUX-LES-SAINT-CLAUDE",
+      "departement": "39",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean MORIN",
+      "mandat": "maire",
+      "territoire": "SAINT-FLOVIER",
+      "departement": "37",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Henri THERIN",
+      "mandat": "maire",
+      "territoire": "LOCMELAR",
+      "departement": "29",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "André NOËL",
+      "mandat": "maire",
+      "territoire": "BOULLEVILLE",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Jean GALLIEN",
+      "mandat": "conseiller-general",
+      "departement": "43",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Aymar de BEAUMONT",
+      "mandat": "maire",
+      "territoire": "SAINT-CYPRIEN",
+      "departement": "24",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Michel VALQUE",
+      "mandat": "maire",
+      "territoire": "MESNILVERCLIVES",
+      "departement": "27",
+      "publie_le": "1995-04-12"
+    },
+    {
+      "nom": "Roger MACABREY",
+      "mandat": "conseiller-general",
+      "departement": "25",
+      "publie_le": "1995-04-12"
+    }
+  ]
+}

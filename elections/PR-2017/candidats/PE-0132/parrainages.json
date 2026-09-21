@@ -1,0 +1,359 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-2017",
+  "personne": "PE-0132",
+  "nom_complet": "Henri GUAINO",
+  "etendue": "integrale",
+  "publications": [
+    {
+      "date": "2017-03-01",
+      "source": {
+        "id": "conseil-constitutionnel:2017-158-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017158PDR.htm",
+        "commentaire": "Liste du 1er mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-03",
+      "source": {
+        "id": "conseil-constitutionnel:2017-159-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017159PDR.htm",
+        "commentaire": "Liste du 2 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-07",
+      "source": {
+        "id": "conseil-constitutionnel:2017-160-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017160PDR.htm",
+        "commentaire": "Liste du 7 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-10",
+      "source": {
+        "id": "conseil-constitutionnel:2017-161-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017161PDR.htm",
+        "commentaire": "Liste du 9 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-14",
+      "source": {
+        "id": "conseil-constitutionnel:2017-162-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017162PDR.htm",
+        "commentaire": "Liste du 14 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-18",
+      "source": {
+        "id": "conseil-constitutionnel:2017-164-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017164PDR.htm",
+        "commentaire": "Liste du 17 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "civilite": "M",
+      "nom": "HOURDIN",
+      "prenom": "Arnaud",
+      "mandat": "maire",
+      "territoire": "Rennemoulin",
+      "departement": "78",
+      "publie_le": "2017-03-01"
+    },
+    {
+      "civilite": "M",
+      "nom": "COLONNA",
+      "prenom": "Paul-Joseph",
+      "mandat": "maire",
+      "territoire": "Guagno",
+      "departement": "2A",
+      "publie_le": "2017-03-01"
+    },
+    {
+      "civilite": "M",
+      "nom": "COMBET",
+      "prenom": "Jean-Michel",
+      "mandat": "maire",
+      "territoire": "Cercier",
+      "departement": "74",
+      "publie_le": "2017-03-03"
+    },
+    {
+      "civilite": "M",
+      "nom": "RIGOT",
+      "prenom": "Olivier",
+      "mandat": "maire",
+      "territoire": "Tangry",
+      "departement": "62",
+      "publie_le": "2017-03-03"
+    },
+    {
+      "civilite": "M",
+      "nom": "LAZZAROTTI",
+      "prenom": "Jacques",
+      "mandat": "maire",
+      "territoire": "Molesme",
+      "departement": "21",
+      "publie_le": "2017-03-03"
+    },
+    {
+      "civilite": "M",
+      "nom": "CHIAPPINI",
+      "prenom": "Charles",
+      "mandat": "maire",
+      "territoire": "Calcatoggio",
+      "departement": "2A",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "SOULIES",
+      "prenom": "Claude",
+      "mandat": "maire",
+      "territoire": "Roquemaure",
+      "departement": "81",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "DAVID",
+      "prenom": "Jean-Pierre",
+      "mandat": "maire",
+      "territoire": "Flirey",
+      "departement": "54",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "DARQUIES",
+      "prenom": "Philippe",
+      "mandat": "maire",
+      "territoire": "Madaillan",
+      "departement": "47",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "LUCIANI",
+      "prenom": "Vannina",
+      "mandat": "maire",
+      "territoire": "Moca-Croce",
+      "departement": "2A",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "NAVELOT-GAUDNIK",
+      "prenom": "Marie-Françoise",
+      "mandat": "maire",
+      "territoire": "Nantois",
+      "departement": "55",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "PERNOD",
+      "prenom": "Ghislaine",
+      "mandat": "maire",
+      "territoire": "Oncieu",
+      "departement": "01",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "VINCENT",
+      "prenom": "Raymond",
+      "mandat": "maire-delegue",
+      "territoire": "Champlitte",
+      "departement": "70",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "BACON",
+      "prenom": "Bernard",
+      "mandat": "maire",
+      "territoire": "Saint-Symphorien",
+      "departement": "48",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "BALDECCHI",
+      "prenom": "Serge",
+      "mandat": "maire",
+      "territoire": "Saint-Antonin-du-Var",
+      "departement": "83",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "BOURGEAT",
+      "prenom": "Jacques",
+      "mandat": "maire",
+      "territoire": "Beauvoir-en-Royans",
+      "departement": "38",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "COLLINET",
+      "prenom": "Roland",
+      "mandat": "maire-delegue",
+      "territoire": "Sanilhac",
+      "departement": "24",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "FETSCH",
+      "prenom": "Jean-Michel",
+      "mandat": "maire",
+      "territoire": "Lauterbourg",
+      "departement": "67",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "REGAERT",
+      "prenom": "Bruno",
+      "mandat": "maire",
+      "territoire": "Vaudherland",
+      "departement": "95",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "LOISEAU",
+      "prenom": "Jean-François",
+      "mandat": "maire",
+      "territoire": "Périgny",
+      "departement": "41",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "LELIEVRE",
+      "prenom": "Raymond",
+      "mandat": "maire",
+      "territoire": "Lignières-Orgères",
+      "departement": "53",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "LE PEN",
+      "prenom": "Marine",
+      "mandat": "representant-parlement-europeen",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "TRUJILLO",
+      "prenom": "Jean",
+      "mandat": "maire",
+      "territoire": "Bernes",
+      "departement": "80",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "GIORDANI",
+      "prenom": "François",
+      "mandat": "maire",
+      "territoire": "Salice",
+      "departement": "2A",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "ANTHOINE",
+      "prenom": "Eric",
+      "mandat": "maire",
+      "territoire": "La Rivière-Enverse",
+      "departement": "74",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "DECULTOT",
+      "prenom": "Hervé",
+      "mandat": "maire",
+      "territoire": "Saint-Sauveur-d'Emalleville",
+      "departement": "76",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "DEBRAIZE",
+      "prenom": "Vincent",
+      "mandat": "maire",
+      "territoire": "Champignolles",
+      "departement": "27",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "GYSELINCK",
+      "prenom": "Philippe",
+      "mandat": "maire",
+      "territoire": "Bony",
+      "departement": "02",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "VIGNEAUX",
+      "prenom": "Claude",
+      "mandat": "maire",
+      "territoire": "Brannay",
+      "departement": "89",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "DEMAZIERES",
+      "prenom": "Mario",
+      "mandat": "maire",
+      "territoire": "Saint-Clair-sur-les-Monts",
+      "departement": "76",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "MONANY",
+      "prenom": "Vijay",
+      "mandat": "conseiller-departemental",
+      "departement": "93",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "GANNE",
+      "prenom": "Yolande",
+      "mandat": "maire",
+      "territoire": "Champoulet",
+      "departement": "45",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "DUDON",
+      "prenom": "Bernard",
+      "mandat": "maire",
+      "territoire": "Pessac-sur-Dordogne",
+      "departement": "33",
+      "publie_le": "2017-03-18"
+    }
+  ]
+}

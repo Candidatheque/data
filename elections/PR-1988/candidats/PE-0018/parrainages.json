@@ -1,0 +1,3520 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-1988",
+  "personne": "PE-0018",
+  "nom_complet": "Arlette LAGUILLER",
+  "etendue": "tirage-au-sort",
+  "publications": [
+    {
+      "date": "1988-04-12",
+      "source": {
+        "id": "conseil-constitutionnel:88-55-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/1988/8855pdr.htm",
+        "commentaire": "Listes des citoyens habilités ayant présenté les candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "nom": "Roger ROUGEOT",
+      "mandat": "maire",
+      "territoire": "CHANCEY",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Joseph LETOREY",
+      "mandat": "maire",
+      "territoire": "PREAUX-SAINT-SEBASTIEN",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Georges SENAC",
+      "mandat": "maire",
+      "territoire": "BUZON",
+      "departement": "65",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Louis OUSSET",
+      "mandat": "maire",
+      "territoire": "FERRERE",
+      "departement": "65",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel NAVARRE",
+      "mandat": "maire",
+      "territoire": "BETPOUY",
+      "departement": "65",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Joseph BACQUE",
+      "mandat": "maire",
+      "territoire": "GREZIAN",
+      "departement": "65",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Etienne MICAS",
+      "mandat": "maire",
+      "territoire": "BAREILLES",
+      "departement": "65",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Germain LAFITTE",
+      "mandat": "maire",
+      "territoire": "MENDIONDE",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Joél BARADAT",
+      "mandat": "maire",
+      "territoire": "REBENACQ",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Barthélémy AGUERRE",
+      "mandat": "maire",
+      "territoire": "LUXE-SUMBERRAUTE",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "JeanClaude LURO",
+      "mandat": "maire",
+      "territoire": "GAMARTHE",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel ETCHEBER",
+      "mandat": "maire",
+      "territoire": "PAGOLLE",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel BARBERENA",
+      "mandat": "maire",
+      "territoire": "CARO",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Félix MENDIBURU",
+      "mandat": "maire",
+      "territoire": "LABETSBISCAY",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude LABERDESQUE",
+      "mandat": "maire",
+      "territoire": "LAYLAMIDOU",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Baptiste CASAUCAU",
+      "mandat": "maire",
+      "territoire": "BUZIET",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre ARRIAU",
+      "mandat": "maire",
+      "territoire": "CASTETBON",
+      "departement": "64",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger LAVAL",
+      "mandat": "maire",
+      "territoire": "SAINT-MAURICE",
+      "departement": "63",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Lucien JOUVENOT",
+      "mandat": "maire",
+      "territoire": "MOTEY-BESUCHE",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Paul MORIZOT",
+      "mandat": "maire",
+      "territoire": "VILLERS",
+      "departement": "88",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André REMY",
+      "mandat": "maire",
+      "territoire": "GIRANCOURT",
+      "departement": "88",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre GIROT",
+      "mandat": "maire",
+      "territoire": "DOMPAIRE",
+      "departement": "88",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques SIMONET",
+      "mandat": "maire",
+      "territoire": "CIRCOURT-SUR-MOUZON",
+      "departement": "88",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard GRELOT",
+      "mandat": "maire",
+      "territoire": "BRECHAINVILLE",
+      "departement": "88",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Thaddée KACZOR",
+      "mandat": "maire",
+      "territoire": "MARTIGNY-LES-GERBONVAUX",
+      "departement": "88",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Louis MARCHAL",
+      "mandat": "maire",
+      "territoire": "MORIZECOURT",
+      "departement": "88",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Hubert MUNIER",
+      "mandat": "maire",
+      "territoire": "ROUVRES-EN-XAINTOIS",
+      "departement": "88",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean BIGAN",
+      "mandat": "maire",
+      "territoire": "VILLIERS-ADAM",
+      "departement": "95",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude HUGON",
+      "mandat": "maire",
+      "territoire": "PUISEUX-ENFRANCE",
+      "departement": "95",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel BAILLY",
+      "mandat": "maire",
+      "territoire": "BETHONVILLIERS",
+      "departement": "90",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Camille LAVY",
+      "mandat": "maire",
+      "territoire": "MACHILLY",
+      "departement": "74",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Constant BOISIER",
+      "mandat": "maire",
+      "territoire": "SAINT-SIGISMOND",
+      "departement": "74",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henri LEMAITRE",
+      "mandat": "maire",
+      "territoire": "AUVERS-LE-HAMON",
+      "departement": "72",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Albert BOTTRAS",
+      "mandat": "maire",
+      "territoire": "JAUZE",
+      "departement": "72",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henri COVI N",
+      "mandat": "maire",
+      "territoire": "COURTILLERS",
+      "departement": "72",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre HAMEL",
+      "mandat": "maire",
+      "territoire": "MILESSE",
+      "departement": "72",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude CHARBONNEAU",
+      "mandat": "maire",
+      "territoire": "MONTABON",
+      "departement": "72",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel LECHAT",
+      "mandat": "maire",
+      "territoire": "SAINTJEAN-D’ASSE",
+      "departement": "72",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Pierre SIRDEY",
+      "mandat": "maire",
+      "territoire": "AUNAY-SOUSCRECY",
+      "departement": "28",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre AUBE",
+      "mandat": "maire",
+      "territoire": "VILLIERS-ENDESOEUVRE",
+      "departement": "27",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André DUBOSC",
+      "mandat": "maire",
+      "territoire": "BEAUBRAY",
+      "departement": "27",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques CROMBEZ",
+      "mandat": "maire",
+      "territoire": "FRANQUEVILLE",
+      "departement": "27",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond GEGU",
+      "mandat": "maire",
+      "territoire": "CHENNEBRUN",
+      "departement": "27",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raoul ESPARON",
+      "mandat": "maire",
+      "territoire": "SIVERGUES",
+      "departement": "84",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raoul DUPUY",
+      "mandat": "maire",
+      "territoire": "SAINT-JEAN-DUBOUZET",
+      "departement": "82",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René CALVET",
+      "mandat": "maire",
+      "territoire": "LABARTHE",
+      "departement": "82",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Joseph LECORRE",
+      "mandat": "maire",
+      "territoire": "SAINT-CLAIR",
+      "departement": "82",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Camille LABORDERIE",
+      "mandat": "maire",
+      "territoire": "BRESSOLS",
+      "departement": "82",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André DABASSE",
+      "mandat": "maire",
+      "territoire": "MAUMUSSON",
+      "departement": "82",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques MAYNARD",
+      "mandat": "maire",
+      "territoire": "ASQUES",
+      "departement": "82",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Séverin BEAUDONNET",
+      "mandat": "maire",
+      "territoire": "MONTGAILLARD",
+      "departement": "82",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jackie METAIS",
+      "mandat": "maire",
+      "territoire": "SAVIGNY-SOUS-FAYE",
+      "departement": "86",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bruno BALESTRA",
+      "mandat": "maire",
+      "territoire": "SAINT-GENEST-D’AMBIERE",
+      "departement": "86",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice GOURDEAU",
+      "mandat": "maire",
+      "territoire": "CHAMPAGNE-SAINTHILAIRE",
+      "departement": "86",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques ANSELIN",
+      "mandat": "maire",
+      "territoire": "NEUVILLETTE",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Luc DOUTART",
+      "mandat": "maire",
+      "territoire": "CIZANCOURT",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis GADIFFERT",
+      "mandat": "maire",
+      "territoire": "FONTAINE-SOUS-MONTDIDIER",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean CANTRELLE",
+      "mandat": "maire",
+      "territoire": "LOEUILLY",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean TARGET",
+      "mandat": "maire",
+      "territoire": "ALLAINES",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alexandre DELANNOY",
+      "mandat": "maire",
+      "territoire": "MESNIL-SAINT-NICAISE",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel HIE",
+      "mandat": "maire",
+      "territoire": "HARGICOURT",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alfred LEVASSEUR",
+      "mandat": "maire",
+      "territoire": "POTTE",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude BLANCHARD",
+      "mandat": "maire",
+      "territoire": "BLANGY-SOUS-POIX",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Hélène DANCOISNE LUCQUET",
+      "mandat": "maire",
+      "territoire": "HOMBLEUX",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André CARPENTIER",
+      "mandat": "maire",
+      "territoire": "AUTHIE",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean CARON",
+      "mandat": "maire",
+      "territoire": "VERCOURT",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel BOIGNET",
+      "mandat": "maire",
+      "territoire": "MERICOURT-ENVIMEU",
+      "departement": "80",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel BUQUET",
+      "mandat": "maire",
+      "territoire": "GRUMESNIL",
+      "departement": "76",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André BRUNEL",
+      "mandat": "maire",
+      "territoire": "BERNEVAL-LE-GRAND",
+      "departement": "76",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "RayA mond CARON",
+      "mandat": "maire",
+      "territoire": "MAUQUENCHY",
+      "departement": "76",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard LEBRETON",
+      "mandat": "maire",
+      "territoire": "SENNEVILLE-SUR-FECAMP",
+      "departement": "76",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean RECHER",
+      "mandat": "maire",
+      "territoire": "FROBERVILLE",
+      "departement": "76",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard VALLEE",
+      "mandat": "maire",
+      "territoire": "MONCHAUX-SORENG",
+      "departement": "76",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Josette GAUTIER",
+      "mandat": "maire",
+      "territoire": "GERVILLE",
+      "departement": "76",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean DELTOMBE",
+      "mandat": "maire",
+      "territoire": "VEULES-LESROSES",
+      "departement": "76",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Christian PIZIAUX",
+      "mandat": "maire",
+      "territoire": "EMANVILLE",
+      "departement": "76",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger DELOUIS",
+      "mandat": "maire",
+      "territoire": "CHEVRY-SOUS-LE-BIGNON",
+      "departement": "45",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice LEJOUR",
+      "mandat": "maire",
+      "territoire": "ORVILLE",
+      "departement": "45",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roland BAUDON",
+      "mandat": "maire",
+      "territoire": "SELLE-SUR-LE-BIED",
+      "departement": "45",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard CHOLLET",
+      "mandat": "maire",
+      "territoire": "SAINT-FIRMIN-SUR-LOIRE",
+      "departement": "45",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond CLAUDEL",
+      "mandat": "maire",
+      "territoire": "PISSEURE",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Yves KRATTINGER",
+      "mandat": "maire",
+      "territoire": "CHAUX-LALOTIERE",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Yves DROUHOT",
+      "mandat": "maire",
+      "territoire": "CHAUVIREY-LECHATEL",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René PHEULPIN",
+      "mandat": "maire",
+      "territoire": "PLAINEMONT",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre LAPORTE",
+      "mandat": "maire",
+      "territoire": "POLAINCOURT-ETCLAIREFONTAINE",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Hubert PERRIN",
+      "mandat": "maire",
+      "territoire": "BUFFIGNECOURT",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "François CARTERET",
+      "mandat": "maire",
+      "territoire": "LARRET",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard SCHUTZ",
+      "mandat": "maire",
+      "territoire": "MALANS",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude BOURGEAT",
+      "mandat": "maire",
+      "territoire": "GRAMMONT",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques SEGUIN",
+      "mandat": "maire",
+      "territoire": "VILLAFANS",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger MARTIN",
+      "mandat": "maire",
+      "territoire": "CHEVIGNEY",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alain CUNEY",
+      "mandat": "maire",
+      "territoire": "VEREUX",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard BAY",
+      "mandat": "maire",
+      "territoire": "VAROGNE",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Ronald LARRIERE",
+      "mandat": "maire",
+      "territoire": "SAINTVALBERT",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean REVERCHON",
+      "mandat": "maire",
+      "territoire": "CITEY",
+      "departement": "70",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean MAZAUDOIS",
+      "mandat": "maire",
+      "territoire": "SURDOUX",
+      "departement": "87",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Hervé VALADAS",
+      "mandat": "maire",
+      "territoire": "CHATENET-EN-DOGNON",
+      "departement": "87",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gilbert FERRAND",
+      "mandat": "maire",
+      "territoire": "NEUVIC-ENTIER",
+      "departement": "87",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Norbert GOIZIN",
+      "mandat": "maire",
+      "territoire": "THORIGNY",
+      "departement": "79",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Michel MENANT",
+      "mandat": "maire",
+      "territoire": "VAUTEBIS",
+      "departement": "79",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gabriel JARRIAULT",
+      "mandat": "maire",
+      "territoire": "GRANZAY-GRIPT",
+      "departement": "79",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean ROBERT",
+      "mandat": "maire",
+      "territoire": "CREZIERES",
+      "departement": "79",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René ROY",
+      "mandat": "maire",
+      "territoire": "FENERY",
+      "departement": "79",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Hubert DAUTE",
+      "mandat": "maire",
+      "territoire": "COUTIERES",
+      "departement": "79",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis COURVOISIER",
+      "mandat": "maire",
+      "territoire": "CHATILLON-LA-BORDE",
+      "departement": "77",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean METIER",
+      "mandat": "maire",
+      "territoire": "BLANDY",
+      "departement": "77",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Germaine LECOINTE",
+      "mandat": "maire",
+      "territoire": "PAMFOU",
+      "departement": "77",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard VANDENBERGHE",
+      "mandat": "maire",
+      "territoire": "CRISENOY",
+      "departement": "77",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude CONDAMINET",
+      "mandat": "maire",
+      "territoire": "FONTAINEFOURCHES",
+      "departement": "77",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Eliane ASTIER",
+      "mandat": "maire",
+      "territoire": "MASSILLY",
+      "departement": "71",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-François PAPERIN",
+      "mandat": "maire",
+      "territoire": "AMANZE",
+      "departement": "71",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Robert LARUE",
+      "mandat": "maire",
+      "territoire": "CUZY",
+      "departement": "71",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre NICOLAS",
+      "mandat": "maire",
+      "territoire": "FLEURVILLE",
+      "departement": "71",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gabriel GEAY",
+      "mandat": "maire",
+      "territoire": "BOURG-LE-COMTE",
+      "departement": "71",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel JEANNOT",
+      "mandat": "maire",
+      "territoire": "SAISY",
+      "departement": "71",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Denis GAL",
+      "mandat": "maire",
+      "territoire": "HURES-LA-PARADE",
+      "departement": "48",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Antoine ROSSETI",
+      "mandat": "maire",
+      "territoire": "LALANDUSSE",
+      "departement": "47",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marius LATASTE",
+      "mandat": "maire",
+      "territoire": "CAUMONTSUR-GARONNE",
+      "departement": "47",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Didier DARNIGE",
+      "mandat": "maire",
+      "territoire": "MONTIGNAC-DE-LAUZUN",
+      "departement": "47",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice ESPALIER",
+      "mandat": "maire",
+      "territoire": "SAINT-ASTIER",
+      "departement": "47",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Pierre CABANEL",
+      "mandat": "maire",
+      "territoire": "SALVIAC",
+      "departement": "46",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Christian DELFOUR",
+      "mandat": "maire",
+      "territoire": "VERS",
+      "departement": "46",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel SOULADIE",
+      "mandat": "maire",
+      "territoire": "VIGAN",
+      "departement": "46",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André BOUSQUET",
+      "mandat": "maire",
+      "territoire": "LHERM",
+      "departement": "46",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Victor PILON",
+      "mandat": "maire",
+      "territoire": "CHAVANAY",
+      "departement": "42",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre ROBERT",
+      "mandat": "maire",
+      "territoire": "COTE-EN-COUZAN",
+      "departement": "42",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Léon DESLANDES",
+      "mandat": "maire",
+      "territoire": "FONTAINE-RAOUL",
+      "departement": "41",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel CHERY",
+      "mandat": "maire",
+      "territoire": "NEUVY",
+      "departement": "41",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Francis REY",
+      "mandat": "maire",
+      "territoire": "SAINTEANNE",
+      "departement": "41",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice RIGNOL",
+      "mandat": "maire",
+      "territoire": "MOTTE-DEGALAURE",
+      "departement": "26",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice VIEUX",
+      "mandat": "maire",
+      "territoire": "PLAN-DE-BAIX",
+      "departement": "26",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Pierre BERANGER",
+      "mandat": "maire",
+      "territoire": "ROCHEFORT-SAMSON",
+      "departement": "26",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Camille BARRIERE",
+      "mandat": "maire",
+      "territoire": "AUBRES",
+      "departement": "26",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alexis LE SAUX",
+      "mandat": "maire",
+      "territoire": "VENTEROL",
+      "departement": "26",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Max LIOTARD",
+      "mandat": "maire",
+      "territoire": "AUREL",
+      "departement": "26",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Emile BLANC",
+      "mandat": "maire",
+      "territoire": "BATIE-DES-FONDS",
+      "departement": "26",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Ludovic CHATENIER",
+      "mandat": "maire",
+      "territoire": "SAINT-BONNET-DE-VALCLERIEUX",
+      "departement": "26",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René BARNABON",
+      "mandat": "maire",
+      "territoire": "ORCINAS",
+      "departement": "26",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Clément BLANS",
+      "mandat": "maire",
+      "territoire": "FRECHENDETS",
+      "departement": "65",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Guy LASBATS",
+      "mandat": "maire",
+      "territoire": "HA1 i GEDET",
+      "departement": "65",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Constant PUJO",
+      "mandat": "maire",
+      "territoire": "LOMNE",
+      "departement": "65",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel BUFFAT",
+      "mandat": "maire",
+      "territoire": "HIBARETTE",
+      "departement": "65",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Lucien FEDIT",
+      "mandat": "maire",
+      "territoire": "CHADELEUF",
+      "departement": "63",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Serge GAY",
+      "mandat": "maire",
+      "territoire": "COMPAINS",
+      "departement": "63",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul MIENNEE",
+      "mandat": "maire",
+      "territoire": "AUCHY-AU-BOIS",
+      "departement": "62",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude SOURDEVAL",
+      "mandat": "maire",
+      "territoire": "HALLINES",
+      "departement": "62",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claudie DELEFLIE",
+      "mandat": "maire",
+      "territoire": "NEUVILLE-BOURJONVAL",
+      "departement": "62",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Augustin CROCFER",
+      "mandat": "maire",
+      "territoire": "WANCOURT",
+      "departement": "62",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard NEMPONT",
+      "mandat": "maire",
+      "territoire": "BEUTIN",
+      "departement": "62",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Frédéric GUITTENY",
+      "mandat": "maire",
+      "territoire": "SAINT-MARS-DE-COUTAIS",
+      "departement": "44",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Joseph HARDY",
+      "mandat": "maire",
+      "territoire": "CHAPELLE-GLAIN",
+      "departement": "44",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Robert TAUZIA",
+      "mandat": "maire",
+      "territoire": "LUGLON",
+      "departement": "40",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard BERGES",
+      "mandat": "maire",
+      "territoire": "ARGELOUSE",
+      "departement": "40",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond DEMARCQ",
+      "mandat": "maire",
+      "territoire": "UZA",
+      "departement": "40",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel PIARD",
+      "mandat": "maire",
+      "territoire": "PIARDS",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gilbert CURIE",
+      "mandat": "maire",
+      "territoire": "BRETENIERES",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger BERTHOD",
+      "mandat": "maire",
+      "territoire": "SAIZENAY",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel BONNOT",
+      "mandat": "maire",
+      "territoire": "VILLEY",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gilbert MENETRIER",
+      "mandat": "maire",
+      "territoire": "OUR",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Noël VUILLET",
+      "mandat": "maire",
+      "territoire": "CHATEAUDES-PRES",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger CAMPO",
+      "mandat": "maire",
+      "territoire": "COYRIERE",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude POURCELOT",
+      "mandat": "maire",
+      "territoire": "FERTE",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean MOUREAU",
+      "mandat": "maire",
+      "territoire": "AUGEA",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Charles BERTHET",
+      "mandat": "maire",
+      "territoire": "CRISSEY",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard FILLOD",
+      "mandat": "maire",
+      "territoire": "DESSIA",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger BAUDET",
+      "mandat": "maire",
+      "territoire": "NEVY-LES-DOLE",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Robert SCHWOB",
+      "mandat": "maire",
+      "territoire": "FALKWILLER",
+      "departement": "68",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "François ELSAESSER",
+      "mandat": "maire",
+      "territoire": "BRECHAUMONT",
+      "departement": "68",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René DURAND",
+      "mandat": "maire",
+      "territoire": "VERCIA",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Francis WURTH OBERGEFAELL",
+      "mandat": "maire",
+      "territoire": "RIEDWIHR",
+      "departement": "68",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Eugène BLONDE",
+      "mandat": "maire",
+      "territoire": "DIEFMATTEN",
+      "departement": "68",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Françoise GRINGER",
+      "mandat": "maire",
+      "territoire": "OBERSAASHEIM",
+      "departement": "68",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André PIN",
+      "mandat": "maire",
+      "territoire": "NUELLES",
+      "departement": "69",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Adolphe BRUA",
+      "mandat": "maire",
+      "territoire": "BETTWILLER",
+      "departement": "67",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André COURTES",
+      "mandat": "maire",
+      "territoire": "MUTZIG",
+      "departement": "67",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Joseph SCHMITT",
+      "mandat": "maire",
+      "territoire": "ROHRWILLER",
+      "departement": "67",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raphaël SALES",
+      "mandat": "maire",
+      "territoire": "TECH",
+      "departement": "66",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean AIRES",
+      "mandat": "maire",
+      "territoire": "ABBENANS",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre BROUSSE",
+      "mandat": "maire",
+      "territoire": "LOMBARD",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Norbert CATALA",
+      "mandat": "maire",
+      "territoire": "CUBRIAL",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Hugues BINETRUY",
+      "mandat": "maire",
+      "territoire": "AUDEUX",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard GRUET",
+      "mandat": "maire",
+      "territoire": "SAINT-GEORGES-ARMONT",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Aimé GUILLOT",
+      "mandat": "maire",
+      "territoire": "COLOMBIER-FONTAINE",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Adrien BOLE RICHARD",
+      "mandat": "maire",
+      "territoire": "BLUSSANGEAUX",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre BEAUDREY",
+      "mandat": "maire",
+      "territoire": "ETRAPPE",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice HERARD",
+      "mandat": "maire",
+      "territoire": "MANCENANS",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gilles PIERROT",
+      "mandat": "maire",
+      "territoire": "GEMONVAL",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "François RISACHER",
+      "mandat": "maire",
+      "territoire": "MEDIERE",
+      "departement": "25",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel MARECHAL",
+      "mandat": "maire",
+      "territoire": "CHAZELLES",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Claude CHARONDIERE",
+      "mandat": "maire",
+      "territoire": "ABERGEMENT-LE-PETIT",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André LAIBE",
+      "mandat": "maire",
+      "territoire": "AMANGE",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel LIARDON",
+      "mandat": "maire",
+      "territoire": "FRONTENAY",
+      "departement": "39",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Sylvain CHASSAGNE",
+      "mandat": "maire",
+      "territoire": "FLAUGEAC",
+      "departement": "24",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gustave PIETON",
+      "mandat": "maire",
+      "territoire": "SAINT-AUBIN-DES-GROIS",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Mireille COISEL",
+      "mandat": "maire",
+      "territoire": "VILLEDIEU-LES-BAILLEUL",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel MEUNIER",
+      "mandat": "maire",
+      "territoire": "MENIL-BERARD",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude DASSE",
+      "mandat": "maire",
+      "territoire": "CHALANGE",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Julien MAILLET",
+      "mandat": "maire",
+      "territoire": "GEMAGES",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Hubert CHOPPE",
+      "mandat": "maire",
+      "territoire": "FEINGS",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques NORTIER",
+      "mandat": "maire",
+      "territoire": "TOUROUVRE",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel GUICHETEAU",
+      "mandat": "maire",
+      "territoire": "CHATELLIER",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond PONOT",
+      "mandat": "maire",
+      "territoire": "COUTERNE",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Charles LEBAILLY",
+      "mandat": "maire",
+      "territoire": "CALIGNY",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André MARAIS",
+      "mandat": "maire",
+      "territoire": "ECORCEI",
+      "departement": "61",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "François HUET",
+      "mandat": "maire",
+      "territoire": "HERICOURT-SUR-THERAIN",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul GENTY",
+      "mandat": "maire",
+      "territoire": "SAINT-VALERY",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul MOREL",
+      "mandat": "maire",
+      "territoire": "AIRION",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger MARTIN",
+      "mandat": "maire",
+      "territoire": "B RU N VILLE RS-LAMOTTE",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Albert BOURLETTE",
+      "mandat": "maire",
+      "territoire": "THURY-SOUSCLERMONT",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel KUBLER",
+      "mandat": "maire",
+      "territoire": "PLESSIS-PATTED’OIE",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice-(d’) HALESCOURT",
+      "mandat": "maire",
+      "territoire": "ELENCOURT",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel PACOT",
+      "mandat": "maire",
+      "territoire": "BONNIERES",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Philippe CARRON",
+      "mandat": "maire",
+      "territoire": "ROSOY",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel HAMMID",
+      "mandat": "maire",
+      "territoire": "FERRIERES",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel LECOURT",
+      "mandat": "maire",
+      "territoire": "LIERVILLE",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Claude KRYSIAK",
+      "mandat": "maire",
+      "territoire": "BOURSONNE",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean GONIAUX",
+      "mandat": "maire",
+      "territoire": "BOULLARRE",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Claude NAU",
+      "mandat": "maire",
+      "territoire": "PEROY-LESGOMBRIES",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel NEUDORFF",
+      "mandat": "maire",
+      "territoire": "BETHISYSAINT-MARTIN",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René LEROY",
+      "mandat": "maire",
+      "territoire": "TARTIGNY",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques LEFORT",
+      "mandat": "maire",
+      "territoire": "NEUVILLE-EN-HEZ",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger LAMARRE",
+      "mandat": "maire",
+      "territoire": "MONTMARTIN",
+      "departement": "60",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice DECLERCQ",
+      "mandat": "maire",
+      "territoire": "STEENWERCK",
+      "departement": "59",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alexandre ROGER",
+      "mandat": "maire",
+      "territoire": "RAINSARS",
+      "departement": "59",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel LAMBIN",
+      "mandat": "maire",
+      "territoire": "ERQUINGHEM-LESEC",
+      "departement": "59",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre ANDRE",
+      "mandat": "maire",
+      "territoire": "MONTARON",
+      "departement": "58",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Auguste REVELIN",
+      "mandat": "maire",
+      "territoire": "CHAUMARD",
+      "departement": "58",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre LOHMANN",
+      "mandat": "maire",
+      "territoire": "RIMLING",
+      "departement": "57",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre SCHMID",
+      "mandat": "maire",
+      "territoire": "HULTEHOUSE",
+      "departement": "57",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Denis DURANT",
+      "mandat": "maire",
+      "territoire": "IBIGNY",
+      "departement": "57",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Louis BONA",
+      "mandat": "maire",
+      "territoire": "BROUVILLER",
+      "departement": "57",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henri PIERRON",
+      "mandat": "maire",
+      "territoire": "GLATIGNY",
+      "departement": "57",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René REIFF",
+      "mandat": "maire",
+      "territoire": "FREMESTROFF",
+      "departement": "57",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Noël FEY",
+      "mandat": "maire",
+      "territoire": "FREYBOUSE",
+      "departement": "57",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel NIOLOUX",
+      "mandat": "maire",
+      "territoire": "BEISSAT",
+      "departement": "23",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Aimé CORNETTE",
+      "mandat": "maire",
+      "territoire": "CHAMPSANGLARD",
+      "departement": "23",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger REIGE",
+      "mandat": "maire",
+      "territoire": "SAINT-MAURICE-PRESCROCQ",
+      "departement": "23",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean DROUMAGUET",
+      "mandat": "maire",
+      "territoire": "MANTALLOT",
+      "departement": "22",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis LE TOUZE",
+      "mandat": "maire",
+      "territoire": "LANRODEC",
+      "departement": "22",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Laurent LE CALVEZ",
+      "mandat": "maire",
+      "territoire": "TREGLAMUS",
+      "departement": "22",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Yvonne COUGARD",
+      "mandat": "maire",
+      "territoire": "PAULE",
+      "departement": "22",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Eugène GUILLET",
+      "mandat": "maire",
+      "territoire": "CROIX-HELLEAN",
+      "departement": "56",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard METAYER",
+      "mandat": "maire",
+      "territoire": "BOHAL",
+      "departement": "56",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean AUBERT",
+      "mandat": "maire",
+      "territoire": "CONCORET",
+      "departement": "56",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis CHARUEL",
+      "mandat": "maire",
+      "territoire": "RUPT-DEVANT-SAINT-MIHIEL",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel ANDRE",
+      "mandat": "maire",
+      "territoire": "VOUTHON-HAUT",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Lucien HICKEL",
+      "mandat": "maire",
+      "territoire": "GERY",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pol ARNOULD",
+      "mandat": "maire",
+      "territoire": "QUINCY-LANDZECOURT",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel UBERTELLI",
+      "mandat": "maire",
+      "territoire": "FRESNES-AU-MONT",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René MARQUELET",
+      "mandat": "maire",
+      "territoire": "BADONVILLIERS-GERAUVILLIERS",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Yvon BRUNVARLET",
+      "mandat": "maire",
+      "territoire": "SASSEY-SUR-MEUSE",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques GOBILLOT",
+      "mandat": "maire",
+      "territoire": "SILMONT",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean GUEUSQUIN",
+      "mandat": "maire",
+      "territoire": "ANCEMONT",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Albert RIVIERE",
+      "mandat": "maire",
+      "territoire": "VOUTHON-BAS",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel ROYER",
+      "mandat": "maire",
+      "territoire": "LAVINCOURT",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Lucette PARISET",
+      "mandat": "maire",
+      "territoire": "VARNEVILLE",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel DESJARDIN",
+      "mandat": "maire",
+      "territoire": "VELOSNES",
+      "departement": "55",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis MICHEL",
+      "mandat": "maire",
+      "territoire": "LEBEUVILLE",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marc PRAIRAT",
+      "mandat": "maire",
+      "territoire": "TRONDES",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul KELLE",
+      "mandat": "maire",
+      "territoire": "SAINT-REMIMONT",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René SCHAEFFER",
+      "mandat": "maire",
+      "territoire": "FRANCONVILLE",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre GUISE",
+      "mandat": "maire",
+      "territoire": "REHAINVILLER",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond JENIN",
+      "mandat": "maire",
+      "territoire": "CREPEY",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard ARNOULD",
+      "mandat": "maire",
+      "territoire": "GEMONVILLE",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Georgette TABOURIN",
+      "mandat": "maire",
+      "territoire": "LIMEY-REMENAUVILLE",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Emile FINANCE",
+      "mandat": "maire",
+      "territoire": "VENEY",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Pierre MAURER",
+      "mandat": "maire",
+      "territoire": "MOUSSON",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marius DURBET",
+      "mandat": "maire",
+      "territoire": "SAINT-BAUDILLE-ET-PIPET",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel CHOLLAT NAMY",
+      "mandat": "maire",
+      "territoire": "VELANNE",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Guy MATHELET",
+      "mandat": "maire",
+      "territoire": "CORNILLON-EN-TRIEVES",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice COMBALOT",
+      "mandat": "maire",
+      "territoire": "THODÜRE",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Francis CAMPO",
+      "mandat": "maire",
+      "territoire": "MEYSSIES",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Aimé JACQUIER",
+      "mandat": "maire",
+      "territoire": "SAINT-HILAIREDE-LA-COTE",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jourdan STRAPPAZZON",
+      "mandat": "maire",
+      "territoire": "SAINTBARTHELEMY-DE-SECHILIENNE",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Pierre SORIANO",
+      "mandat": "maire",
+      "territoire": "SAINT-ANDEOL",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond GRIMOUD",
+      "mandat": "maire",
+      "territoire": "SAINT-GEORGES-DE-COMMIERS",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Claude LUBRANO",
+      "mandat": "maire",
+      "territoire": "BALME-LES-GROTTES",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean PAIN",
+      "mandat": "maire",
+      "territoire": "SAINT-ANDRE-EN-ROYANS",
+      "departement": "38",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gilbert BOURRIER",
+      "mandat": "maire",
+      "territoire": "DRAMBON",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Pierre BROUX",
+      "mandat": "maire",
+      "territoire": "NOGENT-LES-MONTBARD",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André TRUCHOT",
+      "mandat": "maire",
+      "territoire": "VAUCHIGNON",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean MAUGEY",
+      "mandat": "maire",
+      "territoire": "BLANCEY",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Charles MUNOZ",
+      "mandat": "maire",
+      "territoire": "ORVILLE",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Joseph LE GUILCHER",
+      "mandat": "maire",
+      "territoire": "MASSINGY",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Germain DESCHAMPS",
+      "mandat": "maire",
+      "territoire": "COURLON",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice CHOPARD",
+      "mandat": "maire",
+      "territoire": "UNCEY-LEFRANC",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Abel CLEMENCET",
+      "mandat": "maire",
+      "territoire": "ARCENANT",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René BOILLOT",
+      "mandat": "maire",
+      "territoire": "MENETREUX-LE-PITOIS",
+      "departement": "21",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre SALLES",
+      "mandat": "maire",
+      "territoire": "CAZAVET",
+      "departement": "09",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger DARAUT",
+      "mandat": "maire",
+      "territoire": "MONTFA",
+      "departement": "09",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul COUDERC",
+      "mandat": "maire",
+      "territoire": "SAINTBAUZEIL",
+      "departement": "09",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André ROUGE",
+      "mandat": "maire",
+      "territoire": "VERNIOLLE",
+      "departement": "09",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Georges SUTRA",
+      "mandat": "maire",
+      "territoire": "SAINT-LIZIER",
+      "departement": "09",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gabriel BOMBAIL",
+      "mandat": "maire",
+      "territoire": "CHATEAU-VERDUN",
+      "departement": "09",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René RAYMOND",
+      "mandat": "maire",
+      "territoire": "MERAS",
+      "departement": "09",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul SOULA",
+      "mandat": "maire",
+      "territoire": "GABRE",
+      "departement": "09",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis VINATIER",
+      "mandat": "maire",
+      "territoire": "NEUVY-PAILLOUX",
+      "departement": "36",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger STOESEL",
+      "mandat": "maire",
+      "territoire": "VATAN",
+      "departement": "36",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "James LABLANCHE",
+      "mandat": "maire",
+      "territoire": "FONTENAY",
+      "departement": "36",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Rémy LUNAIS",
+      "mandat": "maire",
+      "territoire": "SAINT-QUENTIN-SURINDROIS",
+      "departement": "37",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean CHIARI",
+      "mandat": "maire",
+      "territoire": "SERRA-DIFIUMORBO",
+      "departement": "2B",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean PINCHAUD",
+      "mandat": "maire",
+      "territoire": "SERANDON",
+      "departement": "19",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Armand FARGES",
+      "mandat": "maire",
+      "territoire": "CHAUFFOUR-SUR-VELL",
+      "departement": "19",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre BROUSSE",
+      "mandat": "maire",
+      "territoire": "ALBIGNAC",
+      "departement": "19",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alfred SOUBRANE",
+      "mandat": "maire",
+      "territoire": "SAINT-HILAIRE-LUC",
+      "departement": "19",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Paul FUSCIEN",
+      "mandat": "maire",
+      "territoire": "SAINT-PALAIS",
+      "departement": "18",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice NARDET",
+      "mandat": "maire",
+      "territoire": "LIGNIERES",
+      "departement": "18",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Edgard MOUILLOT",
+      "mandat": "maire",
+      "territoire": "FLEAC-SURSEUGNE",
+      "departement": "17",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Yves AUDEBEAUD",
+      "mandat": "maire",
+      "territoire": "NEUILLAC",
+      "departement": "17",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice DUPONT",
+      "mandat": "maire",
+      "territoire": "SEMILLAC",
+      "departement": "17",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claudine PINASSEAU",
+      "mandat": "maire",
+      "territoire": "PISANY",
+      "departement": "17",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André CHEVEAUX",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE-D’AMILLY",
+      "departement": "17",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Guy MORLET",
+      "mandat": "maire",
+      "territoire": "DOMMERY",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre WAROQUIT",
+      "mandat": "maire",
+      "territoire": "FLIGNY",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henri SIMIONI",
+      "mandat": "maire",
+      "territoire": "SAINT-MARCEAU",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel RENAULT",
+      "mandat": "maire",
+      "territoire": "RANCENNES",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul SCHMITT",
+      "mandat": "maire",
+      "territoire": "AMAGNE",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Guy ROSSION",
+      "mandat": "maire",
+      "territoire": "VIREUXWALLERAND",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marc LAMBERT",
+      "mandat": "maire",
+      "territoire": "ILLY",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel BONFILS",
+      "mandat": "maire",
+      "territoire": "TOURNES",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel THOMAS",
+      "mandat": "maire",
+      "territoire": "FRETY",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre LE BRECH",
+      "mandat": "maire",
+      "territoire": "HAM-SUR-MEUSE",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean JAMOTTE",
+      "mandat": "maire",
+      "territoire": "FROMY",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Albert GALLIOT",
+      "mandat": "maire",
+      "territoire": "VIREUX-MOLHAIN",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André BECHARD",
+      "mandat": "maire",
+      "territoire": "GERMONT",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Dominique SIALELLI",
+      "mandat": "maire",
+      "territoire": "NEUVILLE-AUXJOUTES",
+      "departement": "08",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marc PORTAL",
+      "mandat": "maire",
+      "territoire": "LIMONY",
+      "departement": "07",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean BROTTES",
+      "mandat": "maire",
+      "territoire": "SAINT-JULIEN-BOUTIERES",
+      "departement": "07",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice VIVAT",
+      "mandat": "maire",
+      "territoire": "SAINT-JULIEN-LE-ROUX",
+      "departement": "07",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henri COUIX",
+      "mandat": "maire",
+      "territoire": "COLOMBIER-LE-VIEUX",
+      "departement": "07",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice MARCON",
+      "mandat": "maire",
+      "territoire": "SAINT-ANDRE-EN-VIVARAIS",
+      "departement": "07",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Nathael MOREAU",
+      "mandat": "maire",
+      "territoire": "DOMPNAC",
+      "departement": "07",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre SERRE",
+      "mandat": "maire",
+      "territoire": "BEAUVENE",
+      "departement": "07",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Charles HENNEQUIN",
+      "mandat": "maire",
+      "territoire": "PERQUES",
+      "departement": "50",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Joseph PIEL",
+      "mandat": "maire",
+      "territoire": "SAINT-PERN",
+      "departement": "35",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice DELAHAYE",
+      "mandat": "maire",
+      "territoire": "PLESDER",
+      "departement": "35",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis RUPIN",
+      "mandat": "maire",
+      "territoire": "AVAILLES-SURSEICHE",
+      "departement": "35",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard GAUTIER",
+      "mandat": "maire",
+      "territoire": "CERS",
+      "departement": "34",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André MARTY",
+      "mandat": "maire",
+      "territoire": "VERRERIES-DE-MOUSSANS",
+      "departement": "34",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Hubert ROUSTAN",
+      "mandat": "maire",
+      "territoire": "VALMASCLE",
+      "departement": "34",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Léopold FABRE",
+      "mandat": "maire",
+      "territoire": "LACOSTE",
+      "departement": "34",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Georges ROSI",
+      "mandat": "maire",
+      "territoire": "VENDRES",
+      "departement": "34",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques LAFONT",
+      "mandat": "maire",
+      "territoire": "BOISSERON",
+      "departement": "34",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul RIGALDIE",
+      "mandat": "maire",
+      "territoire": "SAINT-SANTIN-DE-MAURS",
+      "departement": "15",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André CONTENSOU",
+      "mandat": "maire",
+      "territoire": "SAINT-SANTIN-CANTALES",
+      "departement": "15",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond FROUGIER",
+      "mandat": "maire",
+      "territoire": "VILLEJOUBERT",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques JEAN",
+      "mandat": "maire",
+      "territoire": "VILHONNEUR",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean DEMONTOUX",
+      "mandat": "maire",
+      "territoire": "MARTHON",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Albert PHILIPPE",
+      "mandat": "maire",
+      "territoire": "VOUTHON",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel LOTTE",
+      "mandat": "maire",
+      "territoire": "PAIZAY-NAUDOUIN-EMBOURIE",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alain GENDRAULT",
+      "mandat": "maire",
+      "territoire": "CHAPELLE",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre VERGNAUD",
+      "mandat": "maire",
+      "territoire": "SAINT-LAURENT-DE-CERIS",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michèle GUINOT",
+      "mandat": "maire",
+      "territoire": "EPENEDE",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Robert BOUTIN",
+      "mandat": "maire",
+      "territoire": "ABZAC",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre FAURE",
+      "mandat": "maire",
+      "territoire": "PLAIZAC",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre LOIZEAU",
+      "mandat": "maire",
+      "territoire": "MARCILLAC-LANVILLE",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel JEANNIERE",
+      "mandat": "maire",
+      "territoire": "VILLEGATS",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond GUINET",
+      "mandat": "maire",
+      "territoire": "ORADOURFANAIS",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alain BRUMELOT",
+      "mandat": "maire",
+      "territoire": "VILLOGNON",
+      "departement": "16",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Claude DAMORET",
+      "mandat": "maire",
+      "territoire": "COUZON",
+      "departement": "03",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henri ROUGON",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-LES-SEYNE",
+      "departement": "04",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice GUISGAND",
+      "mandat": "maire",
+      "territoire": "SAINT-VINCENT-SUR-JABRON",
+      "departement": "04",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Albert ESCUDIER",
+      "mandat": "maire",
+      "territoire": "SAINT-JURS",
+      "departement": "04",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alexis PELLEGRIN",
+      "mandat": "maire",
+      "territoire": "MONTLAUX",
+      "departement": "04",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean COQUILHAT",
+      "mandat": "maire",
+      "territoire": "BEAUVEZER",
+      "departement": "04",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude PAYAN",
+      "mandat": "maire",
+      "territoire": "BARLES",
+      "departement": "04",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Serge FIORIO",
+      "mandat": "maire",
+      "territoire": "MONTJUSTIN",
+      "departement": "04",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René DORR",
+      "mandat": "maire",
+      "territoire": "FREISSINIERES",
+      "departement": "05",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Max ILLY",
+      "mandat": "maire",
+      "territoire": "SAINT-AUBAND’OZE",
+      "departement": "05",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Charles FAURE",
+      "mandat": "maire",
+      "territoire": "SAINT-MICHEL-DECHAILLOL",
+      "departement": "05",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis BONNAFFOUX",
+      "mandat": "maire",
+      "territoire": "PUY-SAINTEUSEBE",
+      "departement": "05",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Camille RICOU",
+      "mandat": "maire",
+      "territoire": "ORCIERES",
+      "departement": "05",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Claude BAUDOIN",
+      "mandat": "maire",
+      "territoire": "SAINT-BONNET",
+      "departement": "05",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Robert AUBIN",
+      "mandat": "maire",
+      "territoire": "MELA Y",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel HUMBLOT",
+      "mandat": "maire",
+      "territoire": "MORIONVILLIERS",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Lucien CLAUDET",
+      "mandat": "maire",
+      "territoire": "CELLESEN-BASSIGNY",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard RENAUX",
+      "mandat": "maire",
+      "territoire": "OSNE-LEVAL",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre CLERGET",
+      "mandat": "maire",
+      "territoire": "BIZE",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René THEVENIN",
+      "mandat": "maire",
+      "territoire": "CLINCHAMP",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Yannic HENRI",
+      "mandat": "maire",
+      "territoire": "AUTIGNY-LE-GRAND",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René BADOINOT",
+      "mandat": "maire",
+      "territoire": "HARREVILLE-LES-CHANTEURS",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-François GUENIOT",
+      "mandat": "maire",
+      "territoire": "GUYONVELLE",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger PARISEL",
+      "mandat": "maire",
+      "territoire": "RICHEBOURG",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre A VIER",
+      "mandat": "maire",
+      "territoire": "VESAIGNES-SURMARNE",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Claude LAMBERT",
+      "mandat": "maire",
+      "territoire": "GERMAINES",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André DOUILLOT",
+      "mandat": "maire",
+      "territoire": "BLECOURT",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André ZOUBTCHENKO",
+      "mandat": "maire",
+      "territoire": "DONCOURT-SUR-MEUSE",
+      "departement": "52",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel JAGER",
+      "mandat": "maire",
+      "territoire": "LAY-SAINT-REMY",
+      "departement": "54",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul CABANNES",
+      "mandat": "maire",
+      "territoire": "LOUPIAC-DE-LA-REOLE",
+      "departement": "33",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André JOUET",
+      "mandat": "maire",
+      "territoire": "MOULIS-EN-MEDOC",
+      "departement": "33",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel ACKER",
+      "mandat": "maire",
+      "territoire": "ARBIS",
+      "departement": "33",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Celse CAMPANER",
+      "mandat": "maire",
+      "territoire": "RIVIERE",
+      "departement": "33",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gilberte GUEGUEN",
+      "mandat": "maire",
+      "territoire": "VENSAC",
+      "departement": "33",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Albert BONVOISIN",
+      "mandat": "maire",
+      "territoire": "RUCH",
+      "departement": "33",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maxime DELAS",
+      "mandat": "maire",
+      "territoire": "SABAILLAN",
+      "departement": "32",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André ESTIBAL",
+      "mandat": "maire",
+      "territoire": "MIRANNES",
+      "departement": "32",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henriette HYGONENG",
+      "mandat": "maire",
+      "territoire": "PUYSEGUR",
+      "departement": "32",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Robert ARTIGAU",
+      "mandat": "maire",
+      "territoire": "MONTAUT-LES-CRENEAUX",
+      "departement": "32",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alex VIGNEAUX",
+      "mandat": "maire",
+      "territoire": "SAINTE-CHRISTIE",
+      "departement": "32",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Eloi CAHUZAC",
+      "mandat": "maire",
+      "territoire": "PELLEFIGUE",
+      "departement": "32",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Georges LABORDERE",
+      "mandat": "maire",
+      "territoire": "CASTELNAUD’ANGLES",
+      "departement": "32",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André LAFFONT",
+      "mandat": "maire",
+      "territoire": "SARAMON",
+      "departement": "32",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alain BARAYRE",
+      "mandat": "maire",
+      "territoire": "GISCARO",
+      "departement": "32",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "François PONS",
+      "mandat": "maire",
+      "territoire": "BALSAC",
+      "departement": "12",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René SOMPAYRAC",
+      "mandat": "maire",
+      "territoire": "SAINT-SEVERDU-MOUSTIER",
+      "departement": "12",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice LERAITRE",
+      "mandat": "maire",
+      "territoire": "FRESNELA-MERE",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean ROUY",
+      "mandat": "maire",
+      "territoire": "DANESTAL",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard JOLIVET DE COLOMBY",
+      "mandat": "maire",
+      "territoire": "BAROU-EN-AUGE",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard AUBERT",
+      "mandat": "maire",
+      "territoire": "COTTUN",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard RIVIERE",
+      "mandat": "maire",
+      "territoire": "BONNOEIL",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alphonse LEMONNIER",
+      "mandat": "maire",
+      "territoire": "FRESNE-CAMILLY",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel TESNIERE",
+      "mandat": "maire",
+      "territoire": "VICQUES",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques AUZOUX",
+      "mandat": "maire",
+      "territoire": "COURTONNE-LAMEURDRAC",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul BARRELIER",
+      "mandat": "maire",
+      "territoire": "SAINT-AUBIND’ARQUENAY",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Victor LAPORTE",
+      "mandat": "maire",
+      "territoire": "SAINT-SEVERCALVADOS",
+      "departement": "14",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel HOPPE",
+      "mandat": "maire",
+      "territoire": "SAINT-JEÂN-DE-CRIEULON",
+      "departement": "30",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André MARTIN",
+      "mandat": "maire",
+      "territoire": "NERS",
+      "departement": "30",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gérard JORAND",
+      "mandat": "maire",
+      "territoire": "BONNEVAUX",
+      "departement": "30",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger VALIBOUZE",
+      "mandat": "maire",
+      "territoire": "POMMIERS",
+      "departement": "30",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henri VINCENT",
+      "mandat": "maire",
+      "territoire": "SAINT-MAXIMIN",
+      "departement": "30",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Edmond CATHEBRAS",
+      "mandat": "maire",
+      "territoire": "ARGILLIERS",
+      "departement": "30",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean MASSAL",
+      "mandat": "maire",
+      "territoire": "ROQUEDUR",
+      "departement": "30",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel RAT",
+      "mandat": "maire",
+      "territoire": "VALLERARGUES",
+      "departement": "30",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger BELY",
+      "mandat": "maire",
+      "territoire": "LEYSSARD",
+      "departement": "01",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Georges DUPONT",
+      "mandat": "maire",
+      "territoire": "CHALEY",
+      "departement": "01",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul MORIEN",
+      "mandat": "maire",
+      "territoire": "SEGNY",
+      "departement": "01",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Robert FORA Y",
+      "mandat": "maire",
+      "territoire": "BOLOZON",
+      "departement": "01",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger VAVRILLE",
+      "mandat": "maire",
+      "territoire": "AMBUTRIX",
+      "departement": "01",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond DURAND",
+      "mandat": "maire",
+      "territoire": "CHEVROUX",
+      "departement": "01",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "François MEYLAN",
+      "mandat": "maire",
+      "territoire": "VERSONNEX",
+      "departement": "01",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger CHARPENTIER",
+      "mandat": "maire",
+      "territoire": "GUYENCOURT",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Hervé FRANÇOIS",
+      "mandat": "maire",
+      "territoire": "GUIVRY",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marceau PAINVIN",
+      "mandat": "maire",
+      "territoire": "CHIVRES-ENLAONNOIS",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Georges LAURENCE",
+      "mandat": "maire",
+      "territoire": "LYFONTAINE",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean BERTRAND",
+      "mandat": "maire",
+      "territoire": "MONTHENAULT",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Norbert BERTIN",
+      "mandat": "maire",
+      "territoire": "OISY",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André BOCQUILLON",
+      "mandat": "maire",
+      "territoire": "BERNOT",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Antoine ZACZEK",
+      "mandat": "maire",
+      "territoire": "HINACOURT",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Joseph MRULA",
+      "mandat": "maire",
+      "territoire": "PASSY-ENVALOIS",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jeanne LLORET",
+      "mandat": "maire",
+      "territoire": "VAILLY-SURAISNE",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean CESVET",
+      "mandat": "maire",
+      "territoire": "PAARS",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre DELABRE",
+      "mandat": "maire",
+      "territoire": "EFFRY",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean DELOURME",
+      "mandat": "maire",
+      "territoire": "BOIS-LES-PARGNY",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger PREVOT",
+      "mandat": "maire",
+      "territoire": "VESLES-ETCAUMONT",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Ghislain LESAGE",
+      "mandat": "maire",
+      "territoire": "GRICOURT",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Maurice RICHET",
+      "mandat": "maire",
+      "territoire": "PETIT-VERLY",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henri MANESSE",
+      "mandat": "maire",
+      "territoire": "VAUXBUIN",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marc LECLERE",
+      "mandat": "maire",
+      "territoire": "SOURD",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Claude BRACQUEMART",
+      "mandat": "maire",
+      "territoire": "BLESMES",
+      "departement": "02",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Yves BROUET",
+      "mandat": "maire",
+      "territoire": "BRILLECOURT",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Julien BOURCIER",
+      "mandat": "maire",
+      "territoire": "LESMONT",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Henri JACQUINOT",
+      "mandat": "maire",
+      "territoire": "COUSSEGREY",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Gilles CLEMENT",
+      "mandat": "maire",
+      "territoire": "PREMIERFAIT",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Annie LARIQUE",
+      "mandat": "maire",
+      "territoire": "JONCREUIL",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Raymond JOUDRAIN",
+      "mandat": "maire",
+      "territoire": "COURTAOULT",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Claude COUCHOT",
+      "mandat": "maire",
+      "territoire": "LOGE-AUX-CHEVRES",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André GUYOT",
+      "mandat": "maire",
+      "territoire": "MORVILLIERS",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "James DONET",
+      "mandat": "maire",
+      "territoire": "CRANCEY",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Josiane BELTRAMELLI",
+      "mandat": "maire",
+      "territoire": "CHAISE",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger MICHELOT",
+      "mandat": "maire",
+      "territoire": "JUZANVIGNY",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Daniel MERAT",
+      "mandat": "maire",
+      "territoire": "CHARNY-LE-BACHOT",
+      "departement": "10",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Germain ROUX",
+      "mandat": "maire",
+      "territoire": "GOUAUX-DE-LUCHON",
+      "departement": "31",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean ESTERLE",
+      "mandat": "maire",
+      "territoire": "CAZERES",
+      "departement": "31",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Joseph CAZAULON",
+      "mandat": "maire",
+      "territoire": "MARIGNACLASPEYRES",
+      "departement": "31",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André PASSAMAR",
+      "mandat": "maire",
+      "territoire": "VILLENEUVETO LOS ANE",
+      "departement": "31",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger CARRIERE",
+      "mandat": "maire",
+      "territoire": "VALLEGUE",
+      "departement": "31",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Robert BLANC",
+      "mandat": "maire",
+      "territoire": "CAZENEUVE-MONTAUT",
+      "departement": "31",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André DARIES",
+      "mandat": "maire",
+      "territoire": "LARRA",
+      "departement": "31",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Guy HELLE",
+      "mandat": "maire",
+      "territoire": "CARBONNE",
+      "departement": "31",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis LABEILLE",
+      "mandat": "maire",
+      "territoire": "MONTGAZIN",
+      "departement": "31",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Paul DUCHESNE",
+      "mandat": "maire",
+      "territoire": "HAYE-D’ECTOT",
+      "departement": "50",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-Claude MARIE DIT DINARD",
+      "mandat": "maire",
+      "territoire": "MACEY",
+      "departement": "50",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean-(de) MONDESIR",
+      "mandat": "maire",
+      "territoire": "SEBEVILLE",
+      "departement": "50",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Sylvain FORGE",
+      "mandat": "maire",
+      "territoire": "LIVRY-LOUVERCY",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger LANGLAIS",
+      "mandat": "maire",
+      "territoire": "GAYE",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Roger BERTON",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-AUXCHAMPS",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Alain PETIT",
+      "mandat": "maire",
+      "territoire": "MONTMORT-LUCY",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques CREPIN",
+      "mandat": "maire",
+      "territoire": "NEUVILLE-AUX-LARRIS",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Louis ROLLAND",
+      "mandat": "maire",
+      "territoire": "FONTAINE-EN-DORMOIS",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre BREBANT",
+      "mandat": "maire",
+      "territoire": "SAINTE-GEMME",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jacques LESUEUR",
+      "mandat": "maire",
+      "territoire": "MAGNEUX",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Marcel CANAT",
+      "mandat": "maire",
+      "territoire": "MONTSUR-COURVILLE",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Rémy VAILLANT",
+      "mandat": "maire",
+      "territoire": "EPOYE",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre REMI ET",
+      "mandat": "maire",
+      "territoire": "VERNANCOURT",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "René VERY",
+      "mandat": "maire",
+      "territoire": "MARGNY",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Michel DENIS",
+      "mandat": "maire",
+      "territoire": "SAINTSATURNIN",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Abel CHOBRIAT",
+      "mandat": "maire",
+      "territoire": "VAL-DEVIERE",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Noël SEURAT",
+      "mandat": "maire",
+      "territoire": "SAINT-QUENTIN-LEVERGER",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Bernard MASS ART",
+      "mandat": "maire",
+      "territoire": "CHAMPIGNY",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Yves BOBIN",
+      "mandat": "maire",
+      "territoire": "CAURE",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Francis QUENCEZ",
+      "mandat": "maire",
+      "territoire": "BERGERES-LES-VERTUS",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André MICHE",
+      "mandat": "maire",
+      "territoire": "FORESTIERE",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Pierre GAUTIER",
+      "mandat": "maire",
+      "territoire": "JOISELLE",
+      "departement": "51",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean AUTHIER",
+      "mandat": "maire",
+      "territoire": "BELFORT-SUR-REBENTY",
+      "departement": "11",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Patrick EMERY",
+      "mandat": "maire",
+      "territoire": "GALINAGUES",
+      "departement": "11",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Didier MONTAGNE",
+      "mandat": "maire",
+      "territoire": "CAMPAGNA-DE-SAULT",
+      "departement": "11",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "André DALLOUX",
+      "mandat": "maire",
+      "territoire": "LASBORDES",
+      "departement": "11",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Noël CALVET",
+      "mandat": "maire",
+      "territoire": "ALAIGNE",
+      "departement": "11",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Anne-(de) FLEURIEU",
+      "mandat": "maire",
+      "territoire": "ARNAS",
+      "departement": "69",
+      "publie_le": "1988-04-12"
+    },
+    {
+      "nom": "Jean RICHARD",
+      "mandat": "maire",
+      "territoire": "BEAUVOIR-SUR-NIORT",
+      "departement": "79",
+      "publie_le": "1988-04-12"
+    }
+  ]
+}

@@ -1,0 +1,1003 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-2017",
+  "personne": "PE-0128",
+  "nom_complet": "Oscar TEMARU",
+  "etendue": "integrale",
+  "publications": [
+    {
+      "date": "2017-03-01",
+      "source": {
+        "id": "conseil-constitutionnel:2017-158-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017158PDR.htm",
+        "commentaire": "Liste du 1er mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-03",
+      "source": {
+        "id": "conseil-constitutionnel:2017-159-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017159PDR.htm",
+        "commentaire": "Liste du 2 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-07",
+      "source": {
+        "id": "conseil-constitutionnel:2017-160-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017160PDR.htm",
+        "commentaire": "Liste du 7 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-10",
+      "source": {
+        "id": "conseil-constitutionnel:2017-161-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017161PDR.htm",
+        "commentaire": "Liste du 9 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-14",
+      "source": {
+        "id": "conseil-constitutionnel:2017-162-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017162PDR.htm",
+        "commentaire": "Liste du 14 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-18",
+      "source": {
+        "id": "conseil-constitutionnel:2017-164-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017164PDR.htm",
+        "commentaire": "Liste du 17 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "civilite": "Mme",
+      "nom": "TEVAHITUA",
+      "prenom": "Eliane",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "RODRIGUEZ",
+      "prenom": "Jean-Marc",
+      "mandat": "maire",
+      "territoire": "Poggio-di-Venaco",
+      "departement": "2B",
+      "publie_le": "2017-03-01"
+    },
+    {
+      "civilite": "M",
+      "nom": "POLI",
+      "prenom": "Jean-Toussaint",
+      "mandat": "maire",
+      "territoire": "Ambiegna",
+      "departement": "2A",
+      "publie_le": "2017-03-03"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "CROSS",
+      "prenom": "Valentina",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "MAPU",
+      "prenom": "Mareta",
+      "mandat": "maire",
+      "territoire": "Fangatau",
+      "departement": "987",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "TUHEIAVA",
+      "prenom": "Richard",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "SANGUE",
+      "prenom": "Alain",
+      "mandat": "maire-delegue",
+      "territoire": "Teva I Uta",
+      "departement": "987",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "GEROS",
+      "prenom": "Antony",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "FAATAU",
+      "prenom": "Félix",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "BRANDER",
+      "prenom": "Tevahineheipua",
+      "mandat": "maire",
+      "territoire": "Tureia",
+      "departement": "987",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "MARTINETTI",
+      "prenom": "Achille",
+      "mandat": "maire",
+      "territoire": "Bocognano",
+      "departement": "2A",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "LEONETTI",
+      "prenom": "Paul",
+      "mandat": "membre-assemblee-corse",
+      "departement": "2A",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "BENEDETTI",
+      "prenom": "François",
+      "mandat": "maire",
+      "territoire": "Lugo-di-Nazza",
+      "departement": "2B",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "ANGELINI",
+      "prenom": "Christian",
+      "mandat": "maire",
+      "territoire": "Arro",
+      "departement": "2A",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "VENTURINI",
+      "prenom": "Simon",
+      "mandat": "maire",
+      "territoire": "Alzi",
+      "departement": "2B",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "DROLLET",
+      "prenom": "Jacques",
+      "mandat": "maire-delegue",
+      "territoire": "Hitiaa O Te Ra",
+      "departement": "987",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "CIABRINI",
+      "prenom": "Jeannine",
+      "mandat": "conseiller-departemental",
+      "departement": "2A",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "TOMASI",
+      "prenom": "Petr'Antone",
+      "mandat": "membre-assemblee-corse",
+      "departement": "2B",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "TOKORAGI",
+      "prenom": "Félix",
+      "mandat": "maire",
+      "territoire": "Makemo",
+      "departement": "987",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "POLI",
+      "prenom": "Laura Maria",
+      "mandat": "membre-assemblee-corse",
+      "departement": "2A",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "PATER EPOUSE TRAFTON",
+      "prenom": "Gloria",
+      "mandat": "maire-delegue",
+      "territoire": "Moorea-Maiao",
+      "departement": "987",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "RIVETA",
+      "prenom": "Frédéric",
+      "mandat": "maire",
+      "territoire": "Rurutu",
+      "departement": "987",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "TIDJINE EP HMAE",
+      "prenom": "Henriette",
+      "mandat": "maire",
+      "territoire": "Poum",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "PALAGOTA",
+      "prenom": "Flavien",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "BOEHE",
+      "prenom": "Angy",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "WAKA",
+      "prenom": "Maria",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "MACHORO EP REIGNIER",
+      "prenom": "Caroline",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "TUTUGORO",
+      "prenom": "Pierre Chanel",
+      "mandat": "maire",
+      "territoire": "Ponérihouen",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "LEPEU",
+      "prenom": "Ghislaine",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "GOA",
+      "prenom": "Daniel",
+      "mandat": "maire",
+      "territoire": "Hienghène",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "CITRE",
+      "prenom": "Basile, Cici",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "TAHUAITU",
+      "prenom": "Jonas",
+      "mandat": "depute",
+      "circonscription": 2,
+      "departement": "987",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "HOLERO",
+      "prenom": "Prisca",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "SIWOINE",
+      "prenom": "Alain",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "WANEUX",
+      "prenom": "Mathias",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "TEIN-TAOUVA",
+      "prenom": "Hervé, Magueï",
+      "mandat": "maire",
+      "territoire": "Kaala-Gomen",
+      "departement": "988",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "OHU",
+      "prenom": "Nestor",
+      "mandat": "maire",
+      "territoire": "Ua-Huka",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "KAIHA",
+      "prenom": "Joseph",
+      "mandat": "maire",
+      "territoire": "Ua-Pou",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TOURA",
+      "prenom": "Jean Patrick",
+      "mandat": "maire",
+      "territoire": "Thio",
+      "departement": "988",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "HEIATA EPOUSE TAMA",
+      "prenom": "Gloria",
+      "mandat": "maire-delegue",
+      "territoire": "Tumaraa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "GALENON",
+      "prenom": "Minarii",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "TEURA",
+      "prenom": "Justine",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "HNACEMA EP QALA",
+      "prenom": "Maléta",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "MAAMAATUAIAHUTAPU",
+      "prenom": "Victor",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "WAMYTAN",
+      "prenom": "Roch",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "JORDAN",
+      "prenom": "Rudolph",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "CASALTA",
+      "prenom": "Mattea",
+      "mandat": "membre-assemblee-corse",
+      "departement": "2A",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "YIENG-KOW",
+      "prenom": "Guy",
+      "mandat": "maire-delegue",
+      "territoire": "Tubuai",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "VAIHO",
+      "prenom": "Jean-Pierre",
+      "mandat": "maire-delegue",
+      "territoire": "Tahaa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "TEMATARU",
+      "prenom": "Céline",
+      "mandat": "maire",
+      "territoire": "Tahaa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TEFAATAU",
+      "prenom": "Verdon",
+      "mandat": "maire-delegue",
+      "territoire": "Tahaa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "TEHOIRI EP. FAATAU",
+      "prenom": "Taria",
+      "mandat": "maire-delegue",
+      "territoire": "Tubuai",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TAPUTUARAI",
+      "prenom": "Franck",
+      "mandat": "maire-delegue",
+      "territoire": "Moorea-Maiao",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TAMAEHU",
+      "prenom": "Pascal",
+      "mandat": "maire-delegue",
+      "territoire": "Tahaa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TAHIATA",
+      "prenom": "Fernand",
+      "mandat": "maire",
+      "territoire": "Tubuai",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "PATERE",
+      "prenom": "Athanase",
+      "mandat": "maire-delegue",
+      "territoire": "Tahaa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "METUA",
+      "prenom": "Marere",
+      "mandat": "maire-delegue",
+      "territoire": "Rangiroa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "MANEA",
+      "prenom": "Pierre",
+      "mandat": "maire-delegue",
+      "territoire": "Tahaa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "MAIHI",
+      "prenom": "Teriitepaiatua",
+      "mandat": "maire-delegue",
+      "territoire": "Moorea-Maiao",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "IOTUA",
+      "prenom": "Pita",
+      "mandat": "maire-delegue",
+      "territoire": "Rimatara",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "FLORES-TAHIATA",
+      "prenom": "Chantal",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "FLORES EP. HATITIO",
+      "prenom": "Mayalène",
+      "mandat": "maire-delegue",
+      "territoire": "Tubuai",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "CHONG",
+      "prenom": "Claude",
+      "mandat": "maire-delegue",
+      "territoire": "Huahine",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "ATGER",
+      "prenom": "Nick",
+      "mandat": "maire-delegue",
+      "territoire": "Tahaa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "LECA",
+      "prenom": "Christian",
+      "mandat": "maire",
+      "territoire": "Vero",
+      "departement": "2A",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TALAMONI",
+      "prenom": "Jean-Guy",
+      "mandat": "membre-assemblee-corse",
+      "departement": "2B",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "SIMEONI",
+      "prenom": "Marie",
+      "mandat": "membre-assemblee-corse",
+      "departement": "2B",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "SAKO",
+      "prenom": "Aloisio",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "KALOI EP BEARUNE",
+      "prenom": "Isabelle",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TYUIENON",
+      "prenom": "Gilbert",
+      "mandat": "maire",
+      "territoire": "Canala",
+      "departement": "988",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "GUISEPPI",
+      "prenom": "Julie",
+      "mandat": "membre-assemblee-corse",
+      "departement": "2A",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TUTUGORO",
+      "prenom": "Victor",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "PABOUTY",
+      "prenom": "Sylvain",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "SAWA",
+      "prenom": "Pascal",
+      "mandat": "maire",
+      "territoire": "Houailou",
+      "departement": "988",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "TAURAATUA EP. TERAITETIA",
+      "prenom": "Annabella",
+      "mandat": "maire-delegue",
+      "territoire": "Taiarapu-Est",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "LEANDRI",
+      "prenom": "Jean-Yves",
+      "mandat": "maire",
+      "territoire": "Granace",
+      "departement": "2A",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TEHAAMOANA",
+      "prenom": "Etienne",
+      "mandat": "maire",
+      "territoire": "Hiva-Oa",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TEMARU",
+      "prenom": "Oscar",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "DOMINGO",
+      "prenom": "Dauphin",
+      "mandat": "maire",
+      "territoire": "Hitiaa O Te Ra",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "BROTHERS",
+      "prenom": "Henri",
+      "mandat": "maire-delegue",
+      "territoire": "Moorea-Maiao",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TAAE",
+      "prenom": "Putai",
+      "mandat": "maire",
+      "territoire": "Papara",
+      "departement": "987",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "HORTH",
+      "prenom": "Gauthier",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "973",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "TEKURIO",
+      "prenom": "Tuhoe",
+      "mandat": "maire",
+      "territoire": "Fakarava",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "TCHOUNG",
+      "prenom": "Victor",
+      "mandat": "maire-delegue",
+      "territoire": "Hitiaa O Te Ra",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "REID",
+      "prenom": "Roland",
+      "mandat": "maire-delegue",
+      "territoire": "Manihi",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "MAI",
+      "prenom": "Julien",
+      "mandat": "maire-delegue",
+      "territoire": "Rangiroa",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "AVAEMAI",
+      "prenom": "Vetea",
+      "mandat": "maire-delegue",
+      "territoire": "Hitiaa O Te Ra",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "ARAI EPOUSE TAKI",
+      "prenom": "Mautaina",
+      "mandat": "maire",
+      "territoire": "Napuka",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "TIEOUE",
+      "prenom": "Ithupane",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "HNEPEUNE",
+      "prenom": "Neko",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "BARSINAS",
+      "prenom": "Félix",
+      "mandat": "maire",
+      "territoire": "Tahuata",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "NGAIOHNI",
+      "prenom": "Pierre Ateroy",
+      "mandat": "maire",
+      "territoire": "Maré",
+      "departement": "988",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "SUSINI",
+      "prenom": "Philippe",
+      "mandat": "maire",
+      "territoire": "Vezzani",
+      "departement": "2B",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "MARAEURA",
+      "prenom": "Teina",
+      "mandat": "maire",
+      "territoire": "Rangiroa",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "POITHILY",
+      "prenom": "Monique",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "CHAN",
+      "prenom": "Lui Fat",
+      "mandat": "maire-delegue",
+      "territoire": "Arutua",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "KEHA EPSE TOGATEVANA",
+      "prenom": "Tagieriki",
+      "mandat": "maire-delegue",
+      "territoire": "Reao",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "EBB",
+      "prenom": "Moïse",
+      "mandat": "maire-delegue",
+      "territoire": "Taputapuatea",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "DIGOUE",
+      "prenom": "Adolphe Kamebo",
+      "mandat": "maire",
+      "territoire": "Yaté",
+      "departement": "988",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "POLI",
+      "prenom": "Pierre",
+      "mandat": "maire",
+      "territoire": "Eccica-Suarella",
+      "departement": "2A",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "RUBINI",
+      "prenom": "Mathieu",
+      "mandat": "maire",
+      "territoire": "Coggia",
+      "departement": "2A",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "MATHIEU",
+      "prenom": "Mylène",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "973",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "PROSPERI",
+      "prenom": "Rosa",
+      "mandat": "membre-assemblee-corse",
+      "departement": "2B",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "SION",
+      "prenom": "Hugues",
+      "mandat": "conseiller-departemental",
+      "departement": "62",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "DEKON",
+      "prenom": "François",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "973",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "NECHERO",
+      "prenom": "Emile",
+      "mandat": "membre-assemblee-outre-mer",
+      "departement": "988",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "PIOLOT",
+      "prenom": "René",
+      "mandat": "maire",
+      "territoire": "Tréduder",
+      "departement": "22",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "PATIENT",
+      "prenom": "Georges",
+      "mandat": "maire",
+      "territoire": "Mana",
+      "departement": "973",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "TETUA",
+      "prenom": "Edgar",
+      "mandat": "maire-delegue",
+      "territoire": "Rangiroa",
+      "departement": "987",
+      "publie_le": "2017-03-18"
+    }
+  ]
+}

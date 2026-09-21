@@ -1,0 +1,361 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-2017",
+  "personne": "PE-0091",
+  "nom_complet": "Pierre LARROUTUROU",
+  "etendue": "integrale",
+  "publications": [
+    {
+      "date": "2017-03-01",
+      "source": {
+        "id": "conseil-constitutionnel:2017-158-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017158PDR.htm",
+        "commentaire": "Liste du 1er mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-03",
+      "source": {
+        "id": "conseil-constitutionnel:2017-159-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017159PDR.htm",
+        "commentaire": "Liste du 2 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-07",
+      "source": {
+        "id": "conseil-constitutionnel:2017-160-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017160PDR.htm",
+        "commentaire": "Liste du 7 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-10",
+      "source": {
+        "id": "conseil-constitutionnel:2017-161-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017161PDR.htm",
+        "commentaire": "Liste du 9 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-14",
+      "source": {
+        "id": "conseil-constitutionnel:2017-162-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017162PDR.htm",
+        "commentaire": "Liste du 14 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2017-03-18",
+      "source": {
+        "id": "conseil-constitutionnel:2017-164-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017164PDR.htm",
+        "commentaire": "Liste du 17 mars 2017 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "civilite": "M",
+      "nom": "GALEY",
+      "prenom": "Cédric",
+      "mandat": "maire",
+      "territoire": "Monès",
+      "departement": "31",
+      "publie_le": "2017-03-01"
+    },
+    {
+      "civilite": "M",
+      "nom": "MAGNI",
+      "prenom": "Jean-Louis",
+      "mandat": "maire",
+      "territoire": "Nouilhan",
+      "departement": "65",
+      "publie_le": "2017-03-03"
+    },
+    {
+      "civilite": "M",
+      "nom": "FORTERRE",
+      "prenom": "Michel",
+      "mandat": "maire",
+      "territoire": "Avrainville",
+      "departement": "88",
+      "publie_le": "2017-03-03"
+    },
+    {
+      "civilite": "M",
+      "nom": "CREMOUX",
+      "prenom": "Xavier",
+      "mandat": "maire",
+      "territoire": "Lugan",
+      "departement": "81",
+      "publie_le": "2017-03-03"
+    },
+    {
+      "civilite": "M",
+      "nom": "SENECLAUZE",
+      "prenom": "Christian",
+      "mandat": "maire",
+      "territoire": "Montbrun-Bocage",
+      "departement": "31",
+      "publie_le": "2017-03-03"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "GALLET",
+      "prenom": "Francoise",
+      "mandat": "maire",
+      "territoire": "Laboule",
+      "departement": "07",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "COMET",
+      "prenom": "Claude",
+      "mandat": "maire",
+      "territoire": "Parves et Nattages",
+      "departement": "01",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "CLAIRAND",
+      "prenom": "Michel",
+      "mandat": "maire",
+      "territoire": "Saint-Jouin-de-Marnes",
+      "departement": "79",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "FELIX",
+      "prenom": "Freddy",
+      "mandat": "maire",
+      "territoire": "Maruéjols-lès-Gardon",
+      "departement": "30",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "WAILLE",
+      "prenom": "Alain",
+      "mandat": "maire",
+      "territoire": "Coteaux du Lizon",
+      "departement": "39",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "PETIT",
+      "prenom": "Michel",
+      "mandat": "maire",
+      "territoire": "Saint-Mont",
+      "departement": "32",
+      "publie_le": "2017-03-07"
+    },
+    {
+      "civilite": "M",
+      "nom": "COLIN",
+      "prenom": "Xavier",
+      "mandat": "maire",
+      "territoire": "Pierre-la-Treiche",
+      "departement": "54",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "REUTER",
+      "prenom": "Jean-Christophe",
+      "mandat": "maire",
+      "territoire": "Vaudémont",
+      "departement": "54",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "LEMERY",
+      "prenom": "Jean-François",
+      "mandat": "maire",
+      "territoire": "La Chaudière",
+      "departement": "26",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "LE LOUARN",
+      "prenom": "Yann",
+      "mandat": "maire",
+      "territoire": "Coat-Méal",
+      "departement": "29",
+      "publie_le": "2017-03-10"
+    },
+    {
+      "civilite": "M",
+      "nom": "MONNET",
+      "prenom": "Serge",
+      "mandat": "maire",
+      "territoire": "Amondans",
+      "departement": "25",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "MOTEL",
+      "prenom": "Michèle",
+      "mandat": "conseiller-departemental",
+      "departement": "35",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "DRAGUE-PAZICAN",
+      "prenom": "Céline",
+      "mandat": "maire",
+      "territoire": "Glorianes",
+      "departement": "66",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "MARBOEUF",
+      "prenom": "Gilbert",
+      "mandat": "maire",
+      "territoire": "Pusignan",
+      "departement": "69",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "RUEHER",
+      "prenom": "André",
+      "mandat": "maire",
+      "territoire": "Wahlbach",
+      "departement": "68",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "MONTAGNE",
+      "prenom": "Jean-Philippe",
+      "mandat": "maire",
+      "territoire": "La Chapelle-en-Lafaye",
+      "departement": "42",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "LAMBERT",
+      "prenom": "Jean-Marc",
+      "mandat": "maire",
+      "territoire": "Conflans-sur-Anille",
+      "departement": "72",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "CLUA",
+      "prenom": "Guy",
+      "mandat": "maire",
+      "territoire": "Saint-Laurent",
+      "departement": "47",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "FORTINEAU",
+      "prenom": "Vincent",
+      "mandat": "maire",
+      "territoire": "Fresselines",
+      "departement": "23",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "PLE",
+      "prenom": "Jean-Louis",
+      "mandat": "maire",
+      "territoire": "Urau",
+      "departement": "31",
+      "publie_le": "2017-03-14"
+    },
+    {
+      "civilite": "M",
+      "nom": "DZIEGIEL",
+      "prenom": "Pierre",
+      "mandat": "maire",
+      "territoire": "Longeau-Percey",
+      "departement": "52",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "PELLETIER",
+      "prenom": "Michel",
+      "mandat": "maire",
+      "territoire": "Rétaud",
+      "departement": "17",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "TIXIER",
+      "prenom": "Luc",
+      "mandat": "maire",
+      "territoire": "Tourzel-Ronzières",
+      "departement": "63",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "DELAMARE",
+      "prenom": "Jean-Marie",
+      "mandat": "maire",
+      "territoire": "Fourneville",
+      "departement": "14",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "AMATHIEU",
+      "prenom": "Michel",
+      "mandat": "maire",
+      "territoire": "Sainte-Thérence",
+      "departement": "03",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "KHERIF",
+      "prenom": "William",
+      "mandat": "maire",
+      "territoire": "Port-Sainte-Marie",
+      "departement": "47",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "IRIART",
+      "prenom": "Jean-Pierre",
+      "mandat": "maire",
+      "territoire": "Alos-Sibas-Abense",
+      "departement": "64",
+      "publie_le": "2017-03-18"
+    },
+    {
+      "civilite": "M",
+      "nom": "CHESNEAU",
+      "prenom": "Pascal",
+      "mandat": "maire",
+      "territoire": "Doucelles",
+      "departement": "72",
+      "publie_le": "2017-03-18"
+    }
+  ]
+}

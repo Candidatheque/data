@@ -1,0 +1,3517 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-2007",
+  "personne": "PE-0052",
+  "nom_complet": "Olivier BESANCENOT",
+  "etendue": "tirage-au-sort",
+  "publications": [
+    {
+      "date": "2007-03-24",
+      "source": {
+        "id": "conseil-constitutionnel:2007-136-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007136pdr.htm",
+        "commentaire": "Listes des citoyens habilités ayant présenté les candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "nom": "Michel LEJUEZ",
+      "mandat": "maire-delegue",
+      "territoire": "LE MESNIL-BŒUFS",
+      "departement": "50",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain COLPART",
+      "mandat": "maire",
+      "territoire": "GLENNES",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jocelyne LAROCHE-LEON",
+      "mandat": "maire",
+      "territoire": "SAVOISY",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel CLERC",
+      "mandat": "maire",
+      "territoire": "DOMMARIEN",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jérôme RICHARD",
+      "mandat": "maire",
+      "territoire": "VAULNAVEYS-LE-HAUT",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude MELINE",
+      "mandat": "maire",
+      "territoire": "LIEZEY",
+      "departement": "88",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Dominique WITTMER",
+      "mandat": "maire",
+      "territoire": "OBERSTEINBACH",
+      "departement": "67",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gabriel RONZE",
+      "mandat": "maire",
+      "territoire": "SAINT-ROMAIN-LE-PUY",
+      "departement": "42",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Thierry MASSENOT",
+      "mandat": "maire",
+      "territoire": "BOUHANS-LES-MONTBOZON",
+      "departement": "70",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Laurent AVRILLIER",
+      "mandat": "maire",
+      "territoire": "SAINT-PAUL-SUR-ISERE",
+      "departement": "73",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alan CARRARO",
+      "mandat": "maire",
+      "territoire": "SAINTMONTAN",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre SANS",
+      "mandat": "maire",
+      "territoire": "CORRONSAC",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Luc GOAREGUER",
+      "mandat": "maire",
+      "territoire": "SAINT-GAL",
+      "departement": "48",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René ROUVIER",
+      "mandat": "conseiller-general",
+      "territoire": "ALLEGRE",
+      "departement": "43",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude LOUPIAS",
+      "mandat": "maire",
+      "territoire": "LAPARROUQUIAL",
+      "departement": "81",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Damien CASTELAIN",
+      "mandat": "maire",
+      "territoire": "PERONNE-EN-MELANTOIS",
+      "departement": "59",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian BRUN",
+      "mandat": "maire",
+      "territoire": "BERSAC",
+      "departement": "05",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Claude CHAFFOIS",
+      "mandat": "maire",
+      "territoire": "CHATILLON-EN-DIOIS",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian GARCIA",
+      "mandat": "maire",
+      "territoire": "PEYRAUBE",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Louis ROUSSEAU",
+      "mandat": "maire",
+      "territoire": "LOCUNOLE",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard COGNYL",
+      "mandat": "maire",
+      "territoire": "LES MARETS",
+      "departement": "77",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gilbert HOULES",
+      "mandat": "maire",
+      "territoire": "MONTELS",
+      "departement": "34",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Antoine BOUET",
+      "mandat": "maire",
+      "territoire": "MALTOT",
+      "departement": "14",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Francis ROUTIS CABE",
+      "mandat": "maire",
+      "territoire": "LANNECAUBE",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Max DEMELIN",
+      "mandat": "maire",
+      "territoire": "MONCHY-AU-BOIS",
+      "departement": "62",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel IUTZELER",
+      "mandat": "maire",
+      "territoire": "SERRE-LES-MOULIERES",
+      "departement": "39",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Francis VERHAMME",
+      "mandat": "maire",
+      "territoire": "EMBRY",
+      "departement": "62",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christiane FRANCOIS-DORLEANS",
+      "mandat": "conseiller-regional",
+      "departement": "972",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patricia DARELLIS",
+      "mandat": "maire",
+      "territoire": "FERRIERES-LES-VERRERIES",
+      "departement": "34",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian PALETTE",
+      "mandat": "maire",
+      "territoire": "BAIGTS-DE-BEARN",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Catherine LE BRAS",
+      "mandat": "maire",
+      "territoire": "LANDELEAU",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacques LAROCHE",
+      "mandat": "maire",
+      "territoire": "SURTAUVILLE",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian LECA",
+      "mandat": "maire",
+      "territoire": "VERO",
+      "departement": "2A",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard GASGNON",
+      "mandat": "maire",
+      "territoire": "VILLENAVOTTE",
+      "departement": "89",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Louis COURTEGES",
+      "mandat": "maire",
+      "territoire": "FRONTIGNAN-DE-COMMINGES",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Dominique MOUSSA",
+      "mandat": "maire-delegue",
+      "territoire": "BONZEE",
+      "departement": "55",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gilles AICARDI",
+      "mandat": "maire",
+      "territoire": "CUGES-LES-PINS",
+      "departement": "13",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy MORILLON",
+      "mandat": "maire",
+      "territoire": "GUEREINS",
+      "departement": "01",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard MARTIN",
+      "mandat": "maire",
+      "territoire": "FONTERS-DU-RAZES",
+      "departement": "11",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André FONTAINE",
+      "mandat": "maire-delegue",
+      "territoire": "GUDMONT-VILLIERS",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Eric CHASSAGNE",
+      "mandat": "maire",
+      "territoire": "TREMOLAT",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Pierre AUPEIX",
+      "mandat": "maire",
+      "territoire": "VAUXAILLON",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Serge PERRIER",
+      "mandat": "maire",
+      "territoire": "VATILIEU",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Louis RICHEBE",
+      "mandat": "maire",
+      "territoire": "OYE-PLAGE",
+      "departement": "62",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René BOCHATON",
+      "mandat": "maire",
+      "territoire": "LA MOTTE-DE-GALAURE",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Laurent MYLLE",
+      "mandat": "maire",
+      "territoire": "LANNOY-CUILLERE",
+      "departement": "60",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Joël BOLE",
+      "mandat": "maire",
+      "territoire": "SAINTE-ANNE",
+      "departement": "25",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Francis ROME",
+      "mandat": "maire",
+      "territoire": "BLASSAC",
+      "departement": "43",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Didier PETIT",
+      "mandat": "maire",
+      "territoire": "CONSIGNY",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude DEBARRE",
+      "mandat": "maire",
+      "territoire": "SAINT-AUBIN-CELLOVILLE",
+      "departement": "76",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Joëlle OCANA",
+      "mandat": "maire",
+      "territoire": "ABRIES",
+      "departement": "05",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alfred RICHARD",
+      "mandat": "maire",
+      "territoire": "MAZEIRAT",
+      "departement": "23",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel JEANNE",
+      "mandat": "maire",
+      "territoire": "LA NEUVILLE-CHANT-D’OISEL",
+      "departement": "76",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude WALLENDORFF",
+      "mandat": "maire",
+      "territoire": "GIVET",
+      "departement": "08",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain MASSEL",
+      "mandat": "maire",
+      "territoire": "VILLARS",
+      "departement": "84",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude MUNOZ",
+      "mandat": "maire",
+      "territoire": "BRIEL-SUR-BARSE",
+      "departement": "10",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Louis MOLINIE",
+      "mandat": "maire",
+      "territoire": "TERRE-DE-HAUT",
+      "departement": "971",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Roland RAUX",
+      "mandat": "maire",
+      "territoire": "MENIL-VIN",
+      "departement": "61",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Rémi JALES",
+      "mandat": "maire",
+      "territoire": "CENAC-ET-SAINT-JULIEN",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René GRASSET",
+      "mandat": "maire",
+      "territoire": "LA SALLE-PRUNET",
+      "departement": "48",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard FAURAT",
+      "mandat": "maire",
+      "territoire": "SAINT-ANDEOL-LECHATEAU",
+      "departement": "69",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel CHAUSSEE",
+      "mandat": "maire",
+      "territoire": "ARMOY",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Philippe AUTRIVE",
+      "mandat": "maire",
+      "territoire": "LA FERTEALAIS",
+      "departement": "91",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard GARRET",
+      "mandat": "maire",
+      "territoire": "VELLEFAUX",
+      "departement": "70",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Yves GUILLOU",
+      "mandat": "maire",
+      "territoire": "SAINT-RIVOAL",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André DANGIEN",
+      "mandat": "maire",
+      "territoire": "CELLES-EN-BASSIGNY",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Marc ANTOINE",
+      "mandat": "maire",
+      "territoire": "LANEUVEVILLE-DERRIERE-FOUG",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Hubert GINABAT",
+      "mandat": "maire",
+      "territoire": "SEM",
+      "departement": "09",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gilles GOISET",
+      "mandat": "maire",
+      "territoire": "APREY",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michaël BEUVIN",
+      "mandat": "maire",
+      "territoire": "DOUDEAUVILLE",
+      "departement": "76",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy AUBRY",
+      "mandat": "maire",
+      "territoire": "LIGNIERESSUR-AIRE",
+      "departement": "55",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Sylvain BROUARD",
+      "mandat": "conseiller-general",
+      "territoire": "BURIE",
+      "departement": "17",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel COUFFY",
+      "mandat": "maire",
+      "territoire": "THAURON",
+      "departement": "23",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gustave BURLAUD",
+      "mandat": "maire",
+      "territoire": "MONETAY-SUR-ALLIER",
+      "departement": "03",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denise ZANCONATO",
+      "mandat": "maire",
+      "territoire": "ORRET",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Laurent MAZURIE",
+      "mandat": "maire",
+      "territoire": "SAINT-SERVAIS",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Raymond SCHOUMER",
+      "mandat": "maire",
+      "territoire": "MERSUAY",
+      "departement": "70",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marcel BEGEOT",
+      "mandat": "maire",
+      "territoire": "SCEY-SUR-SAONE-ET-SAINT-ALBIN",
+      "departement": "70",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patrice CHAMPION",
+      "mandat": "maire",
+      "territoire": "BOSSUS-LES-RUMIGNY",
+      "departement": "08",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André-Jean COLIN",
+      "mandat": "maire",
+      "territoire": "WARLUS",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "JeanFrançois DUVERGNE",
+      "mandat": "maire",
+      "territoire": "EXIDEUIL",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel GARCIN",
+      "mandat": "maire",
+      "territoire": "CHATEAUNEUF-D’OZE",
+      "departement": "05",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denise BOUIN",
+      "mandat": "maire",
+      "territoire": "ACQUEVILLE",
+      "departement": "14",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denis DURUPT",
+      "mandat": "maire",
+      "territoire": "VIGNORY",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel BAILLY",
+      "mandat": "maire",
+      "territoire": "CONDE-FOLIE",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy MARTINET",
+      "mandat": "maire",
+      "territoire": "LOIRE-SUR-RHONE",
+      "departement": "69",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André PETIT",
+      "mandat": "maire",
+      "territoire": "CHAMOUILLEY",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain LAURENT",
+      "mandat": "maire",
+      "territoire": "BAIX",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Rémi ERMONT",
+      "mandat": "maire",
+      "territoire": "FONTAINE-HEUDEBOURG",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Alain CAYLA",
+      "mandat": "maire",
+      "territoire": "BUOUX",
+      "departement": "84",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain LESUR",
+      "mandat": "maire",
+      "territoire": "BLANGY-SOUS-POIX",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Suzy GUILLOT",
+      "mandat": "maire",
+      "territoire": "LISSAC-ET-MOURET",
+      "departement": "46",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-François TEXIER",
+      "mandat": "maire",
+      "territoire": "LANOUX",
+      "departement": "09",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre ARROSSAGARAY",
+      "mandat": "maire",
+      "territoire": "SAUGUIS-SAINT-ETIENNE",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian DELPECH",
+      "mandat": "maire",
+      "territoire": "VILLEBAZY",
+      "departement": "11",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Anne-Marie ETCHEBERRY",
+      "mandat": "maire",
+      "territoire": "ALOS-SIBAS-ABENSE",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "François MARTIN",
+      "mandat": "maire",
+      "territoire": "MADONNE-ET-LAMEREY",
+      "departement": "88",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Pierre LIBILBEHETY",
+      "mandat": "maire",
+      "territoire": "LICHANS-SUNHAR",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel ROESER",
+      "mandat": "maire",
+      "territoire": "TELLANCOURT",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel CADOT",
+      "mandat": "maire",
+      "territoire": "LA NEUVILLE-LES-WASIGNY",
+      "departement": "08",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre GANDIT",
+      "mandat": "maire",
+      "territoire": "LA GARDE",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René LE RU",
+      "mandat": "maire",
+      "territoire": "TREGLONOU",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude KAISER",
+      "mandat": "maire",
+      "territoire": "MENIL-LA-HORGNE",
+      "departement": "55",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marc MAYOT",
+      "mandat": "maire",
+      "territoire": "PANGE",
+      "departement": "57",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René DEBOUDT",
+      "mandat": "maire",
+      "territoire": "NIEURLET",
+      "departement": "59",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Max KECHICHIAN",
+      "mandat": "maire",
+      "territoire": "SERPAIZE",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Philippe EDMOND-MARIETTE",
+      "mandat": "depute",
+      "circonscription": 3,
+      "departement": "972",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Thierry LEMPEREUR",
+      "mandat": "maire",
+      "territoire": "BACHY",
+      "departement": "59",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Paul ROINEL",
+      "mandat": "maire",
+      "territoire": "ANNEBAULT",
+      "departement": "14",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bruno BALDAS",
+      "mandat": "maire",
+      "territoire": "SAINTETIENNE-DE-FOUGERES",
+      "departement": "47",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel CADIOU",
+      "mandat": "maire",
+      "territoire": "DINEAULT",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Luc MAUDUIT",
+      "mandat": "maire",
+      "territoire": "NOINTEL",
+      "departement": "95",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel GOUVERNEUR",
+      "mandat": "maire",
+      "territoire": "VILLERS-DEVANT-LE-THOUR",
+      "departement": "08",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marcel MARQUE",
+      "mandat": "maire",
+      "territoire": "PUYDARRIEUX",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy JUSSIAN",
+      "mandat": "maire",
+      "territoire": "AURIBEAU",
+      "departement": "84",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André JOLY",
+      "mandat": "maire",
+      "territoire": "AVRICOURT",
+      "departement": "57",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean Jacques DEMARIE",
+      "mandat": "maire",
+      "territoire": "RIMEIZE",
+      "departement": "48",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Damien THOUROUDE",
+      "mandat": "maire",
+      "territoire": "CASTILLON-DE-CASTETS",
+      "departement": "33",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Fabrice LEVESQUE",
+      "mandat": "maire",
+      "territoire": "LONGCHAMPS",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel ROLLIN",
+      "mandat": "maire-delegue",
+      "territoire": "CHEZEAUX",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Paul LETARD",
+      "mandat": "maire",
+      "territoire": "ORIVAL",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Joël CHARRETTE",
+      "mandat": "maire",
+      "territoire": "SAINT-JEAN-CHAMBRE",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René FILLIOL",
+      "mandat": "maire",
+      "territoire": "BESSANS",
+      "departement": "73",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre CLEROUT",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE-DU-VAUVRAY",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Claude LAGABARRE",
+      "mandat": "maire",
+      "territoire": "COSLEDAA-LUBE-BOAST",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "François MARX",
+      "mandat": "maire-delegue",
+      "territoire": "ESSERT",
+      "departement": "89",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel SOULADIE",
+      "mandat": "maire",
+      "territoire": "LE VIGAN",
+      "departement": "46",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patrick CORNU",
+      "mandat": "maire",
+      "territoire": "TORCY",
+      "departement": "62",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Johnny Michel HAJJAR",
+      "mandat": "conseiller-general",
+      "territoire": "FORT-DE-FRANCE 3",
+      "departement": "972",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René COSTE",
+      "mandat": "maire",
+      "territoire": "SAINT-MARSAL",
+      "departement": "66",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Didier CUVELIER",
+      "mandat": "maire",
+      "territoire": "MANSAN",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy HUMBERT",
+      "mandat": "maire-delegue",
+      "territoire": "MONTROND",
+      "departement": "73",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre TAJAN",
+      "mandat": "maire",
+      "territoire": "OSMETS",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy DUMAS",
+      "mandat": "maire",
+      "territoire": "SAINT-ETIENNE-DEPUYCORBIER",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claire GENTY",
+      "mandat": "maire",
+      "territoire": "OUZOUER-LE-DOYEN",
+      "departement": "41",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy JELENSPERGER",
+      "mandat": "maire",
+      "territoire": "GUERMANTES",
+      "departement": "77",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Xavier FLAMENT",
+      "mandat": "maire",
+      "territoire": "TRAMONT-SAINT-ANDRE",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Etienne GROSSIORD",
+      "mandat": "maire",
+      "territoire": "LES MOUSSIERES",
+      "departement": "39",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Louis VIDIL",
+      "mandat": "maire",
+      "territoire": "SAINT-MICHEL-DECHABRILLANOUX",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel SUDRE",
+      "mandat": "maire",
+      "territoire": "CHOILLEY-DARDENAY",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre RIGAULT",
+      "mandat": "conseiller-general",
+      "territoire": "LA FERTE-SOUS-JOUARRE",
+      "departement": "77",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Philippe MURIOT",
+      "mandat": "maire",
+      "territoire": "MONTIGNYMONTFORT",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean GAUTIER",
+      "mandat": "maire",
+      "territoire": "AUNOU-LE-FAUCON",
+      "departement": "61",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André CUQ",
+      "mandat": "maire",
+      "territoire": "FAUSSERGUES",
+      "departement": "81",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Laurence HAUET",
+      "mandat": "maire",
+      "territoire": "LA NEUVILLE-HOUSSET",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Richard HUBAC",
+      "mandat": "maire",
+      "territoire": "SAINT-CHRISTOL",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pascal CHENOT",
+      "mandat": "maire",
+      "territoire": "LAGNEY",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Agnès YVER",
+      "mandat": "maire",
+      "territoire": "ESCARDES",
+      "departement": "51",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard ALLART",
+      "mandat": "maire",
+      "territoire": "MONT-D’ORIGNY",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude FOURQUET",
+      "mandat": "maire",
+      "territoire": "POMPS",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel ARNAUD",
+      "mandat": "maire",
+      "territoire": "MEILHARDS",
+      "departement": "19",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel FESTOR",
+      "mandat": "maire",
+      "territoire": "RENING",
+      "departement": "57",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Suzanne GENTY",
+      "mandat": "maire",
+      "territoire": "BROCOURT",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "François LAPORTE",
+      "mandat": "maire",
+      "territoire": "MARSA",
+      "departement": "11",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard ROBIN",
+      "mandat": "maire",
+      "territoire": "SAINTGROUX",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Béatrice JAVOUREZ",
+      "mandat": "maire",
+      "territoire": "FRASNE-LES-MEULIERES",
+      "departement": "39",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denis MARCHAND",
+      "mandat": "maire",
+      "territoire": "CHAMPAGNAC-LE-VIEUX",
+      "departement": "43",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain ETOURNEAUD",
+      "mandat": "maire",
+      "territoire": "EMPURE",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Chantal BERGDOLL",
+      "mandat": "maire",
+      "territoire": "AUXELLES-HAUT",
+      "departement": "90",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre TRZCIALKOWSKI",
+      "mandat": "maire",
+      "territoire": "LUCHEUX",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacky NIZET",
+      "mandat": "maire",
+      "territoire": "VERPEL",
+      "departement": "08",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude BERNOT",
+      "mandat": "maire",
+      "territoire": "SAINT-LOUP",
+      "departement": "58",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Louis CARAMEL",
+      "mandat": "maire",
+      "territoire": "MONTFA",
+      "departement": "09",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Claude MERESSE",
+      "mandat": "maire",
+      "territoire": "FRANQUEVILLE",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marie-Jeanne ISOARD",
+      "mandat": "maire",
+      "territoire": "ROCHEFOURCHAT",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Maurice TREMOUILLE",
+      "mandat": "maire-delegue",
+      "territoire": "SIREUIL",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Roger AQUINO",
+      "mandat": "maire",
+      "territoire": "LA HAUTE-BEAUME",
+      "departement": "05",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Francis PETIT",
+      "mandat": "maire-delegue",
+      "territoire": "BAYARD-SUR-MARNE",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain DELHOTAL",
+      "mandat": "maire",
+      "territoire": "XIROCOURT",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard GOALARD",
+      "mandat": "maire",
+      "territoire": "JASSES",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre GAYRARD",
+      "mandat": "maire-delegue",
+      "territoire": "SAINTJUST-DE-BELENGARD",
+      "departement": "11",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain COUDERC",
+      "mandat": "maire",
+      "territoire": "SAINT-ANDRE-DE-LANCIZE",
+      "departement": "48",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel DUPRAT",
+      "mandat": "maire",
+      "territoire": "RIOLAS",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude ALIBERT",
+      "mandat": "maire",
+      "territoire": "CASSAGNES",
+      "departement": "66",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Olivier MORIN",
+      "mandat": "conseiller-general",
+      "territoire": "MEAUX-NORD",
+      "departement": "77",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Françoise BONOMME",
+      "mandat": "maire",
+      "territoire": "CHARDENY",
+      "departement": "08",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Sylvie JOLIVET",
+      "mandat": "maire",
+      "territoire": "SAINT-JEAN-SAINT-GERVAIS",
+      "departement": "63",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Marc LAFFITTE",
+      "mandat": "maire",
+      "territoire": "LABATUT",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel OBADIA",
+      "mandat": "maire",
+      "territoire": "FOURNES",
+      "departement": "30",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jérôme MORIN",
+      "mandat": "maire",
+      "territoire": "PELONNE",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Claude GUERRAZ",
+      "mandat": "maire",
+      "territoire": "CUSY",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian LANTENOIS",
+      "mandat": "maire",
+      "territoire": "REBAIS",
+      "departement": "77",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pascal BRULON",
+      "mandat": "maire",
+      "territoire": "PONTVALLAIN",
+      "departement": "72",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Joël PIETE",
+      "mandat": "maire",
+      "territoire": "LOCTUDY",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard MACHEFERT",
+      "mandat": "maire",
+      "territoire": "PREGUILLAC",
+      "departement": "17",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard DEGLAIRE",
+      "mandat": "maire",
+      "territoire": "LE CHESNE",
+      "departement": "08",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Vanik BERBERIAN",
+      "mandat": "maire",
+      "territoire": "GARGILESSE-DAMPIERRE",
+      "departement": "36",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marc DUCHEMIN",
+      "mandat": "maire",
+      "territoire": "JOGANVILLE",
+      "departement": "50",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Marc CHABAL",
+      "mandat": "maire",
+      "territoire": "CHARENS",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel DENIS",
+      "mandat": "maire",
+      "territoire": "HALEINE",
+      "departement": "61",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patrick DOLE",
+      "mandat": "maire",
+      "territoire": "LES HOUCHES",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel MATHIEU",
+      "mandat": "maire",
+      "territoire": "SAINT-ANDEOL-DE-CLERGUEMORT",
+      "departement": "48",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Claude LUZORGUES",
+      "mandat": "maire",
+      "territoire": "LAMAGDELAINE",
+      "departement": "46",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patrick PERREARD",
+      "mandat": "maire",
+      "territoire": "CHATILLON-ENMICHAILLE",
+      "departement": "01",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André BIENNIER",
+      "mandat": "maire",
+      "territoire": "PEYRAUD",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard SOURISSEAU",
+      "mandat": "maire",
+      "territoire": "SAINTLUBIN-DES-JONCHERETS",
+      "departement": "28",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain ARMAND",
+      "mandat": "maire",
+      "territoire": "MARLIOZ",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gilles ROUSSELET",
+      "mandat": "maire",
+      "territoire": "MONTHARVILLE",
+      "departement": "28",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marc BLONDE",
+      "mandat": "maire",
+      "territoire": "LARIVIERE",
+      "departement": "90",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Yves VEYRAC",
+      "mandat": "maire",
+      "territoire": "MONTAUT",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Nicole DELHAYE",
+      "mandat": "maire",
+      "territoire": "ARRAYE-ET-HAN",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel CHARTIER",
+      "mandat": "maire",
+      "territoire": "COLLEGIEN",
+      "departement": "77",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Serge DUVIVIER",
+      "mandat": "maire",
+      "territoire": "SAINT-PAUL-DE-FOURQUES",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Yves LANIC",
+      "mandat": "maire",
+      "territoire": "AMFREVILLE-SOUS-LES-MONTS",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel DELAUTRE",
+      "mandat": "maire",
+      "territoire": "TRESCAULT",
+      "departement": "62",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Raymond MINONDO",
+      "mandat": "maire",
+      "territoire": "SAINT-MICHEL",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Charles MEAUDRE",
+      "mandat": "maire",
+      "territoire": "VAUDANCOURT",
+      "departement": "60",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marc GERARD",
+      "mandat": "maire",
+      "territoire": "LOUVATANGE",
+      "departement": "39",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Joël LE ROC’H",
+      "mandat": "maire",
+      "territoire": "LOCQUIREC",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Francis FLAUD",
+      "mandat": "maire",
+      "territoire": "JUILLE",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Baptiste AGUER",
+      "mandat": "maire",
+      "territoire": "CAMOU-CIHIGUE",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacky COULAUDDUTHEIL",
+      "mandat": "maire",
+      "territoire": "RAZES",
+      "departement": "87",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Liliane PINCEMAILLE",
+      "mandat": "maire",
+      "territoire": "SOMMANCOURT",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Georges FEVRE",
+      "mandat": "maire",
+      "territoire": "COUCHEY",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude JACQUOT",
+      "mandat": "maire",
+      "territoire": "FRAIZE",
+      "departement": "88",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jocelyne SOUART",
+      "mandat": "maire",
+      "territoire": "MIRVAUX",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Louis GRANET",
+      "mandat": "maire",
+      "territoire": "SAINT-QUENTIN-SUR-CHARENTE",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denis ALLAIN",
+      "mandat": "maire-delegue",
+      "territoire": "LE MESNIL-DREY",
+      "departement": "50",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacques DEBANS",
+      "mandat": "maire",
+      "territoire": "LE GRES",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Pierre WAMBRE",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLE-AUX-POTS",
+      "departement": "60",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Maurice CHAUBET",
+      "mandat": "maire",
+      "territoire": "BOURRET",
+      "departement": "82",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Auguste BERNAT",
+      "mandat": "maire",
+      "territoire": "SABONNERES",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacques RENAUT",
+      "mandat": "maire",
+      "territoire": "LACQUY",
+      "departement": "40",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Léon BOUDARD",
+      "mandat": "maire",
+      "territoire": "FATOUVILLE-GRESTAIN",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Louis BUCHWALTER",
+      "mandat": "maire",
+      "territoire": "LACHAPELLE-SOUS-ROUGEMONT",
+      "departement": "90",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard PELLETIER",
+      "mandat": "maire",
+      "territoire": "RAZE",
+      "departement": "70",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Luc RUPPANNER",
+      "mandat": "maire",
+      "territoire": "MONTSAUGEON",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André POITRASSON",
+      "mandat": "maire",
+      "territoire": "CHANIAT",
+      "departement": "43",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Hervé MORETTO",
+      "mandat": "maire",
+      "territoire": "CHASSIERS",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean BASSE",
+      "mandat": "maire",
+      "territoire": "AUTREPPES",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Laurence SERRURIER",
+      "mandat": "maire",
+      "territoire": "COSSESSEVILLE",
+      "departement": "14",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Raymonde DUPLAN",
+      "mandat": "maire",
+      "territoire": "GENESTELLE",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre DUBOURDIEU",
+      "mandat": "maire",
+      "territoire": "AUGA",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel CHOBERT",
+      "mandat": "maire",
+      "territoire": "BELLOU-LE-TRICHARD",
+      "departement": "61",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Olivier MARTIN",
+      "mandat": "maire",
+      "territoire": "GAGNIERES",
+      "departement": "30",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Monique PALPIED",
+      "mandat": "maire",
+      "territoire": "FAMECHON",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Louis BORNIER",
+      "mandat": "maire",
+      "territoire": "BLESSEY",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard BUIS",
+      "mandat": "maire",
+      "territoire": "LESCHES-EN-DIOIS",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain BLANC",
+      "mandat": "maire",
+      "territoire": "MOULINET",
+      "departement": "06",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Etiennette RAUSCHER",
+      "mandat": "maire",
+      "territoire": "NARCY",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Françoise MICHEL",
+      "mandat": "maire",
+      "territoire": "OSNE-LE-VAL",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Serge FORGEOT",
+      "mandat": "maire",
+      "territoire": "HEUILLEY-LE-GRAND",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Louis FAURE",
+      "mandat": "maire",
+      "territoire": "MORTAGNE-SUR-GIRONDE",
+      "departement": "17",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Claude HABERT",
+      "mandat": "maire",
+      "territoire": "CONTEVILLE-EN-TERNOIS",
+      "departement": "62",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian RICHARD",
+      "mandat": "maire",
+      "territoire": "ORCHAMPS",
+      "departement": "39",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel LISSILLOUR",
+      "mandat": "maire",
+      "territoire": "TREBEURDEN",
+      "departement": "22",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André MARIMBORDES",
+      "mandat": "maire",
+      "territoire": "BURGARONNE",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Françoise EBERHARDT",
+      "mandat": "maire-delegue",
+      "territoire": "BISCHTROFF-SUR-SARRE",
+      "departement": "67",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Claude PECH",
+      "mandat": "maire",
+      "territoire": "SENOUILLAC",
+      "departement": "81",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard CROSNIER",
+      "mandat": "maire",
+      "territoire": "TARTIERS",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René HUOT",
+      "mandat": "maire",
+      "territoire": "EPIZON",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude THOMAS DIT DUMONT",
+      "mandat": "maire",
+      "territoire": "BARDOUVILLE",
+      "departement": "76",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Lucien AUBERT",
+      "mandat": "maire",
+      "territoire": "JOUCAS",
+      "departement": "84",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Baptiste CHUBURU",
+      "mandat": "maire",
+      "territoire": "SERE-RUSTAING",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denis FAVRIL",
+      "mandat": "maire",
+      "territoire": "BLANGY-LE-CHATEAU",
+      "departement": "14",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Didier FERON",
+      "mandat": "maire",
+      "territoire": "ROYVILLE",
+      "departement": "76",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard CARLIOZ",
+      "mandat": "maire",
+      "territoire": "NONGLARD",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel BORDIER",
+      "mandat": "maire",
+      "territoire": "SAINT-PEY-DE-CASTETS",
+      "departement": "33",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre BAUVY",
+      "mandat": "maire",
+      "territoire": "BELLECHASSAGNE",
+      "departement": "19",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Francis GADOU",
+      "mandat": "maire",
+      "territoire": "AUDENGE",
+      "departement": "33",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André BAQUIE",
+      "mandat": "maire",
+      "territoire": "GEE-RIVIERE",
+      "departement": "32",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel MARTENOT",
+      "mandat": "maire",
+      "territoire": "SAFFRES",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Daniel LUGAGNE",
+      "mandat": "maire",
+      "territoire": "SIEURAC",
+      "departement": "81",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Thierry VANDEPUTTE",
+      "mandat": "maire",
+      "territoire": "BROYES",
+      "departement": "60",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Louis SABINI",
+      "mandat": "maire",
+      "territoire": "OLMETA-DI-TUDA",
+      "departement": "2B",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Brigitte ATHIAS",
+      "mandat": "maire",
+      "territoire": "LAVANGEOT",
+      "departement": "39",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel GOUINCE",
+      "mandat": "maire",
+      "territoire": "VETRIGNE",
+      "departement": "90",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel PIERSON",
+      "mandat": "maire",
+      "territoire": "MOYEMONT",
+      "departement": "88",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard DEMONCHY",
+      "mandat": "maire",
+      "territoire": "SANCOURT",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marc BOURDONCLE",
+      "mandat": "maire",
+      "territoire": "ALBEFEUILLE-LAGARDE",
+      "departement": "82",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Rémy BUHLER",
+      "mandat": "maire",
+      "territoire": "SEMONDANS",
+      "departement": "25",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marie-Claude DARRIAU",
+      "mandat": "maire",
+      "territoire": "PEYRE",
+      "departement": "40",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Frédéric MAILLIOT",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacques PETIT",
+      "mandat": "maire",
+      "territoire": "ESCOULOUBRE",
+      "departement": "11",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Henri SANTOS-COTTIN",
+      "mandat": "maire",
+      "territoire": "SAINT-QUENTIN-SUR-ISERE",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Maurice DAUNOIS",
+      "mandat": "maire",
+      "territoire": "BAZEILLES-SUR-OTHAIN",
+      "departement": "55",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Dominique PREVALET",
+      "mandat": "maire",
+      "territoire": "LEYR",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Robert HIEBLER",
+      "mandat": "maire",
+      "territoire": "SAINT-ETIENNE-DE-L’OLM",
+      "departement": "30",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Maurice REVOY",
+      "mandat": "maire",
+      "territoire": "AUMUR",
+      "departement": "39",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Philippe LESEUR",
+      "mandat": "maire",
+      "territoire": "CERISIERES",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre JACQUES",
+      "mandat": "maire",
+      "territoire": "BOUST",
+      "departement": "57",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Marie LUCAS",
+      "mandat": "maire",
+      "territoire": "LE CHATELLIER",
+      "departement": "35",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Thierry MONIN",
+      "mandat": "maire",
+      "territoire": "LES ALLUES",
+      "departement": "73",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Pierre VALET",
+      "mandat": "maire",
+      "territoire": "MOLLIENS-AU-BOIS",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pascal LYMER",
+      "mandat": "maire",
+      "territoire": "LE TOUVET",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Didier RIEU",
+      "mandat": "maire",
+      "territoire": "ESCUEILLENS-ET-SAINT-JUST-DE-BELENGARD",
+      "departement": "11",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Marie MATUSZCZAK",
+      "mandat": "maire-delegue",
+      "territoire": "CHEMERY",
+      "departement": "57",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Roland LHOMME",
+      "mandat": "maire",
+      "territoire": "EPENEDE",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Louis LORENTZ",
+      "mandat": "maire",
+      "territoire": "FLEVY",
+      "departement": "57",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Xavier NAUZE",
+      "mandat": "maire",
+      "territoire": "CROIGNON",
+      "departement": "33",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacques CHERRIER",
+      "mandat": "maire",
+      "territoire": "TANNOIS",
+      "departement": "55",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Robert MARIE",
+      "mandat": "maire",
+      "territoire": "SAINT-ETIENNE-L’ALLIER",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacques VELGHE",
+      "mandat": "maire",
+      "territoire": "SAINT-CHRISTOPHE",
+      "departement": "23",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Nelly THOYER",
+      "mandat": "maire",
+      "territoire": "DAMREMONT",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Arnold NORMAND",
+      "mandat": "maire",
+      "territoire": "RŒUX",
+      "departement": "62",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel CARBONNIER",
+      "mandat": "maire",
+      "territoire": "BOSGUERARD-DE-MARCOUVILLE",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Serge BAURENS",
+      "mandat": "maire",
+      "territoire": "MIREMONT",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Brigitte BRABANT",
+      "mandat": "maire",
+      "territoire": "ESSEY-ET-MAIZERAIS",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "MarieFrance DABERTRAND",
+      "mandat": "maire-delegue",
+      "territoire": "DRIGNAC",
+      "departement": "15",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Francis CHAVAUDREY",
+      "mandat": "maire",
+      "territoire": "BLECOURT",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Marc ESCOUTES",
+      "mandat": "maire",
+      "territoire": "MAILHOC",
+      "departement": "81",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Philippe RENAUDAT",
+      "mandat": "maire",
+      "territoire": "VILLUIS",
+      "departement": "77",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Max GAUTHIER",
+      "mandat": "maire",
+      "territoire": "CHELIEU",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard GARRIGUE",
+      "mandat": "maire",
+      "territoire": "SAINTJULIEN-DE-LAMPON",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Marc MATISSE",
+      "mandat": "maire",
+      "territoire": "BARNAVE",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel CHAMPOMIER",
+      "mandat": "maire",
+      "territoire": "HYDS",
+      "departement": "03",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre LESTURGEZ",
+      "mandat": "maire",
+      "territoire": "FOUQUESCOURT",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Henri CORNELOUP",
+      "mandat": "maire",
+      "territoire": "MAIZILLY",
+      "departement": "42",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Laurent LAPORTE",
+      "mandat": "maire",
+      "territoire": "CAHUZAC-SUR-ADOUR",
+      "departement": "32",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean DARCELIER",
+      "mandat": "maire",
+      "territoire": "GRENIER-MONTGON",
+      "departement": "43",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacky THOMAS",
+      "mandat": "maire",
+      "territoire": "CHEIGNIEU-LA-BALME",
+      "departement": "01",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Fred Michel LORDINOT",
+      "mandat": "conseiller-general",
+      "territoire": "SAINTE-MARIE 1",
+      "departement": "972",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard PLANTEVIN",
+      "mandat": "maire",
+      "territoire": "VILLEPERDRIX",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel MORAGAS",
+      "mandat": "maire",
+      "territoire": "CASEFABRE",
+      "departement": "66",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Pierre MAZIERES",
+      "mandat": "maire",
+      "territoire": "CLADECH",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André GAUBERT",
+      "mandat": "maire",
+      "territoire": "ORDIZAN",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean BARS",
+      "mandat": "maire",
+      "territoire": "LANILDUT",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André MITON",
+      "mandat": "maire",
+      "territoire": "SAINT-GERMAIN-D’ANXURE",
+      "departement": "53",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel SIGU",
+      "mandat": "maire",
+      "territoire": "PEYROUZET",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel LEMARECHAL",
+      "mandat": "maire",
+      "territoire": "MAUPERTUS-SUR-MER",
+      "departement": "50",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denys GODARD",
+      "mandat": "maire",
+      "territoire": "SAINTLAURENT",
+      "departement": "18",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Pierre PRIMOUT",
+      "mandat": "maire",
+      "territoire": "COULADERE",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Pierre STRADE",
+      "mandat": "maire",
+      "territoire": "LOMNE",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre VIGNE",
+      "mandat": "maire",
+      "territoire": "BEAUVENE",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Roland DUBERTRAND",
+      "mandat": "maire",
+      "territoire": "MONFAUCON",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Isabelle BLAS",
+      "mandat": "maire",
+      "territoire": "BEAUMONT-EN-DIOIS",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude FORTIN",
+      "mandat": "maire",
+      "territoire": "SAINT-EUTROPE",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Hervé GIRONNAY",
+      "mandat": "maire",
+      "territoire": "BAZOCHES-SUR-VESLES",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denis SENTENAC",
+      "mandat": "maire",
+      "territoire": "MONTGAILLARD-DE-SALIES",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel LORPHELIN",
+      "mandat": "maire",
+      "territoire": "SAINT-LEGER-SOUS-MARGERIE",
+      "departement": "10",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Xavier BOREL",
+      "mandat": "maire",
+      "territoire": "LE FAOU",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Colette PAMPOUILLE",
+      "mandat": "maire",
+      "territoire": "CONNE-DE-LABARDE",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel ACHARD",
+      "mandat": "maire",
+      "territoire": "CORENT",
+      "departement": "63",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "François WILLIAMS",
+      "mandat": "maire",
+      "territoire": "CEAUCE",
+      "departement": "61",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Pierre PUJKIS",
+      "mandat": "maire",
+      "territoire": "GRANDRIS",
+      "departement": "69",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Maryse ALBERT",
+      "mandat": "maire",
+      "territoire": "SAINT-BARTHELEMY-DE-VALS",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gilbert GRILLOT",
+      "mandat": "maire",
+      "territoire": "DRACY-SAINT-LOUP",
+      "departement": "71",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Raoul PARRA",
+      "mandat": "maire",
+      "territoire": "SAINT-CONSTANT",
+      "departement": "15",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Robert CHARBONNEL",
+      "mandat": "maire",
+      "territoire": "SAINT-PREJET-D’ALLIER",
+      "departement": "43",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "José LE GUELAFF",
+      "mandat": "maire",
+      "territoire": "MOTREFF",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Paul RAYNAUD",
+      "mandat": "maire",
+      "territoire": "RIOTORD",
+      "departement": "43",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gabriel LAHAYE",
+      "mandat": "maire",
+      "territoire": "SAINTGEORGES-DES-GARDES",
+      "departement": "49",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Olivier TOURRENG",
+      "mandat": "maire",
+      "territoire": "BOULC",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel MARQUET",
+      "mandat": "maire",
+      "territoire": "SAINT-SIMON",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jules-Noël CAUDERLIER",
+      "mandat": "maire",
+      "territoire": "BEAURAIN",
+      "departement": "59",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Robert BOLLE-REDDAT",
+      "mandat": "maire",
+      "territoire": "VALDOIE",
+      "departement": "90",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bertrand LACARRIERE",
+      "mandat": "maire",
+      "territoire": "SAINT-DENIS-LES-MARTEL",
+      "departement": "46",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denis EVRARD",
+      "mandat": "maire",
+      "territoire": "LUX",
+      "departement": "71",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Philippe GACHET",
+      "mandat": "maire",
+      "territoire": "BOISSE",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "François DEMETZ",
+      "mandat": "maire",
+      "territoire": "BOURGUIGNON-SOUS-MONTBAVIN",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel LIEGARD",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE-DU-BU",
+      "departement": "14",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel ROLLAND",
+      "mandat": "maire",
+      "territoire": "PUYMERAS",
+      "departement": "84",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard MORA",
+      "mandat": "maire-delegue",
+      "territoire": "ARROS-D’OLORON",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Yves GRENOUILLET",
+      "mandat": "maire",
+      "territoire": "SAINT-HILAIRE-LE-CHATEAU",
+      "departement": "23",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Georges VERDIER",
+      "mandat": "maire",
+      "territoire": "AJOUX",
+      "departement": "07",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Philippe DE LA MOTTE SAINT PIERRE",
+      "mandat": "maire",
+      "territoire": "LA POMAREDE",
+      "departement": "11",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy FERRY",
+      "mandat": "maire",
+      "territoire": "SANZEY",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy TRILLEAUD",
+      "mandat": "maire",
+      "territoire": "ESTEIL",
+      "departement": "63",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marie-Rose PATELLI",
+      "mandat": "maire-delegue",
+      "territoire": "MARMESSE",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre LENNE",
+      "mandat": "maire",
+      "territoire": "VITRE",
+      "departement": "79",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Suzanne COEURDASSIER",
+      "mandat": "maire-delegue",
+      "territoire": "VAL-DE-MEUSE",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René LOGEREAU",
+      "mandat": "president-communaute",
+      "territoire": "SUD-EST PAYS MANCEAU",
+      "departement": "72",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Elisabeth SIRI",
+      "mandat": "maire",
+      "territoire": "CUREL",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André VIALA",
+      "mandat": "maire",
+      "territoire": "ESTABLES",
+      "departement": "48",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René CAUSSE",
+      "mandat": "maire",
+      "territoire": "POURCHARESSES",
+      "departement": "48",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "François ROUSSEAU",
+      "mandat": "conseiller-general",
+      "territoire": "LES PIEUX",
+      "departement": "50",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian AZNAR",
+      "mandat": "maire",
+      "territoire": "MARSAS",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian FEVRE",
+      "mandat": "maire",
+      "territoire": "HAUTECOURT-ROMANECHE",
+      "departement": "01",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Christian BLANC",
+      "mandat": "maire",
+      "territoire": "LES ANGLES",
+      "departement": "66",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel BAZILE",
+      "mandat": "maire",
+      "territoire": "SAINTE-MARIE-DU-BOIS",
+      "departement": "50",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Eric FOLLOT",
+      "mandat": "maire",
+      "territoire": "COURLON",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Maryse GALINIER",
+      "mandat": "maire",
+      "territoire": "LESCURRY",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Joëlle VIGNEAUX",
+      "mandat": "maire",
+      "territoire": "MAZOUAU",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Joseph SPRUNCK",
+      "mandat": "maire",
+      "territoire": "ORMERSVILLER",
+      "departement": "57",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude DHERBEY",
+      "mandat": "maire",
+      "territoire": "ROVON",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marie-Claire CAMUSET",
+      "mandat": "maire",
+      "territoire": "SEMMADON",
+      "departement": "70",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard SAPHORES",
+      "mandat": "maire",
+      "territoire": "SAINT-PE-DE-LEREN",
+      "departement": "64",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Vincent RABATEL",
+      "mandat": "conseiller-general",
+      "territoire": "FRANGY",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "François GODOC",
+      "mandat": "maire",
+      "territoire": "ARGOL",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claire GENOVA",
+      "mandat": "maire",
+      "territoire": "MONDONVILLE-SAINT-JEAN",
+      "departement": "28",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard NICOLAS",
+      "mandat": "maire",
+      "territoire": "SAINT-SIMEON",
+      "departement": "61",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre BERNARDON",
+      "mandat": "maire",
+      "territoire": "VISSAC-AUTEYRAC",
+      "departement": "43",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Luc RECHER",
+      "mandat": "maire",
+      "territoire": "AUBEVOYE",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean DE FRANSSU",
+      "mandat": "maire",
+      "territoire": "COURCELLES-SOUS-MOYENCOURT",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Régis MALZIEU",
+      "mandat": "maire",
+      "territoire": "CHEYLARD-L’EVEQUE",
+      "departement": "48",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Roger LAGACHE",
+      "mandat": "maire",
+      "territoire": "TOLLENT",
+      "departement": "62",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Roger WILLOCQ",
+      "mandat": "maire",
+      "territoire": "ANSTAING",
+      "departement": "59",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André MOREL",
+      "mandat": "maire",
+      "territoire": "ALAINCOURT",
+      "departement": "70",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Guy GONIN",
+      "mandat": "maire",
+      "territoire": "BERU",
+      "departement": "89",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Luc DORADOUX",
+      "mandat": "maire",
+      "territoire": "PERASSAY",
+      "departement": "36",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain RICORDEAU",
+      "mandat": "maire",
+      "territoire": "SEAILLES",
+      "departement": "32",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Chantal MATHIS",
+      "mandat": "maire",
+      "territoire": "COMBRIMONT",
+      "departement": "88",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Dominique JOVET",
+      "mandat": "maire",
+      "territoire": "FULVY",
+      "departement": "89",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Daniel BRAESCH",
+      "mandat": "maire",
+      "territoire": "TRIZAY-COUTRETOT-SAINT-SERGE",
+      "departement": "28",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Georges LARENIE",
+      "mandat": "maire-delegue",
+      "territoire": "LA CHAPELLE-DECHAUD",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Brigitte PISTOLOZZI",
+      "mandat": "maire",
+      "territoire": "SAINT-AMAND-DE-BELVES",
+      "departement": "24",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patrick POINSEL",
+      "mandat": "maire",
+      "territoire": "ROUGEUX",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude NANJOD",
+      "mandat": "maire",
+      "territoire": "EVIRES",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard TIJOU",
+      "mandat": "maire",
+      "territoire": "LUIGNE",
+      "departement": "49",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain COLLARD",
+      "mandat": "maire",
+      "territoire": "THENISSEY",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Louis CASSE",
+      "mandat": "maire",
+      "territoire": "LAFFITE-TOUPIERE",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-René DELAPORTE",
+      "mandat": "maire",
+      "territoire": "ROGNY",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "JeanPierre CURDI",
+      "mandat": "maire",
+      "territoire": "SAINT-SEVER-DE-RUSTAN",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard CHABANNE",
+      "mandat": "maire",
+      "territoire": "SAINTBONNET-PRES-BORT",
+      "departement": "19",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Pierre TROMPETTE",
+      "mandat": "maire",
+      "territoire": "SARCEY",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patrick PRIEUR",
+      "mandat": "maire-delegue",
+      "territoire": "NESLES-LA-GILBERDE",
+      "departement": "77",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patrice DEBRAY",
+      "mandat": "maire",
+      "territoire": "RAILLIMONT",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marielle DURET",
+      "mandat": "maire",
+      "territoire": "HABERE-LULLIN",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Roger BERTRAND",
+      "mandat": "maire",
+      "territoire": "GENOUILLY",
+      "departement": "71",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Robert CROS",
+      "mandat": "maire",
+      "territoire": "SAINT-GEORGES-DE-LUZENÇON",
+      "departement": "12",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bruno DETROYAT",
+      "mandat": "maire",
+      "territoire": "LE MOTTIER",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Raymond RIMLINGER",
+      "mandat": "maire",
+      "territoire": "ENCHENBERG",
+      "departement": "57",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Dominique SOICHET",
+      "mandat": "maire",
+      "territoire": "COURTESOULT-ET-GATEY",
+      "departement": "70",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard LACQUA",
+      "mandat": "maire",
+      "territoire": "GOUAUX-DE-LUCHON",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy GEAUGEY",
+      "mandat": "maire-delegue",
+      "territoire": "GENRUPT",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Didier DAGOMET",
+      "mandat": "maire",
+      "territoire": "PINTERVILLE",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Denis FORTERRE",
+      "mandat": "maire",
+      "territoire": "DONCIERES",
+      "departement": "88",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard BOUVY",
+      "mandat": "maire",
+      "territoire": "VINDELLE",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Alain LAMBERT",
+      "mandat": "maire",
+      "territoire": "ORGES",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Fabrice NOIROT",
+      "mandat": "maire",
+      "territoire": "BLESSONVILLE",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel FAVRE",
+      "mandat": "maire",
+      "territoire": "SAINT-JURS",
+      "departement": "04",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel TERRISSOL",
+      "mandat": "maire",
+      "territoire": "MERVILLA",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Olivier CARTAN",
+      "mandat": "maire",
+      "territoire": "GENOS",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Francis COULOM",
+      "mandat": "maire",
+      "territoire": "CAUSSADE-RIVIERE",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Ivan MARIE",
+      "mandat": "maire",
+      "territoire": "FLEURY",
+      "departement": "60",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Dominique JACQUOT",
+      "mandat": "maire",
+      "territoire": "BONVILLER",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Nathalie ALIPRE",
+      "mandat": "maire",
+      "territoire": "LE MEILLARD",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gilbert RIVES",
+      "mandat": "maire",
+      "territoire": "VILLENEUVE-DU-LATOU",
+      "departement": "09",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Claude NOIRCLERE",
+      "mandat": "maire",
+      "territoire": "VAUBEXY",
+      "departement": "88",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Philippe BRIAND",
+      "mandat": "maire",
+      "territoire": "FREIX-ANGLARDS",
+      "departement": "15",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Paul DELY",
+      "mandat": "maire",
+      "territoire": "BUS-LA-MESIERE",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard HENRIONNET",
+      "mandat": "maire",
+      "territoire": "LISLE-EN-RIGAULT",
+      "departement": "55",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gilles CAYROL",
+      "mandat": "maire",
+      "territoire": "LATOUILLE-LENTILLAC",
+      "departement": "46",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Isabelle MIOT",
+      "mandat": "maire-delegue",
+      "territoire": "PERCEY-LE-PAUTEL",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gilles DE BEL AIR",
+      "mandat": "maire",
+      "territoire": "NOYAL-CHATILLON-SUR-SEICHE",
+      "departement": "35",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy SAINT-MEZARD",
+      "mandat": "maire",
+      "territoire": "GAZAUPOUY",
+      "departement": "32",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Lionel JULIENNE",
+      "mandat": "maire",
+      "territoire": "AISY-SOUS-THIL",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard AZIBI",
+      "mandat": "conseiller-regional",
+      "departement": "13",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre PILLET",
+      "mandat": "maire",
+      "territoire": "FERRIERES-SAINT-HILAIRE",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Dominique CHAPPUIT CALVARY",
+      "mandat": "maire-delegue",
+      "territoire": "ROSOY",
+      "departement": "89",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Robert LALAIN",
+      "mandat": "maire",
+      "territoire": "COUCY-LA-VILLE",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André CAILLAT",
+      "mandat": "maire",
+      "territoire": "VARACIEUX",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Charles MOUTY",
+      "mandat": "maire",
+      "territoire": "SAINT-JULIEN-D’ODDES",
+      "departement": "42",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Maurice SONNERAT",
+      "mandat": "conseiller-general",
+      "territoire": "REIGNIER",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy JALLOT",
+      "mandat": "maire",
+      "territoire": "SAINT-HILAIRE-LA-PLAINE",
+      "departement": "23",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "René CAPDEVIELLE",
+      "mandat": "maire",
+      "territoire": "OUZOUS",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Georges BAROIN",
+      "mandat": "maire",
+      "territoire": "GOULOUX",
+      "departement": "58",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean BERTHET",
+      "mandat": "maire",
+      "territoire": "FEIGERES",
+      "departement": "74",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard BORDES",
+      "mandat": "maire",
+      "territoire": "VAUXBUIN",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard CATRY",
+      "mandat": "maire",
+      "territoire": "SAINT-ANDEOL",
+      "departement": "38",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel BRETAUD",
+      "mandat": "maire",
+      "territoire": "LA BUXERETTE",
+      "departement": "36",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patrice RIVET",
+      "mandat": "maire",
+      "territoire": "RIOMS",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard LOUBET",
+      "mandat": "maire",
+      "territoire": "BASSANNE",
+      "departement": "33",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Bernard BENEDETTI",
+      "mandat": "maire",
+      "territoire": "LUGO-DI-NAZZA",
+      "departement": "2B",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Georges BOIRY",
+      "mandat": "maire",
+      "territoire": "SAINT-GEORGES-SUR-ALLIER",
+      "departement": "63",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Jacques PILINSKI",
+      "mandat": "maire",
+      "territoire": "HACQUEVILLE",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Roland GOURIET",
+      "mandat": "maire",
+      "territoire": "FOULAIN",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel GOUSSET",
+      "mandat": "maire-delegue",
+      "territoire": "CHOILLEY-DARDENAY",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patricia GOUTTEFANGEAS",
+      "mandat": "maire",
+      "territoire": "VOLLORE-VILLE",
+      "departement": "63",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Hubert DUMAS",
+      "mandat": "maire",
+      "territoire": "VERANNE",
+      "departement": "42",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Didier BAUDRY",
+      "mandat": "maire",
+      "territoire": "NESLE-ET-MASSOULT",
+      "departement": "21",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Dominique BOURGEOIS",
+      "mandat": "maire",
+      "territoire": "IVERNY",
+      "departement": "77",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Rose-Marie PROSPERI",
+      "mandat": "conseiller-afe",
+      "territoire": "Corse",
+      "departement": "2B",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Claude VANDERKAM",
+      "mandat": "maire",
+      "territoire": "GOURGEON",
+      "departement": "70",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacques RAGOT",
+      "mandat": "maire",
+      "territoire": "LAGARDELLE-SUR-LEZE",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel JOUYET",
+      "mandat": "conseiller-general",
+      "territoire": "ECOS",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Erick SEILLIER",
+      "mandat": "maire",
+      "territoire": "ESCLOTTES",
+      "departement": "47",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Michel CABE",
+      "mandat": "maire",
+      "territoire": "CAZENEUVE-MONTAUT",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean MILESI",
+      "mandat": "maire",
+      "territoire": "MELAGUES",
+      "departement": "12",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Didier GENEAU",
+      "mandat": "maire",
+      "territoire": "SAJAS",
+      "departement": "31",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jack HENRY",
+      "mandat": "maire",
+      "territoire": "BUTOT-VENESVILLE",
+      "departement": "76",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérald LLOPIS",
+      "mandat": "maire",
+      "territoire": "LES LOGES",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Fabrice CAUDY",
+      "mandat": "maire",
+      "territoire": "FONTENAY",
+      "departement": "27",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Baptiste ISSARTEL",
+      "mandat": "maire",
+      "territoire": "VILLENEUVE-D’ALLIER",
+      "departement": "43",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Eric DARNOIS",
+      "mandat": "maire",
+      "territoire": "SIONVILLER",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "André PORPORAT",
+      "mandat": "maire",
+      "territoire": "GINASSERVIS",
+      "departement": "83",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Luc MARIE",
+      "mandat": "maire",
+      "territoire": "SOUMONT-SAINT-QUENTIN",
+      "departement": "14",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jacques BEAUVALLET",
+      "mandat": "maire",
+      "territoire": "CHAMBON-LA-FORET",
+      "departement": "45",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Claude BRUEL",
+      "mandat": "maire",
+      "territoire": "SINGLES",
+      "departement": "63",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Rémi DURAND",
+      "mandat": "maire",
+      "territoire": "GONDREVILLE",
+      "departement": "45",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Marcel MILIN",
+      "mandat": "maire",
+      "territoire": "LANRIVOARE",
+      "departement": "29",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Etienne DUTHU",
+      "mandat": "maire",
+      "territoire": "ESPARROS",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Serge DAYET",
+      "mandat": "maire",
+      "territoire": "CHAUSSENANS",
+      "departement": "39",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jorge DE CARVALHO",
+      "mandat": "maire",
+      "territoire": "SAINTE-MARIE-A-PY",
+      "departement": "51",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Guy LONCA",
+      "mandat": "maire",
+      "territoire": "VISCOS",
+      "departement": "65",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Philippe UGUEN",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE-TOIRAC",
+      "departement": "46",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Albert THIEBAUT",
+      "mandat": "maire",
+      "territoire": "LUGNY",
+      "departement": "02",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Franck LE PRIOL",
+      "mandat": "maire",
+      "territoire": "MONTLAUR-EN-DIOIS",
+      "departement": "26",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Louis CLEMENT",
+      "mandat": "maire",
+      "territoire": "SAINT-OUEN-DE-MIMBRE",
+      "departement": "72",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Robert DOYEN",
+      "mandat": "maire",
+      "territoire": "ASNIERES-SUR-NOUERE",
+      "departement": "16",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Laurent BARBET",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLEMARCOUSSE",
+      "departement": "63",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Régis DEMENGE",
+      "mandat": "maire",
+      "territoire": "HERPELMONT",
+      "departement": "88",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Raymond ABERT",
+      "mandat": "maire",
+      "territoire": "L’EPINE",
+      "departement": "05",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Michel IMBERT",
+      "mandat": "maire-delegue",
+      "territoire": "SOUGERES-SUR-SINOTTE",
+      "departement": "89",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Patrick SYLVESTRE",
+      "mandat": "maire-delegue",
+      "territoire": "BREUIL-SUR-MARNE",
+      "departement": "52",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Céline Irma BRASSELEUR",
+      "mandat": "conseiller-regional",
+      "departement": "971",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Gérard GUILLOT",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-EN-GATINOIS",
+      "departement": "71",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Jean-Paul HENRY",
+      "mandat": "maire",
+      "territoire": "CREVIC",
+      "departement": "54",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Roland VINCENT",
+      "mandat": "maire",
+      "territoire": "AIGUEZE",
+      "departement": "30",
+      "publie_le": "2007-03-24"
+    },
+    {
+      "nom": "Pierre DUPONT",
+      "mandat": "maire-delegue",
+      "territoire": "DREUIL-LES-MOLLIENS",
+      "departement": "80",
+      "publie_le": "2007-03-24"
+    }
+  ]
+}

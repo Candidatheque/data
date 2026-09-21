@@ -1,0 +1,119 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-2022",
+  "personne": "PE-0178",
+  "nom_complet": "Yaya LAM",
+  "etendue": "integrale",
+  "publications": [
+    {
+      "date": "2022-02-01",
+      "source": {
+        "id": "conseil-constitutionnel:2022-175-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022175PDR.htm",
+        "commentaire": "Liste du 1er février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-03",
+      "source": {
+        "id": "conseil-constitutionnel:2022-176-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022176PDR.htm",
+        "commentaire": "Liste du 3 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-08",
+      "source": {
+        "id": "conseil-constitutionnel:2022-177-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022177PDR.htm",
+        "commentaire": "Liste du 8 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-10",
+      "source": {
+        "id": "conseil-constitutionnel:2022-178-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022178PDR.htm",
+        "commentaire": "Liste du 10 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-15",
+      "source": {
+        "id": "conseil-constitutionnel:2022-179-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022179PDR.htm",
+        "commentaire": "Liste du 15 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-17",
+      "source": {
+        "id": "conseil-constitutionnel:2022-180-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022180PDR.htm",
+        "commentaire": "Liste du 17 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-22",
+      "source": {
+        "id": "conseil-constitutionnel:2022-181-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022181PDR.htm",
+        "commentaire": "Liste du 22 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-02-24",
+      "source": {
+        "id": "conseil-constitutionnel:2022-182-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022182PDR.htm",
+        "commentaire": "Liste du 24 février 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-03-01",
+      "source": {
+        "id": "conseil-constitutionnel:2022-183-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022183PDR.htm",
+        "commentaire": "Liste du 1er mars 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-03-03",
+      "source": {
+        "id": "conseil-constitutionnel:2022-185-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022185PDR.htm",
+        "commentaire": "Liste du 3 mars 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    },
+    {
+      "date": "2022-03-07",
+      "source": {
+        "id": "conseil-constitutionnel:2022-186-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022186PDR.htm",
+        "commentaire": "Liste du 7 mars 2022 des citoyens habilités ayant présenté des candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "civilite": "Mme",
+      "nom": "TABUTEAU",
+      "prenom": "Nathalie",
+      "mandat": "maire",
+      "territoire": "Moulismes",
+      "departement": "86",
+      "publie_le": "2022-02-15"
+    }
+  ]
+}

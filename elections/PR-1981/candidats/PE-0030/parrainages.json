@@ -1,0 +1,3454 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-1981",
+  "personne": "PE-0030",
+  "nom_complet": "Jacques CHIRAC",
+  "etendue": "tirage-au-sort",
+  "publications": [
+    {
+      "date": "1981-04-10",
+      "source": {
+        "id": "conseil-constitutionnel:81-41-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/1981/8141pdr.htm",
+        "commentaire": "Listes des citoyens habilités ayant présenté les candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "nom": "Emile MONTEIL",
+      "mandat": "maire",
+      "territoire": "VALETTE",
+      "departement": "15",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri BESSONIES",
+      "mandat": "maire",
+      "territoire": "BESSONIES",
+      "departement": "45",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri HOUDOUIN",
+      "mandat": "maire",
+      "territoire": "BONCHAMP",
+      "departement": "53",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis LETIERCE",
+      "mandat": "maire",
+      "territoire": "ERAGNY",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gaston FLOSSE",
+      "mandat": "depute",
+      "departement": "987",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond JUILLET",
+      "mandat": "maire",
+      "territoire": "PEYRABOUT",
+      "departement": "23",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gabriel SCHATZ",
+      "mandat": "maire",
+      "territoire": "SAINT-JEANROHRBACH",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri CONTINSOUZA",
+      "mandat": "maire",
+      "territoire": "DARNETZ",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul ALBERT",
+      "mandat": "maire",
+      "territoire": "PONTPIERRE",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard DODIVERS",
+      "mandat": "maire",
+      "territoire": "BLUSSANS",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean CAPDEVILLE",
+      "mandat": "maire",
+      "territoire": "POUYDESSEAUX",
+      "departement": "40",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Edith DUDOUIT",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLEHAUTE-GRUE",
+      "departement": "14",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre GUERRIN",
+      "mandat": "maire",
+      "territoire": "MENIL",
+      "departement": "53",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri VIMEUX",
+      "mandat": "conseiller-general",
+      "departement": "58",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger LEROY",
+      "mandat": "maire",
+      "territoire": "ARÇESDILO",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger THONON",
+      "mandat": "maire",
+      "territoire": "GOUZEAUCOURT",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean PONCET",
+      "mandat": "maire",
+      "territoire": "S AINT-GERAND-DE-VAUX",
+      "departement": "03",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alix FERAT",
+      "mandat": "maire",
+      "territoire": "TALUS-SAINT-PRIX",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre MALHERBE",
+      "mandat": "maire",
+      "territoire": "CANENS",
+      "departement": "31",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre MAÜLAT",
+      "mandat": "maire",
+      "territoire": "SEP AUD",
+      "departement": "23",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean LEMOINE",
+      "mandat": "maire",
+      "territoire": "CUVERVILLE",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean MAILLET",
+      "mandat": "maire",
+      "territoire": "MAISONNAIS",
+      "departement": "18",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel CHAUTY",
+      "mandat": "senateur",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel PERRET",
+      "mandat": "maire",
+      "territoire": "SAINT-AUBIN-DE-COURTERAIE",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René WINLING",
+      "mandat": "maire",
+      "territoire": "FORSTHEIM",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Adrien GOUTEYRON",
+      "mandat": "senateur",
+      "departement": "43",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert DELAPORTE",
+      "mandat": "maire",
+      "territoire": "CANTIERS",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis GRAILLE",
+      "mandat": "maire",
+      "territoire": "CHATEAUNEUF-D’ENTRAUNES",
+      "departement": "06",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel HART",
+      "mandat": "conseiller-territorial",
+      "departement": "987",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Patrice VALLEJO",
+      "mandat": "maire",
+      "territoire": "POMMEREUX",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert HERBET",
+      "mandat": "maire",
+      "territoire": "CAULIERES",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel CAPDEVIELLE",
+      "mandat": "maire",
+      "territoire": "GELAUCOURT",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Philippe LOISEL",
+      "mandat": "maire",
+      "territoire": "BONVILLERS",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Pierre AILLAUD",
+      "mandat": "maire",
+      "territoire": "SAINT-JULIEN-D’ASSE",
+      "departement": "04",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André WAROQUIER",
+      "mandat": "maire",
+      "territoire": "MACHEMONT",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert JOYEUX",
+      "mandat": "maire",
+      "territoire": "TERRE-DE-HAUT",
+      "departement": "971",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean JACQUES",
+      "mandat": "maire",
+      "territoire": "MEYRONNES",
+      "departement": "04",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "François de VERNOU",
+      "mandat": "maire",
+      "territoire": "COULONGESSUR-SARTHE",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Yves DERIEUX",
+      "mandat": "maire",
+      "territoire": "LOUVIGNE-DUDESERT",
+      "departement": "35",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Hervé ROPARS",
+      "mandat": "maire",
+      "territoire": "PLOUEDERN",
+      "departement": "29",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre PASQUINI",
+      "mandat": "depute",
+      "departement": "2B",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Julien BOUHOURS",
+      "mandat": "maire",
+      "territoire": "SAINTLEGER-DE-ROTES",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René DUREPAIRE",
+      "mandat": "conseiller-general",
+      "departement": "16",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Christian COISNON",
+      "mandat": "maire",
+      "territoire": "VALPUISEAUX",
+      "departement": "91",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard FERREUX",
+      "mandat": "maire",
+      "territoire": "MONNET LA-VILLE",
+      "departement": "39",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis DUCHATEAU",
+      "mandat": "maire",
+      "territoire": "CAMPAGNE-LES-GUINES",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard SCHREINER",
+      "mandat": "maire",
+      "territoire": "BRUMATH",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Augustin LUCIANI",
+      "mandat": "maire",
+      "territoire": "BRANDO",
+      "departement": "2B",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul FOURDINIER",
+      "mandat": "maire",
+      "territoire": "MONTIGNY-SUR-L’IIALLUE",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude DESRUELLE",
+      "mandat": "maire",
+      "territoire": "TRIE-CHATEAU",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges THERET",
+      "mandat": "maire",
+      "territoire": "ARTIION-EN-RETZ",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard PARAIN",
+      "mandat": "maire",
+      "territoire": "ROUY-LE-PETIT",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean GEOFFROY",
+      "mandat": "maire",
+      "territoire": "CLEZENTAINE",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alain FAUQUEUX",
+      "mandat": "maire",
+      "territoire": "CHEPOIX",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre MAGNAUDEIX",
+      "mandat": "maire",
+      "territoire": "ANGLES-SUR-CORREZE",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges MERCIER",
+      "mandat": "maire",
+      "territoire": "LEVIER",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René CHEVALIER",
+      "mandat": "maire",
+      "territoire": "PLONEVEZ-PORZAY",
+      "departement": "29",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Clément TROCHERIE",
+      "mandat": "conseiller-general",
+      "departement": "53",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Y van COPPE",
+      "mandat": "maire",
+      "territoire": "MARCHELEPOT",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André BONNESŒUR",
+      "mandat": "maire",
+      "territoire": "HABLOVILLE",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques DURAND",
+      "mandat": "maire",
+      "territoire": "MONTFAUCON-SUR-MOINE",
+      "departement": "49",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Eudes BESSIERE",
+      "mandat": "maire",
+      "territoire": "BONLOC",
+      "departement": "64",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean SUCHET",
+      "mandat": "conseiller-general",
+      "departement": "92",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Francis MARCHAND-MAILLET",
+      "mandat": "maire",
+      "territoire": "BELLENTRE",
+      "departement": "73",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis CLIMENT",
+      "mandat": "maire",
+      "territoire": "MAMBELIN",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques CLEMENT",
+      "mandat": "maire",
+      "territoire": "MARAINV ILLE-SU R-M AD ON",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Jacques ROHFRITSCH",
+      "mandat": "maire",
+      "territoire": "LAMPERTHEIM",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel WOLFERSBERGER",
+      "mandat": "maire",
+      "territoire": "REDING",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Joseph LE PIERRES",
+      "mandat": "maire",
+      "territoire": "SAINT-LE GER-SURSARTHE",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André ZIMMERMANN",
+      "mandat": "maire",
+      "territoire": "WITTERSDORF",
+      "departement": "68",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alfred FUMAT",
+      "mandat": "maire",
+      "territoire": "CHATEAU-SUR-EPTE",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gabriel DESTAIS",
+      "mandat": "conseiller-general",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gilbert HARDT",
+      "mandat": "maire",
+      "territoire": "REMERINGLES-HARGARTEN",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel GEISTEL",
+      "mandat": "conseiller-general",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Napole MULILOTO",
+      "mandat": "conseiller-territorial",
+      "departement": "986",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René BUC AILLE",
+      "mandat": "maire",
+      "territoire": "AUZOUVILLE-L’ESNEVAL",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Clovis LOGOLOGOFOLAU",
+      "mandat": "conseiller-territorial",
+      "departement": "986",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques TEHEIURA",
+      "mandat": "conseiller-territorial",
+      "departement": "987",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis SOUDAIN",
+      "mandat": "maire",
+      "territoire": "BECOURT",
+      "departement": "42",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond DRAVIGNY",
+      "mandat": "maire",
+      "territoire": "SAINTE-MARIE-A-PY",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Toussaint GUILY",
+      "mandat": "maire",
+      "territoire": "Z AL AN A",
+      "departement": "2B",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jeanne DACQUIN",
+      "mandat": "maire",
+      "territoire": "LUANT",
+      "departement": "36",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel BARRIERE",
+      "mandat": "maire",
+      "territoire": "PRENDEIGNES",
+      "departement": "46",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul DUBOZ",
+      "mandat": "maire",
+      "territoire": "VALEMPOULIERES",
+      "departement": "39",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Fernand VIDEAU",
+      "mandat": "maire",
+      "territoire": "FONTENILLE",
+      "departement": "16",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre GRARD",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLE-SAINT-MESMIN",
+      "departement": "45",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léon BONNIN",
+      "mandat": "maire",
+      "territoire": "TALMONT-SUR-GIRONDE",
+      "departement": "17",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard DOQUETCHASSAING",
+      "mandat": "maire",
+      "territoire": "SAINT-AUBIN",
+      "departement": "10",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Antoine OSETE",
+      "mandat": "conseiller-general",
+      "departement": "31",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean DESNOUES",
+      "mandat": "maire",
+      "territoire": "MOUTIERS-SOUSCHANTEMERLE",
+      "departement": "79",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert BAIZET",
+      "mandat": "maire",
+      "territoire": "VENDRENNES",
+      "departement": "85",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel SIMONNEAUX",
+      "mandat": "maire",
+      "territoire": "ACIGNE",
+      "departement": "35",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Edmond PIEDAGNEL",
+      "mandat": "maire",
+      "territoire": "AGNEAUX",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marc SEGARD",
+      "mandat": "maire",
+      "territoire": "SERIGNACPEBOUDOU",
+      "departement": "47",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques de CRUZEL",
+      "mandat": "maire",
+      "territoire": "GAGNAC-SUR-GARONNE",
+      "departement": "31",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert FRESSE",
+      "mandat": "maire",
+      "territoire": "GIRMONT-VAL-D’AJOL",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Guy FRICOTTEAU",
+      "mandat": "maire",
+      "territoire": "PERTHES",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard TORAL",
+      "mandat": "maire",
+      "territoire": "AMFREVILLE-LES-CHAMPS",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges HENRION",
+      "mandat": "maire",
+      "territoire": "BERIG-VINTRANGE",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marie GOURNAY",
+      "mandat": "maire",
+      "territoire": "CAESTRE",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André CAUQUIL",
+      "mandat": "maire",
+      "territoire": "ANGLES",
+      "departement": "81",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Frédéric PRAUD",
+      "mandat": "maire",
+      "territoire": "SAINT-JULIEN-DE-CONCELLES",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges ROUMIEU",
+      "mandat": "maire",
+      "territoire": "SOURRIBES",
+      "departement": "04",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel FAVARD",
+      "mandat": "conseiller-general",
+      "departement": "53",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard ORILLARD",
+      "mandat": "maire",
+      "territoire": "VANVES",
+      "departement": "92",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard GUYON",
+      "mandat": "maire",
+      "territoire": "CARDONNOIS",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Annie LHERITIER",
+      "mandat": "conseiller-general",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice DECORDE",
+      "mandat": "maire",
+      "territoire": "FOSSE",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges CHEVRIER",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-DE-LENNE",
+      "departement": "12",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Firmin AUGER",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE-DE-LAMPS",
+      "departement": "36",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard LE TAILLEUR",
+      "mandat": "maire",
+      "territoire": "BAUDONVILLIERS",
+      "departement": "55",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alfred LADEUZE",
+      "mandat": "maire",
+      "territoire": "NEUVILLETTE",
+      "departement": "02",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Joseph MONTAGNE",
+      "mandat": "maire",
+      "territoire": "MEZERES",
+      "departement": "43",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Daniel GOULET",
+      "mandat": "depute",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Joseph COUTARD",
+      "mandat": "maire",
+      "territoire": "SAINTCHRISTOPHE-DE-VALAINS",
+      "departement": "35",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean BARNIER",
+      "mandat": "maire",
+      "territoire": "SAINTMARCELLIN-EN-FOREZ",
+      "departement": "42",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-François BAILLY",
+      "mandat": "conseiller-general",
+      "departement": "90",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Marie LALANNE",
+      "mandat": "maire",
+      "territoire": "SAINT-MAURICE",
+      "departement": "40",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Dominique TIBERI",
+      "mandat": "maire",
+      "territoire": "SOLARO",
+      "departement": "2B",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard BUREL",
+      "mandat": "maire",
+      "territoire": "MESSEI",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean de BRONDEAU",
+      "mandat": "maire",
+      "territoire": "ARTHEL",
+      "departement": "58",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis DUCOURNEAU",
+      "mandat": "maire",
+      "territoire": "BARS",
+      "departement": "32",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice CHAUPRE",
+      "mandat": "maire",
+      "territoire": "THIAUCOURT",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude BERARD",
+      "mandat": "maire",
+      "territoire": "MARCHEMAISONS",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Fernand GERAUDIE",
+      "mandat": "maire",
+      "territoire": "AFFIEUX",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean LOUE",
+      "mandat": "maire",
+      "territoire": "SAINT-GEORGES",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Marc BARTEZ",
+      "mandat": "maire",
+      "territoire": "JONAGE",
+      "departement": "69",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René LAURIN",
+      "mandat": "maire",
+      "territoire": "SAINTRAPHAEL",
+      "departement": "83",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alphonse GERARD",
+      "mandat": "maire",
+      "territoire": "WALSCHEID",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean BLANC",
+      "mandat": "maire",
+      "territoire": "TAILLADES",
+      "departement": "84",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Joseph MONTIAGE",
+      "mandat": "maire",
+      "territoire": "BUHL-LORRAINE",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Guy MEJESCAZES",
+      "mandat": "maire",
+      "territoire": "PRUDHOMAT",
+      "departement": "46",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri BARBEROT",
+      "mandat": "maire",
+      "territoire": "RAINCOURT",
+      "departement": "70",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Régis RICHARD",
+      "mandat": "maire",
+      "territoire": "OUGNEY",
+      "departement": "39",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marc PRETRE",
+      "mandat": "maire",
+      "territoire": "GROSBOIS",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean GABORIAUD",
+      "mandat": "maire",
+      "territoire": "PARNES",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Eveline FALGON",
+      "mandat": "maire",
+      "territoire": "MONTPEZAT-SOUS-BAUZON",
+      "departement": "07",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Hubert MIFA",
+      "mandat": "maire",
+      "territoire": "SAINT-JURE",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léon MARCEL",
+      "mandat": "maire",
+      "territoire": "LANGATTE",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Albert GRAND JEAN",
+      "mandat": "maire",
+      "territoire": "SOUMANS",
+      "departement": "23",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André SAVONNE",
+      "mandat": "maire",
+      "territoire": "ROCHEFORT-DU-GARD",
+      "departement": "30",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel MUSNIER",
+      "mandat": "maire",
+      "territoire": "GERMIGNY-SOUS-COULOMBS",
+      "departement": "77",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Yves JOURDAN",
+      "mandat": "maire",
+      "territoire": "COULIMER",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis LATGER",
+      "mandat": "maire",
+      "territoire": "BLAN",
+      "departement": "81",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice SCHUMANN",
+      "mandat": "senateur",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jules LENOIR",
+      "mandat": "maire",
+      "territoire": "EQUIRRE",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léon ADAM",
+      "mandat": "maire",
+      "territoire": "SAINT-GERMAfN-SUR-SARTHE",
+      "departement": "72",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis HAG",
+      "mandat": "maire",
+      "territoire": "BARONVILLE",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pol ROGUET",
+      "mandat": "maire",
+      "territoire": "MAILLYCHAMPAGNE",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gilbert ZAUG",
+      "mandat": "maire",
+      "territoire": "REMIREMONT",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul AGUILA",
+      "mandat": "maire",
+      "territoire": "SURDOUX i87)",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques PINEAU",
+      "mandat": "maire",
+      "territoire": "MEZIERES-EN-VEXIN",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André DUPOUX",
+      "mandat": "maire",
+      "territoire": "FONTANIERES",
+      "departement": "23",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marius PARNISARI",
+      "mandat": "maire",
+      "territoire": "GLANNES",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard BABARIT",
+      "mandat": "maire",
+      "territoire": "TREIZE-VENTS",
+      "departement": "85",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Falakiko GATA",
+      "mandat": "conseiller-territorial",
+      "departement": "986",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Témauri TOARERE",
+      "mandat": "maire",
+      "territoire": "TUREIA",
+      "departement": "987",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul GRETER",
+      "mandat": "maire",
+      "territoire": "EGLINGEN",
+      "departement": "68",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre CHARROPPIN",
+      "mandat": "maire",
+      "territoire": "NEUREY-EN-VAUX",
+      "departement": "70",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André ROCHE",
+      "mandat": "maire",
+      "territoire": "SAINT-FREJOUX",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond GAUTHERON",
+      "mandat": "maire",
+      "territoire": "GERMIGNY-L’EVEQUE",
+      "departement": "77",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel CARETTE",
+      "mandat": "maire",
+      "territoire": "REBECQUES",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Hélène VEMJVY",
+      "mandat": "maire",
+      "territoire": "THEILLAY",
+      "departement": "41",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre CHAUSSY",
+      "mandat": "maire",
+      "territoire": "CORTRAT",
+      "departement": "45",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Claude DELORME",
+      "mandat": "maire",
+      "territoire": "CHAMPEAUX-EN-AUGE",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Rangiariki KAMAKE",
+      "mandat": "maire",
+      "territoire": "NAPUKA",
+      "departement": "987",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André FOURAUX",
+      "mandat": "maire",
+      "territoire": "LA CROIX-EN-CHAMPAGNE",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard BEDOUET",
+      "mandat": "maire",
+      "territoire": "RUCQUEVILLE",
+      "departement": "14",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Christiane COLLETTE",
+      "mandat": "maire",
+      "territoire": "LICQUES",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René PECHET",
+      "mandat": "maire",
+      "territoire": "CHAVANNESSUR-SURAN",
+      "departement": "01",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre REMONAY",
+      "mandat": "maire",
+      "territoire": "GRAND-COMBECHATELEU",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul ESBRAT",
+      "mandat": "conseiller-general",
+      "departement": "15",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bertrand RUYNEAU-DE-SAINT-GEORGE",
+      "mandat": "maire",
+      "territoire": "BRUXIERES-D’AILLAC",
+      "departement": "36",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis MARTEIL",
+      "mandat": "maire",
+      "territoire": "YFFINIAC",
+      "departement": "22",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Joseph CAVEL",
+      "mandat": "maire",
+      "territoire": "AVRICOURT",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "François NICOLAS",
+      "mandat": "maire",
+      "territoire": "TREGARVAN",
+      "departement": "29",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques CHAUMONT",
+      "mandat": "conseiller-general",
+      "departement": "72",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond BOURGINE",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri GAREL",
+      "mandat": "maire",
+      "territoire": "TREVENEUC",
+      "departement": "22",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André DUPONT",
+      "mandat": "maire",
+      "territoire": "POTELEE",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Fernand LOUIS",
+      "mandat": "maire",
+      "territoire": "BOISSET-LES-PREVANCHES",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques BAILLEUX",
+      "mandat": "maire",
+      "territoire": "SAINT-MIHIEL",
+      "departement": "55",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel LACOMA",
+      "mandat": "conseiller-general",
+      "departement": "971",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Daniel HERMAN",
+      "mandat": "maire",
+      "territoire": "TOUFFREVILLE",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges GIRARD",
+      "mandat": "maire",
+      "territoire": "SAINT-PANCRASSE",
+      "departement": "38",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard LOGEL",
+      "mandat": "maire",
+      "territoire": "FROESCHWILLER",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Félix MALLET",
+      "mandat": "maire",
+      "territoire": "MOSNAY",
+      "departement": "36",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "xMarcel CORROY",
+      "mandat": "maire",
+      "territoire": "LA CELLESOUS-CHANTEMERLE",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roland CHAMPION",
+      "mandat": "maire",
+      "territoire": "CHOUILLY",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre DU MESNILDOT",
+      "mandat": "maire",
+      "territoire": "ANNEVILLE-EN-SAIRE",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René VETTE",
+      "mandat": "maire",
+      "territoire": "SAINT-ETIENNE-DE-SAINT-GEOUR3",
+      "departement": "38",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Emile ROBICIION",
+      "mandat": "maire",
+      "territoire": "GUYANS-VENNES",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Guy PAPAIS",
+      "mandat": "maire",
+      "territoire": "TREVILLE",
+      "departement": "11",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Eugène PILARD",
+      "mandat": "maire",
+      "territoire": "VALCANVILLE",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alain LE ROY",
+      "mandat": "maire",
+      "territoire": "l’île de SEIN",
+      "departement": "29",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jules CORDEIL",
+      "mandat": "maire",
+      "territoire": "MOURVILLES-HAUTES",
+      "departement": "31",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel RENARD",
+      "mandat": "conseiller-general",
+      "departement": "972",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Pierre VIGIER",
+      "mandat": "maire",
+      "territoire": "LADIGNAC",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René GIROZ",
+      "mandat": "maire",
+      "territoire": "VIETHOREY",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gilbert LE BESCOND",
+      "mandat": "conseiller-general",
+      "departement": "74",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Guy PERRET",
+      "mandat": "maire",
+      "territoire": "GLAND",
+      "departement": "89",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude DHINNIN",
+      "mandat": "depute",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis DUJARDIN",
+      "mandat": "maire",
+      "territoire": "GONFREVILLE",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul LASCOUX",
+      "mandat": "maire",
+      "territoire": "BÔUTEVILLE",
+      "departement": "16",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Lucien BERVILLE",
+      "mandat": "maire",
+      "territoire": "LONGCHAMPS",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean ELOY",
+      "mandat": "maire",
+      "territoire": "MELLO",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean FAGET",
+      "mandat": "maire",
+      "territoire": "EAUZE",
+      "departement": "32",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léon PENNOBER",
+      "mandat": "maire",
+      "territoire": "MELRAND",
+      "departement": "56",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges BONNEFOY",
+      "mandat": "maire",
+      "territoire": "SAUVERNY",
+      "departement": "01",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Théodore LECOQ",
+      "mandat": "maire",
+      "territoire": "PIERREPONT",
+      "departement": "14",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Arnaud LANUSSE",
+      "mandat": "maire",
+      "territoire": "SANGUINET",
+      "departement": "40",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Emile BESSON",
+      "mandat": "maire",
+      "territoire": "BRIERES-LES-SCELLES",
+      "departement": "91",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques GOSSOT",
+      "mandat": "maire",
+      "territoire": "TOUL",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Arnaud LEPERCQ",
+      "mandat": "depute",
+      "departement": "86",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roland CARTER",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Lucien HERRBACH",
+      "mandat": "maire",
+      "territoire": "VILLE",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel LAVIEZ",
+      "mandat": "maire",
+      "territoire": "GRANDECOURT",
+      "departement": "70",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard SAILLARD",
+      "mandat": "maire",
+      "territoire": "VILLEDIEU",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Charles SCHOENACKER",
+      "mandat": "maire",
+      "territoire": "HULTEHOUSE",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Armand MIGOT",
+      "mandat": "maire",
+      "territoire": "DONZENAC",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Albert ZEIGIN",
+      "mandat": "maire",
+      "territoire": "DURRENBACH",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Charles VANDROMME",
+      "mandat": "maire",
+      "territoire": "W1SQUES",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Elie DABLANC",
+      "mandat": "maire",
+      "territoire": "BERGANTY",
+      "departement": "46",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacky BERTRAND",
+      "mandat": "maire",
+      "territoire": "ANAIS",
+      "departement": "16",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques DUFLO",
+      "mandat": "maire",
+      "territoire": "PIERREFIQUES",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice CLAVIER",
+      "mandat": "maire",
+      "territoire": "M ARTIGNYLES-BAINS",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marc DOMMANGE",
+      "mandat": "maire",
+      "territoire": "ETON",
+      "departement": "55",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Antoine GENEIX",
+      "mandat": "maire",
+      "territoire": "TREMOUILLE",
+      "departement": "15",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul DAUFRESNE",
+      "mandat": "maire",
+      "territoire": "SAINT-SYLVESTRE-DE-CORMEILLES",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René LEHMANN",
+      "mandat": "maire",
+      "territoire": "DIEFFENBACH-LES-WOERTH",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André GUILLOU",
+      "mandat": "conseiller-general",
+      "departement": "35",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges TOURNOUD",
+      "mandat": "maire",
+      "territoire": "OZ-ENOISANS",
+      "departement": "38",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard DESGUES",
+      "mandat": "conseiller-general",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert GERARD",
+      "mandat": "maire",
+      "territoire": "LA TRINITE-DES-LAITIERS",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alphonse MEYNET",
+      "mandat": "maire",
+      "territoire": "PLAISIA",
+      "departement": "39",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Fernand JOUANNET",
+      "mandat": "maire",
+      "territoire": "BLAUDEIX",
+      "departement": "23",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Emile JOLY",
+      "mandat": "maire",
+      "territoire": "WAVRECHAIN-SOUSFAULX",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Lucien TROUSSE",
+      "mandat": "maire",
+      "territoire": "ESCLAVELLES",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean METRAL",
+      "mandat": "maire",
+      "territoire": "MONTAILLEUR",
+      "departement": "73",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léopold DEYDIER",
+      "mandat": "maire",
+      "territoire": "SAINT-SAUVEUR-GOUVERNET",
+      "departement": "26",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Marie RIEME",
+      "mandat": "maire",
+      "territoire": "CHEVIGNEY-LES-VERCEL",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice NOIZET",
+      "mandat": "maire",
+      "territoire": "ARDEUIL MONTFAUXELLES",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond GOUDOUNEIX",
+      "mandat": "maire",
+      "territoire": "VALIERGUES",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude LEBIGOT",
+      "mandat": "maire",
+      "territoire": "NOTRE-DAMEDU-TOUCHET",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard GRIENENBERGER",
+      "mandat": "maire",
+      "territoire": "WALDIGHOFFEN",
+      "departement": "68",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques RIMBERT",
+      "mandat": "maire",
+      "territoire": "LAMORLAYE",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre LOBELLE",
+      "mandat": "maire",
+      "territoire": "CROIX-CALUYAU",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger DEVRIEZE",
+      "mandat": "maire",
+      "territoire": "SAINT-VAAST-DE-LONGMONT",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Philippe LAMBERT",
+      "mandat": "maire",
+      "territoire": "BERMONVILLE",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gaston JEANNOT",
+      "mandat": "maire",
+      "territoire": "LOMONT-SUR-CRETE",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Joseph PANAGET",
+      "mandat": "maire",
+      "territoire": "BOURGBARRE",
+      "departement": "35",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Charles DESAUNAY",
+      "mandat": "maire",
+      "territoire": "BAROCHE-SOUSLUCE",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger FILLIERE",
+      "mandat": "maire",
+      "territoire": "MANY",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Pierre AUBONNET",
+      "mandat": "maire",
+      "territoire": "MONTVALEZAN",
+      "departement": "73",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Simon DE PERETTI",
+      "mandat": "maire",
+      "territoire": "VOLPAJOLA",
+      "departement": "2B",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel HALPHEN",
+      "mandat": "maire",
+      "territoire": "BIONVILLE-SUR-NIED",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond LAPLEAU",
+      "mandat": "maire",
+      "territoire": "SAINTJULIEN-AUX-BOIS",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude CORBET",
+      "mandat": "maire",
+      "territoire": "CREULLY",
+      "departement": "14",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges BOUDARD",
+      "mandat": "maire",
+      "territoire": "GOUZON",
+      "departement": "23",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude BLANCHET",
+      "mandat": "maire",
+      "territoire": "LA VIEILLE-LYRE",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gonxague CHARRON",
+      "mandat": "maire",
+      "territoire": "CORCOUE-SUR-LOGNE",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre BARAT",
+      "mandat": "maire",
+      "territoire": "SOULAN",
+      "departement": "09",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Madeleine CORDA",
+      "mandat": "maire",
+      "territoire": "CHEVIERES",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean JONETTE",
+      "mandat": "maire",
+      "territoire": "MALZEVILLE",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges GUILLOTIN",
+      "mandat": "maire",
+      "territoire": "LA BAZOGE",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René HALM",
+      "mandat": "maire",
+      "territoire": "MATZENHEIM",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Albert BOIREAU",
+      "mandat": "maire",
+      "territoire": "SAINT-GROUX",
+      "departement": "16",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean VINCENT",
+      "mandat": "maire",
+      "territoire": "BEFFIA",
+      "departement": "39",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Louis BREMOND",
+      "mandat": "maire",
+      "territoire": "FONTIENNE",
+      "departement": "04",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André CHARBONNIER",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLE-SOUS-AUBENAS",
+      "departement": "07",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Manuele LISIAHI",
+      "mandat": "conseiller-territorial",
+      "departement": "986",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Albert MARCHAND",
+      "mandat": "conseiller-general",
+      "departement": "94",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis BOICHOT",
+      "mandat": "maire",
+      "territoire": "PERROGNEYLES-FONTAINES",
+      "departement": "52",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond THUILIER",
+      "mandat": "maire",
+      "territoire": "BAUX-DEPROVENCE",
+      "departement": "13",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Albert PERROT",
+      "mandat": "maire",
+      "territoire": "REIGNY",
+      "departement": "18",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René DUMAS",
+      "mandat": "maire",
+      "territoire": "SAINT-SIMON-DE-PELLOUAILLE",
+      "departement": "17",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice MARTIN",
+      "mandat": "maire",
+      "territoire": "BRECY-BRIERES",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Roger HONORAT",
+      "mandat": "maire",
+      "territoire": "ECHENEVEX",
+      "departement": "01",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard DE RUFFRAY",
+      "mandat": "maire",
+      "territoire": "ROCHES-PREMARIE-ANDILLE",
+      "departement": "86",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Charles ROLLAND",
+      "mandat": "conseiller-general",
+      "departement": "04",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul BOUCHAUD",
+      "mandat": "maire",
+      "territoire": "SAINT-FIACRE",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Arthur DEHAINE",
+      "mandat": "depute",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges CHAGOUNOFF",
+      "mandat": "maire",
+      "territoire": "SAINT-VINCENT-DE-BARRES",
+      "departement": "07",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond PRADAL",
+      "mandat": "maire",
+      "territoire": "VIAZAC",
+      "departement": "46",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri OLIVIER",
+      "mandat": "maire",
+      "territoire": "SAINT-GERMAIN-DESGROIS",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges MATHIEU",
+      "mandat": "maire",
+      "territoire": "ASNIERES-SUR-NOUERE",
+      "departement": "16",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri HAVART",
+      "mandat": "maire",
+      "territoire": "BRUNEMBERT",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-François MANCEL",
+      "mandat": "depute",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice CORNETTE",
+      "mandat": "depute",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Christian TUAILLON",
+      "mandat": "conseiller-general",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roland SCHMITT",
+      "mandat": "maire",
+      "territoire": "OHNENHEIM",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger G ED ON",
+      "mandat": "maire",
+      "territoire": "HOUDAN",
+      "departement": "78",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean PELLEGRINELLI",
+      "mandat": "maire",
+      "territoire": "MONTAGNEY",
+      "departement": "70",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Antoine GISSINGER",
+      "mandat": "depute",
+      "departement": "68",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Ambroise GALMICHE",
+      "mandat": "maire",
+      "territoire": "LA ROSIERE",
+      "departement": "70",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Hubert DORT",
+      "mandat": "maire",
+      "territoire": "ZARBELING",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel PERICARD",
+      "mandat": "depute",
+      "departement": "78",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André EBLING",
+      "mandat": "maire",
+      "territoire": "VIREUX-WALLERAND",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Guy GRAVELAT",
+      "mandat": "maire",
+      "territoire": "SAINT-MAURICE-DU-DESERT",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Josette ARAUD",
+      "mandat": "maire",
+      "territoire": "ORNOLAC-USSAT-LES-BAINS",
+      "departement": "09",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Lafaele MALAU",
+      "mandat": "conseiller-territorial",
+      "departement": "986",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Noël COUERON",
+      "mandat": "maire",
+      "territoire": "SAINTE-ANNE-SUR-BRIVET",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René ROUSSEL",
+      "mandat": "maire",
+      "territoire": "BOURG-BEAUDOUIN",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude HOLIGNER",
+      "mandat": "maire",
+      "territoire": "MENILLEPINOIS",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre LUCAS",
+      "mandat": "conseiller-general",
+      "departement": "13",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Julien QUET",
+      "mandat": "maire",
+      "territoire": "CRES",
+      "departement": "34",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul PRUVOST",
+      "mandat": "maire",
+      "territoire": "ROUGEFAY",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger BALESDENT",
+      "mandat": "maire",
+      "territoire": "NEUILLY-L’HOPITAL",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul NAVARRANNE",
+      "mandat": "conseiller-general",
+      "departement": "34",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice ROBERT",
+      "mandat": "maire",
+      "territoire": "SAINT-BARTHELEMY-LESTRA",
+      "departement": "42",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Marie ELOY",
+      "mandat": "maire",
+      "territoire": "LANDROFF",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Rémy GUILLAUME",
+      "mandat": "maire",
+      "territoire": "MOIVRONS",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean FAURE",
+      "mandat": "maire",
+      "territoire": "BENEST",
+      "departement": "16",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Ernest TE AG AI",
+      "mandat": "maire",
+      "territoire": "TATAKOTO",
+      "departement": "987",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léon DUQUET",
+      "mandat": "maire",
+      "territoire": "CHENALOTTE",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léon DURAND",
+      "mandat": "maire",
+      "territoire": "TORCHAMP",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Guillaume SCHUH",
+      "mandat": "maire",
+      "territoire": "DIESEN",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "François HITTLER",
+      "mandat": "maire",
+      "territoire": "GUNSTETT",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Huguette GEORGES",
+      "mandat": "maire",
+      "territoire": "RIBEAUCOURT",
+      "departement": "55",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pascal MASINI",
+      "mandat": "maire",
+      "territoire": "LOUTZVILLER",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard BONGIOANNI",
+      "mandat": "maire",
+      "territoire": "UTELLE",
+      "departement": "06",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Albéric TOURTOIS",
+      "mandat": "maire",
+      "territoire": "WASNES-AU-BAC",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Daniel BOURCERET",
+      "mandat": "maire",
+      "territoire": "ENGENTE",
+      "departement": "10",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gilbert LAMBERT",
+      "mandat": "maire",
+      "territoire": "VAVRAY-LE-PETIT",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Charles BANZET",
+      "mandat": "maire",
+      "territoire": "VAUCOURT",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard CUVILLIER",
+      "mandat": "maire",
+      "territoire": "BARENTON-SUR-SERRE",
+      "departement": "02",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel QUATRAVAUX",
+      "mandat": "maire",
+      "territoire": "VILLERS-EN-OUCHE",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert MITTELBRONN",
+      "mandat": "maire",
+      "territoire": "BOURGALTROFF",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger BARRE",
+      "mandat": "maire",
+      "territoire": "BEFFU-LE-MORTHOMME",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René DELADUNE",
+      "mandat": "maire",
+      "territoire": "FOUCARVILLE",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léon GARNOTEL",
+      "mandat": "maire",
+      "territoire": "POMACLE",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude BIDAULT",
+      "mandat": "maire",
+      "territoire": "BACQUEPUIS",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léon REBILLOT",
+      "mandat": "maire",
+      "territoire": "ECOT",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean LEBAS",
+      "mandat": "maire",
+      "territoire": "D OM M AR TIN -LE-SAIN T-PERE",
+      "departement": "52",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice LACHAUDRU",
+      "mandat": "maire",
+      "territoire": "SAINT-JULIEN-LE-CHATEL",
+      "departement": "23",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "JeanPierre VILLENEUVE",
+      "mandat": "maire",
+      "territoire": "HERQUEVILLE",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel DENISE",
+      "mandat": "maire",
+      "territoire": "LA GROISE",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice LECOCQ",
+      "mandat": "maire",
+      "territoire": "SAINTGEORGE3-DE3-GROSEILLERS",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "François TRESARRICQ",
+      "mandat": "maire",
+      "territoire": "LE3CUN",
+      "departement": "64",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger LEROUX",
+      "mandat": "maire",
+      "territoire": "BARBIZON",
+      "departement": "77",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-René CHARTRON",
+      "mandat": "maire",
+      "territoire": "PULIGNY-MONTRACHET",
+      "departement": "21",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul CROUZILLES",
+      "mandat": "maire",
+      "territoire": "MAZUBY",
+      "departement": "11",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean CONTANT",
+      "mandat": "maire",
+      "territoire": "MUIDS",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond MARLET",
+      "mandat": "maire",
+      "territoire": "VEZINS-DU-LEVEZOU",
+      "departement": "12",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude-Gérard MARCUS",
+      "mandat": "depute",
+      "departement": "75",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean LASCARAY",
+      "mandat": "maire",
+      "territoire": "AINHARP",
+      "departement": "64",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Louis HERBOMMEZ",
+      "mandat": "maire",
+      "territoire": "SAMEON",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Lucien BOHRER",
+      "mandat": "maire",
+      "territoire": "MUESPACH",
+      "departement": "68",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René DENEUFBOURG",
+      "mandat": "maire",
+      "territoire": "BEUGNIES",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel LOREILLE",
+      "mandat": "maire",
+      "territoire": "PERCY",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Elie CROXO",
+      "mandat": "maire",
+      "territoire": "MAREST-SUR MATZ",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "François FOR1N",
+      "mandat": "maire",
+      "territoire": "LUCEY",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André GROSJEAN",
+      "mandat": "maire",
+      "territoire": "AIX-LES-BAINS",
+      "departement": "73",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges DURST",
+      "mandat": "maire",
+      "territoire": "INGOLSHEIM",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre LUCAS",
+      "mandat": "maire",
+      "territoire": "RIEDISHEIM",
+      "departement": "68",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Charles de VALLOIS",
+      "mandat": "maire",
+      "territoire": "CHATEAU-THEBAUD",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis BOURZAI",
+      "mandat": "maire",
+      "territoire": "EGLETONS",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "François GERBAUD",
+      "mandat": "conseiller-general",
+      "departement": "36",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André TEULADE",
+      "mandat": "maire",
+      "territoire": "BOISSET",
+      "departement": "15",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Charles CAVAILLE",
+      "mandat": "depute",
+      "departement": "56",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel JEANMOUGIN",
+      "mandat": "maire",
+      "territoire": "RAMONCHAMP",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jack JOUARON",
+      "mandat": "maire",
+      "territoire": "CHAMPAGNE-MOUTON",
+      "departement": "16",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul BONNANS",
+      "mandat": "maire",
+      "territoire": "SAINT-NAUPHARY",
+      "departement": "82",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Etienne GOLA",
+      "mandat": "maire",
+      "territoire": "RAYOL-CANADEL",
+      "departement": "83",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gabriel GIRARD",
+      "mandat": "maire",
+      "territoire": "CHAIX",
+      "departement": "85",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Emilien DURAND",
+      "mandat": "maire",
+      "territoire": "ESCOUSSENS",
+      "departement": "81",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel CHEVAL",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLE-GACELINE",
+      "departement": "56",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger GOYON",
+      "mandat": "maire",
+      "territoire": "SAINT-ALYRE-ES-MONTAGNES",
+      "departement": "63",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André STREIFF",
+      "mandat": "maire",
+      "territoire": "ANCERVILLE",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Louis PAMART",
+      "mandat": "maire",
+      "territoire": "JUMIGNY",
+      "departement": "02",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel LANFRANCHI",
+      "mandat": "maire",
+      "territoire": "LAUZET-UBAYE",
+      "departement": "04",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Teaveave TEAKA",
+      "mandat": "maire",
+      "territoire": "REAO",
+      "departement": "987",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alfred VITRAT",
+      "mandat": "maire",
+      "territoire": "LARCHE",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Joannv DEBEAUX",
+      "mandat": "maire",
+      "territoire": "SAINTANDRE-LE-PUY",
+      "departement": "42",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Charles BOGUD",
+      "mandat": "maire",
+      "territoire": "GRANDPRE",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Christian REBOUL",
+      "mandat": "maire",
+      "territoire": "AVAPESSA",
+      "departement": "2B",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice CHABRIER",
+      "mandat": "maire",
+      "territoire": "SAINT-ALBAN-DES-VILLARDS",
+      "departement": "73",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Victor HELL",
+      "mandat": "maire",
+      "territoire": "MUESPACH-LE-HAUT",
+      "departement": "68",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard PY",
+      "mandat": "maire",
+      "territoire": "BELFAHY",
+      "departement": "70",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre LEQUEUX",
+      "mandat": "maire",
+      "territoire": "NOUVION-ET-CATILLON",
+      "departement": "02",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André GUILLET",
+      "mandat": "maire",
+      "territoire": "CORRENCON-EN-VERCORS",
+      "departement": "38",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre LAULOM",
+      "mandat": "maire",
+      "territoire": "LABRIT",
+      "departement": "40",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Victor BAILBLE",
+      "mandat": "maire",
+      "territoire": "SAINT-GUINOUX",
+      "departement": "35",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger LE TEL LIER",
+      "mandat": "maire",
+      "territoire": "LARUNS",
+      "departement": "64",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Placide BRUNEAU",
+      "mandat": "maire",
+      "territoire": "PERVENCHERES",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alain PLUCHET",
+      "mandat": "maire",
+      "territoire": "THUIT",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean DALAT",
+      "mandat": "maire",
+      "territoire": "SAINT-JEANDE-LAUR",
+      "departement": "46",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Benoît MACQUET",
+      "mandat": "conseiller-general",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Germain SOCKEEL",
+      "mandat": "maire",
+      "territoire": "NOORDPEENE",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Charles VALINGOT",
+      "mandat": "maire",
+      "territoire": "ENNEMAIN",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard ANDRIEU",
+      "mandat": "maire",
+      "territoire": "ARQUES",
+      "departement": "12",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel PLUMELEUR",
+      "mandat": "maire",
+      "territoire": "CHARMOIS",
+      "departement": "90",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques PYLYSER",
+      "mandat": "maire",
+      "territoire": "HERMAN VILLE",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel FERTE",
+      "mandat": "maire",
+      "territoire": "LA FERTEMILON",
+      "departement": "02",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger MONNET",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel LAFALLISSE",
+      "mandat": "maire",
+      "territoire": "LONGAVESNES",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard LECOCQ",
+      "mandat": "maire",
+      "territoire": "NORT-LEULINGHEM",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques RIVIERE",
+      "mandat": "maire",
+      "territoire": "SAINT-LOUP",
+      "departement": "82",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert DESERT",
+      "mandat": "maire",
+      "territoire": "VIESSOIX",
+      "departement": "14",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Charles GALLOO",
+      "mandat": "maire",
+      "territoire": "SAINT-MAURICE-SUR-AVEYRON",
+      "departement": "45",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean BON",
+      "mandat": "maire",
+      "territoire": "SENNECEY-LE-GRAND",
+      "departement": "71",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean CUGNO",
+      "mandat": "maire",
+      "territoire": "BURGALAYS",
+      "departement": "31",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard ROCHER",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean BELLOU",
+      "mandat": "maire",
+      "territoire": "GANCOURT-SAINT-ETIENNE",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Lucien CHRETIEN",
+      "mandat": "maire",
+      "territoire": "PARFONDEVAL",
+      "departement": "02",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Serge PAUQUET",
+      "mandat": "maire",
+      "territoire": "SANCOURT",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean VERZEAUX",
+      "mandat": "maire",
+      "territoire": "VILLE-SUR-RETOURNE",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René SOURZAC",
+      "mandat": "maire",
+      "territoire": "SAILLAC",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Etienne FEREZ",
+      "mandat": "maire",
+      "territoire": "PONTENX-LES-FORGES",
+      "departement": "40",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André PROUX",
+      "mandat": "maire",
+      "territoire": "HAUTE-GOULAINE",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "François HONTHAAS",
+      "mandat": "maire",
+      "territoire": "AYDIUS",
+      "departement": "64",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond DECLOUX",
+      "mandat": "maire",
+      "territoire": "COULOM MES-ET-M ARQUENY",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel ARNOULD",
+      "mandat": "maire",
+      "territoire": "OFFROICOURT",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André EUTROPE",
+      "mandat": "maire",
+      "territoire": "SAINT-NICOLAS-D’ATTEZ",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques SAUNIER",
+      "mandat": "maire",
+      "territoire": "SAINTE-COLOMBE-PRES-VERNON",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Hubert OLLINGER",
+      "mandat": "maire",
+      "territoire": "XIVRY-CIRCOURT",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René MILLOT",
+      "mandat": "maire",
+      "territoire": "MERTRUD",
+      "departement": "52",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre VALLEREND",
+      "mandat": "maire",
+      "territoire": "BAZENVILLE",
+      "departement": "14",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Adrien ROUSSEL",
+      "mandat": "maire",
+      "territoire": "SArNT-SAMSON-DE-LA-ROQUE",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre DUPONT",
+      "mandat": "maire",
+      "territoire": "BRETAGNE",
+      "departement": "90",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gilbert BRICE",
+      "mandat": "maire",
+      "territoire": "BAZEGNEY",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Pierre LAVOIR",
+      "mandat": "maire",
+      "territoire": "LA ROQUILLE",
+      "departement": "33",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean PERREAUT",
+      "mandat": "maire",
+      "territoire": "LESSARD-EN-BRESSE",
+      "departement": "71",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger BESSE",
+      "mandat": "conseiller-general",
+      "departement": "15",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René TOUSSIROT",
+      "mandat": "maire",
+      "territoire": "BONNEIL",
+      "departement": "02",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Antoine HERTSCHUH",
+      "mandat": "maire",
+      "territoire": "THALMARMOUTIER",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Joachim MAZOYER",
+      "mandat": "maire",
+      "territoire": "VAZEILLESLIMANDRE",
+      "departement": "43",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean HIOBACQ",
+      "mandat": "maire",
+      "territoire": "CHATRICES",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger LAVERGNE",
+      "mandat": "maire",
+      "territoire": "ETTENDORF",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre KNITTEL",
+      "mandat": "maire",
+      "territoire": "WETTOLSHEIM",
+      "departement": "68",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard SEGALA",
+      "mandat": "maire",
+      "territoire": "CAMBOULIT",
+      "departement": "46",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Félix TOKORAGI",
+      "mandat": "maire",
+      "territoire": "MAKEMO",
+      "departement": "987",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard LANGLOIS",
+      "mandat": "maire",
+      "territoire": "CATTËVILLË",
+      "departement": "50",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André MERCIER",
+      "mandat": "depute",
+      "departement": "89",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice BRUN",
+      "mandat": "maire",
+      "territoire": "MARCIEU",
+      "departement": "38",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice GROS",
+      "mandat": "maire",
+      "territoire": "CAZILHAC",
+      "departement": "34",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Max TOULOUSE",
+      "mandat": "maire",
+      "territoire": "BUCEY- ë N-OTHE",
+      "departement": "10",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Pierre LBMERCIER",
+      "mandat": "maire",
+      "territoire": "LA CHAUSSEE",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Daniel MAILLARD",
+      "mandat": "maire",
+      "territoire": "CHOREY-LESBEAUNE",
+      "departement": "21",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond DOHET",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Paul ROBERT",
+      "mandat": "senateur",
+      "departement": "15",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Gérard CALAIS",
+      "mandat": "maire",
+      "territoire": "NIELLE‘3-LE3-CALAIS",
+      "departement": "62",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Frédéric SCHOEFFEL",
+      "mandat": "maire",
+      "territoire": "NEUWILLER",
+      "departement": "68",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel B0U3SEAU",
+      "mandat": "maire",
+      "territoire": "LA TRANCHE-SUR-MER",
+      "departement": "85",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacques PICARD",
+      "mandat": "maire",
+      "territoire": "ROZAY-EN-BRIE",
+      "departement": "77",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude BËLPOIS",
+      "mandat": "maire",
+      "territoire": "FOUCHERANS",
+      "departement": "25",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges SOFFRAY",
+      "mandat": "maire",
+      "territoire": "PEROUGES",
+      "departement": "01",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice LELOUP",
+      "mandat": "maire",
+      "territoire": "MENIL-ERREUX",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond FONTANET",
+      "mandat": "maire",
+      "territoire": "FRAYSSINET-LE-GELAT",
+      "departement": "46",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri DEMOLLIEN'S",
+      "mandat": "maire",
+      "territoire": "SAINT-S AUFLIEU",
+      "departement": "80",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger CHASSAING",
+      "mandat": "maire",
+      "territoire": "OBJAT",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alain MASBOU",
+      "mandat": "maire",
+      "territoire": "GREALOU",
+      "departement": "46",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marius DOMISSY",
+      "mandat": "maire",
+      "territoire": "SERVAIS",
+      "departement": "02",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert LH O MM EAU",
+      "mandat": "maire",
+      "territoire": "LANDEVIE1LLE",
+      "departement": "85",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Marie TROUS3EL",
+      "mandat": "maire",
+      "territoire": "SENNECEYLES-DIJON",
+      "departement": "21",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert HEITZ",
+      "mandat": "maire",
+      "territoire": "KURTZENHOUSE",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean ROSSELOT",
+      "mandat": "maire",
+      "territoire": "BERMONT",
+      "departement": "90",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Charles de LEVISMIREPOIX",
+      "mandat": "maire",
+      "territoire": "ORIGN Y-LE-ROUX",
+      "departement": "61",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean E3PARRE",
+      "mandat": "maire",
+      "territoire": "COUNOZOULS",
+      "departement": "11",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Robert HAMOT",
+      "mandat": "maire",
+      "territoire": "FRE.VIAINVILLE",
+      "departement": "95",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel MASSELIN",
+      "mandat": "maire",
+      "territoire": "MALLEVILLE-SUR-LE-BEC",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Philibert DASSONVILLE",
+      "mandat": "maire",
+      "territoire": "SEBOURG",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger LEHALLE",
+      "mandat": "maire",
+      "territoire": "FEY-EN-HAYE",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Albert FENAUX",
+      "mandat": "maire",
+      "territoire": "BERTR1COURT",
+      "departement": "02",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René FAILLARD",
+      "mandat": "maire",
+      "territoire": "BRION",
+      "departement": "01",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean BEQUET",
+      "mandat": "maire",
+      "territoire": "VEZILLON",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Denys PROASKAT",
+      "mandat": "maire",
+      "territoire": "HAUCOURT",
+      "departement": "60",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René BORGET",
+      "mandat": "maire",
+      "territoire": "RAMASSE",
+      "departement": "01",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Henri JEUNET",
+      "mandat": "conseiller-general",
+      "departement": "39",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Pierre DELALANDE",
+      "mandat": "depute",
+      "departement": "95",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Bernard VINCENS",
+      "mandat": "conseiller-general",
+      "departement": "94",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "André ANTOINE",
+      "mandat": "conseiller-general",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Marcel PICOT",
+      "mandat": "maire",
+      "territoire": "SAINT-DENIS-LETIIIBOULT",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "René CAILLE",
+      "mandat": "depute",
+      "departement": "69",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alain RABILLON",
+      "mandat": "maire",
+      "territoire": "SOUESMES",
+      "departement": "41",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Joseph OSTERMANN",
+      "mandat": "maire",
+      "territoire": "WASSELONNE",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Georges LEFEVRE",
+      "mandat": "maire",
+      "territoire": "MORGNY",
+      "departement": "27",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice WEILL",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Léopold HELENE",
+      "mandat": "maire",
+      "territoire": "GOSIER",
+      "departement": "971",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Michel DEMOUCHY",
+      "mandat": "maire",
+      "territoire": "PENLY",
+      "departement": "76",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre FAGOT",
+      "mandat": "maire",
+      "territoire": "PLERGUER",
+      "departement": "35",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Julien MORIN",
+      "mandat": "maire",
+      "territoire": "FAREMOUTIERS",
+      "departement": "77",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Raymond GUILLARD",
+      "mandat": "maire",
+      "territoire": "LIZIO",
+      "departement": "56",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Elie VERNY",
+      "mandat": "maire",
+      "territoire": "COUFFY",
+      "departement": "19",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Louis VIROT",
+      "mandat": "maire",
+      "territoire": "CHATENOIS",
+      "departement": "88",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alain TACCOEN",
+      "mandat": "maire",
+      "territoire": "BISSEZEELE",
+      "departement": "59",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Maurice DECARD",
+      "mandat": "maire",
+      "territoire": "AUTREY-LE-VAY",
+      "departement": "70",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Albert NIESS",
+      "mandat": "maire",
+      "territoire": "HOFFEN",
+      "departement": "67",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Etienne BAUGEY",
+      "mandat": "maire",
+      "territoire": "SEVEUX",
+      "departement": "70",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean CUITOT",
+      "mandat": "maire",
+      "territoire": "POGNY",
+      "departement": "51",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jacqueline FOURNIER",
+      "mandat": "conseiller-general",
+      "departement": "44",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean-Paul de ROCCA SERRA",
+      "mandat": "depute",
+      "departement": "2A",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Alain BISE",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean LOCATELLI",
+      "mandat": "maire",
+      "territoire": "RANS",
+      "departement": "39",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Jean LETOURNEL",
+      "mandat": "maire",
+      "territoire": "GUILLIERS",
+      "departement": "56",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Emmanuel AUBERT",
+      "mandat": "depute",
+      "departement": "08",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Roger PAOLACCI",
+      "mandat": "maire",
+      "territoire": "SAINT-ETIENNEDE-BOULOGNE",
+      "departement": "07",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Adrien GALL",
+      "mandat": "maire",
+      "territoire": "NIDERVILLER",
+      "departement": "57",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Pierre COSTE",
+      "mandat": "maire",
+      "territoire": "SAINT-VIDAL",
+      "departement": "43",
+      "publie_le": "1981-04-10"
+    },
+    {
+      "nom": "Claude HURIET",
+      "mandat": "conseiller-general",
+      "departement": "54",
+      "publie_le": "1981-04-10"
+    }
+  ]
+}

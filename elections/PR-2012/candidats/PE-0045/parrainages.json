@@ -1,0 +1,4001 @@
+{
+  "$schema": "../../../../schemas/parrainages.schema.json",
+  "election": "PR-2012",
+  "personne": "PE-0045",
+  "nom_complet": "François BAYROU",
+  "etendue": "tirage-au-sort",
+  "publications": [
+    {
+      "date": "2012-03-31",
+      "source": {
+        "id": "conseil-constitutionnel:2012-150-PDR",
+        "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012150pdr.htm",
+        "commentaire": "Listes des citoyens habilités ayant présenté les candidats à l'élection du Président de la République",
+        "consultee_le": "2026-09-20"
+      }
+    }
+  ],
+  "parrainages": [
+    {
+      "civilite": "M.",
+      "nom": "André ROUILLON",
+      "mandat": "maire",
+      "territoire": "BOUXIÈRES-AUX-BOIS",
+      "departement": "88",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel VEUNAC",
+      "mandat": "conseiller-regional",
+      "territoire": "AQUITAINE",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Martin KLIPFEL",
+      "mandat": "maire",
+      "territoire": "GRUSSENHEIM",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Roland CRIMIER",
+      "mandat": "maire",
+      "territoire": "SAINT-GENIS-LAVAL",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain PICARD",
+      "mandat": "maire",
+      "territoire": "SAINT-MAURICE-CRILLAT",
+      "departement": "39",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Olivier BERTRAND",
+      "mandat": "maire",
+      "territoire": "ARCY-SUR-CURE",
+      "departement": "89",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Mickaël CHEVALIER",
+      "mandat": "maire",
+      "territoire": "PLUMAUGAT",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe MAURS",
+      "mandat": "maire",
+      "territoire": "SAINT-CIRGUES-DE-JORDANNE",
+      "departement": "15",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre VIGIER",
+      "mandat": "conseiller-general",
+      "territoire": "LAVOUTE-CHILHAC",
+      "departement": "43",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marc JULIENNE",
+      "mandat": "conseiller-general",
+      "territoire": "GRANVILLE",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Simone GENDREAU-DONNEFORT",
+      "mandat": "maire-delegue",
+      "territoire": "SAINTMARTIN-D’ENTRAIGUE",
+      "departement": "79",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Régis FARGIER",
+      "mandat": "maire",
+      "territoire": "SAINT-LAURENTCHABREUGES",
+      "departement": "43",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Claude HUMBRECHT",
+      "mandat": "maire",
+      "territoire": "AUBURE",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Liliane JACQUIN",
+      "mandat": "maire",
+      "territoire": "LA CHARME",
+      "departement": "39",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jacques HENRY",
+      "mandat": "conseiller-general",
+      "territoire": "MAMOUDZOU-3",
+      "departement": "976",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain FRÉHAUT",
+      "mandat": "maire",
+      "territoire": "BAVAY",
+      "departement": "59",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Marc SAINT-DENIS",
+      "mandat": "conseiller-general",
+      "territoire": "VANDŒUVRE-LÈS-NANCY-OUEST",
+      "departement": "54",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre CASABONNE",
+      "mandat": "maire",
+      "territoire": "ARETTE",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bertrand COUROT",
+      "mandat": "maire",
+      "territoire": "SAINTEMENEHOULD",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Claude MERCERON",
+      "mandat": "senateur",
+      "departement": "85",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Roland BERGUE",
+      "mandat": "maire",
+      "territoire": "NEAUPHE-SOUS-ESSAI",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Luc COUELLAN",
+      "mandat": "maire",
+      "territoire": "ROUILLAC",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Franck LEROY",
+      "mandat": "maire",
+      "territoire": "ÉPERNAY",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "René ALMERAS",
+      "mandat": "maire",
+      "territoire": "SAINTECOLOMBE",
+      "departement": "05",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe MOYON",
+      "mandat": "maire",
+      "territoire": "AUDIGNICOURT",
+      "departement": "02",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "André ARRIBES",
+      "mandat": "maire",
+      "territoire": "BIZANOS",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Jacques BREGUET",
+      "mandat": "maire",
+      "territoire": "SÉBEVILLE",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marc ALLAIN",
+      "mandat": "maire",
+      "territoire": "GORRON",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilbert STEINER",
+      "mandat": "maire",
+      "territoire": "MICHELBACH",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Guy CONNAN",
+      "mandat": "maire",
+      "territoire": "PLOËZAL",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel BOZEK",
+      "mandat": "maire",
+      "territoire": "CHEVILLON",
+      "departement": "52",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Claude FERRATO",
+      "mandat": "maire",
+      "territoire": "ARESSY",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-François LECLET",
+      "mandat": "conseiller-general",
+      "territoire": "NOVION-PORCIEN",
+      "departement": "08",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Eric DUDOUET",
+      "mandat": "maire",
+      "territoire": "ÉTALANTE",
+      "departement": "21",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "René DUFOUR",
+      "mandat": "maire",
+      "territoire": "DAMPS",
+      "departement": "27",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul GUIRAUD",
+      "mandat": "maire",
+      "territoire": "MONSAGUEL",
+      "departement": "24",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Albert FARANDOU",
+      "mandat": "maire",
+      "territoire": "MONSÉGUR",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Sylvain WASERMAN",
+      "mandat": "maire",
+      "territoire": "QUATZENHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Eric BEAUDOIN",
+      "mandat": "maire",
+      "territoire": "GRANDCHAMP",
+      "departement": "72",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Rémy ANTOINE-GRANDJEAN",
+      "mandat": "maire",
+      "territoire": "URBEIS",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Francis DUROT",
+      "mandat": "maire",
+      "territoire": "ESTAMPES",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Martine SURREL",
+      "mandat": "maire",
+      "territoire": "SAINT-MAURICE-SUR-DARGOIRE",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Grégoire LAFAVERGES",
+      "mandat": "maire",
+      "territoire": "CHALLONGES",
+      "departement": "74",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Paul GUYOT",
+      "mandat": "maire",
+      "territoire": "FONTANÈS",
+      "departement": "42",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Agnès BABILON, épouse HENRICHS",
+      "mandat": "maire",
+      "territoire": "SAINTE-CROIX-AUX-MINES",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Hervé FOURNET",
+      "mandat": "maire",
+      "territoire": "FERRIÈRES-LA-VERRERIE",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel COMMANDRE",
+      "mandat": "maire",
+      "territoire": "GATUZIÈRES",
+      "departement": "48",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul ECKENFELDER",
+      "mandat": "maire",
+      "territoire": "FLEURY",
+      "departement": "57",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Régis MESOT",
+      "mandat": "maire",
+      "territoire": "LACROIX-SUR-MEUSE",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Christian MARTEL",
+      "mandat": "maire",
+      "territoire": "FRÉAUVILLE",
+      "departement": "76",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard COLIN",
+      "mandat": "maire",
+      "territoire": "UBEXY",
+      "departement": "88",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Arnaud LAFON",
+      "mandat": "maire",
+      "territoire": "CASTANET-TOLOSAN",
+      "departement": "31",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard ROCHET",
+      "mandat": "conseiller-general",
+      "territoire": "TONNAY-BOUTONNE",
+      "departement": "17",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain JEANNOT",
+      "mandat": "conseiller-general",
+      "territoire": "CALUIREET-CUIRE",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marie CRIDEL",
+      "mandat": "maire",
+      "territoire": "ENTRANGE",
+      "departement": "57",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Anne-Marie ITHURRY",
+      "mandat": "maire",
+      "territoire": "SOURAÏDE",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard KAMMERER",
+      "mandat": "maire",
+      "territoire": "PLOBSHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain PRIGENT",
+      "mandat": "maire",
+      "territoire": "CORPS-NUDS",
+      "departement": "35",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Joseph NICOLEAU",
+      "mandat": "maire",
+      "territoire": "SAINT-PAUL-MONT-PENIT",
+      "departement": "85",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "René BURR",
+      "mandat": "maire",
+      "territoire": "SIEWILLER",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean RIMBERT",
+      "mandat": "maire",
+      "territoire": "ECLARON-BRAUCOURT-SAINTE-LIVIÈRE",
+      "departement": "52",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard MAUBORGNE",
+      "mandat": "maire",
+      "territoire": "MONT-SUR-MONNET",
+      "departement": "39",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "François BON",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-HILAIRE-DES-LOGES",
+      "departement": "85",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain FLACHAT",
+      "mandat": "maire",
+      "territoire": "SAINTÉTIENNE-LE-MOLARD",
+      "departement": "42",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel ADAM",
+      "mandat": "maire",
+      "territoire": "REBEUVILLE",
+      "departement": "88",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre ALLÉAUME",
+      "mandat": "maire",
+      "territoire": "BÉDENAC",
+      "departement": "17",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul AMOUDRY",
+      "mandat": "senateur",
+      "departement": "74",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel HOUDEBINE",
+      "mandat": "maire",
+      "territoire": "NOYAL-PONTIVY",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Louis FOURNIER",
+      "mandat": "conseiller-general",
+      "territoire": "ALBAN",
+      "departement": "81",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Serge FICHET",
+      "mandat": "maire",
+      "territoire": "MESNARD-LABAROTIÈRE",
+      "departement": "85",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Roger LAFOND",
+      "mandat": "maire",
+      "territoire": "COMPS",
+      "departement": "26",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard ROBELIN",
+      "mandat": "maire",
+      "territoire": "SAINT-GENGOUX-DE-SCISSÉ",
+      "departement": "71",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre PERRIN",
+      "mandat": "maire",
+      "territoire": "SOUFFELWEYERSHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "André MAÎTRE",
+      "mandat": "maire",
+      "territoire": "FOSSÉ",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "JeanMichel TOBIE",
+      "mandat": "maire",
+      "territoire": "ANCENIS",
+      "departement": "44",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard WESTEEL",
+      "mandat": "maire",
+      "territoire": "EBBLINGHEM",
+      "departement": "59",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Dominique HALLYNCK",
+      "mandat": "maire",
+      "territoire": "SAINT-JANS-CAPPEL",
+      "departement": "59",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Guy CROST",
+      "mandat": "maire",
+      "territoire": "MALAY-LE-GRAND",
+      "departement": "89",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Claudine POINSIGNON",
+      "mandat": "maire",
+      "territoire": "AVERNESSOUS-EXMES",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "René HURET",
+      "mandat": "maire",
+      "territoire": "APREMONT-LA-FORÊT",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Rodolphe SANTELLI",
+      "mandat": "maire",
+      "territoire": "LAVATOGGIO",
+      "departement": "2B",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain PICHAT",
+      "mandat": "maire",
+      "territoire": "BEAUVOIRDE-MARC",
+      "departement": "38",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Robert GAGNEUX",
+      "mandat": "maire",
+      "territoire": "ORBESSAN",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre BAUCHET",
+      "mandat": "maire",
+      "territoire": "FLEURY-LES-AUBRAIS",
+      "departement": "45",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Denise BOCQUILLET",
+      "mandat": "conseiller-general",
+      "territoire": "ARRAS-OUEST",
+      "departement": "62",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Thierry BLASZEZYK",
+      "mandat": "maire",
+      "territoire": "VOUHÉ",
+      "departement": "17",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard BOULZE",
+      "mandat": "conseiller-regional",
+      "territoire": "MIDI-PYRÉNÉES",
+      "departement": "81",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Denis FLAMANT",
+      "mandat": "maire",
+      "territoire": "CHAVENAY",
+      "departement": "78",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Jacques PONS",
+      "mandat": "conseiller-regional",
+      "territoire": "LANGUEDOC-ROUSSILLON",
+      "departement": "34",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Mary BOISNIER",
+      "mandat": "maire",
+      "territoire": "GICQ",
+      "departement": "17",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pascal GUERIN",
+      "mandat": "maire",
+      "territoire": "SAINT-CHRISTOPHE",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Rémy EUDES",
+      "mandat": "maire",
+      "territoire": "SAINT-MARCOUF-DU-ROCHY",
+      "departement": "14",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bruno ARONIO DE ROMBLAY",
+      "mandat": "maire",
+      "territoire": "MARGNY-SUR-MATZ",
+      "departement": "60",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Danièle MEYER",
+      "mandat": "maire",
+      "territoire": "RHINAU",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Francis CLAUDEPIERRE",
+      "mandat": "maire",
+      "territoire": "MIGNÉVILLE",
+      "departement": "54",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Juliette SEGUELA",
+      "mandat": "conseiller-general",
+      "territoire": "BIARRITZ-EST",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Monique BOSSET",
+      "mandat": "maire-delegue",
+      "territoire": "ARRABLOY",
+      "departement": "45",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Francis ALLONAS",
+      "mandat": "maire",
+      "territoire": "ODEREN",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Luc RIGAUT",
+      "mandat": "maire",
+      "territoire": "ANNECY",
+      "departement": "74",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Christiane MISSEGUE",
+      "mandat": "maire",
+      "territoire": "VALUÉJOLS",
+      "departement": "15",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilles DUFEIGNEUX",
+      "mandat": "conseiller-regional",
+      "territoire": "BRETAGNE",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard DELMOTTE",
+      "mandat": "maire",
+      "territoire": "SEBOURG",
+      "departement": "59",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "François BAYROU",
+      "mandat": "depute",
+      "circonscription": 2,
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alexandre DOGLIONI",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE-DE-GENEBROZ",
+      "departement": "73",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Marc POULON",
+      "mandat": "maire",
+      "territoire": "VERSPONT-DU-GARD",
+      "departement": "30",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marc STEINMETZ",
+      "mandat": "maire",
+      "territoire": "WITTERSHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "André BOLON",
+      "mandat": "maire",
+      "territoire": "VIEU",
+      "departement": "01",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel GRIS",
+      "mandat": "maire",
+      "territoire": "LOUVEROT",
+      "departement": "39",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Jacqueline LOUVET",
+      "mandat": "maire",
+      "territoire": "SAINT-CÉLERIN",
+      "departement": "72",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Eric KREZEL",
+      "mandat": "conseiller-general",
+      "territoire": "MONTIEREN-DER",
+      "departement": "52",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Robert ROCHEFORT",
+      "mandat": "representant-parlement-europeen",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Olivier HENNO",
+      "mandat": "maire",
+      "territoire": "SAINT-ANDRÉ-LEZ-LILLE",
+      "departement": "59",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jacques PEDEHONTAA",
+      "mandat": "maire",
+      "territoire": "LAÀS",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain MARTIN",
+      "mandat": "maire",
+      "territoire": "AUBORD",
+      "departement": "30",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre-Charles MARIA",
+      "mandat": "maire",
+      "territoire": "PEILLON",
+      "departement": "06",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul IMBS",
+      "mandat": "maire",
+      "territoire": "BINDERNHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean TONNELLIER",
+      "mandat": "conseiller-general",
+      "territoire": "COUPTRAIN",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gabriel OSSWALD",
+      "mandat": "maire",
+      "territoire": "DETTWILLER",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Patrick PIERRE",
+      "mandat": "maire",
+      "territoire": "CONDÉ-NORTHEN",
+      "departement": "57",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yves GUERIN",
+      "mandat": "maire",
+      "territoire": "LA CROIX-DU-PERCHE",
+      "departement": "28",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard DELATTRE",
+      "mandat": "maire",
+      "territoire": "POZIÈRES",
+      "departement": "80",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pascal BEL",
+      "mandat": "conseiller-general",
+      "territoire": "ABONDANCE",
+      "departement": "74",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Rémy STOECKLE",
+      "mandat": "maire",
+      "territoire": "OHNENHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jacques COLLIN",
+      "mandat": "maire",
+      "territoire": "CURCY-SUR-ORNE",
+      "departement": "14",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard LECOQ",
+      "mandat": "maire",
+      "territoire": "VENDES",
+      "departement": "14",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel BROCHIER",
+      "mandat": "maire",
+      "territoire": "DROM",
+      "departement": "01",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Patrick VAN HEESWYCK",
+      "mandat": "maire",
+      "territoire": "LÜE",
+      "departement": "40",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yves DÉTRAIGNE",
+      "mandat": "senateur",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-François MARTINS",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Freddy ZIMMERMANN",
+      "mandat": "conseiller-general",
+      "territoire": "WASSELONNE",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Louis TOUBLAN",
+      "mandat": "maire",
+      "territoire": "VASSENS",
+      "departement": "02",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Olivier GAIGNE",
+      "mandat": "maire",
+      "territoire": "BAILLÉ",
+      "departement": "35",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe MEYNARD",
+      "mandat": "maire",
+      "territoire": "BARSAC",
+      "departement": "33",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel HÔTE",
+      "mandat": "maire",
+      "territoire": "VILLEMOIRIEU",
+      "departement": "38",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Paul MUMBACH",
+      "mandat": "maire",
+      "territoire": "DANNEMARIE",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Raynald MAGNIEN",
+      "mandat": "maire",
+      "territoire": "MONTHUREUX-SUR-SAÔNE",
+      "departement": "88",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yves COUSSAIN",
+      "mandat": "maire",
+      "territoire": "TEISSIÈRES-LÈS-BOULIÈS",
+      "departement": "15",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Claude LALANNE",
+      "mandat": "maire",
+      "territoire": "PONSON-DESSUS",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Claude IMBERDIS",
+      "mandat": "maire",
+      "territoire": "SAINT-BROING-LES-MOINES",
+      "departement": "21",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Denis BARRIOL",
+      "mandat": "maire-delegue",
+      "territoire": "LA CULA",
+      "departement": "42",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jacques DOUADI",
+      "mandat": "maire",
+      "territoire": "SILLERY",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Richard ACHIN",
+      "mandat": "maire",
+      "territoire": "CHAUFFAYER",
+      "departement": "05",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel DENNEMONT",
+      "mandat": "maire",
+      "territoire": "AVIRONS",
+      "departement": "974",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Francis LECLERC",
+      "mandat": "maire",
+      "territoire": "REFFROY",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pascal LE DOUSSAL",
+      "mandat": "maire",
+      "territoire": "CALAN",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain JEGADO",
+      "mandat": "maire",
+      "territoire": "NOTRE-DAME-DE-L’ISLE",
+      "departement": "27",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Thierry CARBIENER",
+      "mandat": "conseiller-general",
+      "territoire": "SAVERNE",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain WEBER",
+      "mandat": "maire",
+      "territoire": "CRANTENOY",
+      "departement": "54",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre GUINCHARD",
+      "mandat": "maire",
+      "territoire": "CLUCY",
+      "departement": "39",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard ARRABIT",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-D’ARROSSA",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gaston STOCK",
+      "mandat": "maire",
+      "territoire": "WEYER",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bertrand CHESNAY",
+      "mandat": "maire",
+      "territoire": "HAMBERS",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Christophe ESPARBIE",
+      "mandat": "maire",
+      "territoire": "BELCASTEL",
+      "departement": "81",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-François THERET",
+      "mandat": "maire",
+      "territoire": "FRÉVENT",
+      "departement": "62",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Rodolphe DÉSIRÉ",
+      "mandat": "maire",
+      "territoire": "MARIN",
+      "departement": "972",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain TONDEREAU",
+      "mandat": "maire",
+      "territoire": "HERBAULT",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard LEJEUNE",
+      "mandat": "maire",
+      "territoire": "LA BALEINE",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard TREHET",
+      "mandat": "maire",
+      "territoire": "BRÉCEY",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Marielle DURET",
+      "mandat": "maire",
+      "territoire": "HABÈRE-LULLIN",
+      "departement": "74",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre AZAÏS",
+      "mandat": "maire",
+      "territoire": "VIANE",
+      "departement": "81",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain VERCHERAND",
+      "mandat": "maire",
+      "territoire": "CELLIEU",
+      "departement": "42",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard FAURE",
+      "mandat": "maire",
+      "territoire": "BEURIÈRES",
+      "departement": "63",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Baptiste MENVIELLE",
+      "mandat": "maire",
+      "territoire": "VERLUS",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Raynald DUTOT",
+      "mandat": "maire",
+      "territoire": "MONTIGNY-SUR-VESLE",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Fabienne GASNIER",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel NICOLAS",
+      "mandat": "maire",
+      "territoire": "RECOUVRANCE",
+      "departement": "90",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marie DAURES",
+      "mandat": "maire",
+      "territoire": "TRÉMOUILLES",
+      "departement": "12",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain PERROT",
+      "mandat": "maire",
+      "territoire": "SAINT-BÉRON",
+      "departement": "73",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel OZIOL",
+      "mandat": "maire",
+      "territoire": "CHASSAGNY",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel SALAUN",
+      "mandat": "maire",
+      "territoire": "LANDELEAU",
+      "departement": "29",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Vincent DUFOUR",
+      "mandat": "maire",
+      "territoire": "RONCHÈRES",
+      "departement": "89",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Dominique HOEFFEL",
+      "mandat": "maire",
+      "territoire": "HANDSCHUHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard HUMBERT",
+      "mandat": "maire",
+      "territoire": "BITCHE",
+      "departement": "57",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Denise SAINT-PÉ",
+      "mandat": "conseiller-general",
+      "territoire": "SAUVETERRE-DE-BÉARN",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marc FORESTIE",
+      "mandat": "maire",
+      "territoire": "MONTBRUN",
+      "departement": "46",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Denis LONGIN",
+      "mandat": "conseiller-general",
+      "territoire": "LAMURE-SUR-AZERGUES",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Paul-Louis FOULON",
+      "mandat": "maire",
+      "territoire": "AVERDON",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel LAGOURGUE",
+      "mandat": "conseiller-regional",
+      "territoire": "LA RÉUNION",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Vanik BERBERIAN",
+      "mandat": "maire",
+      "territoire": "GARGILESSE-DAMPIERRE",
+      "departement": "36",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain AUDIRAC",
+      "mandat": "maire",
+      "territoire": "TILLAC",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Monique FOUCAULT",
+      "mandat": "maire",
+      "territoire": "SAINT-QUENTIN-LES-ANGES",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Christian LE RIGUIER",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-DES-PRÉS",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Stéphane GENTILHOMME",
+      "mandat": "maire",
+      "territoire": "FRALIGNES",
+      "departement": "10",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre BELLEIL",
+      "mandat": "maire",
+      "territoire": "JOUÉ-SUR-ERDRE",
+      "departement": "44",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard LEMONNIER",
+      "mandat": "maire",
+      "territoire": "JUVIGNÉ",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Guy HOFSTETTER",
+      "mandat": "maire",
+      "territoire": "JOUX",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Dominique LEDRU, épouse PATRAN",
+      "mandat": "maire",
+      "territoire": "NESLE-LE-REPONS",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Guy SEVESSAND",
+      "mandat": "conseiller-general",
+      "territoire": "BEAUFORT",
+      "departement": "73",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Georges LAGARDE",
+      "mandat": "maire",
+      "territoire": "MONTÉGUT-SAVÈS",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe MULLER",
+      "mandat": "maire-delegue",
+      "territoire": "VIÉVILLE-SOUS-LES-CÔTES",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jacques ETCHANDY",
+      "mandat": "maire",
+      "territoire": "ANHAUX",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Anne-Marie BOURE",
+      "mandat": "maire",
+      "territoire": "ISSE",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilles CARETTI",
+      "mandat": "maire",
+      "territoire": "ALLAIN",
+      "departement": "54",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Georges GALARDON",
+      "mandat": "maire",
+      "territoire": "SAINTE-TRÉPHINE",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel GARRIGUE",
+      "mandat": "depute",
+      "circonscription": 2,
+      "departement": "24",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Christian NAULT",
+      "mandat": "maire",
+      "territoire": "ROUVRAY",
+      "departement": "21",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul CROUÉ",
+      "mandat": "maire",
+      "territoire": "SAINTE-FLORENCE",
+      "departement": "85",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Patrick MIGNOLA",
+      "mandat": "maire",
+      "territoire": "LA RAVOIRE",
+      "departement": "73",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Joël CLEMENT",
+      "mandat": "maire",
+      "territoire": "SAINT-ANTOINE-LAFORÊT",
+      "departement": "76",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marie DELATTRE",
+      "mandat": "maire",
+      "territoire": "BOURET-SUR-CANCHE",
+      "departement": "62",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Maurice HENRIAT",
+      "mandat": "maire",
+      "territoire": "MARSON",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bruno DUVERGÉ",
+      "mandat": "maire",
+      "territoire": "HAMELINCOURT",
+      "departement": "62",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Dominique RICHARD",
+      "mandat": "conseiller-regional",
+      "territoire": "PAYS DE LA LOIRE",
+      "departement": "49",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel FIGEAC",
+      "mandat": "maire",
+      "territoire": "PROISSANS",
+      "departement": "24",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel RUAULT",
+      "mandat": "conseiller-general",
+      "territoire": "LONGUÉ-JUMELLES",
+      "departement": "49",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Edouard BEAUDOUIN",
+      "mandat": "maire",
+      "territoire": "CONTEST",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Jacques LASSERRE",
+      "mandat": "senateur",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Roger PAILLES",
+      "mandat": "maire",
+      "territoire": "ESPIRA-DE-CONFLENT",
+      "departement": "66",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "François BARADUC",
+      "mandat": "conseiller-general",
+      "territoire": "L’ARBRESLE",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard LORON",
+      "mandat": "membre-afe",
+      "territoire": "Français de l’étranger",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Christian NAMY",
+      "mandat": "senateur",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marie GIGAN",
+      "mandat": "maire",
+      "territoire": "HOUSSAY",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Anne MARUEJOULS, épouse LAPERROUZE",
+      "mandat": "conseiller-general",
+      "territoire": "PUYLAURENS",
+      "departement": "81",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marie VERCRUYSSE",
+      "mandat": "maire",
+      "territoire": "AUBE",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Dany WATTEBLED",
+      "mandat": "maire",
+      "territoire": "LESQUIN",
+      "departement": "59",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Maurice BOYER",
+      "mandat": "maire",
+      "territoire": "GENILAC",
+      "departement": "42",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Thierry ALLONAS",
+      "mandat": "maire",
+      "territoire": "NOTHALTEN",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Robert LABRO",
+      "mandat": "membre-afe",
+      "territoire": "Français de l’étranger",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Stéphane BRIANT",
+      "mandat": "maire",
+      "territoire": "ANTIGNAC",
+      "departement": "15",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Antoine PERRAULT",
+      "mandat": "maire",
+      "territoire": "SAINT-JULIEN-SURSARTHE",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Patrick SEPTIERS",
+      "mandat": "maire",
+      "territoire": "MORET-SUR-LOING",
+      "departement": "77",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Marie-Laure GASTON",
+      "mandat": "maire",
+      "territoire": "JUSTINE-HERBIGNY",
+      "departement": "08",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Roger LARRIBE",
+      "mandat": "maire",
+      "territoire": "SAINT-VINCENT-DU-PENDIT",
+      "departement": "46",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Christophe CARLIER",
+      "mandat": "maire",
+      "territoire": "CERIZY",
+      "departement": "02",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Hubert ARROUART",
+      "mandat": "maire",
+      "territoire": "COURTISOLS",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "François BROSSARD",
+      "mandat": "maire",
+      "territoire": "SAINTSAUVEUR-D’AUNIS",
+      "departement": "17",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre LANGLAIS",
+      "mandat": "maire",
+      "territoire": "SAINT-ROMAINEN-GAL",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Patrice GEANT",
+      "mandat": "maire",
+      "territoire": "PASSAVANT-EN-ARGONNE",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yvon LE MOIGNE",
+      "mandat": "maire",
+      "territoire": "SQUIFFIEC",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Denis LOPEZ",
+      "mandat": "maire",
+      "territoire": "POMPIGNAC",
+      "departement": "33",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Hubert DE GANAY",
+      "mandat": "maire",
+      "territoire": "LANTAN",
+      "departement": "18",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jacques D’HALLUIN",
+      "mandat": "maire",
+      "territoire": "COURTONNE-LA-MEURDRAC",
+      "departement": "14",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Serge JUNCA",
+      "mandat": "maire",
+      "territoire": "MASPIE-LALONQUÈREJUILLACQ",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Jacques JÉGOU",
+      "mandat": "maire",
+      "territoire": "PLESSIS-TRÉVISE",
+      "departement": "94",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard PARMENTIER",
+      "mandat": "maire",
+      "territoire": "LETTRET",
+      "departement": "05",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Annie AUBERT, épouse BERTRAN",
+      "mandat": "maire",
+      "territoire": "SAINT-FÉLIU-D’AVALL",
+      "departement": "66",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierrick TRANCHEVENT",
+      "mandat": "maire",
+      "territoire": "JUBLAINS",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard JACOB",
+      "mandat": "maire",
+      "territoire": "VICQ-SURGARTEMPE",
+      "departement": "86",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe HUPPÉ",
+      "mandat": "maire",
+      "territoire": "ADISSAN",
+      "departement": "34",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Danielle JEANNE",
+      "mandat": "maire",
+      "territoire": "AULNAY-SUR-ITON",
+      "departement": "27",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Thierry DEVAUTOUR",
+      "mandat": "maire",
+      "territoire": "ÉCHIRÉ",
+      "departement": "79",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Michel ARJONA",
+      "mandat": "maire",
+      "territoire": "CAUCALIÈRES",
+      "departement": "81",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Francis FABRE",
+      "mandat": "maire",
+      "territoire": "DOMAZAN",
+      "departement": "30",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Serge GRAVIER",
+      "mandat": "maire",
+      "territoire": "MONT-DE-LANS",
+      "departement": "38",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Claude ROUSSEAU",
+      "mandat": "maire",
+      "territoire": "VENDRENNES",
+      "departement": "85",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilbert BOGARD",
+      "mandat": "maire",
+      "territoire": "LIGNÉVILLE",
+      "departement": "88",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilles-Marie PELLETAN",
+      "mandat": "maire",
+      "territoire": "GRAND-CHAMP",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Luc DA PASSANO",
+      "mandat": "maire",
+      "territoire": "IRIGNY",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Eric LEGRAND",
+      "mandat": "maire",
+      "territoire": "BRAY-SAINT-CHRISTOPHE",
+      "departement": "02",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard MULLER",
+      "mandat": "maire-delegue",
+      "territoire": "NEHWILLER-PRÈS-WOERTH",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-François CETRE",
+      "mandat": "maire",
+      "territoire": "IVREY",
+      "departement": "39",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre ALBERTINI",
+      "mandat": "maire",
+      "territoire": "SALBRIS",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Eliane DAVOINE, épouse VIRE",
+      "mandat": "maire",
+      "territoire": "VIUZ-LA-CHIÉSAZ",
+      "departement": "74",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Louis PETIET",
+      "mandat": "conseiller-general",
+      "territoire": "VERNEUIL-SUR-AVRE",
+      "departement": "27",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Camille LASSALLE",
+      "mandat": "maire",
+      "territoire": "SAINTGEORGES-D’ESPÉRANCHE",
+      "departement": "38",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul ARJONA",
+      "mandat": "maire",
+      "territoire": "SAINT-LAURENT-DES-BOIS",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Francine LEFRAND",
+      "mandat": "maire",
+      "territoire": "LIESVILLE-SUR-DOUVE",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel DUBOURG",
+      "mandat": "maire",
+      "territoire": "SAINT-JUSTIN",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Laurent DESTRUMELLE",
+      "mandat": "maire",
+      "territoire": "AMAGNE",
+      "departement": "08",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain GREFFION",
+      "mandat": "maire",
+      "territoire": "FOUGERÊTS",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Noël BENONNIER",
+      "mandat": "maire",
+      "territoire": "SAINT-DIDIER-D’AUSSIAT",
+      "departement": "01",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Claude GATELET",
+      "mandat": "maire",
+      "territoire": "BASSOUES",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Maxime PETIGNY",
+      "mandat": "maire",
+      "territoire": "MOTEY-BESUCHE",
+      "departement": "70",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel FRANÇONNET",
+      "mandat": "maire",
+      "territoire": "VATRY",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard MAURY",
+      "mandat": "maire",
+      "territoire": "SÉRIERS",
+      "departement": "15",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Ferdinand BERNHARD",
+      "mandat": "maire",
+      "territoire": "SANARY-SUR-MER",
+      "departement": "83",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe FAIVRE",
+      "mandat": "conseiller-general",
+      "territoire": "PLOMBIÈRES-LESBAINS",
+      "departement": "88",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul DILLSCHNEIDER",
+      "mandat": "maire",
+      "territoire": "FONTAIN",
+      "departement": "25",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilles QUINQUENEL",
+      "mandat": "conseiller-general",
+      "territoire": "MARIGNY",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jacques LARROCHETTE",
+      "mandat": "conseiller-general",
+      "territoire": "TARARE",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Christelle PELLE",
+      "mandat": "maire",
+      "territoire": "AUTAINVILLE",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain FOLLIC",
+      "mandat": "maire",
+      "territoire": "GUILLIGOMARC’H",
+      "departement": "29",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Ferdinand SANGOUARD",
+      "mandat": "maire",
+      "territoire": "AVENAS",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Marie-Odile MARIE",
+      "mandat": "conseiller-general",
+      "territoire": "VILLERS-BOCAGE",
+      "departement": "14",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Claude GUIRAUD",
+      "mandat": "conseiller-general",
+      "territoire": "BRASSAC",
+      "departement": "81",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Hubert MARCUS",
+      "mandat": "maire-delegue",
+      "territoire": "SAVONNIÈRES-EN-WOËVRE",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean CAUBIOS",
+      "mandat": "maire",
+      "territoire": "PONTIACQ-VIELLEPINTE",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain PENNEC",
+      "mandat": "maire",
+      "territoire": "QUIMPERLÉ",
+      "departement": "29",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Robert CASADEBAIG",
+      "mandat": "maire",
+      "territoire": "LARUNS",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Adrienne CROMBEZ",
+      "mandat": "maire",
+      "territoire": "MERCATEL",
+      "departement": "62",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Francis WEYH",
+      "mandat": "maire",
+      "territoire": "KINTZHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Guy PICQUET",
+      "mandat": "maire",
+      "territoire": "WALTENHEIM",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Emmanuel HERVIEUX",
+      "mandat": "maire",
+      "territoire": "OUTARVILLE",
+      "departement": "45",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Serge MAYOUD",
+      "mandat": "maire",
+      "territoire": "PANISSIÈRES",
+      "departement": "42",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jérôme SOURISSEAU",
+      "mandat": "conseiller-general",
+      "territoire": "SEGONZAC",
+      "departement": "16",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain SANZ",
+      "mandat": "maire",
+      "territoire": "RÉBÉNACQ",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel CORBEAU",
+      "mandat": "maire",
+      "territoire": "FLACOURT",
+      "departement": "78",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Louis BAUDRON",
+      "mandat": "maire",
+      "territoire": "JANVILLE",
+      "departement": "28",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Louis-Gérard GUERIN",
+      "mandat": "maire",
+      "territoire": "LANDÉAN",
+      "departement": "35",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "François BESNARD",
+      "mandat": "maire",
+      "territoire": "GRAINVILLE-LANGANNERIE",
+      "departement": "14",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Francis THIRION",
+      "mandat": "maire",
+      "territoire": "COUSANCES-LES-FORGES",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Christine BOURREAU",
+      "mandat": "maire",
+      "territoire": "CHALO-SAINT-MARS",
+      "departement": "91",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Sylvie GOULARD",
+      "mandat": "representant-parlement-europeen",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Paul DELORME",
+      "mandat": "conseiller-general",
+      "territoire": "MORNANT",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Lionel MITHIEUX",
+      "mandat": "conseiller-general",
+      "territoire": "COGNIN",
+      "departement": "73",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel DUMAINE",
+      "mandat": "maire",
+      "territoire": "MESSEI",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Luc SILHERES",
+      "mandat": "maire",
+      "territoire": "SAINT-BRÈS",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Joan TARIS",
+      "mandat": "conseiller-regional",
+      "territoire": "AQUITAINE",
+      "departement": "33",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel LEGER",
+      "mandat": "maire",
+      "territoire": "LÉVIGNEN",
+      "departement": "60",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard GRANGE",
+      "mandat": "maire",
+      "territoire": "SOUCIEU-EN-JARREST",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Christian BERAUD",
+      "mandat": "maire",
+      "territoire": "ARPAJON",
+      "departement": "91",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Christophe LORIC",
+      "mandat": "conseiller-general",
+      "territoire": "CONTY",
+      "departement": "80",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre GABELLE",
+      "mandat": "conseiller-general",
+      "territoire": "ORLEANS-CARMES",
+      "departement": "45",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Chantal BERNARD",
+      "mandat": "maire",
+      "territoire": "SASSIERGES-SAINT-GERMAIN",
+      "departement": "36",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bruno DESMAISON",
+      "mandat": "maire",
+      "territoire": "BIRON",
+      "departement": "24",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean LASSALLE",
+      "mandat": "depute",
+      "circonscription": 4,
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Claude BOIXIERE",
+      "mandat": "maire",
+      "territoire": "GREZ-SUR-LOING",
+      "departement": "77",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Stéphan CAMBON",
+      "mandat": "maire",
+      "territoire": "COMPS-LA-GRAND-VILLE",
+      "departement": "12",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Thierry MASSON",
+      "mandat": "president-communaute",
+      "territoire": "LE SUD LIBOURNAIS",
+      "departement": "33",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Marie-Hélène DAUCE",
+      "mandat": "conseiller-general",
+      "territoire": "BÉCHEREL",
+      "departement": "35",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Elisabeth DOINEAU",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-AIGNANSUR-ROË",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard BACARISSE",
+      "mandat": "maire",
+      "territoire": "GERMIGNY",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marie FAUQUEUX",
+      "mandat": "maire",
+      "territoire": "MAISONCELLE-SAINT-PIERRE",
+      "departement": "60",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pascal LANDREAT",
+      "mandat": "maire",
+      "territoire": "PONTSAINTE-MARIE",
+      "departement": "10",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Corine PAYET",
+      "mandat": "conseiller-regional",
+      "territoire": "LA RÉUNION",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Patrick LEROUX",
+      "mandat": "maire",
+      "territoire": "SEMALLÉ",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Nicolas LEBAS",
+      "mandat": "maire",
+      "territoire": "FACHES-THUMESNIL",
+      "departement": "59",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Patrice DE FOUCAUD",
+      "mandat": "president-communaute",
+      "territoire": "RÉGION DE NOYANT",
+      "departement": "49",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilles BERTUCELLI",
+      "mandat": "maire",
+      "territoire": "PREUILLY-SUR-CLAISE",
+      "departement": "37",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Luc APPERCEL",
+      "mandat": "maire",
+      "territoire": "CHARENTAY",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard TRUPTIL",
+      "mandat": "maire",
+      "territoire": "ROCHY-CONDÉ",
+      "departement": "60",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jacky MARIE",
+      "mandat": "maire",
+      "territoire": "MARTINVAST",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Thierry COMTE",
+      "mandat": "maire",
+      "territoire": "CHATONNAY",
+      "departement": "39",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Frédéric KALUZNY",
+      "mandat": "maire",
+      "territoire": "TRUMILLY",
+      "departement": "60",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Francis MALVY",
+      "mandat": "maire",
+      "territoire": "BESSE",
+      "departement": "24",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Claude COULOMBIER",
+      "mandat": "maire",
+      "territoire": "SÉGOS",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Claude AGENEAU",
+      "mandat": "maire",
+      "territoire": "SAINT-MARS-LA-RÉORTHE",
+      "departement": "85",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "François BOUDOT",
+      "mandat": "maire",
+      "territoire": "VILLERS-LA-MONTAGNE",
+      "departement": "54",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Raymond POUPON",
+      "mandat": "maire",
+      "territoire": "POIZAT",
+      "departement": "01",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bruno GELIN",
+      "mandat": "maire",
+      "territoire": "ROYAS",
+      "departement": "38",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Luc ARNOULT",
+      "mandat": "maire",
+      "territoire": "CARRÉPUIS",
+      "departement": "80",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Claude AUBINEAU",
+      "mandat": "conseiller-general",
+      "territoire": "BEAUVOIR-SUR-NIORT",
+      "departement": "79",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Guy SUZANNE",
+      "mandat": "maire",
+      "territoire": "EPERRAIS",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre-Albert MAYEUR",
+      "mandat": "maire",
+      "territoire": "CAMBLAIN-L’ABBÉ",
+      "departement": "62",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "René CAMBOURS",
+      "mandat": "maire",
+      "territoire": "PÉRÉ",
+      "departement": "65",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre BARRERE",
+      "mandat": "maire",
+      "territoire": "ESPOEY",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain HUCHE",
+      "mandat": "maire",
+      "territoire": "SAINT-ÉLOI-DE-FOURQUES",
+      "departement": "27",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Raymond GAU",
+      "mandat": "maire",
+      "territoire": "MARGNÈS",
+      "departement": "81",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Noël JOSSÉ",
+      "mandat": "maire",
+      "territoire": "MONTERREIN",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Thierry MARTIN",
+      "mandat": "maire",
+      "territoire": "VERNOT",
+      "departement": "21",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marc JEUGE",
+      "mandat": "maire",
+      "territoire": "DOYET",
+      "departement": "03",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Jacqueline CARPIER",
+      "mandat": "maire",
+      "territoire": "MESLIN",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Serge MOUSSEAUX",
+      "mandat": "maire",
+      "territoire": "SERVAL",
+      "departement": "02",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Charles LAMBERT",
+      "mandat": "maire",
+      "territoire": "STUTZHEIM-OFFENHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Max THIBAULT",
+      "mandat": "maire",
+      "territoire": "FOUGERÉ",
+      "departement": "49",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Michelle CLOUET",
+      "mandat": "maire",
+      "territoire": "RETIERS",
+      "departement": "35",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard LE TREQUESSER",
+      "mandat": "conseiller-general",
+      "territoire": "BELZ",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain PIERCOURT",
+      "mandat": "maire",
+      "territoire": "MORTIERS",
+      "departement": "02",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel GUEGAN",
+      "mandat": "maire",
+      "territoire": "LA CHAPELLE-CARO",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Patrick FIZET",
+      "mandat": "maire",
+      "territoire": "FOUILLOY",
+      "departement": "60",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Laurent LAFON",
+      "mandat": "maire",
+      "territoire": "VINCENNES",
+      "departement": "94",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Louis BRUNEAU",
+      "mandat": "maire",
+      "territoire": "SAINT-AUBIN-DESCOUDRAIS",
+      "departement": "72",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Marie-Jeanne LAFARCINADE",
+      "mandat": "maire",
+      "territoire": "FOUGEROLLES",
+      "departement": "36",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "JeanClaude WAGNER",
+      "mandat": "maire",
+      "territoire": "DAUENDORF",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Francis LEPINE",
+      "mandat": "maire",
+      "territoire": "LONG",
+      "departement": "80",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul SCHMITT",
+      "mandat": "maire",
+      "territoire": "LELLING",
+      "departement": "57",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Vincent BOURGUET",
+      "mandat": "maire",
+      "territoire": "REDON",
+      "departement": "35",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Franck BARRAT",
+      "mandat": "membre-afe",
+      "territoire": "Français de l’étranger",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Antoine VIELLIARD",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-JULIEN-EN-GENEVOIS",
+      "departement": "74",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Christian FAUBERT",
+      "mandat": "maire",
+      "territoire": "LA PÉRUSE",
+      "departement": "16",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Etienne-Marie LAMBERT",
+      "mandat": "maire",
+      "territoire": "AVOINE",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre VICHERAT",
+      "mandat": "maire-delegue",
+      "territoire": "COUSANCES-AU-BOIS",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Evelyne VICENTE",
+      "mandat": "conseiller-regional",
+      "territoire": "AQUITAINE",
+      "departement": "33",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Anne-Marie WIES",
+      "mandat": "maire",
+      "territoire": "ESCHWILLER",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Yves COZAN",
+      "mandat": "conseiller-general",
+      "territoire": "OUESSANT",
+      "departement": "29",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Anne-Marie COLONNA",
+      "mandat": "maire",
+      "territoire": "GY-EN-SOLOGNE",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Françoise GATEL",
+      "mandat": "maire",
+      "territoire": "CHÂTEAUGIRON",
+      "departement": "35",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Roland MANGIN",
+      "mandat": "maire",
+      "territoire": "STEIGE",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yannick CHESNAIS",
+      "mandat": "conseiller-general",
+      "territoire": "LA GACILLY",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Janick GERBERON",
+      "mandat": "maire",
+      "territoire": "MULSANS",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard FERRIÈRE",
+      "mandat": "maire",
+      "territoire": "SAINT-DENIS-COMBARNAZAT",
+      "departement": "63",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul MATTEI",
+      "mandat": "maire",
+      "territoire": "GER",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Samuel REDONNET",
+      "mandat": "maire",
+      "territoire": "VILLE-AU-VAL",
+      "departement": "54",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Thierry BENOIT",
+      "mandat": "depute",
+      "circonscription": 6,
+      "departement": "35",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre FUCHS",
+      "mandat": "maire",
+      "territoire": "WILWISHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Christian GILLET",
+      "mandat": "conseiller-general",
+      "territoire": "VIHIERS",
+      "departement": "49",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel CHRISTEL",
+      "mandat": "maire",
+      "territoire": "SAINT-DÉSERT",
+      "departement": "71",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "François DIHE",
+      "mandat": "maire",
+      "territoire": "SAINT-FORT-SUR-LE-NÉ",
+      "departement": "16",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "JeanGeorges HIRSCHFELL",
+      "mandat": "maire",
+      "territoire": "TRIEMBACH-AU-VAL",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Florence ZITO",
+      "mandat": "maire",
+      "territoire": "SAINT-NICOLAS-LÈS-CÎTEAUX",
+      "departement": "21",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Claude RIALLIN",
+      "mandat": "maire",
+      "territoire": "SAINT-NICOLASDU-TERTRE",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean DROUMAGUET",
+      "mandat": "maire",
+      "territoire": "MANTALLOT",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Henri RATEL",
+      "mandat": "maire",
+      "territoire": "SAULZAIS-LE-POTIER",
+      "departement": "18",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Joseph PARPAILLON",
+      "mandat": "maire",
+      "territoire": "ORVAULT",
+      "departement": "44",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "René VALORGE",
+      "mandat": "maire",
+      "territoire": "SAINT-DENIS-DE-CABANNE",
+      "departement": "42",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "François ZOCCHETTO",
+      "mandat": "senateur",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Fernand LENI",
+      "mandat": "maire",
+      "territoire": "NOIRONSUR-SEINE",
+      "departement": "21",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilbert GIRARD",
+      "mandat": "maire",
+      "territoire": "SAINT-VIGOR-DES-MONTS",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Louis CASET",
+      "mandat": "maire",
+      "territoire": "IBARROLLE",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard SALLESCAZEAUX",
+      "mandat": "maire",
+      "territoire": "MEILLON",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jacques CAILLOT",
+      "mandat": "maire",
+      "territoire": "TROUANS",
+      "departement": "10",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Claude SUBLON",
+      "mandat": "maire",
+      "territoire": "PUID",
+      "departement": "88",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre BLOUET",
+      "mandat": "maire",
+      "territoire": "BAGNOLES-DE-L’ORNE",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel PEIGNER",
+      "mandat": "maire",
+      "territoire": "MONTIGNÉ-LE-BRILLANT",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Georges MOUGEOT",
+      "mandat": "maire",
+      "territoire": "MAUREPAS",
+      "departement": "78",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Georges TATU",
+      "mandat": "maire",
+      "territoire": "BELFAYS",
+      "departement": "25",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Guy BOURRAS",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-JULIEN-DU-SAULT",
+      "departement": "89",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard BOURGUINAT",
+      "mandat": "maire",
+      "territoire": "AYDIUS",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Paul-Henri DENIEUIL",
+      "mandat": "maire",
+      "territoire": "SAINT-JEAN-D’ANGÉLY",
+      "departement": "17",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Christian COLLET",
+      "mandat": "maire",
+      "territoire": "GERMAGNAT",
+      "departement": "01",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain LALLEMENT",
+      "mandat": "maire",
+      "territoire": "ATTANCOURT",
+      "departement": "52",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel NIVEL",
+      "mandat": "maire",
+      "territoire": "FORTEL-EN-ARTOIS",
+      "departement": "62",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Claude BELLEI",
+      "mandat": "maire",
+      "territoire": "VANTOUX",
+      "departement": "57",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Olivier POUTRIEUX",
+      "mandat": "maire",
+      "territoire": "REMBERCOURT-SOMMAISNE",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Stéphane BULCOURT",
+      "mandat": "maire",
+      "territoire": "VARESNES",
+      "departement": "60",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel LAUGIER",
+      "mandat": "maire",
+      "territoire": "MONTIGNY-LEBRETONNEUX",
+      "departement": "78",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Denise GUILLAUME",
+      "mandat": "conseiller-general",
+      "territoire": "GROIX",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Denis LOMBARDOT",
+      "mandat": "maire",
+      "territoire": "RANDEVILLERS",
+      "departement": "25",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean GÉDOUIN",
+      "mandat": "maire",
+      "territoire": "SERVON",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Brigitte FOURE",
+      "mandat": "conseiller-general",
+      "territoire": "AMIENS-5-SUD-EST",
+      "departement": "80",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Raymond THOMAS",
+      "mandat": "maire",
+      "territoire": "ÉCUEILLÉ",
+      "departement": "36",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Blaise LOOS",
+      "mandat": "maire",
+      "territoire": "BOESENBIESEN",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Hubert NAUDINAT",
+      "mandat": "maire",
+      "territoire": "PEYREFITTE-SUR-L’HERS",
+      "departement": "11",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe PALENGAT",
+      "mandat": "maire",
+      "territoire": "GABASTON",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel CARRIÉ",
+      "mandat": "maire",
+      "territoire": "LUNAC",
+      "departement": "12",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "JeanPierre TALLIEU",
+      "mandat": "maire",
+      "territoire": "LA TREMBLADE",
+      "departement": "17",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Philippe SADOUL",
+      "mandat": "maire",
+      "territoire": "LUC-LA-PRIMAUBE",
+      "departement": "12",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Christine BESSONART",
+      "mandat": "maire",
+      "territoire": "SAINT-PÉE-SUR-NIVELLE",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel MARCASSIN",
+      "mandat": "maire",
+      "territoire": "YAUCOURT-BUSSUS",
+      "departement": "80",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Patrice BOUDIGNAT",
+      "mandat": "maire",
+      "territoire": "MELZ-SUR-SEINE",
+      "departement": "77",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Luc JEANMAIRE",
+      "mandat": "maire",
+      "territoire": "BALLÉVILLE",
+      "departement": "88",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Didier BAZY",
+      "mandat": "maire",
+      "territoire": "VERNAY",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean ZAWOI",
+      "mandat": "maire",
+      "territoire": "MARCENAY",
+      "departement": "21",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Daniel DONET",
+      "mandat": "maire",
+      "territoire": "ANDEL",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Marie-Claire POZZOLI",
+      "mandat": "conseiller-regional",
+      "territoire": "la GUADELOUPE",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "François NOURRY",
+      "mandat": "maire",
+      "territoire": "THOLY",
+      "departement": "88",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yves GEORGE",
+      "mandat": "maire",
+      "territoire": "MENARS",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard TRITSCH",
+      "mandat": "maire",
+      "territoire": "VILLAGE-NEUF",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Alain PERSILLET",
+      "mandat": "maire",
+      "territoire": "MEUSNES",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Emmanuel RIEHL",
+      "mandat": "conseiller-general",
+      "territoire": "LORQUIN",
+      "departement": "57",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard CLOUET",
+      "mandat": "maire",
+      "territoire": "PONTCHÂTEAU",
+      "departement": "44",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Frédéric LATASTE",
+      "mandat": "maire",
+      "territoire": "CAPIAN",
+      "departement": "33",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marc PELLETANT",
+      "mandat": "maire",
+      "territoire": "LANDIRAS",
+      "departement": "33",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel ROMANET-CHANCRIN",
+      "mandat": "maire",
+      "territoire": "ARNAS",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilbert BILLOT",
+      "mandat": "maire",
+      "territoire": "ARC-SOUS-CICON",
+      "departement": "25",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Guy CHEVANNE",
+      "mandat": "maire",
+      "territoire": "CHOYE",
+      "departement": "70",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Georges HERBERT",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE-LANGERS",
+      "departement": "50",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Camille GALIBERT",
+      "mandat": "maire",
+      "territoire": "SÉVÉRAC-LE-CHÂTEAU",
+      "departement": "12",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Benjamin FERNIOT",
+      "mandat": "conseiller-regional",
+      "territoire": "ÎLE-DE-FRANCE",
+      "departement": "78",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Sébastien GOUHIER",
+      "mandat": "maire",
+      "territoire": "ÉCOMMOY",
+      "departement": "72",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Cécile GALLIEN",
+      "mandat": "maire",
+      "territoire": "VOREY",
+      "departement": "43",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gabriel SCHNOEBELEN",
+      "mandat": "maire",
+      "territoire": "GILDWILLER",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yannick KERHARO",
+      "mandat": "maire",
+      "territoire": "BAZANCOURT",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Serge CETTOLO",
+      "mandat": "maire",
+      "territoire": "SAINT-CRICQ",
+      "departement": "32",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Noël NÉRON",
+      "mandat": "maire-delegue",
+      "territoire": "BAGNEUX",
+      "departement": "49",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Rémi ALBERT",
+      "mandat": "maire",
+      "territoire": "BEAUSSE",
+      "departement": "49",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Patrick YACGER",
+      "mandat": "maire",
+      "territoire": "ANOS",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Henri PAPIN",
+      "mandat": "conseiller-general",
+      "territoire": "BRESSUIRE",
+      "departement": "79",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Marcel BOUVET-DITMARECHAL",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE",
+      "departement": "39",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-François LEFEVRE",
+      "mandat": "maire",
+      "territoire": "SAUVIGNY",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Louis LECHERBONNIER",
+      "mandat": "maire",
+      "territoire": "LOUVIÈRES-EN-AUGE",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean LIPP",
+      "mandat": "conseiller-general",
+      "territoire": "VAL-DE-MEUSE",
+      "departement": "52",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel LAB",
+      "mandat": "maire",
+      "territoire": "OLLANS",
+      "departement": "25",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Marie LE GUIADER",
+      "mandat": "maire",
+      "territoire": "SAINT-AMAND",
+      "departement": "23",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean SELLIER",
+      "mandat": "conseiller-general",
+      "territoire": "L’AIGLE-EST",
+      "departement": "61",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yvon DAGORN",
+      "mandat": "maire",
+      "territoire": "GUENGAT",
+      "departement": "29",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Valérie SACHS",
+      "mandat": "conseiller-paris",
+      "departement": "75",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gilles ARTIGUES",
+      "mandat": "conseiller-general",
+      "territoire": "SAINT-ETIENNE-NORD-EST-2",
+      "departement": "42",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Marcel MOTTAIS",
+      "mandat": "maire",
+      "territoire": "SAINT-PIERRE-SUR-ERVE",
+      "departement": "53",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "José BLUTEAU",
+      "mandat": "maire",
+      "territoire": "PELLEGRUE",
+      "departement": "33",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Yves DE CHAISEMARTIN",
+      "mandat": "maire",
+      "territoire": "PAIMPOL",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Noëlle BUQUET",
+      "mandat": "maire",
+      "territoire": "LEMMES",
+      "departement": "55",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Marc FESNEAU",
+      "mandat": "maire",
+      "territoire": "MARCHENOIR",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Hubert BRETHEAU",
+      "mandat": "maire",
+      "territoire": "LAVARDIN",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Dominique PUTHOD",
+      "mandat": "conseiller-general",
+      "territoire": "ANNECY-NORD-EST",
+      "departement": "74",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe ALGOËT",
+      "mandat": "maire",
+      "territoire": "VIHIERS",
+      "departement": "49",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre FLEURANCE",
+      "mandat": "maire",
+      "territoire": "SAINT-GÉRÉON",
+      "departement": "44",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Frédéric LETURQUE",
+      "mandat": "maire",
+      "territoire": "ARRAS",
+      "departement": "62",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Michel GOSSET",
+      "mandat": "maire",
+      "territoire": "MONTLOUÉ",
+      "departement": "02",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Robert MOSSER",
+      "mandat": "maire",
+      "territoire": "ROUNTZENHEIM",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Edmond FABACHER",
+      "mandat": "maire",
+      "territoire": "KUTZENHAUSEN",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe ROCHOUX",
+      "mandat": "maire",
+      "territoire": "CHANAC",
+      "departement": "48",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Gérard CRONENBERGER",
+      "mandat": "maire",
+      "territoire": "INGERSHEIM",
+      "departement": "68",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Joseph JAFFRÉS",
+      "mandat": "president-communaute",
+      "territoire": "CÔTE DE PENTHIÈVRE",
+      "departement": "22",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Danièle LE GALL, épouse BONIFACI",
+      "mandat": "maire",
+      "territoire": "ORTALE",
+      "departement": "2B",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Maurice BRISSET",
+      "mandat": "maire",
+      "territoire": "VILLERS-CHÂTEL",
+      "departement": "62",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Paul DASTILLUNG",
+      "mandat": "president-communaute",
+      "territoire": "LE WARNDT",
+      "departement": "57",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yannick RABILLÉ",
+      "mandat": "maire",
+      "territoire": "SAINT-LUMINE-DE-COUTAIS",
+      "departement": "44",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Denis PINVIN",
+      "mandat": "maire",
+      "territoire": "CRAMANT",
+      "departement": "51",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Dominique DHUMEAUX",
+      "mandat": "maire",
+      "territoire": "FERCÉ-SUR-SARTHE",
+      "departement": "72",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Dominique VANARD",
+      "mandat": "maire",
+      "territoire": "SAINT-GILDAS-DERHUYS",
+      "departement": "56",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Isabelle LAHORE",
+      "mandat": "maire",
+      "territoire": "ANDOINS",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Benoît GATINET",
+      "mandat": "maire",
+      "territoire": "AIZIER",
+      "departement": "27",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Pierre GABORIAU",
+      "mandat": "conseiller-general",
+      "territoire": "CHÂTEAUNEUF-EN-THYMERAIS",
+      "departement": "28",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Yves PETIT",
+      "mandat": "maire",
+      "territoire": "BÉZU-SAINT-ÉLOI",
+      "departement": "27",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre HAÏÇAGUERRE",
+      "mandat": "maire",
+      "territoire": "SAINT-MARTIN-D’ARBEROUE",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "Mme",
+      "nom": "Danielle CHUZEVILLE",
+      "mandat": "conseiller-general",
+      "territoire": "AMPLEPUIS",
+      "departement": "69",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "JeanClaude BORDEAU",
+      "mandat": "maire",
+      "territoire": "VILLEBAROU",
+      "departement": "41",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Henri CORMORECHE",
+      "mandat": "maire",
+      "territoire": "MIONNAY",
+      "departement": "01",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jeannot SCHNELL",
+      "mandat": "maire",
+      "territoire": "ERNOLSHEIM-LÈS-SAVERNE",
+      "departement": "67",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "JeanPierre CUBERTAFON",
+      "mandat": "maire",
+      "territoire": "LANOUAILLE",
+      "departement": "24",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Claude GAY",
+      "mandat": "maire",
+      "territoire": "PESMES",
+      "departement": "70",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Philippe AUCOUTURIER",
+      "mandat": "maire",
+      "territoire": "COUST",
+      "departement": "18",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Bernard BOUVIER",
+      "mandat": "maire",
+      "territoire": "BOGÈVE",
+      "departement": "74",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Aimé HERAL",
+      "mandat": "maire",
+      "territoire": "AGUESSAC",
+      "departement": "12",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Claude CONTE-HOURTICQ",
+      "mandat": "maire",
+      "territoire": "ABÈRE",
+      "departement": "64",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Louis GAILLARD",
+      "mandat": "maire",
+      "territoire": "SOUTERNON",
+      "departement": "42",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Pierre LOUAULT",
+      "mandat": "conseiller-general",
+      "territoire": "LOCHES",
+      "departement": "37",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Maurice POILANE",
+      "mandat": "maire",
+      "territoire": "LA BOISSIÈRE-DU-DORÉ",
+      "departement": "44",
+      "publie_le": "2012-03-31"
+    },
+    {
+      "civilite": "M.",
+      "nom": "Jean-Louis EYCHENNE",
+      "mandat": "maire",
+      "territoire": "LARBONT",
+      "departement": "09",
+      "publie_le": "2012-03-31"
+    }
+  ]
+}
